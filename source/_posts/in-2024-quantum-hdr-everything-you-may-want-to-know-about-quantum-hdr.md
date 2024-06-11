@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quantum HDR  Everything You May Want to Know About Quantum HDR\""
-date: 2024-05-28 17:23:48
-updated: 2024-05-30 12:21:18
+date: 2024-05-31T06:10:23.875Z
+updated: 2024-06-01T06:10:23.875Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ All essential information anyone could want to know about Quantum HDR has been d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

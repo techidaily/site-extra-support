@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master Video Transitions and Effects Using GoPro Studio ProTips"
-date: 2024-05-27 11:41:51
-updated: 2024-05-28 12:15:45
+date: 2024-05-31T06:07:42.386Z
+updated: 2024-06-01T06:07:42.386Z
 tags: 
   - screen-recording
   - ai video
@@ -654,4 +654,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

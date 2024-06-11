@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mobile Cinematography Gear for Adventurers\""
-date: 2024-05-25 12:36:50
-updated: 2024-05-28 12:16:24
+date: 2024-05-31T06:09:22.053Z
+updated: 2024-06-01T06:09:22.053Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

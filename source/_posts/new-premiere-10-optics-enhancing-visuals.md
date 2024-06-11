@@ -1,7 +1,7 @@
 ---
 title: "[New] Premiere 10 Optics Enhancing Visuals"
-date: 2024-05-28 11:14:23
-updated: 2024-05-30 12:40:17
+date: 2024-05-31T06:11:28.440Z
+updated: 2024-06-01T06:11:28.440Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Another query arises after taking a look at these new camera lens prices. Is it 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

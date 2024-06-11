@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Movies with Top 10 Professional Cinema Gear"
-date: 2024-05-25 12:45:21
-updated: 2024-05-28 11:25:28
+date: 2024-05-31T06:11:03.566Z
+updated: 2024-06-01T06:11:03.566Z
 tags: 
   - screen-recording
   - ai video
@@ -722,4 +722,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

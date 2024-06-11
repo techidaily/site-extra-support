@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simulate Hand-Held Camera Effects in Photoshop\""
-date: 2024-05-28 16:34:20
-updated: 2024-05-31 11:24:54
+date: 2024-05-31T06:08:07.960Z
+updated: 2024-06-01T06:08:07.960Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

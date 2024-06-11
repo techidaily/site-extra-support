@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Fast-Play Videos in PPT Sessions\""
-date: 2024-05-27 13:43:13
-updated: 2024-05-28 10:53:26
+date: 2024-05-31T06:07:36.809Z
+updated: 2024-06-01T06:07:36.809Z
 tags: 
   - screen-recording
   - ai video
@@ -650,4 +650,5 @@ Some most common reasons for this issue include:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

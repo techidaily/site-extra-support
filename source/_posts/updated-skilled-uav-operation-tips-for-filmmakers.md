@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Skilled UAV Operation Tips for Filmmakers"
-date: 2024-05-28 23:41:21
-updated: 2024-05-31 11:35:19
+date: 2024-05-31T06:07:52.297Z
+updated: 2024-06-01T06:07:52.297Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

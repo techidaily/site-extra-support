@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Motion Graphics 101  Key Principles & Methods\""
-date: 2024-05-28 13:52:46
-updated: 2024-05-29 10:35:16
+date: 2024-05-31T06:11:38.570Z
+updated: 2024-06-01T06:11:38.570Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

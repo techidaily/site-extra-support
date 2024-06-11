@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfecting Elite Canon Time-Lapse Cinematic\""
-date: 2024-05-28 11:23:41
-updated: 2024-05-29 11:45:49
+date: 2024-05-31T06:07:31.203Z
+updated: 2024-06-01T06:07:31.203Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ Now, you are aware of how to shoot time-lapse with your Canon camera. After you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

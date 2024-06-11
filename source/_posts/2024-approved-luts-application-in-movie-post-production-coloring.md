@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Luts Application in Movie Post-Production Coloring\""
-date: 2024-05-27 21:26:46
-updated: 2024-05-28 10:16:33
+date: 2024-05-31T06:08:19.284Z
+updated: 2024-06-01T06:08:19.284Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

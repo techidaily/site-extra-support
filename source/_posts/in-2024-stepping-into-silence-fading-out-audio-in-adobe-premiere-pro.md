@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Stepping Into Silence  Fading Out Audio in Adobe Premiere Pro\""
-date: 2024-05-30 19:48:13
-updated: 2024-05-31 10:34:32
+date: 2024-05-31T06:10:21.557Z
+updated: 2024-06-01T06:10:21.557Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ With this guide, you can easily understand the complete procedure for editing a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

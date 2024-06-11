@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Maximize Your YI 4K Footage  Ideal Add-Ons Guide\""
-date: 2024-05-25 16:26:24
-updated: 2024-05-28 11:59:44
+date: 2024-05-31T06:11:22.314Z
+updated: 2024-06-01T06:11:22.314Z
 tags: 
   - screen-recording
   - ai video
@@ -878,4 +878,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

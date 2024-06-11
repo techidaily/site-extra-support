@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating the Landscape of Digital Grading Tools"
-date: 2024-05-27 13:41:14
-updated: 2024-05-29 12:59:56
+date: 2024-05-31T06:06:32.676Z
+updated: 2024-06-01T06:06:32.676Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ To download the app, visit the official website of 3D LUT Creator at:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

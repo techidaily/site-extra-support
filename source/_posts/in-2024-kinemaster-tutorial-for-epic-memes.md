@@ -1,7 +1,7 @@
 ---
 title: "In 2024, KineMaster Tutorial for Epic Memes"
-date: 2024-05-27 16:40:17
-updated: 2024-05-28 11:15:38
+date: 2024-05-31T06:08:04.663Z
+updated: 2024-06-01T06:08:04.663Z
 tags: 
   - screen-recording
   - ai video
@@ -116,4 +116,5 @@ A subscription is available for KineMaster, a free program with more features. T
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Pump It Up  The 20 Most Energizing Workout Playlists for 2024\""
-date: 2024-05-29 18:42:35
-updated: 2024-05-30 12:51:16
+date: 2024-05-31T06:10:02.221Z
+updated: 2024-06-01T06:10:02.221Z
 tags: 
   - screen-recording
   - ai video
@@ -618,4 +618,5 @@ In addition, I'd recommend that you try to keep your background music to an even
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

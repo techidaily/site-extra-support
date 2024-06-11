@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick and Simple iPad Conversion  Turn JPG/PNG Into PDF\""
-date: 2024-05-29 19:50:36
-updated: 2024-05-30 10:45:45
+date: 2024-05-31T06:07:19.847Z
+updated: 2024-06-01T06:07:19.847Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

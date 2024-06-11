@@ -1,7 +1,7 @@
 ---
 title: "\"Paper Playground  Fun & Effective Collage Making for 2024\""
-date: 2024-05-27 22:45:12
-updated: 2024-05-29 10:40:35
+date: 2024-05-31T06:08:26.337Z
+updated: 2024-06-01T06:08:26.337Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

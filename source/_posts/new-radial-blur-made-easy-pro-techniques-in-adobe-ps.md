@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Radial Blur Made Easy  Pro Techniques in Adobe PS\""
-date: 2024-05-29 11:34:53
-updated: 2024-05-30 11:19:59
+date: 2024-05-31T06:06:43.391Z
+updated: 2024-06-01T06:06:43.391Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

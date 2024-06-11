@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating the Sky  Advanced Drone Footage Editing\""
-date: 2024-05-27 15:26:16
-updated: 2024-05-29 12:22:32
+date: 2024-05-31T06:08:38.505Z
+updated: 2024-06-01T06:08:38.505Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

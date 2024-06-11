@@ -1,7 +1,7 @@
 ---
 title: "[New] Spruce Up Your Stories With Effortless Animated Text Techniques"
-date: 2024-05-29 14:52:55
-updated: 2024-05-31 12:51:28
+date: 2024-05-31T06:07:13.444Z
+updated: 2024-06-01T06:07:13.444Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ The success or failure of your Instagram company depends in large part on engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

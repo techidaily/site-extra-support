@@ -1,7 +1,7 @@
 ---
 title: "[New] Memorable Narratives in Book Videos"
-date: 2024-05-27 16:47:16
-updated: 2024-05-28 10:38:17
+date: 2024-05-31T06:09:36.823Z
+updated: 2024-06-01T06:09:36.823Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ This article concludes that book trailers mean a lot in this digital era. To gen
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

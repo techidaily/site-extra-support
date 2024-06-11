@@ -1,7 +1,7 @@
 ---
 title: "Jazzy Deadites Designer for 2024"
-date: 2024-05-26 15:59:52
-updated: 2024-05-28 12:38:24
+date: 2024-05-31T06:08:22.087Z
+updated: 2024-06-01T06:08:22.087Z
 tags: 
   - screen-recording
   - ai video
@@ -114,4 +114,5 @@ In a nutshell, it can be seen that online resources are widely available for cre
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

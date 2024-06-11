@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering iPhone HDR Photography for Professional Results"
-date: 2024-05-26 21:13:32
-updated: 2024-05-28 10:58:59
+date: 2024-05-31T06:07:38.195Z
+updated: 2024-06-01T06:07:38.195Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

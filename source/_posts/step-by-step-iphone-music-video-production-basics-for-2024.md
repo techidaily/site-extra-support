@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step  IPhone Music Video Production Basics for 2024\""
-date: 2024-05-29 16:36:52
-updated: 2024-05-31 10:58:43
+date: 2024-05-31T06:08:38.718Z
+updated: 2024-06-01T06:08:38.718Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

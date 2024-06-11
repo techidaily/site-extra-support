@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Palette Perfection  A Guide to Grading Filmmaking\""
-date: 2024-05-28 10:40:46
-updated: 2024-05-29 10:53:22
+date: 2024-05-31T06:07:11.595Z
+updated: 2024-06-01T06:07:11.595Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating the Maze of SRT-to-XML, SSA, TTML Conversions\""
-date: 2024-05-28 16:38:29
-updated: 2024-05-29 10:22:53
+date: 2024-05-31T06:09:25.571Z
+updated: 2024-06-01T06:09:25.571Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ There’s no doubt that the SRT file format is one of the most popular subtitle 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

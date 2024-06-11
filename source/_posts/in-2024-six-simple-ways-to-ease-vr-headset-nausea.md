@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Six Simple Ways to Ease VR Headset Nausea"
-date: 2024-05-29 11:54:52
-updated: 2024-05-31 10:21:11
+date: 2024-05-31T06:09:26.237Z
+updated: 2024-06-01T06:09:26.237Z
 tags: 
   - screen-recording
   - ai video
@@ -166,4 +166,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

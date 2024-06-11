@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Precision Photography & Videography  Prime Lens Excellence in 4K\""
-date: 2024-05-27 10:40:45
-updated: 2024-05-29 12:26:18
+date: 2024-05-31T06:10:47.260Z
+updated: 2024-06-01T06:10:47.260Z
 tags: 
   - screen-recording
   - ai video
@@ -898,4 +898,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

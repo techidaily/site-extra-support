@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Learn to Get C-Span Footage at No Charge\""
-date: 2024-05-26 10:15:39
-updated: 2024-05-28 11:42:40
+date: 2024-05-31T06:08:53.718Z
+updated: 2024-06-01T06:08:53.718Z
 tags: 
   - screen-recording
   - ai video
@@ -486,4 +486,5 @@ C-Span videos are great if you would like to keep up with the political scene in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

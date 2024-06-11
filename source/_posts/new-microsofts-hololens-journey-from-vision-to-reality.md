@@ -1,7 +1,7 @@
 ---
 title: "[New] Microsoft’s HoloLens Journey – From Vision to Reality"
-date: 2024-05-25 11:16:24
-updated: 2024-05-28 12:28:40
+date: 2024-05-31T06:11:50.635Z
+updated: 2024-06-01T06:11:50.635Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

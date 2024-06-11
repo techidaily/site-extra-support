@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Step Into the Realm of Textual Magic with 14 Examples"
-date: 2024-05-29 19:53:36
-updated: 2024-05-31 12:59:55
+date: 2024-05-31T06:11:05.996Z
+updated: 2024-06-01T06:11:05.996Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ We have discussed all the common type of text animations that are used to create
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Take Portrait Photo with Your Old iPhone X/8 Plus/7 Plus"
-date: 2024-05-25 13:49:39
-updated: 2024-05-28 12:26:44
+date: 2024-05-31T06:11:51.431Z
+updated: 2024-06-01T06:11:51.431Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

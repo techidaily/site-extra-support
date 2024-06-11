@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Digital Distortion in Minutes for 2024"
-date: 2024-05-25 23:13:45
-updated: 2024-05-28 11:52:31
+date: 2024-05-31T06:10:15.981Z
+updated: 2024-06-01T06:10:15.981Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

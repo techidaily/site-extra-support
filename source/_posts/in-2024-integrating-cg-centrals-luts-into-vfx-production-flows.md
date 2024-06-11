@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Integrating CG Central's Luts Into VFX Production Flows"
-date: 2024-05-24 13:16:57
-updated: 2024-05-27 11:17:25
+date: 2024-05-31T06:07:46.867Z
+updated: 2024-06-01T06:07:46.867Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

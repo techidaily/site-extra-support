@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering LUT Applications in Premiere Pro"
-date: 2024-05-27 21:18:26
-updated: 2024-05-28 12:51:44
+date: 2024-05-31T06:07:50.386Z
+updated: 2024-06-01T06:07:50.386Z
 tags: 
   - screen-recording
   - ai video
@@ -117,4 +117,5 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

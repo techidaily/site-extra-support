@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro-Fishing Cams Ranked  Your Ultimate Guide\""
-date: 2024-05-28 17:43:14
-updated: 2024-05-30 12:31:43
+date: 2024-05-31T06:06:32.772Z
+updated: 2024-06-01T06:06:32.772Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

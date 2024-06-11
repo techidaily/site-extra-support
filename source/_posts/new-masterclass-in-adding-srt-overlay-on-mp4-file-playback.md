@@ -1,7 +1,7 @@
 ---
 title: "[New] Masterclass in Adding SRT Overlay on MP4 File Playback"
-date: 2024-05-25 16:11:46
-updated: 2024-05-28 12:44:34
+date: 2024-05-31T06:10:54.108Z
+updated: 2024-06-01T06:10:54.108Z
 tags: 
   - screen-recording
   - ai video
@@ -326,4 +326,5 @@ Gone are the days when adding SRT to MP4 was considered a very difficult task. N
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

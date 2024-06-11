@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Mirthful Selfies  Step-by-Step for the Cartoon Face Lens\""
-date: 2024-05-25 16:39:36
-updated: 2024-05-28 12:34:24
+date: 2024-05-31T06:11:51.275Z
+updated: 2024-06-01T06:11:51.275Z
 tags: 
   - screen-recording
   - ai video
@@ -482,4 +482,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

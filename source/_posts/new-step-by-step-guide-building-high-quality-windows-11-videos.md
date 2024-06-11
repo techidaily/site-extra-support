@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide  Building High-Quality Windows 11 Videos\""
-date: 2024-05-29 18:21:46
-updated: 2024-05-31 12:12:24
+date: 2024-05-31T06:08:37.043Z
+updated: 2024-06-01T06:08:37.043Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

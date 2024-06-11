@@ -1,7 +1,7 @@
 ---
 title: "Starter Guide to Motion Graphics Mastery for 2024"
-date: 2024-05-30 16:32:39
-updated: 2024-05-31 11:35:32
+date: 2024-05-31T06:08:11.719Z
+updated: 2024-06-01T06:08:11.719Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

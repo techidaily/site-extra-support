@@ -1,7 +1,7 @@
 ---
 title: "Seamless Transitions with Picsart's Facial Motion Blur for 2024"
-date: 2024-05-27 23:26:58
-updated: 2024-05-30 11:44:52
+date: 2024-05-31T06:09:04.614Z
+updated: 2024-06-01T06:09:04.614Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

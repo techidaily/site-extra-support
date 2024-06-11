@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leading Directory  30 Premier Websites for Accessible Vector Design Tools\""
-date: 2024-05-27 15:30:21
-updated: 2024-05-28 12:39:40
+date: 2024-05-31T06:11:17.790Z
+updated: 2024-06-01T06:11:17.790Z
 tags: 
   - screen-recording
   - ai video
@@ -177,4 +177,5 @@ Raster files are bitmap images that you cannot alter according to size or scale.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

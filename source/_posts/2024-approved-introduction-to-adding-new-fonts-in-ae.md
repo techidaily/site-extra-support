@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Introduction to Adding New Fonts in AE\""
-date: 2024-05-24 21:40:14
-updated: 2024-05-27 12:52:56
+date: 2024-05-31T06:09:03.963Z
+updated: 2024-06-01T06:09:03.963Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

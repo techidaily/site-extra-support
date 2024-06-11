@@ -1,7 +1,7 @@
 ---
 title: "[New] MotionMaster Win8 Edition"
-date: 2024-05-27 16:30:51
-updated: 2024-05-29 10:26:46
+date: 2024-05-31T06:10:03.818Z
+updated: 2024-06-01T06:10:03.818Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Prime Resources for Text Style Adjustment Files for 2024"
-date: 2024-05-29 23:50:30
-updated: 2024-05-30 10:14:37
+date: 2024-05-31T06:09:41.013Z
+updated: 2024-06-01T06:09:41.013Z
 tags: 
   - screen-recording
   - ai video
@@ -214,4 +214,5 @@ If texts and titles are an important part of your graphics or videos, you should
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

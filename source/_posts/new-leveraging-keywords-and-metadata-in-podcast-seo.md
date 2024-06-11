@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging Keywords and Metadata in Podcast SEO"
-date: 2024-05-25 15:43:18
-updated: 2024-05-28 11:50:41
+date: 2024-05-31T06:08:02.572Z
+updated: 2024-06-01T06:08:02.572Z
 tags: 
   - screen-recording
   - ai video
@@ -355,4 +355,5 @@ With podcasts now appearing on SERP, the option for wider reach and growth oppor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

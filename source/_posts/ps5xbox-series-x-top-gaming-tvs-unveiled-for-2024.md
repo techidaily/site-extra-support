@@ -1,7 +1,7 @@
 ---
 title: "\"PS5/Xbox Series X  Top Gaming TVs Unveiled for 2024\""
-date: 2024-05-28 13:34:37
-updated: 2024-05-30 11:48:49
+date: 2024-05-31T06:07:19.743Z
+updated: 2024-06-01T06:07:19.743Z
 tags: 
   - screen-recording
   - ai video
@@ -554,4 +554,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

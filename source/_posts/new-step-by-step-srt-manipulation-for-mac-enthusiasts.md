@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step SRT Manipulation for Mac Enthusiasts\""
-date: 2024-05-28 18:24:28
-updated: 2024-05-31 10:25:48
+date: 2024-05-31T06:08:27.222Z
+updated: 2024-06-01T06:08:27.222Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

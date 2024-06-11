@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Measuring Video Storage Space - 64/128GB Hard Drive Analysis\""
-date: 2024-05-26 21:47:59
-updated: 2024-05-28 10:57:44
+date: 2024-05-31T06:07:17.763Z
+updated: 2024-06-01T06:07:17.763Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ A wide range of softwares and applications help with video compressing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

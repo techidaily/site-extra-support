@@ -1,7 +1,7 @@
 ---
 title: "\"[New] QuickLooker  Windows 11'S Speedy Photo Viewer\""
-date: 2024-05-27 17:28:42
-updated: 2024-05-30 11:57:56
+date: 2024-05-31T06:08:54.778Z
+updated: 2024-06-01T06:08:54.778Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

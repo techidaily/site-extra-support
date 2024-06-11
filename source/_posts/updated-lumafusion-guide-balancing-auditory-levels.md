@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Lumafusion Guide  Balancing Auditory Levels\""
-date: 2024-05-25 13:54:19
-updated: 2024-05-28 11:10:12
+date: 2024-05-31T06:09:10.317Z
+updated: 2024-06-01T06:09:10.317Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

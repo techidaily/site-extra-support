@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Moto Z2 Unpacked  A Smartphone's Triumph\""
-date: 2024-05-28 23:54:32
-updated: 2024-05-29 12:50:33
+date: 2024-05-31T06:10:38.206Z
+updated: 2024-06-01T06:10:38.206Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

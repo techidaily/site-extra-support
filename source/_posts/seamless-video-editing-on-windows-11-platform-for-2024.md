@@ -1,7 +1,7 @@
 ---
 title: "Seamless Video Editing on Windows 11 Platform for 2024"
-date: 2024-05-27 22:15:55
-updated: 2024-05-30 12:15:34
+date: 2024-05-31T06:11:59.092Z
+updated: 2024-06-01T06:11:59.092Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

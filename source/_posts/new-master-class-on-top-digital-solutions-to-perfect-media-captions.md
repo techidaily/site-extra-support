@@ -1,7 +1,7 @@
 ---
 title: "[New] Master Class on Top Digital Solutions to Perfect Media Captions"
-date: 2024-05-25 20:50:49
-updated: 2024-05-28 11:44:25
+date: 2024-05-31T06:07:42.099Z
+updated: 2024-06-01T06:07:42.099Z
 tags: 
   - screen-recording
   - ai video
@@ -618,4 +618,5 @@ To auto-subtitle a video, you can use the speech-to-text or the **“Auto Subtit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

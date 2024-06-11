@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplified Approach to Crafting Professional Time Lapse Videos in GoPro Studio"
-date: 2024-05-30 21:27:38
-updated: 2024-05-31 12:25:32
+date: 2024-05-31T06:11:35.841Z
+updated: 2024-06-01T06:11:35.841Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

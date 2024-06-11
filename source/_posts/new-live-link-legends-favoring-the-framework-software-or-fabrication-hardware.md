@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Live Link Legends  Favoring the Framework (Software) or Fabrication (Hardware)?\""
-date: 2024-05-27 16:43:21
-updated: 2024-05-28 11:56:30
+date: 2024-05-31T06:07:31.760Z
+updated: 2024-06-01T06:07:31.760Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

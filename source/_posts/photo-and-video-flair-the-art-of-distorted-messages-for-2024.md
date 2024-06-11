@@ -1,7 +1,7 @@
 ---
 title: "\"Photo & Video Flair  The Art of Distorted Messages for 2024\""
-date: 2024-05-26 14:25:40
-updated: 2024-05-29 10:31:15
+date: 2024-05-31T06:11:52.561Z
+updated: 2024-06-01T06:11:52.561Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

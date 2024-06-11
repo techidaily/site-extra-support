@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Skyrocketing Your iPhone Film Quality  Essential Filmmaking Insights\""
-date: 2024-05-30 11:18:19
-updated: 2024-05-31 12:10:34
+date: 2024-05-31T06:09:16.879Z
+updated: 2024-06-01T06:09:16.879Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

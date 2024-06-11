@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Art of Collage Creation"
-date: 2024-05-26 15:46:56
-updated: 2024-05-28 11:16:18
+date: 2024-05-31T06:07:32.505Z
+updated: 2024-06-01T06:07:32.505Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Filmora cuts out repetition so you can move on to your next creative breakthroug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

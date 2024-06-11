@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leading Offline Audio-To-Text Applications\""
-date: 2024-05-27 12:49:12
-updated: 2024-05-28 12:24:26
+date: 2024-05-31T06:10:22.426Z
+updated: 2024-06-01T06:10:22.426Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Please refer to this list the next time you're looking for a speech to text serv
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

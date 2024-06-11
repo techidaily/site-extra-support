@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  PewDiePie's Annual Earnings Breakdown\""
-date: 2024-05-26 19:46:23
-updated: 2024-05-29 12:48:19
+date: 2024-05-31T06:10:32.720Z
+updated: 2024-06-01T06:10:32.720Z
 tags: 
   - screen-recording
   - ai video
@@ -383,4 +383,5 @@ PewDiePie is an apt example of earning fortunes by uploading videos and being po
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

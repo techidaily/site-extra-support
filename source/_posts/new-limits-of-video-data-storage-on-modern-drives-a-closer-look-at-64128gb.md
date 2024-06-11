@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Limits of Video Data Storage on Modern Drives - A Closer Look at 64/128GB\""
-date: 2024-05-25 11:57:39
-updated: 2024-05-28 12:57:38
+date: 2024-05-31T06:06:40.068Z
+updated: 2024-06-01T06:06:40.068Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ A wide range of softwares and applications help with video compressing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Prime 7 Video Software for Mac"
-date: 2024-05-27 20:51:48
-updated: 2024-05-30 12:59:47
+date: 2024-05-31T06:08:57.412Z
+updated: 2024-06-01T06:08:57.412Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

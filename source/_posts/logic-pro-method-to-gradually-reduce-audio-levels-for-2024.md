@@ -1,7 +1,7 @@
 ---
 title: "Logic Pro Method to Gradually Reduce Audio Levels for 2024"
-date: 2024-05-26 15:53:14
-updated: 2024-05-28 10:22:56
+date: 2024-05-31T06:09:23.054Z
+updated: 2024-06-01T06:09:23.054Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Nature's Illusion in Motion  The Basics of Using Green Screens for 2024\""
-date: 2024-05-26 23:43:47
-updated: 2024-05-29 12:56:18
+date: 2024-05-31T06:06:48.924Z
+updated: 2024-06-01T06:06:48.924Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

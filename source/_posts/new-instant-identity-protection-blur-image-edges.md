@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Instant Identity Protection  Blur Image Edges\""
-date: 2024-05-24 21:44:54
-updated: 2024-05-27 10:53:56
+date: 2024-05-31T06:11:44.891Z
+updated: 2024-06-01T06:11:44.891Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

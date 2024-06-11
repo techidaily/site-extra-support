@@ -1,7 +1,7 @@
 ---
 title: "\"Peering Through HoloLens  A Peek at Next-Gen Interaction for 2024\""
-date: 2024-05-27 13:37:26
-updated: 2024-05-29 11:55:46
+date: 2024-05-31T06:07:29.401Z
+updated: 2024-06-01T06:07:29.401Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

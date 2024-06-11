@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shaping Tomorrow  Celebrating the Top 6 in NFT Artistry\""
-date: 2024-05-27 13:42:48
-updated: 2024-05-30 10:31:17
+date: 2024-05-31T06:06:59.458Z
+updated: 2024-06-01T06:06:59.458Z
 tags: 
   - screen-recording
   - ai video
@@ -982,4 +982,5 @@ If you are a digital artist looking to secure your artwork, this article showcas
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

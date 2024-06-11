@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reimagine Your Cinematography  Mastering These 7 Color Techniques\""
-date: 2024-05-29 16:27:38
-updated: 2024-05-30 11:37:36
+date: 2024-05-31T06:10:37.310Z
+updated: 2024-06-01T06:10:37.310Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Examples of triadic color schemes include red-yellow-blue or purple-green-orange
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

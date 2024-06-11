@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Spotlight on Figure Skaters  2022 Edition\""
-date: 2024-05-30 20:37:42
-updated: 2024-05-31 11:34:20
+date: 2024-05-31T06:08:43.993Z
+updated: 2024-06-01T06:08:43.993Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

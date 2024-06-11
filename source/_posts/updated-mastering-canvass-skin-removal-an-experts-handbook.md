@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Canvas's Skin Removal  An Expert's Handbook\""
-date: 2024-05-26 15:22:20
-updated: 2024-05-28 10:30:49
+date: 2024-05-31T06:07:40.770Z
+updated: 2024-06-01T06:07:40.770Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Hopefully, you've found this article helpful and can now optimize your images in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sculpt Your Visuals  The Ultimate Guide to Photo Distortion\""
-date: 2024-05-28 21:45:59
-updated: 2024-05-30 10:36:17
+date: 2024-05-31T06:11:10.920Z
+updated: 2024-06-01T06:11:10.920Z
 tags: 
   - screen-recording
   - ai video
@@ -882,4 +882,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

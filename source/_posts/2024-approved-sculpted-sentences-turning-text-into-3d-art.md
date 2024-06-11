@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sculpted Sentences  Turning Text Into 3D Art\""
-date: 2024-05-28 21:16:10
-updated: 2024-05-30 12:39:24
+date: 2024-05-31T06:07:28.894Z
+updated: 2024-06-01T06:07:28.894Z
 tags: 
   - screen-recording
   - ai video
@@ -144,4 +144,5 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

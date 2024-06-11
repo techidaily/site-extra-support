@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Peak Performance FPS in Deliberate Movements"
-date: 2024-05-27 23:18:47
-updated: 2024-05-29 11:57:23
+date: 2024-05-31T06:09:00.651Z
+updated: 2024-06-01T06:09:00.651Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ There is no definite answer to which is the best frame rate for slow motion. It 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

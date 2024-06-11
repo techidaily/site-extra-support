@@ -1,7 +1,7 @@
 ---
 title: "[New] Inventory of Videography Items for Exploration"
-date: 2024-05-25 15:12:26
-updated: 2024-05-27 12:10:34
+date: 2024-05-31T06:11:21.207Z
+updated: 2024-06-01T06:11:21.207Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

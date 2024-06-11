@@ -1,7 +1,7 @@
 ---
 title: "\"Making Photos Dance  Dynamic Distortions with PS for 2024\""
-date: 2024-05-25 20:41:10
-updated: 2024-05-28 11:36:52
+date: 2024-05-31T06:11:21.128Z
+updated: 2024-06-01T06:11:21.128Z
 tags: 
   - screen-recording
   - ai video
@@ -882,4 +882,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

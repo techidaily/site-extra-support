@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Maximizing Focus  Zooming In MSTEAMS\""
-date: 2024-05-25 17:37:58
-updated: 2024-05-28 10:32:24
+date: 2024-05-31T06:11:54.455Z
+updated: 2024-06-01T06:11:54.455Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ With Zoom and Teams, you can do most business from different places thanks to it
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

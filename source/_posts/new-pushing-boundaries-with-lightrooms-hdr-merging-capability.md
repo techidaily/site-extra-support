@@ -1,7 +1,7 @@
 ---
 title: "[New] Pushing Boundaries with Lightroom’s HDR Merging Capability"
-date: 2024-05-27 10:50:31
-updated: 2024-05-30 10:50:45
+date: 2024-05-31T06:09:27.180Z
+updated: 2024-06-01T06:09:27.180Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Before using the HDR effect through Lightroom for stacked photo editing and merg
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

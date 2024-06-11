@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging CG Central LUTs for Cinematic Color Enhancement\""
-date: 2024-05-25 12:28:39
-updated: 2024-05-28 12:58:55
+date: 2024-05-31T06:11:33.729Z
+updated: 2024-06-01T06:11:33.729Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

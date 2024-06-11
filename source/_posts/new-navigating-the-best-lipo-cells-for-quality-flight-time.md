@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating the Best LiPo Cells for Quality Flight Time"
-date: 2024-05-28 10:54:14
-updated: 2024-05-29 12:41:27
+date: 2024-05-31T06:07:11.825Z
+updated: 2024-06-01T06:07:11.825Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

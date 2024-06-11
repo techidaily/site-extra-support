@@ -1,7 +1,7 @@
 ---
 title: "Photoshop Techniques for Dynamic, Realistic Text for 2024"
-date: 2024-05-28 23:27:36
-updated: 2024-05-29 11:20:18
+date: 2024-05-31T06:10:20.234Z
+updated: 2024-06-01T06:10:20.234Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

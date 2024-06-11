@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Nikon 1J5 Takes Video to the Next Level with Its 4K Features"
-date: 2024-05-26 16:55:16
-updated: 2024-05-29 11:45:56
+date: 2024-05-31T06:08:54.545Z
+updated: 2024-06-01T06:08:54.545Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

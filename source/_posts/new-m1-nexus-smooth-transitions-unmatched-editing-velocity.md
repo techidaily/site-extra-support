@@ -1,7 +1,7 @@
 ---
 title: "\"[New] M1 Nexus  Smooth Transitions, Unmatched Editing Velocity\""
-date: 2024-05-27 22:19:25
-updated: 2024-05-28 11:30:56
+date: 2024-05-31T06:07:24.266Z
+updated: 2024-06-01T06:07:24.266Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

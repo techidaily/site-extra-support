@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Nikon's Masterpiece  Unveiling The 4K Capabilities of J5\""
-date: 2024-05-27 23:28:35
-updated: 2024-05-29 12:53:34
+date: 2024-05-31T06:07:23.518Z
+updated: 2024-06-01T06:07:23.518Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

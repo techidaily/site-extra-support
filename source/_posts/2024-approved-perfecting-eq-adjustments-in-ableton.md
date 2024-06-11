@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting EQ Adjustments in Ableton\""
-date: 2024-05-28 20:30:23
-updated: 2024-05-29 11:19:15
+date: 2024-05-31T06:09:54.482Z
+updated: 2024-06-01T06:09:54.482Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ In essence, Ableton just refuses to display fades on certain songs. Fades won't 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

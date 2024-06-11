@@ -1,7 +1,7 @@
 ---
 title: "Premiered Screen Selections for PS5 Aficionados for 2024"
-date: 2024-05-28 21:51:14
-updated: 2024-05-30 12:58:26
+date: 2024-05-31T06:08:58.808Z
+updated: 2024-06-01T06:08:58.808Z
 tags: 
   - screen-recording
   - ai video
@@ -562,4 +562,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

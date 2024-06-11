@@ -1,7 +1,7 @@
 ---
 title: "\"Luminous Lore of Video Production  Expert Insights for 2024\""
-date: 2024-05-25 22:26:40
-updated: 2024-05-28 10:13:35
+date: 2024-05-31T06:11:50.560Z
+updated: 2024-06-01T06:11:50.560Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

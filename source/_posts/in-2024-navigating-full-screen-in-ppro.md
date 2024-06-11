@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating Full Screen in PPro"
-date: 2024-05-26 15:22:52
-updated: 2024-05-29 11:38:28
+date: 2024-05-31T06:08:03.192Z
+updated: 2024-06-01T06:08:03.192Z
 tags: 
   - screen-recording
   - ai video
@@ -227,4 +227,5 @@ In addition, it enables you to collaborate with partners if you are working on a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

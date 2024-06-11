@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Insider Secrets  Smooth Video/Photo Transfer to Windows 11\""
-date: 2024-05-24 18:20:55
-updated: 2024-05-27 11:12:20
+date: 2024-05-31T06:07:10.999Z
+updated: 2024-06-01T06:07:10.999Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

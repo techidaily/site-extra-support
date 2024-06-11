@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  IOS Meets Android  An In-Depth Look at Facial Tech\""
-date: 2024-05-24 23:51:14
-updated: 2024-05-27 11:40:29
+date: 2024-05-31T06:06:27.421Z
+updated: 2024-06-01T06:06:27.421Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

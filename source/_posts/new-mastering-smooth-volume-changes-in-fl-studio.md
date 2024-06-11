@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Smooth Volume Changes in FL Studio"
-date: 2024-05-27 10:56:12
-updated: 2024-05-28 12:45:49
+date: 2024-05-31T06:08:56.432Z
+updated: 2024-06-01T06:08:56.432Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

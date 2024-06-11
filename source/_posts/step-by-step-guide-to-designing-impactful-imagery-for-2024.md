@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Designing Impactful Imagery for 2024\""
-date: 2024-05-28 15:27:59
-updated: 2024-05-31 10:18:51
+date: 2024-05-31T06:06:42.750Z
+updated: 2024-06-01T06:06:42.750Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ However, your podcast cover image can outshine competitors if you work on all th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

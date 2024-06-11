@@ -1,7 +1,7 @@
 ---
 title: "Luts as the Key to Vivid Film Colors for 2024"
-date: 2024-05-26 15:24:52
-updated: 2024-05-28 12:42:20
+date: 2024-05-31T06:09:24.752Z
+updated: 2024-06-01T06:09:24.752Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

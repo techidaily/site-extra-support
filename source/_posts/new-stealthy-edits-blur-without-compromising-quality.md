@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stealthy Edits  Blur Without Compromising Quality\""
-date: 2024-05-30 18:19:36
-updated: 2024-05-31 12:48:31
+date: 2024-05-31T06:06:55.654Z
+updated: 2024-06-01T06:06:55.654Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

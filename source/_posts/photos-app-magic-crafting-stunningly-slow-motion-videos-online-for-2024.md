@@ -1,7 +1,7 @@
 ---
 title: "\"Photos App Magic  Crafting Stunningly Slow-Motion Videos Online for 2024\""
-date: 2024-05-28 14:12:33
-updated: 2024-05-29 12:19:26
+date: 2024-05-31T06:07:25.393Z
+updated: 2024-06-01T06:07:25.393Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

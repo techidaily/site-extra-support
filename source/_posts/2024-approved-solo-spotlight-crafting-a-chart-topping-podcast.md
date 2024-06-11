@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Solo Spotlight  Crafting a Chart-Topping Podcast\""
-date: 2024-05-30 18:51:52
-updated: 2024-05-31 11:17:23
+date: 2024-05-31T06:11:13.469Z
+updated: 2024-06-01T06:11:13.469Z
 tags: 
   - screen-recording
   - ai video
@@ -521,4 +521,5 @@ If you're planning to do a solo podcast, you need to create a clear outline of w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

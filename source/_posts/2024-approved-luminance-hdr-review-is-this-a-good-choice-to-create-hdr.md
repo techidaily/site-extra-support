@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Luminance HDR Review Is This a Good Choice to Create HDR\""
-date: 2024-05-27 10:28:18
-updated: 2024-05-28 12:35:25
+date: 2024-05-31T06:11:07.656Z
+updated: 2024-06-01T06:11:07.656Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ In addition to that, if you're looking to edit HDR videos with high quality, we 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

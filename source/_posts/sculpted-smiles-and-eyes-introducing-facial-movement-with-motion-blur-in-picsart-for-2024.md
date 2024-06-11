@@ -1,7 +1,7 @@
 ---
 title: "\"Sculpted Smiles and Eyes  Introducing Facial Movement with Motion Blur in Picsart for 2024\""
-date: 2024-05-29 12:42:41
-updated: 2024-05-30 11:46:50
+date: 2024-05-31T06:06:43.567Z
+updated: 2024-06-01T06:06:43.567Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

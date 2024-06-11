@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stepwise Guide for PowerPoint's Speech-to-Text Functionality\""
-date: 2024-05-29 13:54:54
-updated: 2024-05-31 10:22:10
+date: 2024-05-31T06:10:34.858Z
+updated: 2024-06-01T06:10:34.858Z
 tags: 
   - screen-recording
   - ai video
@@ -320,4 +320,5 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

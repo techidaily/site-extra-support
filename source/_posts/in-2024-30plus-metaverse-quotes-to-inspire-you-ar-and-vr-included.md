@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 30+ Metaverse Quotes to Inspire You [AR & VR Included]"
-date: 2024-05-27 21:12:38
-updated: 2024-05-28 11:57:49
+date: 2024-05-31T06:08:32.559Z
+updated: 2024-06-01T06:08:32.559Z
 tags: 
   - screen-recording
   - ai video
@@ -846,4 +846,5 @@ Therefore, meta or some other organization hoping to get into the metaverse have
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

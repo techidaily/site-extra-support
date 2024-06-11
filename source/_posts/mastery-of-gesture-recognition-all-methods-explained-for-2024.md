@@ -1,7 +1,7 @@
 ---
 title: "\"Mastery of Gesture Recognition  All Methods Explained for 2024\""
-date: 2024-05-26 17:54:43
-updated: 2024-05-28 12:11:26
+date: 2024-05-31T06:09:00.313Z
+updated: 2024-06-01T06:09:00.313Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

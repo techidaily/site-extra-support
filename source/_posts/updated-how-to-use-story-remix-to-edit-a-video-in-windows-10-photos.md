@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Use Story Remix to Edit a Video in Windows 10 Photos"
-date: 2024-05-30 23:11:43
-updated: 2024-05-31 10:45:49
+date: 2024-05-31T06:10:43.124Z
+updated: 2024-06-01T06:10:43.124Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

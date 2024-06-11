@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting Your Makeup Mastery"
-date: 2024-05-26 20:31:31
-updated: 2024-05-29 10:26:35
+date: 2024-05-31T06:10:54.330Z
+updated: 2024-06-01T06:10:54.330Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

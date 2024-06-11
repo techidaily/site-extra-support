@@ -1,7 +1,7 @@
 ---
 title: "[New] Scriptwriting Essentials for Realistic Chatter"
-date: 2024-05-29 12:47:30
-updated: 2024-05-30 12:16:38
+date: 2024-05-31T06:08:06.796Z
+updated: 2024-06-01T06:08:06.796Z
 tags: 
   - screen-recording
   - ai video
@@ -229,4 +229,5 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

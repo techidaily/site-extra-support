@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Laying the Groundwork  15 Basic Shots Every Director Needs\""
-date: 2024-05-25 22:20:21
-updated: 2024-05-28 12:49:29
+date: 2024-05-31T06:10:21.447Z
+updated: 2024-06-01T06:10:21.447Z
 tags: 
   - screen-recording
   - ai video
@@ -670,4 +670,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

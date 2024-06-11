@@ -1,7 +1,7 @@
 ---
 title: "[New] Premier Playwright Gateway"
-date: 2024-05-26 19:24:57
-updated: 2024-05-29 11:26:49
+date: 2024-05-31T06:11:20.382Z
+updated: 2024-06-01T06:11:20.382Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ To write a video script quickly, you should use templates, which are designed to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

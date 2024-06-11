@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Video Editing with Apple’s Latest M1 MacBook Air"
-date: 2024-05-27 10:53:42
-updated: 2024-05-29 11:25:58
+date: 2024-05-31T06:06:46.894Z
+updated: 2024-06-01T06:06:46.894Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

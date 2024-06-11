@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering LUT Manipulation  A Comprehensive PhotoShop Guide\""
-date: 2024-05-26 18:24:58
-updated: 2024-05-28 12:52:21
+date: 2024-05-31T06:07:03.482Z
+updated: 2024-06-01T06:07:03.482Z
 tags: 
   - screen-recording
   - ai video
@@ -582,4 +582,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

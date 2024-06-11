@@ -1,7 +1,7 @@
 ---
 title: "\"Sideways Vids Phenomenon  Anomaly or Feature on Instagram, In 2024\""
-date: 2024-05-28 23:23:29
-updated: 2024-05-31 11:24:51
+date: 2024-05-31T06:10:03.226Z
+updated: 2024-06-01T06:10:03.226Z
 tags: 
   - screen-recording
   - ai video
@@ -498,4 +498,5 @@ You can easily rotate your videos according to the guidelines of the social medi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

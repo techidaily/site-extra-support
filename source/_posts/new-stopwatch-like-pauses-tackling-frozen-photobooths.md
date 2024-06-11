@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stopwatch-Like Pauses  Tackling Frozen Photobooths\""
-date: 2024-05-28 21:39:11
-updated: 2024-05-31 10:42:23
+date: 2024-05-31T06:11:31.702Z
+updated: 2024-06-01T06:11:31.702Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

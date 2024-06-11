@@ -1,7 +1,7 @@
 ---
 title: "Short Sketch Storyline Setup for 2024"
-date: 2024-05-30 22:11:17
-updated: 2024-05-31 12:30:45
+date: 2024-05-31T06:08:23.111Z
+updated: 2024-06-01T06:08:23.111Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

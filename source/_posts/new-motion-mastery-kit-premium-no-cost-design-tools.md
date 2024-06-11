@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Motion Mastery Kit  Premium, No-Cost Design Tools\""
-date: 2024-05-26 21:37:18
-updated: 2024-05-29 10:12:29
+date: 2024-05-31T06:08:30.356Z
+updated: 2024-06-01T06:08:30.356Z
 tags: 
   - screen-recording
   - ai video
@@ -337,4 +337,5 @@ Step4 You can then use the “Effects Window” to change the color as desired.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

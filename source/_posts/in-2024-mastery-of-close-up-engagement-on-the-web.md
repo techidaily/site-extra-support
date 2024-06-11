@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastery of Close-Up Engagement on the Web\""
-date: 2024-05-26 11:42:24
-updated: 2024-05-28 12:25:25
+date: 2024-05-31T06:11:24.894Z
+updated: 2024-06-01T06:11:24.894Z
 tags: 
   - screen-recording
   - ai video
@@ -125,4 +125,5 @@ A standard photo and **zoom video online** editor is convenient when you wish to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

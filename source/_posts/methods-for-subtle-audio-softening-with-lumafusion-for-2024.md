@@ -1,7 +1,7 @@
 ---
 title: "Methods for Subtle Audio Softening with Lumafusion for 2024"
-date: 2024-05-27 14:50:12
-updated: 2024-05-28 10:55:53
+date: 2024-05-31T06:10:20.026Z
+updated: 2024-06-01T06:10:20.026Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

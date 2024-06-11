@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering HDR Photos  Advanced Techniques in Photoshop\""
-date: 2024-05-25 16:53:56
-updated: 2024-05-28 12:41:44
+date: 2024-05-31T06:08:08.296Z
+updated: 2024-06-01T06:08:08.296Z
 tags: 
   - screen-recording
   - ai video
@@ -455,4 +455,5 @@ We've also explained the different key features of Photoshop, and if perhaps you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

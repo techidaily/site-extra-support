@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Olympic Snowboard X Sprint Highlights '22"
-date: 2024-05-28 23:15:24
-updated: 2024-05-29 10:29:43
+date: 2024-05-31T06:08:33.001Z
+updated: 2024-06-01T06:08:33.001Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ To sum it up all, the women's snowboard cross event of Winter Olympics 2022 has 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

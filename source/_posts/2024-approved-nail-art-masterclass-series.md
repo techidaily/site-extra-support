@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Nail Art Masterclass Series\""
-date: 2024-05-28 23:51:14
-updated: 2024-05-29 10:47:30
+date: 2024-05-31T06:08:53.570Z
+updated: 2024-06-01T06:08:53.570Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

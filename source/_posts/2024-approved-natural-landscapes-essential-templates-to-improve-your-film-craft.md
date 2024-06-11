@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Natural Landscapes  Essential Templates to Improve Your Film Craft\""
-date: 2024-05-28 11:38:13
-updated: 2024-05-29 12:27:40
+date: 2024-05-31T06:07:32.132Z
+updated: 2024-06-01T06:07:32.132Z
 tags: 
   - screen-recording
   - ai video
@@ -192,4 +192,5 @@ Using a green screen template for your project outweighs other processes. Howeve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

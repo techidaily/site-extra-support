@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging Picture in Progressive Mode on Chrome Across Platforms"
-date: 2024-05-25 23:48:48
-updated: 2024-05-28 10:31:48
+date: 2024-05-31T06:11:18.615Z
+updated: 2024-06-01T06:11:18.615Z
 tags: 
   - screen-recording
   - ai video
@@ -155,4 +155,5 @@ Picture-in-Picture is a feature on computers that is developing widely across th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

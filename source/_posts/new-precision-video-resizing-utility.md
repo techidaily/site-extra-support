@@ -1,7 +1,7 @@
 ---
 title: "[New] Precision Video Resizing Utility"
-date: 2024-05-27 16:52:16
-updated: 2024-05-29 10:50:56
+date: 2024-05-31T06:06:39.354Z
+updated: 2024-06-01T06:06:39.354Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ In many situations, we are needed to zoom edit the videos and this is where such
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

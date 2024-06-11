@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Shaky Video Tamer for Handheld Cams"
-date: 2024-05-27 16:43:22
-updated: 2024-05-30 11:51:28
+date: 2024-05-31T06:06:34.773Z
+updated: 2024-06-01T06:06:34.773Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

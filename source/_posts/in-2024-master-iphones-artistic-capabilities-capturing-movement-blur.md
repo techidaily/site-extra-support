@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Master iPhone's Artistic Capabilities  Capturing Movement Blur\""
-date: 2024-05-25 22:31:36
-updated: 2024-05-28 10:49:52
+date: 2024-05-31T06:08:23.622Z
+updated: 2024-06-01T06:08:23.622Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

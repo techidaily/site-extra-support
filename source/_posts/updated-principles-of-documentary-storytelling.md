@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Principles of Documentary Storytelling"
-date: 2024-05-28 10:28:18
-updated: 2024-05-30 10:20:27
+date: 2024-05-31T06:08:18.439Z
+updated: 2024-06-01T06:08:18.439Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ So, the last words for this educational post are that, as we all know, writing a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

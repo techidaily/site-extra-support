@@ -1,7 +1,7 @@
 ---
 title: "Masterful Approaches to Applying Digital Video Effects Online for 2024"
-date: 2024-05-25 23:15:23
-updated: 2024-05-28 12:51:27
+date: 2024-05-31T06:09:49.318Z
+updated: 2024-06-01T06:09:49.318Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ Content creation has opened many doors of creativity and artistic expression for
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

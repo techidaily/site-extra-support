@@ -1,7 +1,7 @@
 ---
 title: "\"Scripting Success  The Art of Good Documentaries for 2024\""
-date: 2024-05-28 21:46:39
-updated: 2024-05-30 12:57:20
+date: 2024-05-31T06:07:03.932Z
+updated: 2024-06-01T06:07:03.932Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ So, the last words for this educational post are that, as we all know, writing a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

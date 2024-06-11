@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Close-Up Cinematography Through Zooming for 2024\""
-date: 2024-05-27 20:16:41
-updated: 2024-05-28 12:12:23
+date: 2024-05-31T06:09:06.834Z
+updated: 2024-06-01T06:09:06.834Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ Now you can see how to zoom in/out videos on Kinemaster. You can practice it on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

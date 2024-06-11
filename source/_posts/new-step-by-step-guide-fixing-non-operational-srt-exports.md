@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide  Fixing Non-Operational SRT Exports\""
-date: 2024-05-28 20:10:46
-updated: 2024-05-31 12:22:44
+date: 2024-05-31T06:11:02.430Z
+updated: 2024-06-01T06:11:02.430Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ That being said, if you want to save yourself from unwanted errors during the ex
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

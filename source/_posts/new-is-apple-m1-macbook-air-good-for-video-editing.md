@@ -1,7 +1,7 @@
 ---
 title: "[New] Is Apple M1 MacBook Air Good for Video Editing?"
-date: 2024-05-27 21:37:30
-updated: 2024-05-28 10:42:19
+date: 2024-05-31T06:11:09.620Z
+updated: 2024-06-01T06:11:09.620Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

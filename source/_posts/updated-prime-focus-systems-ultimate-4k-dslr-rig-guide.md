@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Prime Focus Systems  Ultimate 4K DSLR Rig Guide\""
-date: 2024-05-28 18:56:10
-updated: 2024-05-30 10:37:57
+date: 2024-05-31T06:09:43.866Z
+updated: 2024-06-01T06:09:43.866Z
 tags: 
   - screen-recording
   - ai video
@@ -1082,4 +1082,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

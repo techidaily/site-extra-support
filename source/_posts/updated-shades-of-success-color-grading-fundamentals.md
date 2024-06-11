@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Shades of Success  Color Grading Fundamentals\""
-date: 2024-05-28 14:10:58
-updated: 2024-05-30 12:32:39
+date: 2024-05-31T06:06:44.474Z
+updated: 2024-06-01T06:06:44.474Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

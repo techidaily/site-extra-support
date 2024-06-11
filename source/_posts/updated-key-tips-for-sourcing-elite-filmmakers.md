@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Key Tips for Sourcing Elite Filmmakers"
-date: 2024-05-25 19:51:48
-updated: 2024-05-28 12:15:45
+date: 2024-05-31T06:09:35.477Z
+updated: 2024-06-01T06:09:35.477Z
 tags: 
   - screen-recording
   - ai video
@@ -206,4 +206,5 @@ For a good outcome of your video, you have to make it a point that you hire a sk
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

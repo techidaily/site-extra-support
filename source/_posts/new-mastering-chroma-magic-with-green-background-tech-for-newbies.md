@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Chroma Magic with Green Background Tech for Newbies"
-date: 2024-05-26 11:15:54
-updated: 2024-05-28 12:20:44
+date: 2024-05-31T06:07:42.789Z
+updated: 2024-06-01T06:07:42.789Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

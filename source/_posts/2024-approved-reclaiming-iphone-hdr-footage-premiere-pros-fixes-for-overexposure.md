@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Reclaiming iPhone HDR Footage  Premiere Pro's Fixes for Overexposure\""
-date: 2024-05-29 19:16:48
-updated: 2024-05-30 12:56:49
+date: 2024-05-31T06:11:24.832Z
+updated: 2024-06-01T06:11:24.832Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

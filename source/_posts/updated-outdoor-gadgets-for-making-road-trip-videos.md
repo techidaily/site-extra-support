@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Outdoor Gadgets for Making Road-Trip Videos\""
-date: 2024-05-26 10:31:25
-updated: 2024-05-29 10:45:49
+date: 2024-05-31T06:06:31.447Z
+updated: 2024-06-01T06:06:31.447Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

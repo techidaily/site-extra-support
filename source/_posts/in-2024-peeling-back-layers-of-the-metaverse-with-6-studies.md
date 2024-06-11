@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Peeling Back Layers of the Metaverse with 6 Studies"
-date: 2024-05-26 13:15:41
-updated: 2024-05-29 11:48:16
+date: 2024-05-31T06:10:52.458Z
+updated: 2024-06-01T06:10:52.458Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ Metaverse is still under development but several companies have already started 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

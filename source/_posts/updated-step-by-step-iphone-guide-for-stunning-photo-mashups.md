@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step iPhone Guide for Stunning Photo Mashups\""
-date: 2024-05-29 14:59:24
-updated: 2024-05-31 10:42:11
+date: 2024-05-31T06:10:26.074Z
+updated: 2024-06-01T06:10:26.074Z
 tags: 
   - screen-recording
   - ai video
@@ -694,4 +694,5 @@ p>**●** Read our general tips for making a collage (on your iPhone or otherwis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Layering YouTube Vibes on Video Canvases for 2024"
-date: 2024-05-26 21:32:46
-updated: 2024-05-28 10:48:37
+date: 2024-05-31T06:10:59.062Z
+updated: 2024-06-01T06:10:59.062Z
 tags: 
   - screen-recording
   - ai video
@@ -518,4 +518,5 @@ With the help of all these things, you can easily use YouTube music and its feat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

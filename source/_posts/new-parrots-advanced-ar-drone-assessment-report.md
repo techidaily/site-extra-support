@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Parrot's Advanced AR Drone - Assessment Report\""
-date: 2024-05-27 19:40:28
-updated: 2024-05-29 12:47:27
+date: 2024-05-31T06:07:11.138Z
+updated: 2024-06-01T06:07:11.138Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

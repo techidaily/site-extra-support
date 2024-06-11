@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quip Collection  Event-Specific Jest Compilation\""
-date: 2024-05-29 19:54:52
-updated: 2024-05-30 12:33:43
+date: 2024-05-31T06:09:17.575Z
+updated: 2024-06-01T06:09:17.575Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ Users are growing more and more disinterested in social media because of the abu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Photography & Captioning  A Guide to Dynamic Text\""
-date: 2024-05-27 12:45:42
-updated: 2024-05-29 11:36:35
+date: 2024-05-31T06:08:02.476Z
+updated: 2024-06-01T06:08:02.476Z
 tags: 
   - screen-recording
   - ai video
@@ -470,4 +470,5 @@ The best illustration of images is not possible without adding typography to the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

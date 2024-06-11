@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Linguistic Strategies in Film Scriptwriting"
-date: 2024-05-25 17:28:34
-updated: 2024-05-28 10:34:50
+date: 2024-05-31T06:09:50.427Z
+updated: 2024-06-01T06:09:50.427Z
 tags: 
   - screen-recording
   - ai video
@@ -229,4 +229,5 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Solo Sound Waves  Crafting a Trending Podcast Series\""
-date: 2024-05-28 22:53:39
-updated: 2024-05-31 12:49:51
+date: 2024-05-31T06:08:31.794Z
+updated: 2024-06-01T06:08:31.794Z
 tags: 
   - screen-recording
   - ai video
@@ -521,4 +521,5 @@ If you're planning to do a solo podcast, you need to create a clear outline of w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

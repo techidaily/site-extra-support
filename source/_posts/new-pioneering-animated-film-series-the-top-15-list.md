@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pioneering Animated Film Series  The Top 15 List\""
-date: 2024-05-27 10:45:52
-updated: 2024-05-29 12:30:58
+date: 2024-05-31T06:08:51.491Z
+updated: 2024-06-01T06:08:51.491Z
 tags: 
   - screen-recording
   - ai video
@@ -260,4 +260,5 @@ The creative industry needs to offer strong animation to bring the audience on t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premier 10 Lenses for Superior Image Capture"
-date: 2024-05-27 19:44:13
-updated: 2024-05-29 11:56:53
+date: 2024-05-31T06:07:16.692Z
+updated: 2024-06-01T06:07:16.692Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Another query arises after taking a look at these new camera lens prices. Is it 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

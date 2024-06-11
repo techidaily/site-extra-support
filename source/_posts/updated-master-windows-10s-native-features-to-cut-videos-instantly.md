@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master Windows 10'S Native Features to Cut Videos Instantly"
-date: 2024-05-26 22:24:43
-updated: 2024-05-28 12:55:47
+date: 2024-05-31T06:06:34.652Z
+updated: 2024-06-01T06:06:34.652Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

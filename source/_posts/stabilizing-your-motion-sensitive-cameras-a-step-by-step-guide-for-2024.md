@@ -1,7 +1,7 @@
 ---
 title: "\"Stabilizing Your Motion-Sensitive Cameras  A Step by Step Guide for 2024\""
-date: 2024-05-30 17:43:54
-updated: 2024-05-31 10:35:35
+date: 2024-05-31T06:11:24.467Z
+updated: 2024-06-01T06:11:24.467Z
 tags: 
   - screen-recording
   - ai video
@@ -538,4 +538,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Novice's Guide to Animated Videos with WMM"
-date: 2024-05-26 21:29:13
-updated: 2024-05-29 11:43:29
+date: 2024-05-31T06:09:04.452Z
+updated: 2024-06-01T06:09:04.452Z
 tags: 
   - screen-recording
   - ai video
@@ -184,4 +184,5 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

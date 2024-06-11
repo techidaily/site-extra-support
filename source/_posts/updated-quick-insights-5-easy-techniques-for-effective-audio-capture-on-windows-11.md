@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick Insights  5 Easy Techniques for Effective Audio Capture on Windows 11\""
-date: 2024-05-28 13:17:38
-updated: 2024-05-30 11:59:25
+date: 2024-05-31T06:11:00.178Z
+updated: 2024-06-01T06:11:00.178Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ We have how to record audio on Windows 10 using free as well as premium software
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

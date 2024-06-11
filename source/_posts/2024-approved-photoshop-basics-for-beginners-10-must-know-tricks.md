@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photoshop Basics for Beginners  10 Must-Know Tricks\""
-date: 2024-05-28 17:23:11
-updated: 2024-05-29 11:49:51
+date: 2024-05-31T06:07:31.379Z
+updated: 2024-06-01T06:07:31.379Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Without any doubt, Adobe Photoshop is one of the notorious tools to conduct adva
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

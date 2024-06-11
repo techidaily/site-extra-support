@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Fixes  Adding Descriptive Texts to Videos via Photos App (Windows 11)\""
-date: 2024-05-28 20:14:57
-updated: 2024-05-30 12:19:38
+date: 2024-05-31T06:10:53.849Z
+updated: 2024-06-01T06:10:53.849Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

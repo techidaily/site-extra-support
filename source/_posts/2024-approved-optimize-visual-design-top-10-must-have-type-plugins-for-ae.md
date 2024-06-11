@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Optimize Visual Design  Top 10 Must-Have Type Plugins for AE\""
-date: 2024-05-26 10:33:10
-updated: 2024-05-29 12:52:38
+date: 2024-05-31T06:06:28.289Z
+updated: 2024-06-01T06:06:28.289Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

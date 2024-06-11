@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Seamless Speech-to-Text Translation in Microsoft Office Suite (Word)\""
-date: 2024-05-28 23:30:16
-updated: 2024-05-30 11:43:34
+date: 2024-05-31T06:06:46.632Z
+updated: 2024-06-01T06:06:46.632Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ Microsoft Word's speech-to-text feature is not perfect, but it can be a huge tim
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

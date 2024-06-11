@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Nexus Development Summary  Pinnacle Studio Audit, 2023\""
-date: 2024-05-27 15:16:17
-updated: 2024-05-29 12:58:17
+date: 2024-05-31T06:08:34.349Z
+updated: 2024-06-01T06:08:34.349Z
 tags: 
   - screen-recording
   - ai video
@@ -90,4 +90,5 @@ There were already some decent audio editing features in  Studio. The audio part
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

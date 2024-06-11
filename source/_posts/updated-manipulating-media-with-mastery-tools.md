@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Manipulating Media with Mastery Tools"
-date: 2024-05-26 16:26:59
-updated: 2024-05-28 10:23:18
+date: 2024-05-31T06:09:26.557Z
+updated: 2024-06-01T06:09:26.557Z
 tags: 
   - screen-recording
   - ai video
@@ -678,4 +678,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

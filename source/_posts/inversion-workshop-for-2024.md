@@ -1,7 +1,7 @@
 ---
 title: "Inversion Workshop for 2024"
-date: 2024-05-26 20:36:19
-updated: 2024-05-27 12:47:28
+date: 2024-05-31T06:07:34.081Z
+updated: 2024-06-01T06:07:34.081Z
 tags: 
   - screen-recording
   - ai video
@@ -436,4 +436,5 @@ If you have long admired the boomerang videos that you see on social media and h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

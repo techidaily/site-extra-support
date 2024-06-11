@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Missing Out? Essential, Forgotten Free Speech Apps on Mac"
-date: 2024-05-25 17:11:31
-updated: 2024-05-28 10:17:17
+date: 2024-05-31T06:06:43.630Z
+updated: 2024-06-01T06:06:43.630Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ A 2017 Stanford study states that speech to text is about[three times faster tha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Snap-Happy with iPhone Burst Mode\""
-date: 2024-05-29 17:48:39
-updated: 2024-05-31 11:25:25
+date: 2024-05-31T06:10:28.007Z
+updated: 2024-06-01T06:10:28.007Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

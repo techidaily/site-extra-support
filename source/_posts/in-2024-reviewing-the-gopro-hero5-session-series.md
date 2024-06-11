@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Reviewing the GoPro Hero5 Session Series"
-date: 2024-05-28 21:30:49
-updated: 2024-05-30 11:34:45
+date: 2024-05-31T06:07:43.623Z
+updated: 2024-06-01T06:07:43.623Z
 tags: 
   - screen-recording
   - ai video
@@ -514,4 +514,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

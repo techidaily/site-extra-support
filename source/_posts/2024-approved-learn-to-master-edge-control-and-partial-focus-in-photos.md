@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Learn to Master Edge Control and Partial Focus in Photos\""
-date: 2024-05-26 13:37:56
-updated: 2024-05-28 10:17:45
+date: 2024-05-31T06:09:29.933Z
+updated: 2024-06-01T06:09:29.933Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

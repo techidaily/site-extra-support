@@ -1,7 +1,7 @@
 ---
 title: "[New] Launching Your First Telegram Marketing Campaign"
-date: 2024-05-25 20:56:27
-updated: 2024-05-28 10:36:45
+date: 2024-05-31T06:07:09.536Z
+updated: 2024-06-01T06:07:09.536Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ Hopefully, you now know how **Telegram marketing** works and how you can get the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

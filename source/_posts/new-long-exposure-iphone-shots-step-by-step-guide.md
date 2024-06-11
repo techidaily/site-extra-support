@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Long-Exposure iPhone Shots  Step-by-Step Guide\""
-date: 2024-05-25 10:11:25
-updated: 2024-05-28 11:30:13
+date: 2024-05-31T06:10:59.834Z
+updated: 2024-06-01T06:10:59.834Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

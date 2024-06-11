@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfecting Sound with Ideal Cam Mics List"
-date: 2024-05-27 23:38:35
-updated: 2024-05-29 11:30:34
+date: 2024-05-31T06:11:25.183Z
+updated: 2024-06-01T06:11:25.183Z
 tags: 
   - screen-recording
   - ai video
@@ -770,4 +770,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

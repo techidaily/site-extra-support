@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Revolutionizing Photos Through Automated HDR Techniques"
-date: 2024-05-27 10:41:59
-updated: 2024-05-30 12:42:32
+date: 2024-05-31T06:08:07.006Z
+updated: 2024-06-01T06:08:07.006Z
 tags: 
   - screen-recording
   - ai video
@@ -241,4 +241,5 @@ Auto HDR will make sure both shadows and highlights are in focus, while Smart HD
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

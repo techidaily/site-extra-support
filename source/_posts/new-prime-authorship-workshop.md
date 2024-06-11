@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime Authorship Workshop"
-date: 2024-05-27 17:31:14
-updated: 2024-05-30 12:43:45
+date: 2024-05-31T06:10:39.604Z
+updated: 2024-06-01T06:10:39.604Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ To write a video script quickly, you should use templates, which are designed to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

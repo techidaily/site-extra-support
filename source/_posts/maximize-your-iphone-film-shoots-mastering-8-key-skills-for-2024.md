@@ -1,7 +1,7 @@
 ---
 title: "\"Maximize Your iPhone Film Shoots  Mastering 8 Key Skills for 2024\""
-date: 2024-05-25 20:13:20
-updated: 2024-05-28 12:16:11
+date: 2024-05-31T06:10:38.008Z
+updated: 2024-06-01T06:10:38.008Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Professional Techniques for Getting Rid of Backgrounds in Figma"
-date: 2024-05-28 19:52:31
-updated: 2024-05-30 11:46:28
+date: 2024-05-31T06:10:08.188Z
+updated: 2024-06-01T06:10:08.188Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

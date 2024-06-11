@@ -1,7 +1,7 @@
 ---
 title: "[New] Interior Illumination Through Natural Sun Exposure"
-date: 2024-05-25 15:50:56
-updated: 2024-05-27 10:54:37
+date: 2024-05-31T06:11:19.349Z
+updated: 2024-06-01T06:11:19.349Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

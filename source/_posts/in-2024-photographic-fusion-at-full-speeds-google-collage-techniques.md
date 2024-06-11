@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Photographic Fusion at Full Speeds  Google Collage Techniques\""
-date: 2024-05-28 11:22:54
-updated: 2024-05-29 11:56:29
+date: 2024-05-31T06:11:36.289Z
+updated: 2024-06-01T06:11:36.289Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

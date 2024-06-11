@@ -1,7 +1,7 @@
 ---
 title: "\"[New] SDR to HD, Now HDR  The Next Leap in Editing Workflows\""
-date: 2024-05-27 14:12:44
-updated: 2024-05-30 11:40:15
+date: 2024-05-31T06:07:37.400Z
+updated: 2024-06-01T06:07:37.400Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ SDR quality is available in most televisions, monitors, and photography platform
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

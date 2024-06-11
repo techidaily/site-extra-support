@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Prowess in Color Correction  The Ultimate 11 Tutorials\""
-date: 2024-05-28 14:27:45
-updated: 2024-05-30 12:56:32
+date: 2024-05-31T06:10:52.650Z
+updated: 2024-06-01T06:10:52.650Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

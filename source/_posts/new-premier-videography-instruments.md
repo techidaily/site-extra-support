@@ -1,7 +1,7 @@
 ---
 title: "[New] Premier Videography Instruments"
-date: 2024-05-29 18:37:15
-updated: 2024-05-30 10:12:36
+date: 2024-05-31T06:08:23.999Z
+updated: 2024-06-01T06:08:23.999Z
 tags: 
   - screen-recording
   - ai video
@@ -238,4 +238,5 @@ To sum things up besides the specifications of this camera, we find this one of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

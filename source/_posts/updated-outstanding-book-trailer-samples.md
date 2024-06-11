@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Outstanding Book Trailer Samples"
-date: 2024-05-26 14:56:19
-updated: 2024-05-29 12:47:21
+date: 2024-05-31T06:10:16.373Z
+updated: 2024-06-01T06:10:16.373Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ This article concludes that book trailers mean a lot in this digital era. To gen
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

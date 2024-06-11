@@ -1,7 +1,7 @@
 ---
 title: "[New] Logic Pro X's Audio Smoothing Methods"
-date: 2024-05-26 10:56:14
-updated: 2024-05-28 11:50:41
+date: 2024-05-31T06:07:13.364Z
+updated: 2024-06-01T06:07:13.364Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

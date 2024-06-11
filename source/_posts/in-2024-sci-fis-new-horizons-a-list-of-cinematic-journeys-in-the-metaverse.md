@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sci-Fi's New Horizons  A List of Cinematic Journeys in the Metaverse\""
-date: 2024-05-27 19:26:41
-updated: 2024-05-30 10:49:50
+date: 2024-05-31T06:08:23.792Z
+updated: 2024-06-01T06:08:23.792Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ The world is heading for a more advanced form of technology that would go beyond
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

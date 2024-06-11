@@ -1,7 +1,7 @@
 ---
 title: "[New] Photo Clips, Melody Layers in New Videos"
-date: 2024-05-28 14:14:33
-updated: 2024-05-29 11:50:13
+date: 2024-05-31T06:09:09.345Z
+updated: 2024-06-01T06:09:09.345Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Thus, this article enlightens you with the best way to create video from photos 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

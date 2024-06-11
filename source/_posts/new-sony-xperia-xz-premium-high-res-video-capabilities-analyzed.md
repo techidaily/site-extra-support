@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sony Xperia XZ Premium  High-Res Video Capabilities Analyzed\""
-date: 2024-05-30 15:17:48
-updated: 2024-05-31 10:39:11
+date: 2024-05-31T06:11:53.262Z
+updated: 2024-06-01T06:11:53.262Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

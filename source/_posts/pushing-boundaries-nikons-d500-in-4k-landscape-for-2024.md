@@ -1,7 +1,7 @@
 ---
 title: "\"Pushing Boundaries  Nikon's D500 in 4K Landscape for 2024\""
-date: 2024-05-29 19:33:28
-updated: 2024-05-30 11:39:53
+date: 2024-05-31T06:10:20.251Z
+updated: 2024-06-01T06:10:20.251Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

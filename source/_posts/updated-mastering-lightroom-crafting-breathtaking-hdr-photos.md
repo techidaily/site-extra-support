@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Lightroom  Crafting Breathtaking HDR Photos\""
-date: 2024-05-26 10:32:16
-updated: 2024-05-28 10:31:43
+date: 2024-05-31T06:11:05.926Z
+updated: 2024-06-01T06:11:05.926Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Before using the HDR effect through Lightroom for stacked photo editing and merg
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

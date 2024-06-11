@@ -1,7 +1,7 @@
 ---
 title: "[New] Add Radial Blur Effect to Photos in Photoshop"
-date: 2024-05-29 10:12:20
-updated: 2024-05-30 11:54:30
+date: 2024-05-31T06:11:35.726Z
+updated: 2024-06-01T06:11:35.726Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

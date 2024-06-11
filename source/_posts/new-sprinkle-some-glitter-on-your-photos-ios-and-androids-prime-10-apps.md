@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sprinkle Some Glitter on Your Photos  IOS & Android's Prime 10 Apps\""
-date: 2024-05-29 12:47:52
-updated: 2024-05-31 10:58:34
+date: 2024-05-31T06:08:15.829Z
+updated: 2024-06-01T06:08:15.829Z
 tags: 
   - screen-recording
   - ai video
@@ -585,4 +585,5 @@ If you need a photo editing sticker online, you can use Wondershare PixCut; it i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

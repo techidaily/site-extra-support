@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Viewer Interest  6 Video Styles Explored for 2024\""
-date: 2024-05-25 12:49:48
-updated: 2024-05-28 12:39:20
+date: 2024-05-31T06:08:13.933Z
+updated: 2024-06-01T06:08:13.933Z
 tags: 
   - screen-recording
   - ai video
@@ -165,4 +165,5 @@ Are you using video to promote your products or services? If not, you should be!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

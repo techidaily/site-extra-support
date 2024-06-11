@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Revel in These 14 Enthralling Text-Based Movements\""
-date: 2024-05-27 19:54:50
-updated: 2024-05-30 12:33:44
+date: 2024-05-31T06:06:26.312Z
+updated: 2024-06-01T06:06:26.312Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ We have discussed all the common type of text animations that are used to create
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

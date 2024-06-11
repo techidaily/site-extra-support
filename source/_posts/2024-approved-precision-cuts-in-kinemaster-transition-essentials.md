@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Precision Cuts in Kinemaster  Transition Essentials\""
-date: 2024-05-28 20:53:24
-updated: 2024-05-29 11:28:56
+date: 2024-05-31T06:08:23.525Z
+updated: 2024-06-01T06:08:23.525Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

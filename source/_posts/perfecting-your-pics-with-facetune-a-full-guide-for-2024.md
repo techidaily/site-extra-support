@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Your Pics with Facetune - A Full Guide for 2024\""
-date: 2024-05-28 19:39:49
-updated: 2024-05-29 12:57:33
+date: 2024-05-31T06:07:16.498Z
+updated: 2024-06-01T06:07:16.498Z
 tags: 
   - screen-recording
   - ai video
@@ -385,4 +385,5 @@ Facetune Photo App is a proven photo editor that will add more beauty and light 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

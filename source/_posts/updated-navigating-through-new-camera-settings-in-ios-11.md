@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Through New Camera Settings in iOS 11"
-date: 2024-05-28 21:52:10
-updated: 2024-05-29 12:29:47
+date: 2024-05-31T06:06:45.193Z
+updated: 2024-06-01T06:06:45.193Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

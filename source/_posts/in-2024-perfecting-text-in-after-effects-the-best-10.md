@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfecting Text in After Effects  The Best 10\""
-date: 2024-05-28 21:10:50
-updated: 2024-05-29 11:39:25
+date: 2024-05-31T06:07:31.569Z
+updated: 2024-06-01T06:07:31.569Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

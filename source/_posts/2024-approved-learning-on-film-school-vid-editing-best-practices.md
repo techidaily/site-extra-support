@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Learning on Film  School Vid Editing Best Practices\""
-date: 2024-05-27 13:50:16
-updated: 2024-05-28 12:55:15
+date: 2024-05-31T06:08:39.680Z
+updated: 2024-06-01T06:08:39.680Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

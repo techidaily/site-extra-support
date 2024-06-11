@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Innovative Ways to Control Your iPhone's Picture Angles"
-date: 2024-05-25 10:16:32
-updated: 2024-05-27 10:48:17
+date: 2024-05-31T06:07:06.638Z
+updated: 2024-06-01T06:07:06.638Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

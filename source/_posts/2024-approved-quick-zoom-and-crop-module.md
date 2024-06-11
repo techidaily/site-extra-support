@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Zoom and Crop Module\""
-date: 2024-05-28 13:34:19
-updated: 2024-05-30 12:54:14
+date: 2024-05-31T06:09:44.035Z
+updated: 2024-06-01T06:09:44.035Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ In many situations, we are needed to zoom edit the videos and this is where such
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

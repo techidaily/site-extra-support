@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Fixes  Enhancing Colors with PS Tools\""
-date: 2024-05-29 12:33:36
-updated: 2024-05-30 10:34:32
+date: 2024-05-31T06:06:46.236Z
+updated: 2024-06-01T06:06:46.236Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

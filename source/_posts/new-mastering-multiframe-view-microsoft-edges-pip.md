@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Multiframe View  Microsoft Edge's PIP\""
-date: 2024-05-26 17:48:25
-updated: 2024-05-28 10:13:11
+date: 2024-05-31T06:09:44.266Z
+updated: 2024-06-01T06:09:44.266Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ PIP on Android and desktop is now a native utility feature on Microsoft Edge tha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

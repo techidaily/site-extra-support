@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Ultimate Canon Temporal Capture\""
-date: 2024-05-25 10:35:51
-updated: 2024-05-28 10:34:24
+date: 2024-05-31T06:08:32.416Z
+updated: 2024-06-01T06:08:32.416Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ Now, you are aware of how to shoot time-lapse with your Canon camera. After you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

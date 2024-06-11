@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Craft of Macro Video Production Techniques\""
-date: 2024-05-27 10:21:19
-updated: 2024-05-28 11:27:59
+date: 2024-05-31T06:09:49.757Z
+updated: 2024-06-01T06:09:49.757Z
 tags: 
   - screen-recording
   - ai video
@@ -394,4 +394,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

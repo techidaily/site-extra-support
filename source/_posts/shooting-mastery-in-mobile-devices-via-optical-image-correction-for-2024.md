@@ -1,7 +1,7 @@
 ---
 title: "Shooting Mastery in Mobile Devices via Optical Image Correction for 2024"
-date: 2024-05-30 16:49:12
-updated: 2024-05-31 12:29:43
+date: 2024-05-31T06:11:29.358Z
+updated: 2024-06-01T06:11:29.358Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Since you don't always have a camera to capture smooth videos, having an OIS cam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

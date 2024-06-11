@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Digital Content in Pedagogic Contexts"
-date: 2024-05-28 17:14:35
-updated: 2024-05-29 10:15:30
+date: 2024-05-31T06:06:26.265Z
+updated: 2024-06-01T06:06:26.265Z
 tags: 
   - screen-recording
   - ai video
@@ -97,4 +97,5 @@ More and more research supporting the advantages of blended learning will suppor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

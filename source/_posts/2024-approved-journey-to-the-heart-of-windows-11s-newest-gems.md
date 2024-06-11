@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Journey to the Heart of Windows 11'S Newest Gems\""
-date: 2024-05-25 20:42:28
-updated: 2024-05-28 11:55:59
+date: 2024-05-31T06:10:00.079Z
+updated: 2024-06-01T06:10:00.079Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

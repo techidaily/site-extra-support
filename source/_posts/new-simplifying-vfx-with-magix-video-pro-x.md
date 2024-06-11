@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplifying VFX with Magix Video Pro X"
-date: 2024-05-29 11:59:36
-updated: 2024-05-31 11:22:18
+date: 2024-05-31T06:09:01.125Z
+updated: 2024-06-01T06:09:01.125Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ Gratitude for reading.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

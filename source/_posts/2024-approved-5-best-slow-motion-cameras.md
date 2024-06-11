@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  5 Best Slow Motion Cameras\""
-date: 2024-05-29 22:50:10
-updated: 2024-05-31 10:32:53
+date: 2024-05-31T06:10:43.255Z
+updated: 2024-06-01T06:10:43.255Z
 tags: 
   - screen-recording
   - ai video
@@ -116,4 +116,5 @@ Both in controlled lab settings and in actual shooting scenarios, we evaluate ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

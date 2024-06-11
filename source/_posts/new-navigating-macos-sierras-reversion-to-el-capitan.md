@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating MacOS Sierra's Reversion to El Capitan"
-date: 2024-05-27 23:58:10
-updated: 2024-05-29 12:10:11
+date: 2024-05-31T06:09:46.007Z
+updated: 2024-06-01T06:09:46.007Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

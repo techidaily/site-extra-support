@@ -1,7 +1,7 @@
 ---
 title: "[New] Learning Curve to Funimate Excellence"
-date: 2024-05-25 22:27:56
-updated: 2024-05-28 10:20:21
+date: 2024-05-31T06:08:53.948Z
+updated: 2024-06-01T06:08:53.948Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Funimate is one of the greatest fun video editing applications, allowing you to 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

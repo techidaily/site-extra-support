@@ -1,7 +1,7 @@
 ---
 title: "[New] Pro Window 11 Users' Guide to Photo/Video Imports"
-date: 2024-05-29 21:47:57
-updated: 2024-05-30 11:47:15
+date: 2024-05-31T06:09:49.420Z
+updated: 2024-06-01T06:09:49.420Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

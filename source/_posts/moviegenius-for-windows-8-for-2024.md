@@ -1,7 +1,7 @@
 ---
 title: "MovieGenius for Windows 8 for 2024"
-date: 2024-05-27 15:57:31
-updated: 2024-05-29 10:31:55
+date: 2024-05-31T06:10:30.512Z
+updated: 2024-06-01T06:10:30.512Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

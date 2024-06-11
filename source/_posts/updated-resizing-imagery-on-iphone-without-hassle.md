@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Resizing Imagery on iPhone Without Hassle"
-date: 2024-05-28 14:39:58
-updated: 2024-05-30 11:22:38
+date: 2024-05-31T06:11:07.594Z
+updated: 2024-06-01T06:11:07.594Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

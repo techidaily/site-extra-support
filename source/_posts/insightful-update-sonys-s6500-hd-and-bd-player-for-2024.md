@@ -1,7 +1,7 @@
 ---
 title: "\"Insightful Update  Sony's S6500 HD & BD Player for 2024\""
-date: 2024-05-24 13:43:28
-updated: 2024-05-27 10:48:22
+date: 2024-05-31T06:09:55.652Z
+updated: 2024-06-01T06:09:55.652Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

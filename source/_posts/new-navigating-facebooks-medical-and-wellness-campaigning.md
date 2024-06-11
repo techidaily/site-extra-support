@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Facebook's Medical and Wellness Campaigning"
-date: 2024-05-27 18:16:51
-updated: 2024-05-29 12:55:49
+date: 2024-05-31T06:08:58.702Z
+updated: 2024-06-01T06:08:58.702Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ We hope this blog post was informative and helpful. If you have any questions, f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

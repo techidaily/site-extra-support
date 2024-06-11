@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Color Grading  Utilizing LUTs From CG Central for 2024\""
-date: 2024-05-25 18:41:14
-updated: 2024-05-28 11:58:55
+date: 2024-05-31T06:09:28.713Z
+updated: 2024-06-01T06:09:28.713Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ In summary, we've seen some different color grading LUTs that simplify the color
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

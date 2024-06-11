@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Keep Your Viewers Hooked  6 Compelling Video Types\""
-date: 2024-05-25 18:39:18
-updated: 2024-05-28 12:21:13
+date: 2024-05-31T06:10:09.462Z
+updated: 2024-06-01T06:10:09.462Z
 tags: 
   - screen-recording
   - ai video
@@ -165,4 +165,5 @@ Are you using video to promote your products or services? If not, you should be!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

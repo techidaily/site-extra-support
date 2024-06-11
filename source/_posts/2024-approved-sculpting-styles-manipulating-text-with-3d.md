@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sculpting Styles  Manipulating Text with 3D\""
-date: 2024-05-27 19:33:48
-updated: 2024-05-30 11:15:15
+date: 2024-05-31T06:06:46.264Z
+updated: 2024-06-01T06:06:46.264Z
 tags: 
   - screen-recording
   - ai video
@@ -144,4 +144,5 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

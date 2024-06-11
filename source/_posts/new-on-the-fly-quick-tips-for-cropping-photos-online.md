@@ -1,7 +1,7 @@
 ---
 title: "\"[New] On-the-Fly  Quick Tips for Cropping Photos Online\""
-date: 2024-05-28 12:28:23
-updated: 2024-05-29 10:43:22
+date: 2024-05-31T06:11:39.109Z
+updated: 2024-06-01T06:11:39.109Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ This article has been quite conclusive in offering proper online tools to crop i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

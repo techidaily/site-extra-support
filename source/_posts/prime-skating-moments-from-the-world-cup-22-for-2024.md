@@ -1,7 +1,7 @@
 ---
 title: "Prime Skating Moments From the World Cup '22 for 2024"
-date: 2024-05-27 17:57:18
-updated: 2024-05-30 11:39:45
+date: 2024-05-31T06:11:31.719Z
+updated: 2024-06-01T06:11:31.719Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

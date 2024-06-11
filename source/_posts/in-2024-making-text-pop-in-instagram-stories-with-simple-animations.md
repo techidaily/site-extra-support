@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Making Text Pop in Instagram Stories with Simple Animations"
-date: 2024-05-25 14:22:37
-updated: 2024-05-28 11:50:28
+date: 2024-05-31T06:07:17.017Z
+updated: 2024-06-01T06:07:17.017Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ The success or failure of your Instagram company depends in large part on engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

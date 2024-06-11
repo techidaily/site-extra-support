@@ -1,7 +1,7 @@
 ---
 title: "\"Mastery Through Art  The Ultimate List of FREE Mac Drawing Apps for 2024\""
-date: 2024-05-25 16:16:18
-updated: 2024-05-28 11:10:22
+date: 2024-05-31T06:11:15.361Z
+updated: 2024-06-01T06:11:15.361Z
 tags: 
   - screen-recording
   - ai video
@@ -870,4 +870,5 @@ Get started quickly with Filmora's powerful performance, intuitive interface, an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

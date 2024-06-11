@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Selective Image Blurring Techniques\""
-date: 2024-05-25 10:12:39
-updated: 2024-05-28 10:18:48
+date: 2024-05-31T06:07:03.268Z
+updated: 2024-06-01T06:07:03.268Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

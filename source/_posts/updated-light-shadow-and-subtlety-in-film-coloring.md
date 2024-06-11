@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Light, Shadow & Subtlety in Film Coloring"
-date: 2024-05-27 19:36:21
-updated: 2024-05-28 12:49:53
+date: 2024-05-31T06:10:49.663Z
+updated: 2024-06-01T06:10:49.663Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

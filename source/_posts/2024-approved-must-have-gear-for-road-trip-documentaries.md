@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Must-Have Gear for Road Trip Documentaries\""
-date: 2024-05-27 11:44:17
-updated: 2024-05-29 11:33:13
+date: 2024-05-31T06:07:34.553Z
+updated: 2024-06-01T06:07:34.553Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

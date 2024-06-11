@@ -1,7 +1,7 @@
 ---
 title: "\"Leveraging Windows 10'S Photos App  A Guide to Adding Text to Visual Content for 2024\""
-date: 2024-05-25 22:55:16
-updated: 2024-05-28 10:36:38
+date: 2024-05-31T06:06:41.704Z
+updated: 2024-06-01T06:06:41.704Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

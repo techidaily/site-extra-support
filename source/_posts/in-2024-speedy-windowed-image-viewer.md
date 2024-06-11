@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Speedy Windowed Image Viewer"
-date: 2024-05-30 20:45:38
-updated: 2024-05-31 11:52:58
+date: 2024-05-31T06:10:40.302Z
+updated: 2024-06-01T06:10:40.302Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Access the **Default Apps** menu from the **Settings** option of your OS. Then, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Seamless Blending of Voice and Text in PowerPoint Decks"
-date: 2024-05-28 16:10:46
-updated: 2024-05-30 12:17:49
+date: 2024-05-31T06:08:22.006Z
+updated: 2024-06-01T06:08:22.006Z
 tags: 
   - screen-recording
   - ai video
@@ -320,4 +320,5 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

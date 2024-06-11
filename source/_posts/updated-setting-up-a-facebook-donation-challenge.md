@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Setting Up a Facebook Donation Challenge"
-date: 2024-05-29 10:23:41
-updated: 2024-05-30 12:55:49
+date: 2024-05-31T06:11:24.690Z
+updated: 2024-06-01T06:11:24.690Z
 tags: 
   - screen-recording
   - ai video
@@ -143,4 +143,5 @@ By following these tips, you can run a successful Facebook giveaway that will he
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

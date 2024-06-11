@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master the Art of Video Presentations with These Themes"
-date: 2024-05-25 18:56:14
-updated: 2024-05-28 12:44:19
+date: 2024-05-31T06:11:29.416Z
+updated: 2024-06-01T06:11:29.416Z
 tags: 
   - screen-recording
   - ai video
@@ -562,4 +562,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

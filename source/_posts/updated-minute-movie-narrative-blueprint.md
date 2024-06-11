@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Minute Movie Narrative Blueprint"
-date: 2024-05-27 16:32:34
-updated: 2024-05-28 11:32:46
+date: 2024-05-31T06:08:06.116Z
+updated: 2024-06-01T06:08:06.116Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

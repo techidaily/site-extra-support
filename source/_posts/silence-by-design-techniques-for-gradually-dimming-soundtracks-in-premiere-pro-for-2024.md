@@ -1,7 +1,7 @@
 ---
 title: "\"Silence by Design  Techniques for Gradually Dimming Soundtracks in Premiere Pro for 2024\""
-date: 2024-05-30 19:38:12
-updated: 2024-05-31 12:14:38
+date: 2024-05-31T06:06:30.461Z
+updated: 2024-06-01T06:06:30.461Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ With this guide, you can easily understand the complete procedure for editing a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

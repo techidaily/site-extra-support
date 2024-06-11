@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Luminous Android Video Editing Hacks"
-date: 2024-05-27 19:10:46
-updated: 2024-05-28 12:46:13
+date: 2024-05-31T06:11:53.379Z
+updated: 2024-06-01T06:11:53.379Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ If you need to adjust the brightness of your video, a video editing app like Fil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

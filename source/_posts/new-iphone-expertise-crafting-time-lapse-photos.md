@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone Expertise  Crafting Time-Lapse Photos\""
-date: 2024-05-25 17:48:13
-updated: 2024-05-27 12:41:39
+date: 2024-05-31T06:10:22.368Z
+updated: 2024-06-01T06:10:22.368Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

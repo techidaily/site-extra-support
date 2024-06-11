@@ -1,7 +1,7 @@
 ---
 title: "\"Pic Deformations  A Toolbox Guide for 2024\""
-date: 2024-05-26 16:24:14
-updated: 2024-05-29 10:19:34
+date: 2024-05-31T06:07:44.730Z
+updated: 2024-06-01T06:07:44.730Z
 tags: 
   - screen-recording
   - ai video
@@ -678,4 +678,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Complete Guide To Hand Tracking And Its Types"
-date: 2024-05-25 19:11:32
-updated: 2024-05-28 10:23:11
+date: 2024-05-31T06:06:57.124Z
+updated: 2024-06-01T06:06:57.124Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

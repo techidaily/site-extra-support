@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Interactive Realities Compared  Metaverse and Multiverse\""
-date: 2024-05-24 19:56:38
-updated: 2024-05-27 11:39:56
+date: 2024-05-31T06:10:48.811Z
+updated: 2024-06-01T06:10:48.811Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Hope lies in the fact that the formation of the Metaverse vs. Multiverse discour
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Meet the System & Hardware Needs of Big Sur OS"
-date: 2024-05-26 18:37:58
-updated: 2024-05-28 12:34:29
+date: 2024-05-31T06:10:31.434Z
+updated: 2024-06-01T06:10:31.434Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

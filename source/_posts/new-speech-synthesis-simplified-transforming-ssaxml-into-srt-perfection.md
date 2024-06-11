@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Speech Synthesis Simplified  Transforming SSA/XML Into SRT Perfection\""
-date: 2024-05-28 16:40:59
-updated: 2024-05-31 10:39:31
+date: 2024-05-31T06:09:55.870Z
+updated: 2024-06-01T06:09:55.870Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

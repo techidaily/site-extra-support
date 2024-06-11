@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Visual Potential with HDR Technology for 2024"
-date: 2024-05-27 15:55:52
-updated: 2024-05-28 12:29:37
+date: 2024-05-31T06:07:03.677Z
+updated: 2024-06-01T06:07:03.677Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ SDR quality is available in most televisions, monitors, and photography platform
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

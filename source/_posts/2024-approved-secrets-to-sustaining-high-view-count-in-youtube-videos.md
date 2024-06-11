@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Secrets to Sustaining High View Count in YouTube Videos\""
-date: 2024-05-29 19:29:34
-updated: 2024-05-30 10:36:44
+date: 2024-05-31T06:07:30.566Z
+updated: 2024-06-01T06:07:30.566Z
 tags: 
   - screen-recording
   - ai video
@@ -142,4 +142,5 @@ We hope this post has helped you get more views for your YouTube videos! If you 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

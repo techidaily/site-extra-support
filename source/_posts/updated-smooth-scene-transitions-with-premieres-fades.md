@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Smooth Scene Transitions with Premiere's Fades"
-date: 2024-05-28 12:32:19
-updated: 2024-05-31 10:17:32
+date: 2024-05-31T06:09:01.492Z
+updated: 2024-06-01T06:09:01.492Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Thus, in this guide, you learned how to add fade-in Premiere and proper edits to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

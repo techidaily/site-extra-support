@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Images  Top 10 Free Editors Available on Windows/Mac\""
-date: 2024-05-26 16:31:27
-updated: 2024-05-28 10:27:56
+date: 2024-05-31T06:07:39.980Z
+updated: 2024-06-01T06:07:39.980Z
 tags: 
   - screen-recording
   - ai video
@@ -1888,4 +1888,5 @@ Finding the best free photo editing software can significantly improve your imag
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Professional's Playbook  Merging SRT Captions Into MP4\""
-date: 2024-05-27 10:58:26
-updated: 2024-05-30 10:26:32
+date: 2024-05-31T06:09:03.032Z
+updated: 2024-06-01T06:09:03.032Z
 tags: 
   - screen-recording
   - ai video
@@ -326,4 +326,5 @@ Gone are the days when adding SRT to MP4 was considered a very difficult task. N
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

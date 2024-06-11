@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Masterful Radial Blur Transformation Techniques for PS Users"
-date: 2024-05-27 19:16:23
-updated: 2024-05-28 11:25:21
+date: 2024-05-31T06:07:05.524Z
+updated: 2024-06-01T06:07:05.524Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

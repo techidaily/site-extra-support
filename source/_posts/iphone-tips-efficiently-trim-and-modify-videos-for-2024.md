@@ -1,7 +1,7 @@
 ---
 title: "\"IPhone Tips  Efficiently Trim and Modify Videos for 2024\""
-date: 2024-05-25 18:57:13
-updated: 2024-05-28 10:43:36
+date: 2024-05-31T06:11:58.791Z
+updated: 2024-06-01T06:11:58.791Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

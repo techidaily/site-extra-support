@@ -1,7 +1,7 @@
 ---
 title: "Perfect Presentation with Personalized Typography in AE Projects for 2024"
-date: 2024-05-28 22:54:20
-updated: 2024-05-29 12:59:46
+date: 2024-05-31T06:07:03.823Z
+updated: 2024-06-01T06:07:03.823Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

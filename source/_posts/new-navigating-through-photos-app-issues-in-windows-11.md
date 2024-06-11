@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Through Photos App Issues in Windows 11"
-date: 2024-05-27 20:20:19
-updated: 2024-05-29 12:58:53
+date: 2024-05-31T06:10:15.162Z
+updated: 2024-06-01T06:10:15.162Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

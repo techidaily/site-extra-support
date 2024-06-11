@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide for Font Integration in AE for 2024\""
-date: 2024-05-29 19:25:29
-updated: 2024-05-31 11:12:13
+date: 2024-05-31T06:07:41.626Z
+updated: 2024-06-01T06:07:41.626Z
 tags: 
   - screen-recording
   - ai video
@@ -129,4 +129,5 @@ The article discussed the detailed process of **how to add font to Adobe After E
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

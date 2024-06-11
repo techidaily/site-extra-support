@@ -1,7 +1,7 @@
 ---
 title: "[New] Premium After Effects Text Enhancements"
-date: 2024-05-27 13:59:11
-updated: 2024-05-30 10:44:33
+date: 2024-05-31T06:10:51.798Z
+updated: 2024-06-01T06:10:51.798Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

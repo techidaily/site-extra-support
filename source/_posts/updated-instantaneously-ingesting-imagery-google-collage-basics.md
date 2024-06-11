@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Instantaneously Ingesting Imagery  Google Collage Basics\""
-date: 2024-05-25 16:23:47
-updated: 2024-05-27 10:14:10
+date: 2024-05-31T06:07:09.645Z
+updated: 2024-06-01T06:07:09.645Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

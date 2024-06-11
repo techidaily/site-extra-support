@@ -1,7 +1,7 @@
 ---
 title: "[New] Solutions to Mitigate Vibrational Jello in UAV Recordings"
-date: 2024-05-30 11:19:47
-updated: 2024-05-31 12:15:15
+date: 2024-05-31T06:07:04.543Z
+updated: 2024-06-01T06:07:04.543Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

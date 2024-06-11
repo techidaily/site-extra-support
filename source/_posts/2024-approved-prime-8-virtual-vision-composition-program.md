@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime 8 Virtual Vision Composition Program\""
-date: 2024-05-27 15:16:29
-updated: 2024-05-30 11:10:20
+date: 2024-05-31T06:07:21.587Z
+updated: 2024-06-01T06:07:21.587Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ Photo and video montage makers help you make presentable and fascinating content
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

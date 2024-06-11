@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Basics of Telegram Advertising as a Novice"
-date: 2024-05-27 12:43:31
-updated: 2024-05-28 10:14:12
+date: 2024-05-31T06:10:08.894Z
+updated: 2024-06-01T06:10:08.894Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ Hopefully, you now know how **Telegram marketing** works and how you can get the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Online Meetings  Zoom Tips for Chromebooks\""
-date: 2024-05-27 23:15:58
-updated: 2024-05-28 12:53:17
+date: 2024-05-31T06:08:25.391Z
+updated: 2024-06-01T06:08:25.391Z
 tags: 
   - screen-recording
   - ai video
@@ -209,4 +209,5 @@ Chromebook is the latest in the block in the world of computers. The Chrome Oper
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

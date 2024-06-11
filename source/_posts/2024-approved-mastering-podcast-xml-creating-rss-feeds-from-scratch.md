@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Podcast XML  Creating RSS Feeds From Scratch\""
-date: 2024-05-26 23:45:39
-updated: 2024-05-28 10:38:37
+date: 2024-05-31T06:06:45.367Z
+updated: 2024-06-01T06:06:45.367Z
 tags: 
   - screen-recording
   - ai video
@@ -328,4 +328,5 @@ Nevertheless, if you're looking for a reliable program to record and edit high-q
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

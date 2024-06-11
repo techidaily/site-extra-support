@@ -1,7 +1,7 @@
 ---
 title: "[New] Slow Taper Strategies to Compress Sound in FL Studio"
-date: 2024-05-28 19:22:10
-updated: 2024-05-31 11:42:35
+date: 2024-05-31T06:08:50.689Z
+updated: 2024-06-01T06:08:50.689Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Scripting a Captivating Cinematic Sketchpad"
-date: 2024-05-27 23:14:10
-updated: 2024-05-30 12:12:41
+date: 2024-05-31T06:08:39.624Z
+updated: 2024-06-01T06:08:39.624Z
 tags: 
   - screen-recording
   - ai video
@@ -200,4 +200,5 @@ The conclusion is that the trailer is undoubtedly an integral part of any movie 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

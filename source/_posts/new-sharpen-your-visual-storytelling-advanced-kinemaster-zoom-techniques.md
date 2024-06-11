@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sharpen Your Visual Storytelling  Advanced Kinemaster Zoom Techniques\""
-date: 2024-05-30 16:57:35
-updated: 2024-05-31 12:19:12
+date: 2024-05-31T06:09:35.362Z
+updated: 2024-06-01T06:09:35.362Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ Now you can see how to zoom in/out videos on Kinemaster. You can practice it on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

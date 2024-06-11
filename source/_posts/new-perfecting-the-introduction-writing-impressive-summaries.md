@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfecting the Introduction  Writing Impressive Summaries\""
-date: 2024-05-27 23:54:40
-updated: 2024-05-29 12:55:40
+date: 2024-05-31T06:07:04.426Z
+updated: 2024-06-01T06:07:04.426Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ WITH [JENNA FISCHER](https://www.earwolf.com/person/jenna-fischer/) AND [ANGELA 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

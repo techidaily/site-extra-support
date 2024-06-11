@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Privacy-Preserving Photography with Pixelated Faces\""
-date: 2024-05-29 21:52:44
-updated: 2024-05-30 12:44:19
+date: 2024-05-31T06:09:21.920Z
+updated: 2024-06-01T06:09:21.920Z
 tags: 
   - screen-recording
   - ai video
@@ -1030,4 +1030,5 @@ Step 13: Once you are satisfied with your edits, click File at the upper left si
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

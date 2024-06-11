@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Masterminds of Making Magic  Top 6 in NFT Innovation\""
-date: 2024-05-27 21:12:12
-updated: 2024-05-28 11:11:57
+date: 2024-05-31T06:08:00.271Z
+updated: 2024-06-01T06:08:00.271Z
 tags: 
   - screen-recording
   - ai video
@@ -982,4 +982,5 @@ If you are a digital artist looking to secure your artwork, this article showcas
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

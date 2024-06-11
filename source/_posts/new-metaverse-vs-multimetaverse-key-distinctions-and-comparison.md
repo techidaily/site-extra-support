@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Metaverse Vs. Multimetaverse  Key Distinctions and Comparison\""
-date: 2024-05-27 15:54:53
-updated: 2024-05-28 10:49:24
+date: 2024-05-31T06:10:24.028Z
+updated: 2024-06-01T06:10:24.028Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Hope lies in the fact that the formation of the Metaverse vs. Multiverse discour
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

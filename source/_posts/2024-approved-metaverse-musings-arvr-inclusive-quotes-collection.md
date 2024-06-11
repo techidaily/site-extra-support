@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Metaverse Musings  AR/VR-Inclusive Quotes Collection\""
-date: 2024-05-26 16:27:53
-updated: 2024-05-28 10:17:32
+date: 2024-05-31T06:09:01.590Z
+updated: 2024-06-01T06:09:01.590Z
 tags: 
   - screen-recording
   - ai video
@@ -846,4 +846,5 @@ Therefore, meta or some other organization hoping to get into the metaverse have
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

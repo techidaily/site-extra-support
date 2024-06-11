@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make Picture in Picture Videos on Mac OS Sierra"
-date: 2024-05-25 22:28:54
-updated: 2024-05-28 12:51:58
+date: 2024-05-31T06:08:06.584Z
+updated: 2024-06-01T06:08:06.584Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

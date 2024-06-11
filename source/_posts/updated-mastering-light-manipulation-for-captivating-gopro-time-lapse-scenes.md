@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Light Manipulation for Captivating GoPro Time Lapse Scenes"
-date: 2024-05-27 17:36:39
-updated: 2024-05-28 12:18:51
+date: 2024-05-31T06:07:55.360Z
+updated: 2024-06-01T06:07:55.360Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ GoPro cameras are ideal for time-lapse photography thanks to their small size, w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

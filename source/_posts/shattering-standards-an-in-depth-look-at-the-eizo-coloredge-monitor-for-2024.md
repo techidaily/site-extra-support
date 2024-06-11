@@ -1,7 +1,7 @@
 ---
 title: "\"Shattering Standards – An In-Depth Look at the EIZO ColorEdge Monitor for 2024\""
-date: 2024-05-29 19:29:59
-updated: 2024-05-31 12:36:55
+date: 2024-05-31T06:08:32.910Z
+updated: 2024-06-01T06:08:32.910Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

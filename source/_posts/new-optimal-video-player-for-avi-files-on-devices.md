@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal Video Player for Avi Files on Devices"
-date: 2024-05-26 13:49:38
-updated: 2024-05-29 10:33:53
+date: 2024-05-31T06:06:37.635Z
+updated: 2024-06-01T06:06:37.635Z
 tags: 
   - screen-recording
   - ai video
@@ -742,4 +742,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

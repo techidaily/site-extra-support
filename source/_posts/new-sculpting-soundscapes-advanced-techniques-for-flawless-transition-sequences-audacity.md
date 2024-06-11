@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sculpting Soundscapes  Advanced Techniques for Flawless Transition Sequences (Audacity)\""
-date: 2024-05-28 20:23:30
-updated: 2024-05-30 11:19:15
+date: 2024-05-31T06:06:47.446Z
+updated: 2024-06-01T06:06:47.446Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

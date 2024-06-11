@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pixel-Perfect Video Modifier\""
-date: 2024-05-26 18:45:48
-updated: 2024-05-29 10:13:57
+date: 2024-05-31T06:07:51.266Z
+updated: 2024-06-01T06:07:51.266Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ In many situations, we are needed to zoom edit the videos and this is where such
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

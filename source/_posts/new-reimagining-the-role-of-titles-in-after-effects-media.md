@@ -1,7 +1,7 @@
 ---
 title: "[New] Reimagining the Role of Titles in After Effects Media"
-date: 2024-05-29 14:26:42
-updated: 2024-05-30 11:44:59
+date: 2024-05-31T06:08:29.618Z
+updated: 2024-06-01T06:08:29.618Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ Motion title is a dynamic text effect template available in After Effects throug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

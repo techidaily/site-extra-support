@@ -1,7 +1,7 @@
 ---
 title: "Premiere Pro Rapid Transitions for 2024"
-date: 2024-05-29 23:47:35
-updated: 2024-05-30 12:40:41
+date: 2024-05-31T06:10:48.758Z
+updated: 2024-06-01T06:10:48.758Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ All these details will help you get some clarity to understand the best way to f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

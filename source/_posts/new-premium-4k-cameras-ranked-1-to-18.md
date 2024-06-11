@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Premium 4K Cameras  Ranked #1 to #18\""
-date: 2024-05-27 10:56:35
-updated: 2024-05-30 11:40:12
+date: 2024-05-31T06:08:28.734Z
+updated: 2024-06-01T06:08:28.734Z
 tags: 
   - screen-recording
   - ai video
@@ -1066,4 +1066,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Nikon J5 Sets New Standards in 4K Video Capture\""
-date: 2024-05-27 18:51:43
-updated: 2024-05-29 12:53:51
+date: 2024-05-31T06:10:07.501Z
+updated: 2024-06-01T06:10:07.501Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

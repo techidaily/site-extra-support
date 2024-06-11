@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Overcoming SRT Transfer Issues From Premiere"
-date: 2024-05-26 20:30:16
-updated: 2024-05-29 11:39:31
+date: 2024-05-31T06:11:38.584Z
+updated: 2024-06-01T06:11:38.584Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ That being said, if you want to save yourself from unwanted errors during the ex
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

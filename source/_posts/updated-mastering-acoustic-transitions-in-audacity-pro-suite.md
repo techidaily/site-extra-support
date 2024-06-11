@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Acoustic Transitions in Audacity Pro Suite"
-date: 2024-05-26 14:48:49
-updated: 2024-05-28 12:49:20
+date: 2024-05-31T06:09:35.492Z
+updated: 2024-06-01T06:09:35.492Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

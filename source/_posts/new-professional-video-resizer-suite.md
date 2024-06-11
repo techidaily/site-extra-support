@@ -1,7 +1,7 @@
 ---
 title: "[New] Professional Video Resizer Suite"
-date: 2024-05-28 23:53:58
-updated: 2024-05-30 10:11:47
+date: 2024-05-31T06:10:28.201Z
+updated: 2024-06-01T06:10:28.201Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ In many situations, we are needed to zoom edit the videos and this is where such
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

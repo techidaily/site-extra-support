@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Narrative Basics Explanation\""
-date: 2024-05-28 15:46:44
-updated: 2024-05-29 12:26:58
+date: 2024-05-31T06:10:26.199Z
+updated: 2024-06-01T06:10:26.199Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ The value of storytelling can help you increase customer engagement and establis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

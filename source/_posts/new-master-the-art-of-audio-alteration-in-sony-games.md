@@ -1,7 +1,7 @@
 ---
 title: "[New] Master the Art of Audio Alteration in Sony Games"
-date: 2024-05-25 12:49:44
-updated: 2024-05-28 10:45:21
+date: 2024-05-31T06:09:52.507Z
+updated: 2024-06-01T06:09:52.507Z
 tags: 
   - screen-recording
   - ai video
@@ -212,4 +212,5 @@ The recent version of Wondershare's professional video editing software is tailo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

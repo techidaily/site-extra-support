@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating Advanced Color Grading Techniques Using LUTs"
-date: 2024-05-26 16:35:42
-updated: 2024-05-29 11:25:11
+date: 2024-05-31T06:07:54.833Z
+updated: 2024-06-01T06:07:54.833Z
 tags: 
   - screen-recording
   - ai video
@@ -582,4 +582,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

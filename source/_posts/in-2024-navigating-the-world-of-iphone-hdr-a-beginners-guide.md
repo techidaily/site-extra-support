@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigating the World of iPhone HDR  A Beginner's Guide\""
-date: 2024-05-26 20:37:53
-updated: 2024-05-29 12:47:16
+date: 2024-05-31T06:07:58.884Z
+updated: 2024-06-01T06:07:58.884Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Zoom Video Conferencing via Email Client"
-date: 2024-05-27 10:51:51
-updated: 2024-05-29 12:42:56
+date: 2024-05-31T06:11:37.727Z
+updated: 2024-06-01T06:11:37.727Z
 tags: 
   - screen-recording
   - ai video
@@ -240,4 +240,5 @@ In a nutshell, so that everyone can arrive on time, you would be able to easily 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Speech Recognition Powered by Free Software for 2024"
-date: 2024-05-29 22:55:19
-updated: 2024-05-31 12:27:56
+date: 2024-05-31T06:09:47.944Z
+updated: 2024-06-01T06:09:47.944Z
 tags: 
   - screen-recording
   - ai video
@@ -132,4 +132,5 @@ Now you know how speech recognition can be helpful in your documentation work. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

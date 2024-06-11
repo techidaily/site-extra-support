@@ -1,7 +1,7 @@
 ---
 title: "[New] Smooth Sailing with Kinemaster in Film Edits"
-date: 2024-05-28 12:23:25
-updated: 2024-05-31 12:38:45
+date: 2024-05-31T06:11:40.046Z
+updated: 2024-06-01T06:11:40.046Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

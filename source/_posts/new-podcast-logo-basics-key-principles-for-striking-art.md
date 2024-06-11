@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Podcast Logo Basics  Key Principles for Striking Art\""
-date: 2024-05-28 14:13:22
-updated: 2024-05-29 12:57:46
+date: 2024-05-31T06:09:38.536Z
+updated: 2024-06-01T06:09:38.536Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ However, your podcast cover image can outshine competitors if you work on all th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

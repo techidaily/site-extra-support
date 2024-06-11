@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Mac Techniques to Edit SRT Files for 2024\""
-date: 2024-05-30 17:34:45
-updated: 2024-05-31 10:17:39
+date: 2024-05-31T06:09:37.909Z
+updated: 2024-06-01T06:09:37.909Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

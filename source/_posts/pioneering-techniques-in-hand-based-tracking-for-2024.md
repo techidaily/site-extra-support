@@ -1,7 +1,7 @@
 ---
 title: "\"Pioneering Techniques in Hand-Based Tracking for 2024\""
-date: 2024-05-27 23:24:34
-updated: 2024-05-29 10:28:55
+date: 2024-05-31T06:10:49.539Z
+updated: 2024-06-01T06:10:49.539Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

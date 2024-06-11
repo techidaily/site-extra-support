@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Storage Analysis  Videography on 64/128GB Hardware\""
-date: 2024-05-28 12:10:13
-updated: 2024-05-31 10:15:26
+date: 2024-05-31T06:06:48.339Z
+updated: 2024-06-01T06:06:48.339Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ A wide range of softwares and applications help with video compressing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

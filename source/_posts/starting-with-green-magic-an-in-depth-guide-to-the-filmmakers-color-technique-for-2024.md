@@ -1,7 +1,7 @@
 ---
 title: "\"Starting with Green Magic  An In-Depth Guide to the Filmmaker’s Color Technique for 2024\""
-date: 2024-05-29 22:16:23
-updated: 2024-05-31 11:22:19
+date: 2024-05-31T06:06:59.798Z
+updated: 2024-06-01T06:06:59.798Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

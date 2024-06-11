@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Proiphone Close-Up Techniques  Unlocking Creative Vision\""
-date: 2024-05-29 15:41:50
-updated: 2024-05-30 12:14:52
+date: 2024-05-31T06:11:51.238Z
+updated: 2024-06-01T06:11:51.238Z
 tags: 
   - screen-recording
   - ai video
@@ -534,4 +534,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

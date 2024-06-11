@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Investigating Unmodified Audio From FFmpeg Output\""
-date: 2024-05-24 14:37:20
-updated: 2024-05-27 11:26:15
+date: 2024-05-31T06:08:51.827Z
+updated: 2024-06-01T06:08:51.827Z
 tags: 
   - screen-recording
   - ai video
@@ -658,4 +658,5 @@ Knowing every detail of FFmpeg is a remarkable experience. We all are aware of F
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

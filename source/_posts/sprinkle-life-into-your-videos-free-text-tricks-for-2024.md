@@ -1,7 +1,7 @@
 ---
 title: "\"Sprinkle Life Into Your Videos  Free Text Tricks for 2024\""
-date: 2024-05-30 22:11:56
-updated: 2024-05-31 12:51:32
+date: 2024-05-31T06:11:31.777Z
+updated: 2024-06-01T06:11:31.777Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ After all, during the last several years, videos have been one of the most popul
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

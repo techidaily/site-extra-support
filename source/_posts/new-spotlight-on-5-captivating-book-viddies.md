@@ -1,7 +1,7 @@
 ---
 title: "[New] Spotlight on 5 Captivating Book Viddies"
-date: 2024-05-28 20:34:43
-updated: 2024-05-31 11:24:23
+date: 2024-05-31T06:07:18.759Z
+updated: 2024-06-01T06:07:18.759Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ This article concludes that book trailers mean a lot in this digital era. To gen
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

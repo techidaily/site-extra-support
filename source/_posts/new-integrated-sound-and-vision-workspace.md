@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrated Sound & Vision Workspace"
-date: 2024-05-25 13:36:28
-updated: 2024-05-27 12:21:46
+date: 2024-05-31T06:08:04.132Z
+updated: 2024-06-01T06:08:04.132Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ Thus, you had an interesting discussion on the best online audio to video maker 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

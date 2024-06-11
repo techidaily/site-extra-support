@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premier 10 Layouts  AE Text Edition\""
-date: 2024-05-28 17:53:17
-updated: 2024-05-29 10:38:37
+date: 2024-05-31T06:09:21.272Z
+updated: 2024-06-01T06:09:21.272Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

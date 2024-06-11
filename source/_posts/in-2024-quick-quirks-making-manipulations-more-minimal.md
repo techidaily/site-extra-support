@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quick Quirks  Making Manipulations More Minimal\""
-date: 2024-05-29 20:30:32
-updated: 2024-05-30 10:47:17
+date: 2024-05-31T06:08:41.448Z
+updated: 2024-06-01T06:08:41.448Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Without any doubt, Adobe Photoshop is one of the notorious tools to conduct adva
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

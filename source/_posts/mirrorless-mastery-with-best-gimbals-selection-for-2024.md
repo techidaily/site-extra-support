@@ -1,7 +1,7 @@
 ---
 title: "Mirrorless Mastery with Best Gimbals Selection for 2024"
-date: 2024-05-27 10:48:56
-updated: 2024-05-28 10:33:39
+date: 2024-05-31T06:10:43.649Z
+updated: 2024-06-01T06:10:43.649Z
 tags: 
   - screen-recording
   - ai video
@@ -946,4 +946,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

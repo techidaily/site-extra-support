@@ -1,7 +1,7 @@
 ---
 title: "\"Outlining Expenses  Creating a Music Video for 2024\""
-date: 2024-05-27 13:15:43
-updated: 2024-05-29 10:44:15
+date: 2024-05-31T06:10:59.950Z
+updated: 2024-06-01T06:10:59.950Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ The cost of a music video can vary due to different factors. Production costs li
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

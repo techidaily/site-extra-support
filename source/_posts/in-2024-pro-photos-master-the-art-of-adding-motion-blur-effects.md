@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pro Photos  Master the Art of Adding Motion Blur Effects\""
-date: 2024-05-29 23:35:36
-updated: 2024-05-30 11:40:36
+date: 2024-05-31T06:10:45.916Z
+updated: 2024-06-01T06:10:45.916Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

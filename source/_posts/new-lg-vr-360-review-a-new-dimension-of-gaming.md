@@ -1,7 +1,7 @@
 ---
 title: "\"[New] LG VR 360 Review  A New Dimension of Gaming\""
-date: 2024-05-26 12:48:30
-updated: 2024-05-28 11:54:26
+date: 2024-05-31T06:09:54.720Z
+updated: 2024-06-01T06:09:54.720Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

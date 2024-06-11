@@ -1,7 +1,7 @@
 ---
 title: "Safari Screens Freeze? Here's How to Fix Black Screen on FB for 2024"
-date: 2024-05-28 19:57:44
-updated: 2024-05-30 11:33:22
+date: 2024-05-31T06:08:02.741Z
+updated: 2024-06-01T06:08:02.741Z
 tags: 
   - screen-recording
   - ai video
@@ -526,4 +526,5 @@ You can rename the video and alter the location where you save it if you wish to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

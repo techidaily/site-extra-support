@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass in High-Speed Recording\""
-date: 2024-05-25 16:52:31
-updated: 2024-05-28 12:50:53
+date: 2024-05-31T06:08:26.627Z
+updated: 2024-06-01T06:08:26.627Z
 tags: 
   - screen-recording
   - ai video
@@ -116,4 +116,5 @@ Both in controlled lab settings and in actual shooting scenarios, we evaluate ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

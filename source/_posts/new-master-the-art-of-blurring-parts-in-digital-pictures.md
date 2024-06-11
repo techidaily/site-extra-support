@@ -1,7 +1,7 @@
 ---
 title: "[New] Master the Art of Blurring Parts in Digital Pictures"
-date: 2024-05-27 16:42:52
-updated: 2024-05-28 12:31:34
+date: 2024-05-31T06:07:30.118Z
+updated: 2024-06-01T06:07:30.118Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

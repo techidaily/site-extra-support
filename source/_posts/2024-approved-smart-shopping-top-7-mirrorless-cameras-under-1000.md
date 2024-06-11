@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Smart Shopping  Top 7 Mirrorless Cameras Under $1,000\""
-date: 2024-05-29 19:38:35
-updated: 2024-05-31 11:14:14
+date: 2024-05-31T06:09:39.008Z
+updated: 2024-06-01T06:09:39.008Z
 tags: 
   - screen-recording
   - ai video
@@ -738,4 +738,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

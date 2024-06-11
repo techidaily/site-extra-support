@@ -1,7 +1,7 @@
 ---
 title: "\"Remedy for Warped GoPro Imagery  A Comprehensive Tutorial for 2024\""
-date: 2024-05-28 19:15:20
-updated: 2024-05-30 10:14:22
+date: 2024-05-31T06:08:28.012Z
+updated: 2024-06-01T06:08:28.012Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

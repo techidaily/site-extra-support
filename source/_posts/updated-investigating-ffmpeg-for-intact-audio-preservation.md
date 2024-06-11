@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Investigating FFmpeg for Intact Audio Preservation"
-date: 2024-05-24 18:52:51
-updated: 2024-05-27 10:49:13
+date: 2024-05-31T06:10:18.001Z
+updated: 2024-06-01T06:10:18.001Z
 tags: 
   - screen-recording
   - ai video
@@ -658,4 +658,5 @@ Knowing every detail of FFmpeg is a remarkable experience. We all are aware of F
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

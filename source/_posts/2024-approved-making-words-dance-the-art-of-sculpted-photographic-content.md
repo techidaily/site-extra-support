@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Making Words Dance  The Art of Sculpted Photographic Content\""
-date: 2024-05-26 21:17:25
-updated: 2024-05-28 11:56:58
+date: 2024-05-31T06:08:11.181Z
+updated: 2024-06-01T06:08:11.181Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

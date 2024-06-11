@@ -1,7 +1,7 @@
 ---
 title: "[New] Live Stream Heroes Face Off – XSplit Vs. OBS Showcase"
-date: 2024-05-27 10:49:49
-updated: 2024-05-28 11:35:37
+date: 2024-05-31T06:09:51.790Z
+updated: 2024-06-01T06:09:51.790Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

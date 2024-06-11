@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Powerful Book Trailer Examples\""
-date: 2024-05-26 19:32:52
-updated: 2024-05-29 12:27:50
+date: 2024-05-31T06:09:43.987Z
+updated: 2024-06-01T06:09:43.987Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ This article concludes that book trailers mean a lot in this digital era. To gen
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

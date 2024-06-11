@@ -1,7 +1,7 @@
 ---
 title: "Storyboard Suite for Windows for 2024"
-date: 2024-05-30 20:14:22
-updated: 2024-05-31 12:20:55
+date: 2024-05-31T06:08:51.661Z
+updated: 2024-06-01T06:08:51.661Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

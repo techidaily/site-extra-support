@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Legendary Lens Showdown  SJ6 Vs. The Four-K Visionaries of Xiaomi\""
-date: 2024-05-25 10:23:25
-updated: 2024-05-28 12:49:13
+date: 2024-05-31T06:11:39.500Z
+updated: 2024-06-01T06:11:39.500Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

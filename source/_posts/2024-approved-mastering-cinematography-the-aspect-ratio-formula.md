@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Cinematography  The Aspect Ratio Formula\""
-date: 2024-05-27 23:54:41
-updated: 2024-05-28 10:41:56
+date: 2024-05-31T06:10:36.820Z
+updated: 2024-06-01T06:10:36.820Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

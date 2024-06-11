@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Netflix's Video Playback Controls\""
-date: 2024-05-26 15:14:47
-updated: 2024-05-29 10:46:13
+date: 2024-05-31T06:10:57.083Z
+updated: 2024-06-01T06:10:57.083Z
 tags: 
   - screen-recording
   - ai video
@@ -518,4 +518,5 @@ Netflix allows you to adjust the playback speed of the video to 0.75x and 0.5x t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

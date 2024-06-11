@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] K850 UltraHD  Samsung 2023 Tech Review\""
-date: 2024-05-27 10:44:58
-updated: 2024-05-28 10:13:56
+date: 2024-05-31T06:11:08.351Z
+updated: 2024-06-01T06:11:08.351Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

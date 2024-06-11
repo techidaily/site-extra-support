@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Secrets of the Trade in Sourcing Professional Filmmakers\""
-date: 2024-05-29 15:59:57
-updated: 2024-05-30 12:48:50
+date: 2024-05-31T06:06:25.837Z
+updated: 2024-06-01T06:06:25.837Z
 tags: 
   - screen-recording
   - ai video
@@ -206,4 +206,5 @@ For a good outcome of your video, you have to make it a point that you hire a sk
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Masters List  The Best 6 4K DSLR Cameras Today for 2024\""
-date: 2024-05-26 17:58:43
-updated: 2024-05-29 11:56:48
+date: 2024-05-31T06:11:47.193Z
+updated: 2024-06-01T06:11:47.193Z
 tags: 
   - screen-recording
   - ai video
@@ -642,4 +642,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Secrets of Selective Zoom Sharpening in Google Meet"
-date: 2024-05-28 23:32:24
-updated: 2024-05-30 10:52:11
+date: 2024-05-31T06:08:42.666Z
+updated: 2024-06-01T06:08:42.666Z
 tags: 
   - screen-recording
   - ai video
@@ -95,4 +95,5 @@ You may show additional information on your Google Meet by zooming in and out. O
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

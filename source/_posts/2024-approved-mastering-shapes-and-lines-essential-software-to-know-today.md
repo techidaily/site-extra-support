@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Shapes and Lines  Essential Software to Know Today\""
-date: 2024-05-27 22:36:47
-updated: 2024-05-28 10:58:40
+date: 2024-05-31T06:08:38.130Z
+updated: 2024-06-01T06:08:38.130Z
 tags: 
   - screen-recording
   - ai video
@@ -544,4 +544,5 @@ Indeed, vector images are beneficial for creating graphic designs like logos and
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

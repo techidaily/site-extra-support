@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Separate Visual Elements  Videos to Pics via Windows 10 Photos\""
-date: 2024-05-27 20:45:36
-updated: 2024-05-30 10:43:27
+date: 2024-05-31T06:09:57.489Z
+updated: 2024-06-01T06:09:57.489Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

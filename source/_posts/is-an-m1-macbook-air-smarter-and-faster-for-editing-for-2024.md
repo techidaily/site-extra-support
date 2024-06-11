@@ -1,7 +1,7 @@
 ---
 title: "Is an M1 MacBook Air Smarter and Faster for Editing for 2024"
-date: 2024-05-27 23:42:12
-updated: 2024-05-28 10:25:18
+date: 2024-05-31T06:07:01.134Z
+updated: 2024-06-01T06:07:01.134Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

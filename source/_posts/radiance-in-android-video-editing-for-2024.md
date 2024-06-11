@@ -1,7 +1,7 @@
 ---
 title: "Radiance in Android Video Editing for 2024"
-date: 2024-05-28 10:11:51
-updated: 2024-05-30 11:47:37
+date: 2024-05-31T06:09:45.394Z
+updated: 2024-06-01T06:09:45.394Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ If you need to adjust the brightness of your video, a video editing app like Fil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

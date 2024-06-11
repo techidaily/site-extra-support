@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Steps for MacOS Sierra Rollback to OS X El Capitan"
-date: 2024-05-29 20:20:13
-updated: 2024-05-31 10:44:10
+date: 2024-05-31T06:08:55.076Z
+updated: 2024-06-01T06:08:55.076Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

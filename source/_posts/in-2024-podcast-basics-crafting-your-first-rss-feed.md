@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Podcast Basics  Crafting Your First RSS Feed\""
-date: 2024-05-28 11:47:36
-updated: 2024-05-29 11:49:24
+date: 2024-05-31T06:11:49.229Z
+updated: 2024-06-01T06:11:49.229Z
 tags: 
   - screen-recording
   - ai video
@@ -328,4 +328,5 @@ Nevertheless, if you're looking for a reliable program to record and edit high-q
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

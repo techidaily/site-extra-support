@@ -1,7 +1,7 @@
 ---
 title: "[New] Powerful Literary Trailer Vids"
-date: 2024-05-26 14:16:47
-updated: 2024-05-29 10:47:32
+date: 2024-05-31T06:08:24.589Z
+updated: 2024-06-01T06:08:24.589Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ This article concludes that book trailers mean a lot in this digital era. To gen
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Faces  Incorporating Motion Blur in Photos with Picsart\""
-date: 2024-05-27 11:18:31
-updated: 2024-05-28 11:50:38
+date: 2024-05-31T06:11:34.940Z
+updated: 2024-06-01T06:11:34.940Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

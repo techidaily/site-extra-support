@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Microsoft’s Glimpse Into Augmented Reality – The HoloLens Journey\""
-date: 2024-05-27 23:17:27
-updated: 2024-05-28 11:54:48
+date: 2024-05-31T06:06:48.595Z
+updated: 2024-06-01T06:06:48.595Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

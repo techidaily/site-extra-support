@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick Guide  Integrating Titles Into Videos Within Windows Photos\""
-date: 2024-05-27 13:51:37
-updated: 2024-05-30 10:59:53
+date: 2024-05-31T06:10:13.065Z
+updated: 2024-06-01T06:10:13.065Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

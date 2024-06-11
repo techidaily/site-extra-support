@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Refining Photos  The Step-by-Step Guide to Clean Edges on Photopea\""
-date: 2024-05-28 23:33:25
-updated: 2024-05-30 12:23:10
+date: 2024-05-31T06:09:15.689Z
+updated: 2024-06-01T06:09:15.689Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

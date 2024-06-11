@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Next-Gen Photography Apps for Smarter iOS & Android Edits\""
-date: 2024-05-27 20:33:21
-updated: 2024-05-29 11:37:27
+date: 2024-05-31T06:07:21.982Z
+updated: 2024-06-01T06:07:21.982Z
 tags: 
   - screen-recording
   - ai video
@@ -1134,4 +1134,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

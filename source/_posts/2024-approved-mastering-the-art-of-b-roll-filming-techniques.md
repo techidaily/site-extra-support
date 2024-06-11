@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of B Roll Filming Techniques\""
-date: 2024-05-27 17:50:34
-updated: 2024-05-28 12:35:36
+date: 2024-05-31T06:07:35.372Z
+updated: 2024-06-01T06:07:35.372Z
 tags: 
   - screen-recording
   - ai video
@@ -106,4 +106,5 @@ We sincerely hope that this post will be of use to you in making your films more
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

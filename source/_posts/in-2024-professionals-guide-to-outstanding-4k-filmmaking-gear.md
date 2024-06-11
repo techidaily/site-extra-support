@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Professionals' Guide to Outstanding 4K Filmmaking Gear"
-date: 2024-05-28 17:51:57
-updated: 2024-05-30 12:17:34
+date: 2024-05-31T06:08:35.885Z
+updated: 2024-06-01T06:08:35.885Z
 tags: 
   - screen-recording
   - ai video
@@ -898,4 +898,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

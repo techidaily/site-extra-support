@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Podcast Production with GarageBand Tools"
-date: 2024-05-25 13:19:26
-updated: 2024-05-28 12:59:11
+date: 2024-05-31T06:07:33.275Z
+updated: 2024-06-01T06:07:33.275Z
 tags: 
   - screen-recording
   - ai video
@@ -511,4 +511,5 @@ However, if you're looking to edit podcasts on Windows, a tool like Filmora supp
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

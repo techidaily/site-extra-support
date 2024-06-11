@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Palette Wisdom  Essential Color Theory Explained\""
-date: 2024-05-26 17:15:24
-updated: 2024-05-29 10:29:24
+date: 2024-05-31T06:10:26.434Z
+updated: 2024-06-01T06:10:26.434Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ By including this into your thought process when creating videos with [Filmora](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

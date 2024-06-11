@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Multimedia in Educational Practice\""
-date: 2024-05-27 19:39:38
-updated: 2024-05-29 11:48:43
+date: 2024-05-31T06:10:41.630Z
+updated: 2024-06-01T06:10:41.630Z
 tags: 
   - screen-recording
   - ai video
@@ -97,4 +97,5 @@ More and more research supporting the advantages of blended learning will suppor
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

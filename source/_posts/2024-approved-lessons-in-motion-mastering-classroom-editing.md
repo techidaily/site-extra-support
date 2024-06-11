@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Lessons in Motion  Mastering Classroom Editing\""
-date: 2024-05-25 10:51:55
-updated: 2024-05-28 10:51:18
+date: 2024-05-31T06:11:51.131Z
+updated: 2024-06-01T06:11:51.131Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

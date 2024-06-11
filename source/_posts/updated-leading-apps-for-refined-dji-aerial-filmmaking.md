@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leading Apps for Refined DJi Aerial Filmmaking"
-date: 2024-05-27 17:48:19
-updated: 2024-05-28 10:22:19
+date: 2024-05-31T06:11:03.545Z
+updated: 2024-06-01T06:11:03.545Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

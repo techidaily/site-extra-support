@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Reinstating Legacy Windows Photo Viewer Feature for W10\""
-date: 2024-05-28 16:32:50
-updated: 2024-05-30 11:44:21
+date: 2024-05-31T06:10:50.792Z
+updated: 2024-06-01T06:10:50.792Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

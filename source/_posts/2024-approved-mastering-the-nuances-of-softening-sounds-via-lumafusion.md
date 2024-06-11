@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Nuances of Softening Sounds via Lumafusion\""
-date: 2024-05-27 13:34:58
-updated: 2024-05-28 10:25:53
+date: 2024-05-31T06:11:11.047Z
+updated: 2024-06-01T06:11:11.047Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

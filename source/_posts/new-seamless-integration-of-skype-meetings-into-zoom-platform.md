@@ -1,7 +1,7 @@
 ---
 title: "[New] Seamless Integration of Skype Meetings Into Zoom Platform"
-date: 2024-05-27 14:21:37
-updated: 2024-05-30 11:30:32
+date: 2024-05-31T06:08:47.463Z
+updated: 2024-06-01T06:08:47.463Z
 tags: 
   - screen-recording
   - ai video
@@ -102,4 +102,5 @@ As Microsoft has concentrated on enhancing Microsoft Teams for business users an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

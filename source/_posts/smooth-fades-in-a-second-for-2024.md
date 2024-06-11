@@ -1,7 +1,7 @@
 ---
 title: "Smooth Fades in a Second for 2024"
-date: 2024-05-29 20:10:42
-updated: 2024-05-31 11:27:13
+date: 2024-05-31T06:07:51.418Z
+updated: 2024-06-01T06:07:51.418Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ All these details will help you get some clarity to understand the best way to f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

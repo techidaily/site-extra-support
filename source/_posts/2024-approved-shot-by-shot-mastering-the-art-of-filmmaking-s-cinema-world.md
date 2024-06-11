@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shot by Shot  Mastering the Art of Filmmaking 'S Cinema World\""
-date: 2024-05-28 16:52:19
-updated: 2024-05-31 12:47:47
+date: 2024-05-31T06:09:50.658Z
+updated: 2024-06-01T06:09:50.658Z
 tags: 
   - screen-recording
   - ai video
@@ -230,4 +230,5 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

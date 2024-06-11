@@ -1,7 +1,7 @@
 ---
 title: "\"Premiere Pro  Utilizing LUT Techniques for 2024\""
-date: 2024-05-28 14:56:20
-updated: 2024-05-30 11:59:55
+date: 2024-05-31T06:11:00.894Z
+updated: 2024-06-01T06:11:00.894Z
 tags: 
   - screen-recording
   - ai video
@@ -117,4 +117,5 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

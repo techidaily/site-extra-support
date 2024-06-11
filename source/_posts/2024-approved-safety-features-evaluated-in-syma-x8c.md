@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Safety Features Evaluated in Syma X8C\""
-date: 2024-05-29 20:46:41
-updated: 2024-05-30 11:24:36
+date: 2024-05-31T06:10:05.873Z
+updated: 2024-06-01T06:10:05.873Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

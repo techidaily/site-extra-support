@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Premium TVs for PS5 & Xbox Series X Gamers' Dreams"
-date: 2024-05-27 20:26:15
-updated: 2024-05-30 12:31:44
+date: 2024-05-31T06:11:19.688Z
+updated: 2024-06-01T06:11:19.688Z
 tags: 
   - screen-recording
   - ai video
@@ -554,4 +554,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

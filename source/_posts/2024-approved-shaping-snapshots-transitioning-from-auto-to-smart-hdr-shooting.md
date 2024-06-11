@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shaping Snapshots  Transitioning From Auto to Smart HDR Shooting\""
-date: 2024-05-28 22:39:13
-updated: 2024-05-30 12:51:55
+date: 2024-05-31T06:11:05.400Z
+updated: 2024-06-01T06:11:05.400Z
 tags: 
   - screen-recording
   - ai video
@@ -241,4 +241,5 @@ Auto HDR will make sure both shadows and highlights are in focus, while Smart HD
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

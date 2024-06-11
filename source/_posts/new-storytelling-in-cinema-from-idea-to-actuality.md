@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Storytelling in Cinema  From Idea to Actuality\""
-date: 2024-05-30 23:22:54
-updated: 2024-05-31 11:47:37
+date: 2024-05-31T06:07:44.690Z
+updated: 2024-06-01T06:07:44.690Z
 tags: 
   - screen-recording
   - ai video
@@ -183,4 +183,5 @@ The article has provided the most information about screenplays and how to write
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

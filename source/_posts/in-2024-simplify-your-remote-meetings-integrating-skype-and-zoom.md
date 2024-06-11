@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Simplify Your Remote Meetings  Integrating Skype and Zoom\""
-date: 2024-05-30 10:52:57
-updated: 2024-05-31 12:25:10
+date: 2024-05-31T06:08:35.151Z
+updated: 2024-06-01T06:08:35.151Z
 tags: 
   - screen-recording
   - ai video
@@ -102,4 +102,5 @@ As Microsoft has concentrated on enhancing Microsoft Teams for business users an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

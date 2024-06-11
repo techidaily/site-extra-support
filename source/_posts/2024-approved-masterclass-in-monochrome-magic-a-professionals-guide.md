@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass in Monochrome Magic  A Professional's Guide\""
-date: 2024-05-27 17:18:33
-updated: 2024-05-28 11:34:29
+date: 2024-05-31T06:11:19.956Z
+updated: 2024-06-01T06:11:19.956Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  SRT to SUB Magic  Three Effective Ways\""
-date: 2024-05-30 20:17:51
-updated: 2024-05-31 10:32:23
+date: 2024-05-31T06:09:54.546Z
+updated: 2024-06-01T06:09:54.546Z
 tags: 
   - screen-recording
   - ai video
@@ -543,4 +543,5 @@ If you are facing issues opening and playing SRT subtitle files on your device, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

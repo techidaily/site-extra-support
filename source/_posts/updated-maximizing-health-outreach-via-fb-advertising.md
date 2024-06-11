@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Maximizing Health Outreach via FB Advertising"
-date: 2024-05-27 16:56:25
-updated: 2024-05-28 12:47:18
+date: 2024-05-31T06:07:15.898Z
+updated: 2024-06-01T06:07:15.898Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ We hope this blog post was informative and helpful. If you have any questions, f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

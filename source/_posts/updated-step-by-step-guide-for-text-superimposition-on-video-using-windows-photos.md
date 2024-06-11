@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide for Text Superimposition on Video Using Windows Photos\""
-date: 2024-05-30 18:50:37
-updated: 2024-05-31 12:38:49
+date: 2024-05-31T06:09:55.244Z
+updated: 2024-06-01T06:09:55.244Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

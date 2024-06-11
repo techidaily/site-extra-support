@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Securing a Spotlight with ZOOM & FB Live Integration"
-date: 2024-05-29 14:47:57
-updated: 2024-05-30 12:15:40
+date: 2024-05-31T06:07:19.071Z
+updated: 2024-06-01T06:07:19.071Z
 tags: 
   - screen-recording
   - ai video
@@ -118,4 +118,5 @@ It is very usual these days to stream Zoom meeting on Facebook so that everyone 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Introducing the Apple M1 Max Clip"
-date: 2024-05-25 13:54:42
-updated: 2024-05-27 10:52:45
+date: 2024-05-31T06:08:36.771Z
+updated: 2024-06-01T06:08:36.771Z
 tags: 
   - screen-recording
   - ai video
@@ -610,4 +610,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

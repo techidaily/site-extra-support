@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, PodcastPivot  Avoiding DaCast's Pitfalls\""
-date: 2024-05-26 16:38:43
-updated: 2024-05-29 11:34:24
+date: 2024-05-31T06:07:05.982Z
+updated: 2024-06-01T06:07:05.982Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

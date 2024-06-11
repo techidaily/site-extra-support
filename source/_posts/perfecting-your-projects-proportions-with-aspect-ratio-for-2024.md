@@ -1,7 +1,7 @@
 ---
 title: "Perfecting Your Project's Proportions with Aspect Ratio for 2024"
-date: 2024-05-27 11:40:28
-updated: 2024-05-29 10:46:10
+date: 2024-05-31T06:07:20.541Z
+updated: 2024-06-01T06:07:20.541Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

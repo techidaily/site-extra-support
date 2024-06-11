@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Low-Cost 4K Gear for Pros & Amateurs\""
-date: 2024-05-25 22:28:14
-updated: 2024-05-28 11:34:25
+date: 2024-05-31T06:10:15.449Z
+updated: 2024-06-01T06:10:15.449Z
 tags: 
   - screen-recording
   - ai video
@@ -1322,4 +1322,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

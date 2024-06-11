@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to 3D Text Effects in PSX for 2024\""
-date: 2024-05-29 17:46:23
-updated: 2024-05-31 11:12:22
+date: 2024-05-31T06:07:18.875Z
+updated: 2024-06-01T06:07:18.875Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

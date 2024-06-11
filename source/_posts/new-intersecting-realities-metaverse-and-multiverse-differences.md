@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Intersecting Realities  Metaverse and Multiverse Differences\""
-date: 2024-05-24 10:58:43
-updated: 2024-05-27 11:31:50
+date: 2024-05-31T06:06:57.969Z
+updated: 2024-06-01T06:06:57.969Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Hope lies in the fact that the formation of the Metaverse vs. Multiverse discour
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

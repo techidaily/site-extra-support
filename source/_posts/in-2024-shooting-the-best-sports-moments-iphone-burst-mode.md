@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Shooting the Best Sports Moments  IPhone Burst Mode\""
-date: 2024-05-29 19:19:31
-updated: 2024-05-31 11:39:19
+date: 2024-05-31T06:06:26.822Z
+updated: 2024-06-01T06:06:26.822Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

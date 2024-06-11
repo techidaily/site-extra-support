@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quantum HDR Phenomenon in Digital Photography"
-date: 2024-05-27 18:12:45
-updated: 2024-05-30 11:14:28
+date: 2024-05-31T06:11:51.381Z
+updated: 2024-06-01T06:11:51.381Z
 tags: 
   - screen-recording
   - ai video
@@ -202,4 +202,5 @@ All essential information anyone could want to know about Quantum HDR has been d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

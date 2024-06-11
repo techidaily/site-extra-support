@@ -1,7 +1,7 @@
 ---
 title: "Kinemaster's Guide to Fluid Film Segments for 2024"
-date: 2024-05-25 12:48:45
-updated: 2024-05-28 11:58:51
+date: 2024-05-31T06:11:26.724Z
+updated: 2024-06-01T06:11:26.724Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

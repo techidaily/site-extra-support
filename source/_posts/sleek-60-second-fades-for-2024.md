@@ -1,7 +1,7 @@
 ---
 title: "\"Sleek 60-Second Fades for 2024\""
-date: 2024-05-29 18:30:23
-updated: 2024-05-31 10:21:10
+date: 2024-05-31T06:06:55.841Z
+updated: 2024-06-01T06:06:55.841Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ All these details will help you get some clarity to understand the best way to f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

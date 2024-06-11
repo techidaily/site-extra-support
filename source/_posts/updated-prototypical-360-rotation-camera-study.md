@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Prototypical 360° Rotation Camera Study"
-date: 2024-05-27 23:13:18
-updated: 2024-05-30 12:15:22
+date: 2024-05-31T06:07:59.510Z
+updated: 2024-06-01T06:07:59.510Z
 tags: 
   - screen-recording
   - ai video
@@ -454,4 +454,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

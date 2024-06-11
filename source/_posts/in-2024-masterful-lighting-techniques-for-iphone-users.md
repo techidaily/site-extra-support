@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Masterful Lighting Techniques for IPhone Users"
-date: 2024-05-25 19:31:18
-updated: 2024-05-28 12:41:34
+date: 2024-05-31T06:07:33.849Z
+updated: 2024-06-01T06:07:33.849Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

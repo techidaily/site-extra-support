@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Altitude with DJI's New Gadget"
-date: 2024-05-27 16:17:32
-updated: 2024-05-28 11:23:56
+date: 2024-05-31T06:09:10.053Z
+updated: 2024-06-01T06:09:10.053Z
 tags: 
   - screen-recording
   - ai video
@@ -370,4 +370,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

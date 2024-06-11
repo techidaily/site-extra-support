@@ -1,7 +1,7 @@
 ---
 title: "[New] Pro Stabilized Gimbals for Smartphones, Tablets, and DSLR Cameras"
-date: 2024-05-29 17:40:19
-updated: 2024-05-30 10:32:13
+date: 2024-05-31T06:08:31.321Z
+updated: 2024-06-01T06:08:31.321Z
 tags: 
   - screen-recording
   - ai video
@@ -890,4 +890,5 @@ Because, let's face it, even the best video cameras require enough assistance to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

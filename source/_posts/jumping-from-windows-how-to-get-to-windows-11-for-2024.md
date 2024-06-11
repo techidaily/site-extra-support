@@ -1,7 +1,7 @@
 ---
 title: "\"Jumping From Windows  How to Get to Windows 11 for 2024\""
-date: 2024-05-26 13:53:42
-updated: 2024-05-28 12:48:26
+date: 2024-05-31T06:09:16.376Z
+updated: 2024-06-01T06:09:16.376Z
 tags: 
   - screen-recording
   - ai video
@@ -702,4 +702,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

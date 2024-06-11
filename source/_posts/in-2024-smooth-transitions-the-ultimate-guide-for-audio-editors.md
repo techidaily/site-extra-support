@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Smooth Transitions  The Ultimate Guide for Audio Editors\""
-date: 2024-05-28 13:18:36
-updated: 2024-05-31 11:10:27
+date: 2024-05-31T06:08:30.241Z
+updated: 2024-06-01T06:08:30.241Z
 tags: 
   - screen-recording
   - ai video
@@ -235,4 +235,5 @@ In a nutshell, it's important to use the right program to customize the fade in/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

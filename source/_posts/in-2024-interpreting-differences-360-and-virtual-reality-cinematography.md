@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Interpreting Differences  360° and Virtual Reality Cinematography\""
-date: 2024-05-26 14:29:33
-updated: 2024-05-27 10:13:38
+date: 2024-05-31T06:11:37.980Z
+updated: 2024-06-01T06:11:37.980Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

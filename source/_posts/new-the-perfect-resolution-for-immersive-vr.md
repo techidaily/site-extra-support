@@ -1,7 +1,7 @@
 ---
 title: "[New] The Perfect Resolution for Immersive VR"
-date: 2024-05-26 20:36:15
-updated: 2024-05-29 11:10:33
+date: 2024-05-31T06:06:50.804Z
+updated: 2024-06-01T06:06:50.804Z
 tags: 
   - screen-recording
   - ai video
@@ -170,4 +170,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

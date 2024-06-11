@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Masterclass in Timelapse Capture via GoPro Studio"
-date: 2024-05-27 14:21:33
-updated: 2024-05-28 10:35:21
+date: 2024-05-31T06:07:47.342Z
+updated: 2024-06-01T06:07:47.342Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Fading Techniques for Less Intensity in Logic Pro Tracks for 2024"
-date: 2024-05-26 13:48:42
-updated: 2024-05-28 12:10:21
+date: 2024-05-31T06:10:33.086Z
+updated: 2024-06-01T06:10:33.086Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ Apple's Logic Pro X is not compatible with Windows-based computers. Therefore, i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

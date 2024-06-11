@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Rapid Shot Mastery  The Ultimate Guide to Homemade Cinematography\""
-date: 2024-05-28 13:33:48
-updated: 2024-05-30 12:32:30
+date: 2024-05-31T06:11:09.761Z
+updated: 2024-06-01T06:11:09.761Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Experiment with other props at home and see which hack evolved from them. You ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

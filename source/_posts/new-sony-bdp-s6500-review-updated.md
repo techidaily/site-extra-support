@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sony BDP-S6500 Review - Updated\""
-date: 2024-05-30 20:40:37
-updated: 2024-05-31 11:53:44
+date: 2024-05-31T06:11:36.545Z
+updated: 2024-06-01T06:11:36.545Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

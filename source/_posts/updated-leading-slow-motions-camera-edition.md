@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Leading Slow-Motions  Camera Edition\""
-date: 2024-05-26 15:46:38
-updated: 2024-05-28 10:13:20
+date: 2024-05-31T06:07:21.342Z
+updated: 2024-06-01T06:07:21.342Z
 tags: 
   - screen-recording
   - ai video
@@ -116,4 +116,5 @@ Both in controlled lab settings and in actual shooting scenarios, we evaluate ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

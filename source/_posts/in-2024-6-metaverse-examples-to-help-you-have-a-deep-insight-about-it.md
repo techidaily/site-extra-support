@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 6 Metaverse Examples to Help You Have a Deep Insight About It"
-date: 2024-05-25 19:51:31
-updated: 2024-05-28 12:55:41
+date: 2024-05-31T06:09:21.398Z
+updated: 2024-06-01T06:09:21.398Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ Metaverse is still under development but several companies have already started 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sparkle with Style  Animating Text in Your Insta Stories\""
-date: 2024-05-30 23:32:34
-updated: 2024-05-31 12:46:47
+date: 2024-05-31T06:09:49.285Z
+updated: 2024-06-01T06:09:49.285Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ The success or failure of your Instagram company depends in large part on engage
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

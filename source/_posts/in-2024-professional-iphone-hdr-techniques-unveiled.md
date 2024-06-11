@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Professional iPhone HDR Techniques Unveiled"
-date: 2024-05-27 10:57:30
-updated: 2024-05-30 10:28:18
+date: 2024-05-31T06:09:53.939Z
+updated: 2024-06-01T06:09:53.939Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Making the Most Out of Video Calls  Combining Skype & Zoom\""
-date: 2024-05-27 22:10:25
-updated: 2024-05-28 12:34:27
+date: 2024-05-31T06:10:18.763Z
+updated: 2024-06-01T06:10:18.763Z
 tags: 
   - screen-recording
   - ai video
@@ -102,4 +102,5 @@ As Microsoft has concentrated on enhancing Microsoft Teams for business users an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

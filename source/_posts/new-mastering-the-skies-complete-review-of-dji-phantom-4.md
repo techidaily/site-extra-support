@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering the Skies  Complete Review of DJI Phantom 4\""
-date: 2024-05-26 15:29:35
-updated: 2024-05-28 12:58:52
+date: 2024-05-31T06:08:24.541Z
+updated: 2024-06-01T06:08:24.541Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

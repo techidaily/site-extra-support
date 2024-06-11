@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Intriguing Book Trailers on Display"
-date: 2024-05-25 10:16:26
-updated: 2024-05-27 12:13:57
+date: 2024-05-31T06:06:39.523Z
+updated: 2024-06-01T06:06:39.523Z
 tags: 
   - screen-recording
   - ai video
@@ -176,4 +176,5 @@ This article concludes that book trailers mean a lot in this digital era. To gen
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

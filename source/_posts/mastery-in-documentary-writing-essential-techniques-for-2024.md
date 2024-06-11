@@ -1,7 +1,7 @@
 ---
 title: "\"Mastery in Documentary Writing  Essential Techniques for 2024\""
-date: 2024-05-25 23:41:52
-updated: 2024-05-28 11:38:41
+date: 2024-05-31T06:07:10.093Z
+updated: 2024-06-01T06:07:10.093Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ So, the last words for this educational post are that, as we all know, writing a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

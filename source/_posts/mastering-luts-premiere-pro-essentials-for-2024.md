@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering LUTs  Premiere Pro Essentials for 2024\""
-date: 2024-05-27 23:48:21
-updated: 2024-05-28 10:51:52
+date: 2024-05-31T06:08:42.464Z
+updated: 2024-06-01T06:08:42.464Z
 tags: 
   - screen-recording
   - ai video
@@ -117,4 +117,5 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

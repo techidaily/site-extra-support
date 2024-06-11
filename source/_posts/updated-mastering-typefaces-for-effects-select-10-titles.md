@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Typefaces for Effects  Select 10 Titles\""
-date: 2024-05-27 23:40:37
-updated: 2024-05-28 10:41:54
+date: 2024-05-31T06:11:42.571Z
+updated: 2024-06-01T06:11:42.571Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Integrated Camera Use  Photos and Videos on One Phone\""
-date: 2024-05-25 15:32:55
-updated: 2024-05-27 11:33:56
+date: 2024-05-31T06:07:01.733Z
+updated: 2024-06-01T06:07:01.733Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

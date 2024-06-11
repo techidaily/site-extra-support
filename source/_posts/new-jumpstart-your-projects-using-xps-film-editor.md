@@ -1,7 +1,7 @@
 ---
 title: "[New] Jumpstart Your Projects Using XP's Film Editor"
-date: 2024-05-25 17:50:12
-updated: 2024-05-28 11:42:49
+date: 2024-05-31T06:08:47.246Z
+updated: 2024-06-01T06:08:47.246Z
 tags: 
   - screen-recording
   - ai video
@@ -135,4 +135,5 @@ Microsoft Photos replaced the famous software, Windows Movie Maker, and the app 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

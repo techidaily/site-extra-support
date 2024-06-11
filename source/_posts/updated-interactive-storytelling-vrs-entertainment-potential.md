@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Interactive Storytelling  VR's Entertainment Potential\""
-date: 2024-05-25 13:52:39
-updated: 2024-05-27 11:19:37
+date: 2024-05-31T06:07:10.346Z
+updated: 2024-06-01T06:07:10.346Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

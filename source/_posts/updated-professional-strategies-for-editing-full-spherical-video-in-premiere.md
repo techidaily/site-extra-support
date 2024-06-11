@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Professional Strategies for Editing Full Spherical Video in Premiere"
-date: 2024-05-28 11:19:43
-updated: 2024-05-30 11:45:11
+date: 2024-05-31T06:08:12.664Z
+updated: 2024-06-01T06:08:12.664Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

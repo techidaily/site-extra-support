@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Make Your Own VR Gear  DIY Guide for Google Cardboard Viewers\""
-date: 2024-05-25 10:59:33
-updated: 2024-05-28 11:44:59
+date: 2024-05-31T06:08:50.347Z
+updated: 2024-06-01T06:08:50.347Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

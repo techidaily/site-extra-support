@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Moto Z2's Smarter Edge  An Exclusive Look\""
-date: 2024-05-26 13:33:48
-updated: 2024-05-29 12:25:20
+date: 2024-05-31T06:08:22.941Z
+updated: 2024-06-01T06:08:22.941Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

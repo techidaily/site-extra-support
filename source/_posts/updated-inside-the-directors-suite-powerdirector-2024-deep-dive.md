@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Inside the Director's Suite  PowerDirector 2024 Deep Dive\""
-date: 2024-05-26 11:34:20
-updated: 2024-05-27 11:41:39
+date: 2024-05-31T06:06:57.376Z
+updated: 2024-06-01T06:06:57.376Z
 tags: 
   - screen-recording
   - ai video
@@ -209,4 +209,5 @@ Now that you have learned how you can try editing another movie and uploading yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

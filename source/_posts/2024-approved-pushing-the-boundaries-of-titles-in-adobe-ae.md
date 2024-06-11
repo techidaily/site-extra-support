@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pushing the Boundaries of Titles in Adobe AE\""
-date: 2024-05-29 12:36:17
-updated: 2024-05-30 12:55:50
+date: 2024-05-31T06:08:44.599Z
+updated: 2024-06-01T06:08:44.599Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ Motion title is a dynamic text effect template available in After Effects throug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

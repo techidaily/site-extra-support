@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Key Components in Upgrading From Standard to 4K Lenses"
-date: 2024-05-27 12:22:58
-updated: 2024-05-28 10:36:26
+date: 2024-05-31T06:07:44.806Z
+updated: 2024-06-01T06:07:44.806Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

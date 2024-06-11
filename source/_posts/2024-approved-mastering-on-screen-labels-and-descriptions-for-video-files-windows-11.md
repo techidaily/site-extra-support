@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering On-Screen Labels and Descriptions for Video Files (Windows 11)\""
-date: 2024-05-25 14:19:57
-updated: 2024-05-28 10:44:42
+date: 2024-05-31T06:07:27.219Z
+updated: 2024-06-01T06:07:27.219Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

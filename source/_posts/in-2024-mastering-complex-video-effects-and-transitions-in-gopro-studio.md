@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Complex Video Effects and Transitions in GoPro Studio"
-date: 2024-05-26 21:32:57
-updated: 2024-05-28 12:34:53
+date: 2024-05-31T06:07:03.461Z
+updated: 2024-06-01T06:07:03.461Z
 tags: 
   - screen-recording
   - ai video
@@ -654,4 +654,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Leading Narrative Construction Sphere for 2024"
-date: 2024-05-25 12:24:30
-updated: 2024-05-28 11:58:29
+date: 2024-05-31T06:11:23.519Z
+updated: 2024-06-01T06:11:23.519Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ To write a video script quickly, you should use templates, which are designed to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

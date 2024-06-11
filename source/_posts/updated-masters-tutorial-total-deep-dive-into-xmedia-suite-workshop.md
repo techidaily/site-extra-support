@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Master's Tutorial  Total Deep Dive Into XMedia Suite Workshop\""
-date: 2024-05-27 23:11:57
-updated: 2024-05-28 10:42:28
+date: 2024-05-31T06:08:45.235Z
+updated: 2024-06-01T06:08:45.235Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ We hope this review helped resolve your queries, and you can now decide whether 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

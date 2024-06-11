@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Refined Retouches  Using the Eraser in Photoshop Proficiently\""
-date: 2024-05-28 19:25:30
-updated: 2024-05-30 11:57:44
+date: 2024-05-31T06:10:04.055Z
+updated: 2024-06-01T06:10:04.055Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Hopefully, you can use the tools in Phoshop with ease and remove images' backgro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

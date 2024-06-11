@@ -1,7 +1,7 @@
 ---
 title: "\"Metaverse Mayhem  Top 10 Sci-Fi Movies Breaking Boundaries for 2024\""
-date: 2024-05-26 22:15:58
-updated: 2024-05-28 10:29:49
+date: 2024-05-31T06:10:07.813Z
+updated: 2024-06-01T06:10:07.813Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ The world is heading for a more advanced form of technology that would go beyond
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

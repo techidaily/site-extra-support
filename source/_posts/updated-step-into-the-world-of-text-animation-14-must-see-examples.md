@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step Into the World of Text Animation  14 Must-See Examples\""
-date: 2024-05-29 23:32:57
-updated: 2024-05-31 11:10:15
+date: 2024-05-31T06:10:09.856Z
+updated: 2024-06-01T06:10:09.856Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ We have discussed all the common type of text animations that are used to create
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Nikon's D500 Takes on 4K Clarity and Quality"
-date: 2024-05-26 16:58:54
-updated: 2024-05-29 10:10:11
+date: 2024-05-31T06:06:54.530Z
+updated: 2024-06-01T06:06:54.530Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

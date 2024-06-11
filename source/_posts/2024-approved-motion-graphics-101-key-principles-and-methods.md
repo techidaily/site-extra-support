@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Motion Graphics 101  Key Principles & Methods\""
-date: 2024-05-26 11:42:33
-updated: 2024-05-29 10:50:21
+date: 2024-05-31T06:11:10.152Z
+updated: 2024-06-01T06:11:10.152Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

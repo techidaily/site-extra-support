@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering the Art of Greenscreen in KineMaster"
-date: 2024-05-26 13:32:30
-updated: 2024-05-28 12:18:45
+date: 2024-05-31T06:07:18.222Z
+updated: 2024-06-01T06:07:18.222Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simplifying Transition Workflows  Audacity's Crossfade Capabilities\""
-date: 2024-05-30 21:10:56
-updated: 2024-05-31 12:46:54
+date: 2024-05-31T06:11:25.631Z
+updated: 2024-06-01T06:11:25.631Z
 tags: 
   - screen-recording
   - ai video
@@ -188,4 +188,5 @@ In summary, Audacity is a free audio tool that's really simple to use. By utiliz
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

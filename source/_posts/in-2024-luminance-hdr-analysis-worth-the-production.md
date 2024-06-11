@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Luminance HDR Analysis  Worth the Production?\""
-date: 2024-05-26 12:23:23
-updated: 2024-05-28 12:52:57
+date: 2024-05-31T06:10:38.503Z
+updated: 2024-06-01T06:10:38.503Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ In addition to that, if you're looking to edit HDR videos with high quality, we 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

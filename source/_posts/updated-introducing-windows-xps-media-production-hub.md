@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Introducing Windows XP's Media Production Hub"
-date: 2024-05-24 17:43:18
-updated: 2024-05-27 12:49:21
+date: 2024-05-31T06:09:58.429Z
+updated: 2024-06-01T06:09:58.429Z
 tags: 
   - screen-recording
   - ai video
@@ -135,4 +135,5 @@ Microsoft Photos replaced the famous software, Windows Movie Maker, and the app 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

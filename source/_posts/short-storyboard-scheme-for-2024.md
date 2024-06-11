@@ -1,7 +1,7 @@
 ---
 title: "Short Storyboard Scheme for 2024"
-date: 2024-05-28 12:33:14
-updated: 2024-05-31 10:15:25
+date: 2024-05-31T06:08:37.847Z
+updated: 2024-06-01T06:08:37.847Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

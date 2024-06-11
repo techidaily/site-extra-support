@@ -1,7 +1,7 @@
 ---
 title: "Pushing Boundaries in Visual Storytelling with HDR for 2024"
-date: 2024-05-27 10:20:54
-updated: 2024-05-30 11:22:16
+date: 2024-05-31T06:11:22.966Z
+updated: 2024-06-01T06:11:22.966Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ SDR quality is available in most televisions, monitors, and photography platform
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

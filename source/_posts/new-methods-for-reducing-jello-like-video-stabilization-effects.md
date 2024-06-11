@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Methods for Reducing Jello-Like Video Stabilization Effects\""
-date: 2024-05-27 23:28:47
-updated: 2024-05-28 11:44:41
+date: 2024-05-31T06:10:42.958Z
+updated: 2024-06-01T06:10:42.958Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

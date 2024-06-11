@@ -1,7 +1,7 @@
 ---
 title: "[New] Pro Audio Recording Excellence with Audacity"
-date: 2024-05-28 20:37:43
-updated: 2024-05-30 10:44:35
+date: 2024-05-31T06:11:00.740Z
+updated: 2024-06-01T06:11:00.740Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ Simply select the necessary file format from the drop-down box that appears next
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

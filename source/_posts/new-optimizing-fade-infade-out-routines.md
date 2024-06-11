@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Optimizing Fade-In/Fade-Out Routines\""
-date: 2024-05-28 15:25:44
-updated: 2024-05-29 11:44:18
+date: 2024-05-31T06:09:17.497Z
+updated: 2024-06-01T06:09:17.497Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ In essence, Ableton just refuses to display fades on certain songs. Fades won't 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Integrated Video Workflows on iOS for 2024"
-date: 2024-05-25 10:10:19
-updated: 2024-05-27 12:40:17
+date: 2024-05-31T06:07:41.195Z
+updated: 2024-06-01T06:07:41.195Z
 tags: 
   - screen-recording
   - ai video
@@ -474,4 +474,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

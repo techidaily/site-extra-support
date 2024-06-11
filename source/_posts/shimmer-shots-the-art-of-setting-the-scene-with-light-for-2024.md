@@ -1,7 +1,7 @@
 ---
 title: "\"Shimmer Shots  The Art of Setting the Scene with Light for 2024\""
-date: 2024-05-30 15:27:38
-updated: 2024-05-31 12:58:36
+date: 2024-05-31T06:08:37.087Z
+updated: 2024-06-01T06:08:37.087Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

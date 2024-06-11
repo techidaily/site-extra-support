@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Low-Volume Settings in OS X/Windows\""
-date: 2024-05-25 20:19:36
-updated: 2024-05-28 10:50:16
+date: 2024-05-31T06:11:51.159Z
+updated: 2024-06-01T06:11:51.159Z
 tags: 
   - screen-recording
   - ai video
@@ -212,4 +212,5 @@ Adding fade music effects is not only about making money or trying to add spine 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

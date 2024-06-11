@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photoshop's Handy Hacks for Horizontal and Vertical Warping\""
-date: 2024-05-26 10:19:27
-updated: 2024-05-29 12:17:49
+date: 2024-05-31T06:07:28.080Z
+updated: 2024-06-01T06:07:28.080Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

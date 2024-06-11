@@ -1,7 +1,7 @@
 ---
 title: "\"Perfect Hues at Your Fingertips  The Essential 11 Tutorial List for 2024\""
-date: 2024-05-27 15:27:26
-updated: 2024-05-29 12:10:43
+date: 2024-05-31T06:06:51.611Z
+updated: 2024-06-01T06:06:51.611Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ In short, we've touched on many different color grading tutorials that simplify 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

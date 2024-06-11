@@ -1,7 +1,7 @@
 ---
 title: "Spiritual Slow Motion Tutorial for 2024"
-date: 2024-05-30 21:50:40
-updated: 2024-05-31 11:47:30
+date: 2024-05-31T06:08:42.744Z
+updated: 2024-06-01T06:08:42.744Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ As filmmakers and video lovers, we have come up with some solid examples of time
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

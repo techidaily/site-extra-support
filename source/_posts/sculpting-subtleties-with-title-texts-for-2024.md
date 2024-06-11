@@ -1,7 +1,7 @@
 ---
 title: "Sculpting Subtleties with Title Texts for 2024"
-date: 2024-05-28 12:32:39
-updated: 2024-05-30 12:22:17
+date: 2024-05-31T06:07:15.816Z
+updated: 2024-06-01T06:07:15.816Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ Motion title is a dynamic text effect template available in After Effects throug
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

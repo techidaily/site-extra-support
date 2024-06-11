@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photo Perfection on iPhones & Androids  Blurring Basics\""
-date: 2024-05-27 20:41:34
-updated: 2024-05-29 10:10:29
+date: 2024-05-31T06:11:13.901Z
+updated: 2024-06-01T06:11:13.901Z
 tags: 
   - screen-recording
   - ai video
@@ -762,4 +762,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Smoothing Out The Rough Edges In Photo Booth Videos"
-date: 2024-05-30 17:35:20
-updated: 2024-05-31 12:25:48
+date: 2024-05-31T06:08:38.626Z
+updated: 2024-06-01T06:08:38.626Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

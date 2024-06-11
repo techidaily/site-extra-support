@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Professional Choice  Top 10 4K DSLR Stands for Filmmakers\""
-date: 2024-05-29 13:27:34
-updated: 2024-05-30 10:28:44
+date: 2024-05-31T06:10:32.960Z
+updated: 2024-06-01T06:10:32.960Z
 tags: 
   - screen-recording
   - ai video
@@ -1082,4 +1082,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

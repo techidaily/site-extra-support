@@ -1,7 +1,7 @@
 ---
 title: "\"Photobooth Recording Stalls  What's Goin' On, In 2024\""
-date: 2024-05-28 18:37:47
-updated: 2024-05-29 12:31:36
+date: 2024-05-31T06:07:04.584Z
+updated: 2024-06-01T06:07:04.584Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

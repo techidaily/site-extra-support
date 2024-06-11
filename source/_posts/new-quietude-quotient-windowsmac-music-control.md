@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quietude Quotient  Windows/Mac Music Control\""
-date: 2024-05-29 13:53:28
-updated: 2024-05-30 11:37:11
+date: 2024-05-31T06:09:10.178Z
+updated: 2024-06-01T06:09:10.178Z
 tags: 
   - screen-recording
   - ai video
@@ -212,4 +212,5 @@ Adding fade music effects is not only about making money or trying to add spine 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photo Prospectus  Top 10 Professional Lens Choices\""
-date: 2024-05-28 22:20:52
-updated: 2024-05-29 12:57:44
+date: 2024-05-31T06:07:20.835Z
+updated: 2024-06-01T06:07:20.835Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Another query arises after taking a look at these new camera lens prices. Is it 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

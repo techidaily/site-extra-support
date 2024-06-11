@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Simplified Guide  Designing Your Podcast's RSS Feed\""
-date: 2024-05-28 17:23:33
-updated: 2024-05-31 10:13:27
+date: 2024-05-31T06:07:01.579Z
+updated: 2024-06-01T06:07:01.579Z
 tags: 
   - screen-recording
   - ai video
@@ -328,4 +328,5 @@ Nevertheless, if you're looking for a reliable program to record and edit high-q
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

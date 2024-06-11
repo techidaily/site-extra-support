@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastery in Media Manipulation  TTML & XML for Superior SRT Outputs\""
-date: 2024-05-27 19:10:26
-updated: 2024-05-28 11:37:44
+date: 2024-05-31T06:08:01.726Z
+updated: 2024-06-01T06:08:01.726Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

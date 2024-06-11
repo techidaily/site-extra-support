@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Visual Storytelling with Top Text Techniques for 2024"
-date: 2024-05-26 13:56:50
-updated: 2024-05-28 11:33:24
+date: 2024-05-31T06:07:05.193Z
+updated: 2024-06-01T06:07:05.193Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ We have listed the most popular text effects that are widely used in today’s v
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Scrutinizing the Most Accessible, Affordable LUT Collections for 2024"
-date: 2024-05-28 11:21:20
-updated: 2024-05-30 11:12:19
+date: 2024-05-31T06:10:27.502Z
+updated: 2024-06-01T06:10:27.502Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ The LUTs are a great way to add-up effects to your photos and videos. We have in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

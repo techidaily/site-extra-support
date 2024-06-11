@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Single-Frame Solution  Separate and Save Pics From Video in Windows Photos\""
-date: 2024-05-29 16:41:27
-updated: 2024-05-31 12:24:38
+date: 2024-05-31T06:10:02.525Z
+updated: 2024-06-01T06:10:02.525Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

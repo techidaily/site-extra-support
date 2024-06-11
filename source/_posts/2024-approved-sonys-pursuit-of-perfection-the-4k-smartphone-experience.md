@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sony's Pursuit of Perfection  The 4K Smartphone Experience\""
-date: 2024-05-29 16:56:58
-updated: 2024-05-31 11:29:36
+date: 2024-05-31T06:07:23.230Z
+updated: 2024-06-01T06:07:23.230Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

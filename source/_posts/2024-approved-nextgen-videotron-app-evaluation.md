@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  NextGen Videotron App Evaluation\""
-date: 2024-05-28 12:40:53
-updated: 2024-05-29 11:51:23
+date: 2024-05-31T06:06:54.360Z
+updated: 2024-06-01T06:06:54.360Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ Hopefully, you find this guide helpful and can now create fantastic videos using
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

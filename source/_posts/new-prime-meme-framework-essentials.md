@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime Meme Framework Essentials"
-date: 2024-05-28 19:30:45
-updated: 2024-05-30 11:17:47
+date: 2024-05-31T06:09:08.463Z
+updated: 2024-06-01T06:09:08.463Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ In summary, without some of the internet's funniest memes, there would be an une
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

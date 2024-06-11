@@ -1,7 +1,7 @@
 ---
 title: "Invisible Motion Capture Instruction for 2024"
-date: 2024-05-25 22:14:49
-updated: 2024-05-27 11:24:17
+date: 2024-05-31T06:07:57.468Z
+updated: 2024-06-01T06:07:57.468Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ As filmmakers and video lovers, we have come up with some solid examples of time
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

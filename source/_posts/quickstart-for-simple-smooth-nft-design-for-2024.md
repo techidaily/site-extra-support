@@ -1,7 +1,7 @@
 ---
 title: "Quickstart for Simple, Smooth NFT Design for 2024"
-date: 2024-05-29 16:25:10
-updated: 2024-05-30 12:40:39
+date: 2024-05-31T06:09:11.097Z
+updated: 2024-06-01T06:09:11.097Z
 tags: 
   - screen-recording
   - ai video
@@ -610,4 +610,5 @@ Finally, we would like to conclude the queries about the NFT marketplace. Indeed
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

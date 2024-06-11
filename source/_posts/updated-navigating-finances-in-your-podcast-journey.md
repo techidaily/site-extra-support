@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Finances in Your Podcast Journey"
-date: 2024-05-27 16:29:30
-updated: 2024-05-29 12:20:45
+date: 2024-05-31T06:10:31.738Z
+updated: 2024-06-01T06:10:31.738Z
 tags: 
   - screen-recording
   - ai video
@@ -480,4 +480,5 @@ You don't need to spend your wealth just to start a podcast channel. As you can 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

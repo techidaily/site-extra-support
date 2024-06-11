@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Effortless NFT Design for 2024"
-date: 2024-05-25 17:55:31
-updated: 2024-05-28 11:38:48
+date: 2024-05-31T06:10:55.721Z
+updated: 2024-06-01T06:10:55.721Z
 tags: 
   - screen-recording
   - ai video
@@ -610,4 +610,5 @@ Finally, we would like to conclude the queries about the NFT marketplace. Indeed
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

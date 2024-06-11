@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shades and Tones  Mastering the Visual Spectrum\""
-date: 2024-05-29 11:49:15
-updated: 2024-05-30 11:21:30
+date: 2024-05-31T06:09:52.281Z
+updated: 2024-06-01T06:09:52.281Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

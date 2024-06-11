@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Reducing Inertia-Induced Jello in UAV Videos\""
-date: 2024-05-28 10:36:55
-updated: 2024-05-30 12:38:46
+date: 2024-05-31T06:11:11.141Z
+updated: 2024-06-01T06:11:11.141Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

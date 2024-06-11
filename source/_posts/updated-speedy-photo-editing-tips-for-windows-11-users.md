@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Speedy Photo Editing Tips for Windows 11 Users"
-date: 2024-05-30 13:16:55
-updated: 2024-05-31 12:14:41
+date: 2024-05-31T06:09:38.814Z
+updated: 2024-06-01T06:09:38.814Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

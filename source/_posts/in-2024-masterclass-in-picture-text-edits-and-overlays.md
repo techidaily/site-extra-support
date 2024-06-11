@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Masterclass in Picture Text Edits and Overlays"
-date: 2024-05-27 21:21:12
-updated: 2024-05-28 10:20:27
+date: 2024-05-31T06:07:10.828Z
+updated: 2024-06-01T06:07:10.828Z
 tags: 
   - screen-recording
   - ai video
@@ -470,4 +470,5 @@ The best illustration of images is not possible without adding typography to the
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

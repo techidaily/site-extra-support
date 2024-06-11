@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Optimal Frames/Sec for High-Quality Slow-Motion Cinematography\""
-date: 2024-05-27 19:53:40
-updated: 2024-05-29 10:16:50
+date: 2024-05-31T06:11:25.521Z
+updated: 2024-06-01T06:11:25.521Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ There is no definite answer to which is the best frame rate for slow motion. It 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

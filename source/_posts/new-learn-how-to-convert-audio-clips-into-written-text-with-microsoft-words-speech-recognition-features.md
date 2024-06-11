@@ -1,7 +1,7 @@
 ---
 title: "[New] Learn How To Convert Audio Clips Into Written Text with Microsoft Word's Speech Recognition Features"
-date: 2024-05-26 20:33:46
-updated: 2024-05-28 10:31:58
+date: 2024-05-31T06:08:59.436Z
+updated: 2024-06-01T06:08:59.436Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ Microsoft Word's speech-to-text feature is not perfect, but it can be a huge tim
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Art of Larger YouTube Media"
-date: 2024-05-26 16:44:12
-updated: 2024-05-28 11:44:51
+date: 2024-05-31T06:07:24.289Z
+updated: 2024-06-01T06:07:24.289Z
 tags: 
   - screen-recording
   - ai video
@@ -142,4 +142,5 @@ There are several ways you can zoom into YouTube videos to check out the desired
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

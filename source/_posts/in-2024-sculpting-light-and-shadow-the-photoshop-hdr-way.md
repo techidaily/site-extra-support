@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sculpting Light and Shadow  The Photoshop HDR Way\""
-date: 2024-05-28 13:34:57
-updated: 2024-05-30 10:28:37
+date: 2024-05-31T06:09:42.588Z
+updated: 2024-06-01T06:09:42.588Z
 tags: 
   - screen-recording
   - ai video
@@ -455,4 +455,5 @@ We've also explained the different key features of Photoshop, and if perhaps you
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering HDR Portraiture  Comprehensive Photography Guide for 2024\""
-date: 2024-05-27 15:10:52
-updated: 2024-05-28 10:10:42
+date: 2024-05-31T06:11:28.292Z
+updated: 2024-06-01T06:11:28.292Z
 tags: 
   - screen-recording
   - ai video
@@ -287,4 +287,5 @@ It is not as difficult as it seems to shoot an HDR portrait. We have made it as 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

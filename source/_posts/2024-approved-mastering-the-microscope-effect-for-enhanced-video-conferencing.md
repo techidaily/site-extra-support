@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Microscope Effect for Enhanced Video Conferencing\""
-date: 2024-05-25 12:11:21
-updated: 2024-05-28 10:24:43
+date: 2024-05-31T06:10:53.764Z
+updated: 2024-06-01T06:10:53.764Z
 tags: 
   - screen-recording
   - ai video
@@ -95,4 +95,5 @@ You may show additional information on your Google Meet by zooming in and out. O
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

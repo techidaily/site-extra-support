@@ -1,7 +1,7 @@
 ---
 title: "\"Samsung Gear 360 vs LG 360 Cam  Which 360 Degree Camera Is Better for 2024\""
-date: 2024-05-28 20:38:30
-updated: 2024-05-30 10:31:20
+date: 2024-05-31T06:11:40.135Z
+updated: 2024-06-01T06:11:40.135Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

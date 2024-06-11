@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting Photography with Phantom's Retrograde Technique\""
-date: 2024-05-27 20:43:33
-updated: 2024-05-29 11:19:56
+date: 2024-05-31T06:06:51.120Z
+updated: 2024-06-01T06:06:51.120Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ As filmmakers and video lovers, we have come up with some solid examples of time
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

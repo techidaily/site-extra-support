@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Micro-Film Narrative Blueprint\""
-date: 2024-05-27 22:23:33
-updated: 2024-05-28 12:25:27
+date: 2024-05-31T06:06:37.928Z
+updated: 2024-06-01T06:06:37.928Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

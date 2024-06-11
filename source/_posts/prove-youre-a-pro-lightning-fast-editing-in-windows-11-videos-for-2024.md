@@ -1,7 +1,7 @@
 ---
 title: "\"Prove You're a Pro  Lightning-Fast Editing in Windows 11 Videos for 2024\""
-date: 2024-05-29 20:29:56
-updated: 2024-05-30 10:39:55
+date: 2024-05-31T06:06:57.297Z
+updated: 2024-06-01T06:06:57.297Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

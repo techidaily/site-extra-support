@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Investigating Storage Amounts  Vids on 64/128GB Hardware\""
-date: 2024-05-26 10:13:44
-updated: 2024-05-27 12:39:53
+date: 2024-05-31T06:09:03.150Z
+updated: 2024-06-01T06:09:03.150Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ A wide range of softwares and applications help with video compressing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

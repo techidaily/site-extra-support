@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master the Basics of Windows 10 Effortlessly\""
-date: 2024-05-25 23:21:47
-updated: 2024-05-28 10:58:22
+date: 2024-05-31T06:09:40.491Z
+updated: 2024-06-01T06:09:40.491Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

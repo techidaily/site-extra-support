@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Miniature Movie Dialogue Draft"
-date: 2024-05-26 14:16:50
-updated: 2024-05-28 10:28:58
+date: 2024-05-31T06:09:26.575Z
+updated: 2024-06-01T06:09:26.575Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

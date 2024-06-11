@@ -1,7 +1,7 @@
 ---
 title: "Journey Through Ingenious Text Animation Ideas for 2024"
-date: 2024-05-27 10:37:22
-updated: 2024-05-28 12:33:10
+date: 2024-05-31T06:07:22.557Z
+updated: 2024-06-01T06:07:22.557Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ We have discussed all the common type of text animations that are used to create
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

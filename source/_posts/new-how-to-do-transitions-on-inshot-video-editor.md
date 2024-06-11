@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Do Transitions on Inshot Video Editor?"
-date: 2024-05-24 15:48:50
-updated: 2024-05-27 12:41:42
+date: 2024-05-31T06:06:29.406Z
+updated: 2024-06-01T06:06:29.406Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "IPhone's Approach to High Dynamic Range Photography for 2024"
-date: 2024-05-27 13:14:50
-updated: 2024-05-28 10:15:31
+date: 2024-05-31T06:07:27.421Z
+updated: 2024-06-01T06:07:27.421Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

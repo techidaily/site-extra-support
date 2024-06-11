@@ -1,7 +1,7 @@
 ---
 title: "Powerful Type Tools to Transform Visual Narratives for 2024"
-date: 2024-05-28 14:33:20
-updated: 2024-05-29 11:58:24
+date: 2024-05-31T06:09:26.479Z
+updated: 2024-06-01T06:09:26.479Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Shift Dimensions Quickly, Virtually"
-date: 2024-05-28 17:25:44
-updated: 2024-05-31 12:43:16
+date: 2024-05-31T06:10:17.747Z
+updated: 2024-06-01T06:10:17.747Z
 tags: 
   - screen-recording
   - ai video
@@ -986,4 +986,5 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

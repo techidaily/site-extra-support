@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering 360-Degree Edits in Adobe Premiere Pro\""
-date: 2024-05-27 21:39:40
-updated: 2024-05-28 12:58:21
+date: 2024-05-31T06:11:26.373Z
+updated: 2024-06-01T06:11:26.373Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

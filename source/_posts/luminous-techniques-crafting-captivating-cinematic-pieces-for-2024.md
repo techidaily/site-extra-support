@@ -1,7 +1,7 @@
 ---
 title: "\"Luminous Techniques  Crafting Captivating Cinematic Pieces for 2024\""
-date: 2024-05-25 11:43:31
-updated: 2024-05-28 12:55:29
+date: 2024-05-31T06:08:12.271Z
+updated: 2024-06-01T06:08:12.271Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

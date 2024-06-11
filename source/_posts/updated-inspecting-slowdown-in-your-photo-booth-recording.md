@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Inspecting Slowdown in Your Photo Booth Recording"
-date: 2024-05-24 20:37:51
-updated: 2024-05-27 11:49:51
+date: 2024-05-31T06:09:36.276Z
+updated: 2024-06-01T06:09:36.276Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

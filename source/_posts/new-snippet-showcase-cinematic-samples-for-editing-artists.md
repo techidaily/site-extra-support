@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Snippet Showcase  Cinematic Samples for Editing Artists\""
-date: 2024-05-28 22:17:17
-updated: 2024-05-31 12:19:21
+date: 2024-05-31T06:09:05.354Z
+updated: 2024-06-01T06:09:05.354Z
 tags: 
   - screen-recording
   - ai video
@@ -758,4 +758,5 @@ For macOS 10.14 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

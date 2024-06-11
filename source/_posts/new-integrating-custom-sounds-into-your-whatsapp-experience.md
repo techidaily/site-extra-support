@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrating Custom Sounds Into Your WhatsApp Experience"
-date: 2024-05-24 12:12:59
-updated: 2024-05-27 10:20:37
+date: 2024-05-31T06:10:59.144Z
+updated: 2024-06-01T06:10:59.144Z
 tags: 
   - screen-recording
   - ai video
@@ -365,4 +365,5 @@ Hopefully, you got enlightened reading our article and can easily do WhatsApp ri
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

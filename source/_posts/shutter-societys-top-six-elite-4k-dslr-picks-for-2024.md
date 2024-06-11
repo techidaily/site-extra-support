@@ -1,7 +1,7 @@
 ---
 title: "\"Shutter Society's Top Six  Elite 4K DSLR Picks for 2024\""
-date: 2024-05-29 19:16:26
-updated: 2024-05-31 12:51:41
+date: 2024-05-31T06:07:00.672Z
+updated: 2024-06-01T06:07:00.672Z
 tags: 
   - screen-recording
   - ai video
@@ -642,4 +642,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

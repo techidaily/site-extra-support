@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Precision Editing  PicArt's Techniques for Background Subtraction\""
-date: 2024-05-27 20:33:54
-updated: 2024-05-29 12:45:32
+date: 2024-05-31T06:09:58.172Z
+updated: 2024-06-01T06:09:58.172Z
 tags: 
   - screen-recording
   - ai video
@@ -212,4 +212,5 @@ We hope this article helped resolve your queries, and you can now configure the 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

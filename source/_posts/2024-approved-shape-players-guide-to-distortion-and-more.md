@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shape Players' Guide to Distortion and More\""
-date: 2024-05-27 15:24:19
-updated: 2024-05-30 12:50:11
+date: 2024-05-31T06:08:10.448Z
+updated: 2024-06-01T06:08:10.448Z
 tags: 
   - screen-recording
   - ai video
@@ -678,4 +678,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

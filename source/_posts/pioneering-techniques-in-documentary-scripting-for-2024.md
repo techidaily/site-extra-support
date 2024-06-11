@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Techniques in Documentary Scripting for 2024"
-date: 2024-05-27 23:43:29
-updated: 2024-05-29 12:58:21
+date: 2024-05-31T06:10:43.867Z
+updated: 2024-06-01T06:10:43.867Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ So, the last words for this educational post are that, as we all know, writing a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

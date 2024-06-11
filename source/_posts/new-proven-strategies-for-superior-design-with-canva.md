@@ -1,7 +1,7 @@
 ---
 title: "[New] Proven Strategies for Superior Design with Canva"
-date: 2024-05-28 11:47:24
-updated: 2024-05-30 12:27:31
+date: 2024-05-31T06:10:47.096Z
+updated: 2024-06-01T06:10:47.096Z
 tags: 
   - screen-recording
   - ai video
@@ -126,4 +126,5 @@ Anyone can learn photo editing skills if they are provided with accurate guideli
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Color Grading in Photoshop  The Power of 3D LUT Techniques\""
-date: 2024-05-26 19:39:39
-updated: 2024-05-28 10:45:15
+date: 2024-05-31T06:11:49.783Z
+updated: 2024-06-01T06:11:49.783Z
 tags: 
   - screen-recording
   - ai video
@@ -842,4 +842,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

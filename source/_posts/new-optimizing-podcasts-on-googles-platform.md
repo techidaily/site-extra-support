@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimizing Podcasts on Google's Platform"
-date: 2024-05-26 16:43:29
-updated: 2024-05-29 11:32:31
+date: 2024-05-31T06:11:37.492Z
+updated: 2024-06-01T06:11:37.492Z
 tags: 
   - screen-recording
   - ai video
@@ -303,4 +303,5 @@ So get started now and create your Google Podcast!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

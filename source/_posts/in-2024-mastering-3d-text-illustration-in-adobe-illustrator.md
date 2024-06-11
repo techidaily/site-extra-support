@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering 3D Text Illustration in Adobe Illustrator"
-date: 2024-05-25 21:13:34
-updated: 2024-05-28 12:20:14
+date: 2024-05-31T06:07:49.276Z
+updated: 2024-06-01T06:07:49.276Z
 tags: 
   - screen-recording
   - ai video
@@ -144,4 +144,5 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

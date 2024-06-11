@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Perfect Photos on IPhone  Illumination Secrets\""
-date: 2024-05-27 16:13:30
-updated: 2024-05-29 10:32:44
+date: 2024-05-31T06:06:46.396Z
+updated: 2024-06-01T06:06:46.396Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Image Warping Techniques"
-date: 2024-05-26 12:27:25
-updated: 2024-05-28 10:25:46
+date: 2024-05-31T06:07:28.569Z
+updated: 2024-06-01T06:07:28.569Z
 tags: 
   - screen-recording
   - ai video
@@ -678,4 +678,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Narrative Power in Marketing  20 Must-Use Phrases\""
-date: 2024-05-28 14:31:50
-updated: 2024-05-29 10:47:12
+date: 2024-05-31T06:07:00.834Z
+updated: 2024-06-01T06:07:00.834Z
 tags: 
   - screen-recording
   - ai video
@@ -194,4 +194,5 @@ Now that you have the best marketing words and phrases in your vocabulary, it's 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

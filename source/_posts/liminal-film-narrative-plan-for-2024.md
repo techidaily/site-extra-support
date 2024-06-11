@@ -1,7 +1,7 @@
 ---
 title: "Liminal Film Narrative Plan for 2024"
-date: 2024-05-27 21:44:14
-updated: 2024-05-28 11:38:50
+date: 2024-05-31T06:06:46.514Z
+updated: 2024-06-01T06:06:46.514Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

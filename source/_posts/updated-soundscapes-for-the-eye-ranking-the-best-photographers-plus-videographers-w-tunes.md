@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Soundscapes for the Eye  Ranking the Best Photographers + Videographers W/ Tunes\""
-date: 2024-05-28 22:38:48
-updated: 2024-05-31 10:22:50
+date: 2024-05-31T06:09:06.424Z
+updated: 2024-06-01T06:09:06.424Z
 tags: 
   - screen-recording
   - ai video
@@ -618,4 +618,5 @@ Detailed tutorials provided by the official channel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

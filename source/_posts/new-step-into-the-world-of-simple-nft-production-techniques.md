@@ -1,7 +1,7 @@
 ---
 title: "[New] Step Into the World of Simple NFT Production Techniques"
-date: 2024-05-29 16:34:17
-updated: 2024-05-31 10:34:51
+date: 2024-05-31T06:07:22.056Z
+updated: 2024-06-01T06:07:22.056Z
 tags: 
   - screen-recording
   - ai video
@@ -610,4 +610,5 @@ Finally, we would like to conclude the queries about the NFT marketplace. Indeed
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

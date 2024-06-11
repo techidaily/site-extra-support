@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premium Choices  The Best 8 Tripods for 4K Cinematography\""
-date: 2024-05-29 13:17:32
-updated: 2024-05-30 12:23:26
+date: 2024-05-31T06:11:18.322Z
+updated: 2024-06-01T06:11:18.322Z
 tags: 
   - screen-recording
   - ai video
@@ -894,4 +894,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

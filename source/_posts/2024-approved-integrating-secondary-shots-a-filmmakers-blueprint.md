@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrating Secondary Shots  A Filmmaker's Blueprint\""
-date: 2024-05-25 20:29:15
-updated: 2024-05-27 11:27:38
+date: 2024-05-31T06:08:29.071Z
+updated: 2024-06-01T06:08:29.071Z
 tags: 
   - screen-recording
   - ai video
@@ -106,4 +106,5 @@ We sincerely hope that this post will be of use to you in making your films more
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

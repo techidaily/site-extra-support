@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pros and Tips  Building Realistic 3D Text in PHOTOS\""
-date: 2024-05-27 17:32:19
-updated: 2024-05-30 11:54:13
+date: 2024-05-31T06:10:10.587Z
+updated: 2024-06-01T06:10:10.587Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

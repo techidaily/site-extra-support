@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shutterbug Simplified  IPhone Tools for Effective Cropping\""
-date: 2024-05-30 23:46:18
-updated: 2024-05-31 12:18:20
+date: 2024-05-31T06:06:53.728Z
+updated: 2024-06-01T06:06:53.728Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

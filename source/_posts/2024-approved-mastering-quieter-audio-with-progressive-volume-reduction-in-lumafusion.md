@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Quieter Audio with Progressive Volume Reduction in Lumafusion\""
-date: 2024-05-27 19:46:32
-updated: 2024-05-28 12:43:38
+date: 2024-05-31T06:10:36.835Z
+updated: 2024-06-01T06:10:36.835Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

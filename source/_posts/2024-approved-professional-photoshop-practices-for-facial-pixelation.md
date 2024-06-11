@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Professional Photoshop Practices for Facial Pixelation\""
-date: 2024-05-28 18:35:18
-updated: 2024-05-30 10:35:33
+date: 2024-05-31T06:07:03.311Z
+updated: 2024-06-01T06:07:03.311Z
 tags: 
   - screen-recording
   - ai video
@@ -1030,4 +1030,5 @@ Step 13: Once you are satisfied with your edits, click File at the upper left si
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

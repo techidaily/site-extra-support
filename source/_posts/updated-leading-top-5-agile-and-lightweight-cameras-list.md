@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leading Top 5 Agile and Lightweight Cameras List"
-date: 2024-05-26 13:23:12
-updated: 2024-05-28 11:37:26
+date: 2024-05-31T06:08:05.220Z
+updated: 2024-06-01T06:08:05.220Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

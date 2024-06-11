@@ -1,7 +1,7 @@
 ---
 title: "[Updated] PS Tips for Perfecting Photo Shades and Saturation"
-date: 2024-05-27 22:47:49
-updated: 2024-05-30 11:14:30
+date: 2024-05-31T06:10:28.480Z
+updated: 2024-06-01T06:10:28.480Z
 tags: 
   - screen-recording
   - ai video
@@ -646,4 +646,5 @@ IV. The paint tool offers you different brushes depending on the function. For e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

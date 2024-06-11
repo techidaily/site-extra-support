@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Real-Life Quantum Mechanics on the Silver Screen\""
-date: 2024-05-29 10:52:59
-updated: 2024-05-30 11:43:44
+date: 2024-05-31T06:08:19.978Z
+updated: 2024-06-01T06:08:19.978Z
 tags: 
   - screen-recording
   - ai video
@@ -520,4 +520,5 @@ Create for you and add different effects and experiment with new features. You w
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

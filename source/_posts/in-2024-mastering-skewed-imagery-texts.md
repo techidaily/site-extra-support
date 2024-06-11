@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Skewed Imagery Texts"
-date: 2024-05-25 19:43:28
-updated: 2024-05-28 11:35:13
+date: 2024-05-31T06:10:13.376Z
+updated: 2024-06-01T06:10:13.376Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

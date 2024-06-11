@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Next-Gen Televisions  Elite #10 Rankings\""
-date: 2024-05-27 15:37:36
-updated: 2024-05-29 12:47:30
+date: 2024-05-31T06:06:50.092Z
+updated: 2024-06-01T06:06:50.092Z
 tags: 
   - screen-recording
   - ai video
@@ -646,4 +646,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

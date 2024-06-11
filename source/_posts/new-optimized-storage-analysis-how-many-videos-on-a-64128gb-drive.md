@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Optimized Storage Analysis  How Many Videos on a 64/128GB Drive?\""
-date: 2024-05-28 18:16:43
-updated: 2024-05-29 10:27:12
+date: 2024-05-31T06:11:12.225Z
+updated: 2024-06-01T06:11:12.225Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ A wide range of softwares and applications help with video compressing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

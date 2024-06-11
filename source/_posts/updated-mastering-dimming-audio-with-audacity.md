@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Dimming Audio with Audacity"
-date: 2024-05-27 13:23:46
-updated: 2024-05-28 12:33:30
+date: 2024-05-31T06:07:23.015Z
+updated: 2024-06-01T06:07:23.015Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ You may access a variety of tools and services on the platform known as Audacity
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

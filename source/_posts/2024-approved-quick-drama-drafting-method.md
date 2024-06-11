@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Drama Drafting Method\""
-date: 2024-05-27 22:16:21
-updated: 2024-05-30 11:55:41
+date: 2024-05-31T06:10:14.920Z
+updated: 2024-06-01T06:10:14.920Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating Nets & Currents  Tips for GoPro Underwater Shots for 2024\""
-date: 2024-05-28 10:14:16
-updated: 2024-05-29 10:14:52
+date: 2024-05-31T06:11:13.801Z
+updated: 2024-06-01T06:11:13.801Z
 tags: 
   - screen-recording
   - ai video
@@ -446,4 +446,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

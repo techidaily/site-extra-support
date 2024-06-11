@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shutter Speed Supreme  The Ultimate Camera Guide for Slow Videos\""
-date: 2024-05-29 11:43:13
-updated: 2024-05-31 12:56:36
+date: 2024-05-31T06:11:53.236Z
+updated: 2024-06-01T06:11:53.236Z
 tags: 
   - screen-recording
   - ai video
@@ -610,4 +610,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

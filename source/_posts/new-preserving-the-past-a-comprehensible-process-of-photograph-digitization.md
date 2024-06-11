@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Preserving the Past  A Comprehensible Process of Photograph Digitization\""
-date: 2024-05-28 16:38:22
-updated: 2024-05-30 11:45:14
+date: 2024-05-31T06:07:46.318Z
+updated: 2024-06-01T06:07:46.318Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

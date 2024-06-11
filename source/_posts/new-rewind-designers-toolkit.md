@@ -1,7 +1,7 @@
 ---
 title: "[New] Rewind Designer's Toolkit"
-date: 2024-05-29 19:41:16
-updated: 2024-05-30 12:10:49
+date: 2024-05-31T06:10:34.021Z
+updated: 2024-06-01T06:10:34.021Z
 tags: 
   - screen-recording
   - ai video
@@ -436,4 +436,5 @@ If you have long admired the boomerang videos that you see on social media and h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

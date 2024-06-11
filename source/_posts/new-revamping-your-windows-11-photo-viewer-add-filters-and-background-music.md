@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Revamping Your Windows 11 Photo Viewer  Add Filters and Background Music\""
-date: 2024-05-27 10:21:37
-updated: 2024-05-30 11:39:37
+date: 2024-05-31T06:10:25.004Z
+updated: 2024-06-01T06:10:25.005Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

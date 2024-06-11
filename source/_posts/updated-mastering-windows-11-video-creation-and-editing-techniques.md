@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Windows 11 Video Creation & Editing Techniques"
-date: 2024-05-27 18:54:38
-updated: 2024-05-28 12:57:48
+date: 2024-05-31T06:08:58.927Z
+updated: 2024-06-01T06:08:58.927Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

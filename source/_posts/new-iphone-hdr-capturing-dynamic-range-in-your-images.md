@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IPhone HDR  Capturing Dynamic Range in Your Images\""
-date: 2024-05-24 18:28:52
-updated: 2024-05-27 10:23:47
+date: 2024-05-31T06:10:28.059Z
+updated: 2024-06-01T06:10:28.059Z
 tags: 
   - screen-recording
   - ai video
@@ -186,4 +186,5 @@ This article perfectly sums up all the information you need in order to capture 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

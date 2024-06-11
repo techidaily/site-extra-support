@@ -1,7 +1,7 @@
 ---
 title: "[New] Pro Tips to Perfect Minecraft Pixelation"
-date: 2024-05-28 21:33:23
-updated: 2024-05-30 12:35:10
+date: 2024-05-31T06:11:50.801Z
+updated: 2024-06-01T06:11:50.801Z
 tags: 
   - screen-recording
   - ai video
@@ -222,4 +222,5 @@ With the above 5 ways, the finest video game, Minecraft, has now the accessibili
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

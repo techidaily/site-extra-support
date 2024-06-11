@@ -1,7 +1,7 @@
 ---
 title: "\"Sequel of Seconds  Measuring 20MB Footage for 2024\""
-date: 2024-05-27 19:45:23
-updated: 2024-05-30 11:32:18
+date: 2024-05-31T06:09:18.507Z
+updated: 2024-06-01T06:09:18.507Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

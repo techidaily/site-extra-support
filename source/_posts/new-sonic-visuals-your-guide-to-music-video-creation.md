@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sonic Visuals  Your Guide to Music Video Creation\""
-date: 2024-05-29 16:45:37
-updated: 2024-05-31 11:38:48
+date: 2024-05-31T06:08:05.060Z
+updated: 2024-06-01T06:08:05.060Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

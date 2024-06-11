@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Srgb vs Rgb  Decoding Color Standards for Devices\""
-date: 2024-05-30 22:43:15
-updated: 2024-05-31 11:42:42
+date: 2024-05-31T06:09:44.961Z
+updated: 2024-06-01T06:09:44.961Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

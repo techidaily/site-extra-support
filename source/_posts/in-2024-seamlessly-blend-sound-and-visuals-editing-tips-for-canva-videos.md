@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Seamlessly Blend Sound & Visuals  Editing Tips for Canva Videos\""
-date: 2024-05-28 23:16:39
-updated: 2024-05-30 12:57:47
+date: 2024-05-31T06:07:13.252Z
+updated: 2024-06-01T06:07:13.252Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ All these details will help you understand how to add music on Canva without any
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering The Art of Green Screens for Beginners for 2024"
-date: 2024-05-27 17:43:46
-updated: 2024-05-28 12:50:59
+date: 2024-05-31T06:11:45.435Z
+updated: 2024-06-01T06:11:45.435Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

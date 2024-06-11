@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Spectacular 14 Text Animation Art Pieces"
-date: 2024-05-30 12:25:50
-updated: 2024-05-31 12:49:56
+date: 2024-05-31T06:09:49.302Z
+updated: 2024-06-01T06:09:49.302Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ We have discussed all the common type of text animations that are used to create
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

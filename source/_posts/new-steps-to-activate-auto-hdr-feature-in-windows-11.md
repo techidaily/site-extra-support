@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Steps to Activate Auto-HDR Feature in Windows 11\""
-date: 2024-05-28 23:38:24
-updated: 2024-05-31 11:18:24
+date: 2024-05-31T06:07:22.072Z
+updated: 2024-06-01T06:07:22.072Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Overall, it is possible for the HDR quality videos captured with an iPhone 12 ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

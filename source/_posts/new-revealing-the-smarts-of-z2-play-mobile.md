@@ -1,7 +1,7 @@
 ---
 title: "[New] Revealing the Smarts of Z2 Play Mobile"
-date: 2024-05-27 22:10:55
-updated: 2024-05-30 11:51:23
+date: 2024-05-31T06:06:46.613Z
+updated: 2024-06-01T06:06:46.613Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

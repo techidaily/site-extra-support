@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Windows 11  A Practical Reference\""
-date: 2024-05-27 17:30:39
-updated: 2024-05-29 10:53:27
+date: 2024-05-31T06:07:29.715Z
+updated: 2024-06-01T06:07:29.715Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

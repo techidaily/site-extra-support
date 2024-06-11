@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigate Video Trimming with Ease on Windows 11 Photos\""
-date: 2024-05-28 15:41:19
-updated: 2024-05-29 11:44:20
+date: 2024-05-31T06:08:25.871Z
+updated: 2024-06-01T06:08:25.871Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

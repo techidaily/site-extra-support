@@ -1,7 +1,7 @@
 ---
 title: "\"Lens Legends Battle  SJ6 Versus Xiaomi's Yi 4K Visionary for 2024\""
-date: 2024-05-25 14:11:43
-updated: 2024-05-28 10:45:22
+date: 2024-05-31T06:07:21.126Z
+updated: 2024-06-01T06:07:21.126Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

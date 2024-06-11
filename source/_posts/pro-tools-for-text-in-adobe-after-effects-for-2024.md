@@ -1,7 +1,7 @@
 ---
 title: "Pro Tools For Text in Adobe After Effects for 2024"
-date: 2024-05-28 22:59:16
-updated: 2024-05-30 12:36:28
+date: 2024-05-31T06:08:40.228Z
+updated: 2024-06-01T06:08:40.228Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

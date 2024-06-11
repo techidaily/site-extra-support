@@ -1,7 +1,7 @@
 ---
 title: "[New] PC/Mobile Tips for Partial Image Gaussian Blur"
-date: 2024-05-28 21:16:21
-updated: 2024-05-29 11:37:52
+date: 2024-05-31T06:11:21.285Z
+updated: 2024-06-01T06:11:21.285Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

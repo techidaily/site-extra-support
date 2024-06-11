@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Microscopic Views in Teams"
-date: 2024-05-26 23:18:49
-updated: 2024-05-28 11:54:43
+date: 2024-05-31T06:07:35.056Z
+updated: 2024-06-01T06:07:35.056Z
 tags: 
   - screen-recording
   - ai video
@@ -123,4 +123,5 @@ With Zoom and Teams, you can do most business from different places thanks to it
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

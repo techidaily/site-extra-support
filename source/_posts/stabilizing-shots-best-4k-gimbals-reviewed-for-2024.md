@@ -1,7 +1,7 @@
 ---
 title: "\"Stabilizing Shots  Best 4K Gimbals Reviewed for 2024\""
-date: 2024-05-28 17:56:51
-updated: 2024-05-31 11:10:36
+date: 2024-05-31T06:08:36.277Z
+updated: 2024-06-01T06:08:36.277Z
 tags: 
   - screen-recording
   - ai video
@@ -946,4 +946,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

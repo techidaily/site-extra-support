@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Snapshot Sharpening - Affinity's Bg Exclusion\""
-date: 2024-05-28 17:16:14
-updated: 2024-05-31 10:26:47
+date: 2024-05-31T06:07:38.327Z
+updated: 2024-06-01T06:07:38.327Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article and video can help you create ideal images!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

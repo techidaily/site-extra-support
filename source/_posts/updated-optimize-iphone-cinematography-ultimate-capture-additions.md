@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Optimize iPhone Cinematography  Ultimate Capture Additions\""
-date: 2024-05-26 13:43:12
-updated: 2024-05-29 11:36:20
+date: 2024-05-31T06:07:23.807Z
+updated: 2024-06-01T06:07:23.807Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

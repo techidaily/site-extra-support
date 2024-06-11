@@ -1,7 +1,7 @@
 ---
 title: "[New] Pro Cameras, Who Wins? GoPro & Garmin VIRB Comparison"
-date: 2024-05-29 16:35:50
-updated: 2024-05-30 12:33:56
+date: 2024-05-31T06:08:45.776Z
+updated: 2024-06-01T06:08:45.776Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

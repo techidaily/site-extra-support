@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating the Zoom Interface  A Focus on Windows 10\""
-date: 2024-05-27 11:15:13
-updated: 2024-05-29 10:31:30
+date: 2024-05-31T06:08:48.118Z
+updated: 2024-06-01T06:08:48.118Z
 tags: 
   - screen-recording
   - ai video
@@ -178,4 +178,5 @@ Zoom may be used on Windows devices to start new meetings, join existing ones, s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

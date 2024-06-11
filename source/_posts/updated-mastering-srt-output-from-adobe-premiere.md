@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering SRT Output From Adobe Premiere"
-date: 2024-05-25 15:28:24
-updated: 2024-05-28 11:27:12
+date: 2024-05-31T06:06:34.665Z
+updated: 2024-06-01T06:06:34.665Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ That being said, if you want to save yourself from unwanted errors during the ex
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

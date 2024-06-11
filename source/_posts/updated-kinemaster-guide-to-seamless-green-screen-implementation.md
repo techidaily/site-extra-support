@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Kinemaster Guide to Seamless Green Screen Implementation"
-date: 2024-05-26 11:28:47
-updated: 2024-05-28 11:53:43
+date: 2024-05-31T06:11:17.976Z
+updated: 2024-06-01T06:11:17.976Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

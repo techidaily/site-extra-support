@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, New Era for Mobile Photography  IPhone X Explored\""
-date: 2024-05-27 15:28:13
-updated: 2024-05-29 10:18:21
+date: 2024-05-31T06:09:52.388Z
+updated: 2024-06-01T06:09:52.388Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

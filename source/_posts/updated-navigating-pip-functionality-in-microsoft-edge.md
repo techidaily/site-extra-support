@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating PIP Functionality in Microsoft Edge"
-date: 2024-05-26 20:49:54
-updated: 2024-05-29 10:18:40
+date: 2024-05-31T06:10:57.798Z
+updated: 2024-06-01T06:10:57.798Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ PIP on Android and desktop is now a native utility feature on Microsoft Edge tha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

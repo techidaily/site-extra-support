@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Practical Photoshop Fixes for Facial Pixelation Purposes\""
-date: 2024-05-28 19:43:31
-updated: 2024-05-29 10:43:20
+date: 2024-05-31T06:10:00.986Z
+updated: 2024-06-01T06:10:00.986Z
 tags: 
   - screen-recording
   - ai video
@@ -1030,4 +1030,5 @@ Step 13: Once you are satisfied with your edits, click File at the upper left si
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

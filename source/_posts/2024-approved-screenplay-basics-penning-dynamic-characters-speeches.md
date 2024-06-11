@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Screenplay Basics  Penning Dynamic Characters' Speeches\""
-date: 2024-05-28 20:42:32
-updated: 2024-05-30 11:29:33
+date: 2024-05-31T06:10:15.726Z
+updated: 2024-06-01T06:10:15.726Z
 tags: 
   - screen-recording
   - ai video
@@ -229,4 +229,5 @@ In conclusion, Dialogue and Narrative Script are the most common types of script
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

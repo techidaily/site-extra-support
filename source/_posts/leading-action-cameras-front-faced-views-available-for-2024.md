@@ -1,7 +1,7 @@
 ---
 title: "\"Leading Action Cameras  Front-Faced Views Available for 2024\""
-date: 2024-05-27 14:36:30
-updated: 2024-05-28 11:29:21
+date: 2024-05-31T06:08:13.891Z
+updated: 2024-06-01T06:08:13.891Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

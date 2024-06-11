@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Lens Legends Choice  The Finest 6 4K DSLR Cameras\""
-date: 2024-05-27 23:18:12
-updated: 2024-05-28 10:50:39
+date: 2024-05-31T06:07:02.444Z
+updated: 2024-06-01T06:07:02.444Z
 tags: 
   - screen-recording
   - ai video
@@ -642,4 +642,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] LensLift Critique Essence"
-date: 2024-05-27 11:11:32
-updated: 2024-05-28 11:52:45
+date: 2024-05-31T06:08:20.476Z
+updated: 2024-06-01T06:08:20.476Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

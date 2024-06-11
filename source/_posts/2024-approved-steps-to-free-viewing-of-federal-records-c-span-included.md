@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Steps to Free Viewing of Federal Records - C-Span Included\""
-date: 2024-05-28 20:10:24
-updated: 2024-05-31 11:40:22
+date: 2024-05-31T06:10:19.848Z
+updated: 2024-06-01T06:10:19.848Z
 tags: 
   - screen-recording
   - ai video
@@ -486,4 +486,5 @@ C-Span videos are great if you would like to keep up with the political scene in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

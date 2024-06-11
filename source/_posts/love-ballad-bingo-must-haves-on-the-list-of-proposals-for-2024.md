@@ -1,7 +1,7 @@
 ---
 title: "\"Love Ballad Bingo  Must-Haves on the List of Proposals for 2024\""
-date: 2024-05-26 23:49:31
-updated: 2024-05-28 11:19:53
+date: 2024-05-31T06:11:29.837Z
+updated: 2024-06-01T06:11:29.837Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

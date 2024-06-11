@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Perfecting Designs  A Guide to Cutting Out Background in Figma\""
-date: 2024-05-28 13:54:41
-updated: 2024-05-29 10:44:57
+date: 2024-05-31T06:08:16.766Z
+updated: 2024-06-01T06:08:16.766Z
 tags: 
   - screen-recording
   - ai video
@@ -173,4 +173,5 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

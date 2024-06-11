@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pushing Boundaries of Editing  How to Erase Image Borders on Canva\""
-date: 2024-05-28 17:51:30
-updated: 2024-05-30 10:52:41
+date: 2024-05-31T06:10:35.617Z
+updated: 2024-06-01T06:10:35.617Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Hopefully, you've found this article helpful and can now optimize your images in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Precision Cuts & Transitions for Premier Users"
-date: 2024-05-27 21:13:26
-updated: 2024-05-29 11:53:51
+date: 2024-05-31T06:11:03.280Z
+updated: 2024-06-01T06:11:03.280Z
 tags: 
   - screen-recording
   - ai video
@@ -235,4 +235,5 @@ In a nutshell, it's important to use the right program to customize the fade in/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

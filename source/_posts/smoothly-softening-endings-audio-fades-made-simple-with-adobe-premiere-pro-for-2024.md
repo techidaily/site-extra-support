@@ -1,7 +1,7 @@
 ---
 title: "\"Smoothly Softening Endings  Audio Fades Made Simple with Adobe Premiere Pro for 2024\""
-date: 2024-05-30 14:26:35
-updated: 2024-05-31 12:11:52
+date: 2024-05-31T06:11:17.945Z
+updated: 2024-06-01T06:11:17.945Z
 tags: 
   - screen-recording
   - ai video
@@ -438,4 +438,5 @@ With this guide, you can easily understand the complete procedure for editing a 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

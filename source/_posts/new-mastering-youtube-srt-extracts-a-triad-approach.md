@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering YouTube SRT Extracts  A Triad Approach\""
-date: 2024-05-27 20:40:35
-updated: 2024-05-28 11:22:26
+date: 2024-05-31T06:06:52.991Z
+updated: 2024-06-01T06:06:52.991Z
 tags: 
   - screen-recording
   - ai video
@@ -368,4 +368,5 @@ So, we hope we are able to clear all your queries related to downloading and ext
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Speech-to-Text Technology, Absolutely Gratuitous for 2024\""
-date: 2024-05-28 17:37:29
-updated: 2024-05-31 10:10:48
+date: 2024-05-31T06:11:59.447Z
+updated: 2024-06-01T06:11:59.447Z
 tags: 
   - screen-recording
   - ai video
@@ -132,4 +132,5 @@ Now you know how speech recognition can be helpful in your documentation work. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

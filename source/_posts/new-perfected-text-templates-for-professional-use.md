@@ -1,7 +1,7 @@
 ---
 title: "[New] Perfected Text Templates for Professional Use"
-date: 2024-05-27 11:40:22
-updated: 2024-05-29 11:12:49
+date: 2024-05-31T06:09:28.822Z
+updated: 2024-06-01T06:09:28.822Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

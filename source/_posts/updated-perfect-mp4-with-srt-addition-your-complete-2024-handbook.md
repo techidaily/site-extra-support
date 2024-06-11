@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfect MP4 with SRT Addition – Your Complete 2024 Handbook"
-date: 2024-05-28 10:22:47
-updated: 2024-05-29 11:11:57
+date: 2024-05-31T06:07:18.264Z
+updated: 2024-06-01T06:07:18.264Z
 tags: 
   - screen-recording
   - ai video
@@ -326,4 +326,5 @@ Gone are the days when adding SRT to MP4 was considered a very difficult task. N
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

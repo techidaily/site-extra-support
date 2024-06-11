@@ -1,7 +1,7 @@
 ---
 title: "\"Navigating New Worlds  An In-Depth Study of 6 Metaverse Models for 2024\""
-date: 2024-05-26 19:47:57
-updated: 2024-05-29 11:10:21
+date: 2024-05-31T06:10:23.964Z
+updated: 2024-06-01T06:10:23.964Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ Metaverse is still under development but several companies have already started 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

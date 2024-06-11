@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stealthy Editing  Blur Faces With Picsart\""
-date: 2024-05-30 17:45:28
-updated: 2024-05-31 11:39:12
+date: 2024-05-31T06:08:45.053Z
+updated: 2024-06-01T06:08:45.053Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

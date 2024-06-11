@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Intova X Visionary Action Camera Unveiled Today"
-date: 2024-05-25 20:15:47
-updated: 2024-05-27 11:14:33
+date: 2024-05-31T06:07:31.969Z
+updated: 2024-06-01T06:07:31.969Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Screen Spectacular  SJ6 Vs. Yi 4K Edition\""
-date: 2024-05-28 20:10:35
-updated: 2024-05-30 11:37:47
+date: 2024-05-31T06:07:39.462Z
+updated: 2024-06-01T06:07:39.462Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

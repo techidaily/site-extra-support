@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating Toward Unauthorized Access  A C-Span Journey\""
-date: 2024-05-28 15:27:29
-updated: 2024-05-29 11:24:53
+date: 2024-05-31T06:11:37.891Z
+updated: 2024-06-01T06:11:37.891Z
 tags: 
   - screen-recording
   - ai video
@@ -486,4 +486,5 @@ C-Span videos are great if you would like to keep up with the political scene in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

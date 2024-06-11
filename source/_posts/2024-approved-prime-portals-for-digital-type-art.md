@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime Portals for Digital Type Art\""
-date: 2024-05-28 20:21:13
-updated: 2024-05-30 12:34:32
+date: 2024-05-31T06:10:04.265Z
+updated: 2024-06-01T06:10:04.265Z
 tags: 
   - screen-recording
   - ai video
@@ -487,4 +487,5 @@ Hopefully, you've found this article helpful and can now get the proper 3D fonts
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

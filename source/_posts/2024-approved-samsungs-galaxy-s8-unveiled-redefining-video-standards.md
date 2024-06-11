@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Samsung’s Galaxy S8 Unveiled  Redefining Video Standards\""
-date: 2024-05-27 22:59:52
-updated: 2024-05-30 12:20:50
+date: 2024-05-31T06:08:08.817Z
+updated: 2024-06-01T06:08:08.817Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

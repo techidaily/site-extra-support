@@ -1,7 +1,7 @@
 ---
 title: "\"Simplifying Color Grading  A Comprehensive Look at LUTs for 2024\""
-date: 2024-05-29 11:43:37
-updated: 2024-05-31 10:52:21
+date: 2024-05-31T06:08:02.753Z
+updated: 2024-06-01T06:08:02.754Z
 tags: 
   - screen-recording
   - ai video
@@ -137,4 +137,5 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Seconds in a 20MB HD Video File"
-date: 2024-05-29 20:49:27
-updated: 2024-05-30 12:58:41
+date: 2024-05-31T06:07:30.848Z
+updated: 2024-06-01T06:07:30.848Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

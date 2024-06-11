@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Full Periscope Mastery\""
-date: 2024-05-28 20:27:57
-updated: 2024-05-31 11:49:25
+date: 2024-05-31T06:06:34.575Z
+updated: 2024-06-01T06:06:34.575Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Richard Bennett
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

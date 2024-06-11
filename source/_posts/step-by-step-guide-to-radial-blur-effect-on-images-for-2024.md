@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Radial Blur Effect on Images for 2024\""
-date: 2024-05-28 13:55:53
-updated: 2024-05-31 12:32:48
+date: 2024-05-31T06:06:40.245Z
+updated: 2024-06-01T06:06:40.245Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ By reading this article, you have learned how to add a radial blur effect using 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

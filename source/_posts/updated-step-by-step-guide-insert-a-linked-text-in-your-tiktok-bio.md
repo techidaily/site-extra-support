@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide  Insert a Linked Text in Your TikTok Bio\""
-date: 2024-05-29 17:37:49
-updated: 2024-05-31 12:36:10
+date: 2024-05-31T06:08:46.083Z
+updated: 2024-06-01T06:08:46.083Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ By exploring this article, you have learned **how to add a link to the TikTok bi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

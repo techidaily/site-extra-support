@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Snapedit  A Beginner's Guide to Photo Mastery\""
-date: 2024-05-28 19:59:12
-updated: 2024-05-31 12:49:11
+date: 2024-05-31T06:06:54.875Z
+updated: 2024-06-01T06:06:54.875Z
 tags: 
   - screen-recording
   - ai video
@@ -136,4 +136,5 @@ Are you tired of using various photo editors and still cannot achieve the desire
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

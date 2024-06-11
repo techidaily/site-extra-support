@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Alternative Footage in Filmmaking for 2024"
-date: 2024-05-27 20:19:56
-updated: 2024-05-28 11:15:48
+date: 2024-05-31T06:07:54.257Z
+updated: 2024-06-01T06:07:54.257Z
 tags: 
   - screen-recording
   - ai video
@@ -106,4 +106,5 @@ We sincerely hope that this post will be of use to you in making your films more
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Spotify  How to Stop Seeing Podcast Recommendations\""
-date: 2024-05-29 10:47:44
-updated: 2024-05-31 12:41:20
+date: 2024-05-31T06:08:24.362Z
+updated: 2024-06-01T06:08:24.362Z
 tags: 
   - screen-recording
   - ai video
@@ -130,4 +130,5 @@ So, now you know **how to remove a podcast from your shows on Spotify**. Whether
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

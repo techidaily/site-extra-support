@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Education without the Video Element"
-date: 2024-05-27 10:24:36
-updated: 2024-05-29 12:45:18
+date: 2024-05-31T06:07:00.515Z
+updated: 2024-06-01T06:07:00.515Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ Edgenuity is a great learning program. Not having a skip button makes it, so stu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

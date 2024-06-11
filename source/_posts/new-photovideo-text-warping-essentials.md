@@ -1,7 +1,7 @@
 ---
 title: "[New] Photo/Video Text Warping Essentials"
-date: 2024-05-26 21:37:10
-updated: 2024-05-29 10:15:57
+date: 2024-05-31T06:10:27.347Z
+updated: 2024-06-01T06:10:27.347Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

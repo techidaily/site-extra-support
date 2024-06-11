@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Visual Storytelling  Key Shot Techniques for Beginners\""
-date: 2024-05-26 19:46:55
-updated: 2024-05-28 12:16:40
+date: 2024-05-31T06:07:38.466Z
+updated: 2024-06-01T06:07:38.466Z
 tags: 
   - screen-recording
   - ai video
@@ -670,4 +670,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

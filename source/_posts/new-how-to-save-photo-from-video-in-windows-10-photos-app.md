@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Save Photo From Video in Windows 10 Photos App"
-date: 2024-05-27 12:52:19
-updated: 2024-05-30 11:32:19
+date: 2024-05-31T06:09:01.033Z
+updated: 2024-06-01T06:09:01.033Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Legally Accessing Government Election Coverage on Demand"
-date: 2024-05-27 21:51:27
-updated: 2024-05-28 12:59:25
+date: 2024-05-31T06:06:57.399Z
+updated: 2024-06-01T06:06:57.399Z
 tags: 
   - screen-recording
   - ai video
@@ -486,4 +486,5 @@ C-Span videos are great if you would like to keep up with the political scene in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

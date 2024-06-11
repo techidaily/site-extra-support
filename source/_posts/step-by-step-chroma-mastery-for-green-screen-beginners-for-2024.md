@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Chroma Mastery for Green Screen Beginners for 2024\""
-date: 2024-05-30 14:39:19
-updated: 2024-05-31 10:30:16
+date: 2024-05-31T06:09:15.016Z
+updated: 2024-06-01T06:09:15.016Z
 tags: 
   - screen-recording
   - ai video
@@ -1166,4 +1166,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

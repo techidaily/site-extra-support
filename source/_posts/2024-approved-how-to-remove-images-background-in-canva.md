@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Remove Image's Background In Canva\""
-date: 2024-05-28 11:21:15
-updated: 2024-05-30 12:24:56
+date: 2024-05-31T06:08:33.149Z
+updated: 2024-06-01T06:08:33.149Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Hopefully, you've found this article helpful and can now optimize your images in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

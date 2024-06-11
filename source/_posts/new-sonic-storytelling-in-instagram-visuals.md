@@ -1,7 +1,7 @@
 ---
 title: "[New] Sonic Storytelling in Instagram Visuals"
-date: 2024-05-28 11:49:51
-updated: 2024-05-31 10:20:21
+date: 2024-05-31T06:10:54.951Z
+updated: 2024-06-01T06:10:54.951Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ If you want to create a video with all the bells and whistles, you're better off
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

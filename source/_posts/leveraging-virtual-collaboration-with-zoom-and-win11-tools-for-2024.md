@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Virtual Collaboration with Zoom & Win11 Tools for 2024"
-date: 2024-05-25 12:24:54
-updated: 2024-05-28 11:27:36
+date: 2024-05-31T06:07:13.897Z
+updated: 2024-06-01T06:07:13.897Z
 tags: 
   - screen-recording
   - ai video
@@ -178,4 +178,5 @@ Zoom may be used on Windows devices to start new meetings, join existing ones, s
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

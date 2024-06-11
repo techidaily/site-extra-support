@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Overseeing the Upgraded Parrot AR Drone\""
-date: 2024-05-27 10:52:59
-updated: 2024-05-29 10:49:37
+date: 2024-05-31T06:06:28.306Z
+updated: 2024-06-01T06:06:28.306Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

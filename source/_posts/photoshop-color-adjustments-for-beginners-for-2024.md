@@ -1,7 +1,7 @@
 ---
 title: "Photoshop Color Adjustments for Beginners for 2024"
-date: 2024-05-28 14:39:31
-updated: 2024-05-29 11:10:58
+date: 2024-05-31T06:06:30.425Z
+updated: 2024-06-01T06:06:30.425Z
 tags: 
   - screen-recording
   - ai video
@@ -646,4 +646,5 @@ IV. The paint tool offers you different brushes depending on the function. For e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

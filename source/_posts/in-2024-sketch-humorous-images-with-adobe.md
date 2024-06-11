@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Sketch Humorous Images with Adobe"
-date: 2024-05-30 10:16:40
-updated: 2024-05-31 10:52:28
+date: 2024-05-31T06:08:15.462Z
+updated: 2024-06-01T06:08:15.462Z
 tags: 
   - screen-recording
   - ai video
@@ -184,4 +184,5 @@ There are a number of different tools available on internet for meme making. And
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

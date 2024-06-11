@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Quick Face-Blurring on PicScroller\""
-date: 2024-05-26 13:10:49
-updated: 2024-05-28 10:49:17
+date: 2024-05-31T06:10:24.489Z
+updated: 2024-06-01T06:10:24.489Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

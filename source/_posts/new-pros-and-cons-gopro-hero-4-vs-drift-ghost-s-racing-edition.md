@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pros & Cons  GoPro Hero 4 Vs. Drift Ghost-S Racing Edition\""
-date: 2024-05-27 15:55:13
-updated: 2024-05-30 10:18:23
+date: 2024-05-31T06:08:29.601Z
+updated: 2024-06-01T06:08:29.601Z
 tags: 
   - screen-recording
   - ai video
@@ -494,4 +494,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

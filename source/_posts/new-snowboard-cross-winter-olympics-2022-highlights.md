@@ -1,7 +1,7 @@
 ---
 title: "[New] Snowboard Cross Winter Olympics 2022 Highlights"
-date: 2024-05-28 13:36:32
-updated: 2024-05-31 11:19:53
+date: 2024-05-31T06:10:43.812Z
+updated: 2024-06-01T06:10:43.812Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ To sum it up all, the women's snowboard cross event of Winter Olympics 2022 has 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

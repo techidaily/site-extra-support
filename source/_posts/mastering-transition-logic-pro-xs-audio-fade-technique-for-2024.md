@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Transition  Logic Pro X's Audio Fade Technique for 2024\""
-date: 2024-05-27 15:21:51
-updated: 2024-05-28 12:22:44
+date: 2024-05-31T06:08:56.418Z
+updated: 2024-06-01T06:08:56.418Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Radiant Rendering  The Grader's Artistic Journey for 2024\""
-date: 2024-05-28 16:21:14
-updated: 2024-05-30 12:36:28
+date: 2024-05-31T06:07:26.172Z
+updated: 2024-06-01T06:07:26.172Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

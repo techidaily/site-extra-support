@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Cinematic Tones  Beyond Basic Adjustments\""
-date: 2024-05-26 10:45:58
-updated: 2024-05-28 10:14:48
+date: 2024-05-31T06:10:59.361Z
+updated: 2024-06-01T06:10:59.361Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Examples of triadic color schemes include red-yellow-blue or purple-green-orange
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

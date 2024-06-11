@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Your Intro  Practical Tips & Example Scripts\""
-date: 2024-05-28 17:47:19
-updated: 2024-05-29 12:59:18
+date: 2024-05-31T06:09:26.426Z
+updated: 2024-06-01T06:09:26.426Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ WITH [JENNA FISCHER](https://www.earwolf.com/person/jenna-fischer/) AND [ANGELA 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging PowerPoint’s Automatic Transcription Feature"
-date: 2024-05-27 11:22:53
-updated: 2024-05-28 10:28:53
+date: 2024-05-31T06:09:50.162Z
+updated: 2024-06-01T06:09:50.162Z
 tags: 
   - screen-recording
   - ai video
@@ -320,4 +320,5 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrating Textual Descriptions Into Videos on Photos (Windows 11)"
-date: 2024-05-25 10:21:34
-updated: 2024-05-27 10:42:11
+date: 2024-05-31T06:09:23.116Z
+updated: 2024-06-01T06:09:23.116Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

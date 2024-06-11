@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro's Choice Review  The Ultimate 4K DSLR Rigs\""
-date: 2024-05-29 23:57:26
-updated: 2024-05-30 10:13:24
+date: 2024-05-31T06:11:07.289Z
+updated: 2024-06-01T06:11:07.289Z
 tags: 
   - screen-recording
   - ai video
@@ -1082,4 +1082,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

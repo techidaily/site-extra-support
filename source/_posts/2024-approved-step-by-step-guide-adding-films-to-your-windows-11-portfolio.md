@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Guide  Adding Films to Your Windows 11 Portfolio\""
-date: 2024-05-30 11:50:59
-updated: 2024-05-31 12:39:50
+date: 2024-05-31T06:11:50.379Z
+updated: 2024-06-01T06:11:50.379Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ In this article, you have learned about various video editors available on Windo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

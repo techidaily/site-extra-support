@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Rapid Recording Rules for iPhone Timelapses"
-date: 2024-05-28 22:18:24
-updated: 2024-05-30 11:58:11
+date: 2024-05-31T06:07:29.627Z
+updated: 2024-06-01T06:07:29.627Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Premium 15 Ultra-Mobile Video Devices\""
-date: 2024-05-27 23:38:10
-updated: 2024-05-30 11:28:17
+date: 2024-05-31T06:06:38.927Z
+updated: 2024-06-01T06:06:38.927Z
 tags: 
   - screen-recording
   - ai video
@@ -866,4 +866,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

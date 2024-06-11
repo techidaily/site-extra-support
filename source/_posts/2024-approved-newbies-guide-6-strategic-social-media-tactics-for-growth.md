@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Newbies Guide  6 Strategic Social Media Tactics for Growth\""
-date: 2024-05-27 16:19:13
-updated: 2024-05-29 11:29:35
+date: 2024-05-31T06:06:31.577Z
+updated: 2024-06-01T06:06:31.577Z
 tags: 
   - screen-recording
   - ai video
@@ -175,4 +175,5 @@ Just remember, consistently and genuinely caring about your audience is what wil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

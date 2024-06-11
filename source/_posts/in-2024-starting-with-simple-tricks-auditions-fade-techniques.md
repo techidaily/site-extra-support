@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Starting with Simple Tricks  Audition's Fade Techniques\""
-date: 2024-05-28 19:39:47
-updated: 2024-05-31 12:40:33
+date: 2024-05-31T06:07:38.943Z
+updated: 2024-06-01T06:07:38.943Z
 tags: 
   - screen-recording
   - ai video
@@ -153,4 +153,5 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

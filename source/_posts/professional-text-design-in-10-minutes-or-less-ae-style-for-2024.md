@@ -1,7 +1,7 @@
 ---
 title: "Professional Text Design in 10 Minutes or Less (AE Style) for 2024"
-date: 2024-05-28 18:52:42
-updated: 2024-05-30 11:47:13
+date: 2024-05-31T06:07:11.254Z
+updated: 2024-06-01T06:07:11.254Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

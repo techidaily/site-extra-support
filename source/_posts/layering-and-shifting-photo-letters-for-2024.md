@@ -1,7 +1,7 @@
 ---
 title: "Layering & Shifting Photo Letters for 2024"
-date: 2024-05-25 15:42:10
-updated: 2024-05-28 10:16:19
+date: 2024-05-31T06:07:38.995Z
+updated: 2024-06-01T06:07:38.995Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

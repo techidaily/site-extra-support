@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Key Aspects of Web-Based Storytelling\""
-date: 2024-05-26 19:31:15
-updated: 2024-05-28 11:26:48
+date: 2024-05-31T06:09:59.938Z
+updated: 2024-06-01T06:09:59.938Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ Everybody has a narrative, but the craft of digital storytelling can transform a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

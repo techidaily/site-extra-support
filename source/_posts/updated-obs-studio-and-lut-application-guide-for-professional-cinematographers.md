@@ -1,7 +1,7 @@
 ---
 title: "[Updated] OBS Studio & LUT Application Guide for Professional Cinematographers"
-date: 2024-05-26 12:23:30
-updated: 2024-05-29 11:54:40
+date: 2024-05-31T06:10:26.798Z
+updated: 2024-06-01T06:10:26.798Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ As a result, adding professionalism to your talents is now even easier and more 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

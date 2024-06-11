@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Must-Know Windows 11 Tips and Tricks\""
-date: 2024-05-28 15:49:45
-updated: 2024-05-29 12:30:51
+date: 2024-05-31T06:06:57.620Z
+updated: 2024-06-01T06:06:57.620Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

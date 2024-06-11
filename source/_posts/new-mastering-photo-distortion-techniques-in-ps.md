@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Photo Distortion Techniques in PS"
-date: 2024-05-25 16:53:12
-updated: 2024-05-28 10:48:49
+date: 2024-05-31T06:11:44.017Z
+updated: 2024-06-01T06:11:44.017Z
 tags: 
   - screen-recording
   - ai video
@@ -882,4 +882,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

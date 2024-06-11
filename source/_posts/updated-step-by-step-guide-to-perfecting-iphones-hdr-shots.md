@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide to Perfecting iPhone's HDR Shots\""
-date: 2024-05-28 11:12:49
-updated: 2024-05-31 12:53:37
+date: 2024-05-31T06:09:43.096Z
+updated: 2024-06-01T06:09:43.096Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Leading E-Learning Titling Toolkit for 2024\""
-date: 2024-05-26 21:10:36
-updated: 2024-05-28 10:35:15
+date: 2024-05-31T06:11:51.527Z
+updated: 2024-06-01T06:11:51.527Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Are you having trouble coming up with a title for your most recent webinar? Ther
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

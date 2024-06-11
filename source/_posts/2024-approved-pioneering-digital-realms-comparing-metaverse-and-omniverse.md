@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pioneering Digital Realms  Comparing Metaverse & Omniverse\""
-date: 2024-05-28 18:53:30
-updated: 2024-05-29 12:33:28
+date: 2024-05-31T06:10:20.456Z
+updated: 2024-06-01T06:10:20.456Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ So, having gained knowledge on the difference between Metaverse vs. Omniverse, y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

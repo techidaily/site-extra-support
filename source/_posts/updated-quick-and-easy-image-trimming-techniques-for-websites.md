@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick & Easy Image Trimming Techniques for Websites"
-date: 2024-05-29 22:56:15
-updated: 2024-05-30 11:11:49
+date: 2024-05-31T06:09:32.276Z
+updated: 2024-06-01T06:09:32.276Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ This article has been quite conclusive in offering proper online tools to crop i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

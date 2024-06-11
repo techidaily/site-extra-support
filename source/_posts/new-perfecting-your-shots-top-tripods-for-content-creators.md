@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfecting Your Shots  Top Tripods for Content Creators\""
-date: 2024-05-26 19:49:32
-updated: 2024-05-29 12:30:30
+date: 2024-05-31T06:10:59.179Z
+updated: 2024-06-01T06:10:59.179Z
 tags: 
   - screen-recording
   - ai video
@@ -74,4 +74,5 @@ If you are able to lean your elbows onto a desk or table while you hold your cam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

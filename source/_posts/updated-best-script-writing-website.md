@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Best Script Writing Website"
-date: 2024-05-28 10:13:48
-updated: 2024-05-30 12:19:45
+date: 2024-05-31T06:08:31.454Z
+updated: 2024-06-01T06:08:31.454Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ To write a video script quickly, you should use templates, which are designed to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

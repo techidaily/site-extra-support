@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass in Connecting IG & TikTok\""
-date: 2024-05-26 17:14:12
-updated: 2024-05-28 12:57:46
+date: 2024-05-31T06:09:26.765Z
+updated: 2024-06-01T06:09:26.765Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ Using both platforms will take your business or content to a new height. It may 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

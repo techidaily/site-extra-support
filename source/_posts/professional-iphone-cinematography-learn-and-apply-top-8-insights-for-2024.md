@@ -1,7 +1,7 @@
 ---
 title: "\"Professional iPhone Cinematography  Learn and Apply Top 8 Insights for 2024\""
-date: 2024-05-28 16:43:50
-updated: 2024-05-30 11:51:41
+date: 2024-05-31T06:11:08.937Z
+updated: 2024-06-01T06:11:08.937Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

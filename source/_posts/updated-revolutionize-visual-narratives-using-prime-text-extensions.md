@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Revolutionize Visual Narratives Using Prime Text Extensions"
-date: 2024-05-28 22:41:20
-updated: 2024-05-30 10:41:48
+date: 2024-05-31T06:11:37.783Z
+updated: 2024-06-01T06:11:37.783Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

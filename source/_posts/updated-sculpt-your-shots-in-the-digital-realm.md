@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Sculpt Your Shots in the Digital Realm"
-date: 2024-05-28 18:54:13
-updated: 2024-05-30 11:13:58
+date: 2024-05-31T06:10:26.027Z
+updated: 2024-06-01T06:10:26.027Z
 tags: 
   - screen-recording
   - ai video
@@ -678,4 +678,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

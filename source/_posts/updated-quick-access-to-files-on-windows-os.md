@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick Access to Files on Windows OS"
-date: 2024-05-27 13:49:16
-updated: 2024-05-30 11:39:44
+date: 2024-05-31T06:11:57.632Z
+updated: 2024-06-01T06:11:57.632Z
 tags: 
   - screen-recording
   - ai video
@@ -114,4 +114,5 @@ This guidepost is another testament that your PC has massive hidden abilities. W
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

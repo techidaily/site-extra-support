@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sound Sculpting  Crafting Harmony in Audiovox Studio\""
-date: 2024-05-29 15:48:37
-updated: 2024-05-31 11:17:54
+date: 2024-05-31T06:07:23.596Z
+updated: 2024-06-01T06:07:23.596Z
 tags: 
   - screen-recording
   - ai video
@@ -162,4 +162,5 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

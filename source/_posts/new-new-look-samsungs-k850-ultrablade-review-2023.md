@@ -1,7 +1,7 @@
 ---
 title: "\"[New] New Look  Samsung's K850 UltraBlade Review 2023\""
-date: 2024-05-27 12:38:49
-updated: 2024-05-29 12:35:42
+date: 2024-05-31T06:10:46.116Z
+updated: 2024-06-01T06:10:46.116Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

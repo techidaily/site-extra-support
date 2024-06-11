@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Questions About Intermittent Video Playback at Photobooth"
-date: 2024-05-28 13:40:46
-updated: 2024-05-30 10:26:40
+date: 2024-05-31T06:06:52.656Z
+updated: 2024-06-01T06:06:52.656Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ Select the file type that best suits the project you're working on from the Form
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

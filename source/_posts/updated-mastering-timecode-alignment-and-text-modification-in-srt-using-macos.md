@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Timecode Alignment & Text Modification in SRT Using macOS"
-date: 2024-05-25 17:31:51
-updated: 2024-05-28 12:14:45
+date: 2024-05-31T06:10:28.346Z
+updated: 2024-06-01T06:10:28.346Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

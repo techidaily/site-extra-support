@@ -1,7 +1,7 @@
 ---
 title: "Mastering Blur Apps for Clear Portraits for 2024"
-date: 2024-05-25 23:30:58
-updated: 2024-05-28 10:16:24
+date: 2024-05-31T06:07:26.742Z
+updated: 2024-06-01T06:07:26.742Z
 tags: 
   - screen-recording
   - ai video
@@ -762,4 +762,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

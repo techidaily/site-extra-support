@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step  Building Time Lapse Shots on Samsung Gear\""
-date: 2024-05-30 17:38:59
-updated: 2024-05-31 12:21:17
+date: 2024-05-31T06:07:29.960Z
+updated: 2024-06-01T06:07:29.960Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ Creating a timelapse video on a Samsung device is super easy. All the latest Sam
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

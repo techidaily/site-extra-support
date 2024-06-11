@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Brightening Images Post-Capture\""
-date: 2024-05-30 22:31:20
-updated: 2024-05-31 10:47:58
+date: 2024-05-31T06:06:33.609Z
+updated: 2024-06-01T06:06:33.609Z
 tags: 
   - screen-recording
   - ai video
@@ -646,4 +646,5 @@ IV. The paint tool offers you different brushes depending on the function. For e
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

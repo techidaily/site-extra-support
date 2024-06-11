@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  OBS Studio & LUT Application Guide for Professional Cinematographers\""
-date: 2024-05-28 13:45:25
-updated: 2024-05-29 12:48:38
+date: 2024-05-31T06:07:57.121Z
+updated: 2024-06-01T06:07:57.121Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ As a result, adding professionalism to your talents is now even easier and more 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

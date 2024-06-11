@@ -1,7 +1,7 @@
 ---
 title: "[New] Probing the Capabilities of FFmpeg in Maintaining Audible Formats"
-date: 2024-05-29 15:24:16
-updated: 2024-05-30 10:21:41
+date: 2024-05-31T06:08:51.560Z
+updated: 2024-06-01T06:08:51.560Z
 tags: 
   - screen-recording
   - ai video
@@ -658,4 +658,5 @@ Knowing every detail of FFmpeg is a remarkable experience. We all are aware of F
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

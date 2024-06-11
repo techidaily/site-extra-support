@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Navigating Through GoPro Models & Specifications"
-date: 2024-05-27 22:18:43
-updated: 2024-05-29 12:58:27
+date: 2024-05-31T06:08:04.761Z
+updated: 2024-06-01T06:08:04.761Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

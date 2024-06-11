@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sideways Instagram Videos  An Enigma or Bug?\""
-date: 2024-05-28 23:49:41
-updated: 2024-05-31 11:32:33
+date: 2024-05-31T06:08:20.594Z
+updated: 2024-06-01T06:08:20.594Z
 tags: 
   - screen-recording
   - ai video
@@ -498,4 +498,5 @@ You can easily rotate your videos according to the guidelines of the social medi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

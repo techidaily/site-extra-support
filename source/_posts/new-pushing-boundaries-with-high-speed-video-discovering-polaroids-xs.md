@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pushing Boundaries with High-Speed Video - Discovering Polaroid's XS\""
-date: 2024-05-28 15:30:42
-updated: 2024-05-30 12:37:56
+date: 2024-05-31T06:10:50.304Z
+updated: 2024-06-01T06:10:50.304Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Speed Kings and Queens of 2022"
-date: 2024-05-30 21:33:17
-updated: 2024-05-31 12:30:43
+date: 2024-05-31T06:09:27.823Z
+updated: 2024-06-01T06:09:27.823Z
 tags: 
   - screen-recording
   - ai video
@@ -372,4 +372,5 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

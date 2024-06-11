@@ -1,7 +1,7 @@
 ---
 title: "[New] Making Shapes Pop with Photoshop Tips"
-date: 2024-05-26 21:13:57
-updated: 2024-05-28 10:33:50
+date: 2024-05-31T06:06:28.579Z
+updated: 2024-06-01T06:06:28.579Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

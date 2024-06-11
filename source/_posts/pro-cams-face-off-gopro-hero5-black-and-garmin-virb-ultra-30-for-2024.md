@@ -1,7 +1,7 @@
 ---
 title: "\"Pro Cams Face-Off  GoPro Hero5 Black and Garmin VIRB Ultra 30 for 2024\""
-date: 2024-05-28 16:34:46
-updated: 2024-05-30 10:54:15
+date: 2024-05-31T06:11:01.828Z
+updated: 2024-06-01T06:11:01.828Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

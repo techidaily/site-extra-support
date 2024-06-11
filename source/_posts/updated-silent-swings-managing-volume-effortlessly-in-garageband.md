@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Silent Swings  Managing Volume Effortlessly in Garageband\""
-date: 2024-05-29 11:25:26
-updated: 2024-05-31 12:39:56
+date: 2024-05-31T06:07:08.921Z
+updated: 2024-06-01T06:07:08.921Z
 tags: 
   - screen-recording
   - ai video
@@ -150,4 +150,5 @@ According to the survey, one of the most searched topics is **how to fade music 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

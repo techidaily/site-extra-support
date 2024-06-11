@@ -1,7 +1,7 @@
 ---
 title: "[New] Sound First, Screen Second – Podcasts Vs YouTube Analysis"
-date: 2024-05-30 12:37:58
-updated: 2024-05-31 12:39:42
+date: 2024-05-31T06:09:42.062Z
+updated: 2024-06-01T06:09:42.062Z
 tags: 
   - screen-recording
   - ai video
@@ -562,4 +562,5 @@ If you prefer to create playful and exciting content, then vlogs might be more y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

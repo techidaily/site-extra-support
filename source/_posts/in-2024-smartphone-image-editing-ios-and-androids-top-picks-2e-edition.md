@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Smartphone Image Editing  IOS & Android's Top Picks (2E Edition)\""
-date: 2024-05-29 12:51:33
-updated: 2024-05-31 10:38:55
+date: 2024-05-31T06:08:13.849Z
+updated: 2024-06-01T06:08:13.849Z
 tags: 
   - screen-recording
   - ai video
@@ -1134,4 +1134,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

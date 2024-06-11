@@ -1,7 +1,7 @@
 ---
 title: "Sequence Length in Seconds of 20MB Media for 2024"
-date: 2024-05-29 14:14:24
-updated: 2024-05-30 10:40:27
+date: 2024-05-31T06:10:38.985Z
+updated: 2024-06-01T06:10:38.985Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

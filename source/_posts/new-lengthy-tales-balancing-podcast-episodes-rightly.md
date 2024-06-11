@@ -1,7 +1,7 @@
 ---
 title: "[New] Lengthy Tales? Balancing Podcast Episodes Rightly"
-date: 2024-05-26 13:17:17
-updated: 2024-05-28 10:46:12
+date: 2024-05-31T06:11:37.418Z
+updated: 2024-06-01T06:11:37.418Z
 tags: 
   - screen-recording
   - ai video
@@ -911,4 +911,5 @@ Overall, it is important to carefully plan the episode length for your podcast c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

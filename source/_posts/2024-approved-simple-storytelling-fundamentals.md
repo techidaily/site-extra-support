@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Simple Storytelling Fundamentals\""
-date: 2024-05-28 22:39:10
-updated: 2024-05-31 10:17:58
+date: 2024-05-31T06:11:23.277Z
+updated: 2024-06-01T06:11:23.277Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ The value of storytelling can help you increase customer engagement and establis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

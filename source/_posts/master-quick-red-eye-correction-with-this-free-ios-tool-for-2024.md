@@ -1,7 +1,7 @@
 ---
 title: "\"Master Quick Red-Eye Correction with This Free iOS Tool for 2024\""
-date: 2024-05-27 20:13:22
-updated: 2024-05-28 12:40:49
+date: 2024-05-31T06:10:15.971Z
+updated: 2024-06-01T06:10:15.971Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

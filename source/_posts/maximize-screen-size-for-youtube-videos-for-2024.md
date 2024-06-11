@@ -1,7 +1,7 @@
 ---
 title: "Maximize Screen Size for YouTube Videos for 2024"
-date: 2024-05-27 23:56:48
-updated: 2024-05-28 12:42:50
+date: 2024-05-31T06:11:21.153Z
+updated: 2024-06-01T06:11:21.153Z
 tags: 
   - screen-recording
   - ai video
@@ -142,4 +142,5 @@ There are several ways you can zoom into YouTube videos to check out the desired
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

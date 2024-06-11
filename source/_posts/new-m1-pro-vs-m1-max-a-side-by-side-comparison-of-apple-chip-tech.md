@@ -1,7 +1,7 @@
 ---
 title: "\"[New] M1 Pro Vs. M1 Max - A Side-by-Side Comparison of Apple Chip Tech\""
-date: 2024-05-25 17:20:55
-updated: 2024-05-28 10:18:55
+date: 2024-05-31T06:07:42.081Z
+updated: 2024-06-01T06:07:42.081Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

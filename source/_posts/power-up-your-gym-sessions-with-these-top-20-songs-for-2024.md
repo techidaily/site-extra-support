@@ -1,7 +1,7 @@
 ---
 title: "Power Up Your Gym Sessions with These Top 20 Songs for 2024"
-date: 2024-05-28 22:33:46
-updated: 2024-05-29 12:27:51
+date: 2024-05-31T06:07:08.636Z
+updated: 2024-06-01T06:07:08.636Z
 tags: 
   - screen-recording
   - ai video
@@ -618,4 +618,5 @@ In addition, I'd recommend that you try to keep your background music to an even
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

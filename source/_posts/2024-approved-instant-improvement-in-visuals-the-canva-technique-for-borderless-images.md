@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Instant Improvement in Visuals  The Canva Technique for Borderless Images\""
-date: 2024-05-25 21:30:21
-updated: 2024-05-27 10:32:41
+date: 2024-05-31T06:07:12.228Z
+updated: 2024-06-01T06:07:12.228Z
 tags: 
   - screen-recording
   - ai video
@@ -244,4 +244,5 @@ Hopefully, you've found this article helpful and can now optimize your images in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

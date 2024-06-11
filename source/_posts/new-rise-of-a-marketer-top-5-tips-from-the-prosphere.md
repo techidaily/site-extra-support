@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Rise of a Marketer  Top 5 Tips From the Prosphere\""
-date: 2024-05-29 12:12:22
-updated: 2024-05-30 10:30:20
+date: 2024-05-31T06:11:05.776Z
+updated: 2024-06-01T06:11:05.776Z
 tags: 
   - screen-recording
   - ai video
@@ -175,4 +175,5 @@ Just remember, consistently and genuinely caring about your audience is what wil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

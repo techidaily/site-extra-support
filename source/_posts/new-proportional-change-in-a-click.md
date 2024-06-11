@@ -1,7 +1,7 @@
 ---
 title: "[New] Proportional Change in a Click"
-date: 2024-05-27 13:53:42
-updated: 2024-05-30 12:20:22
+date: 2024-05-31T06:11:50.868Z
+updated: 2024-06-01T06:11:50.868Z
 tags: 
   - screen-recording
   - ai video
@@ -986,4 +986,5 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

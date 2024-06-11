@@ -1,7 +1,7 @@
 ---
 title: "Mastering Documentary Script Artistry for 2024"
-date: 2024-05-25 13:14:44
-updated: 2024-05-28 12:19:29
+date: 2024-05-31T06:07:23.431Z
+updated: 2024-06-01T06:07:23.431Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ So, the last words for this educational post are that, as we all know, writing a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

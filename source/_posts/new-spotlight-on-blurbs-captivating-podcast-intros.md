@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Spotlight on Blurbs  Captivating Podcast Intros\""
-date: 2024-05-30 11:21:52
-updated: 2024-05-31 12:46:56
+date: 2024-05-31T06:09:51.932Z
+updated: 2024-06-01T06:09:51.932Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ WITH [JENNA FISCHER](https://www.earwolf.com/person/jenna-fischer/) AND [ANGELA 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pro Tips for Effective Use of Supplemental Film Sequences (B-Roll)\""
-date: 2024-05-27 13:11:49
-updated: 2024-05-30 10:47:30
+date: 2024-05-31T06:11:36.527Z
+updated: 2024-06-01T06:11:36.527Z
 tags: 
   - screen-recording
   - ai video
@@ -106,4 +106,5 @@ We sincerely hope that this post will be of use to you in making your films more
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

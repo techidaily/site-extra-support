@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Learn iPhone's Burst Shot Magic"
-date: 2024-05-27 12:45:39
-updated: 2024-05-28 12:46:44
+date: 2024-05-31T06:08:44.636Z
+updated: 2024-06-01T06:08:44.636Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

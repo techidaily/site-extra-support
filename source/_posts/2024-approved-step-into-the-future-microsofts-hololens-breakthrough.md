@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step Into the Future  Microsoft's HoloLens Breakthrough\""
-date: 2024-05-30 19:39:37
-updated: 2024-05-31 10:17:53
+date: 2024-05-31T06:08:59.206Z
+updated: 2024-06-01T06:08:59.206Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

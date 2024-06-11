@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of Free C-Span Video Acquisition\""
-date: 2024-05-27 11:43:22
-updated: 2024-05-28 12:19:24
+date: 2024-05-31T06:09:35.691Z
+updated: 2024-06-01T06:09:35.691Z
 tags: 
   - screen-recording
   - ai video
@@ -486,4 +486,5 @@ C-Span videos are great if you would like to keep up with the political scene in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

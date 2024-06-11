@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Premium Extensions Catalog  AE Edition\""
-date: 2024-05-27 15:36:42
-updated: 2024-05-30 12:34:10
+date: 2024-05-31T06:07:33.905Z
+updated: 2024-06-01T06:07:33.905Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ On its own After Effects comes with so many post-production effects and features
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

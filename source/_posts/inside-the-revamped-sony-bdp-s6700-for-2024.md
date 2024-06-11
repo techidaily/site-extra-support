@@ -1,7 +1,7 @@
 ---
 title: "\"Inside the Revamped Sony BDP-S6700 for 2024\""
-date: 2024-05-26 11:28:50
-updated: 2024-05-27 11:17:59
+date: 2024-05-31T06:07:29.991Z
+updated: 2024-06-01T06:07:29.991Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

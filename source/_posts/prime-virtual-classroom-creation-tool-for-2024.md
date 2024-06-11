@@ -1,7 +1,7 @@
 ---
 title: "Prime Virtual Classroom Creation Tool for 2024"
-date: 2024-05-27 18:17:13
-updated: 2024-05-30 11:53:33
+date: 2024-05-31T06:07:39.116Z
+updated: 2024-06-01T06:07:39.116Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Are you having trouble coming up with a title for your most recent webinar? Ther
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

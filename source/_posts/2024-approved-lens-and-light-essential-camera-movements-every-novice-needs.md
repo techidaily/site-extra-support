@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Lens & Light  Essential Camera Movements Every Novice Needs\""
-date: 2024-05-27 19:55:19
-updated: 2024-05-28 11:23:58
+date: 2024-05-31T06:09:06.502Z
+updated: 2024-06-01T06:09:06.502Z
 tags: 
   - screen-recording
   - ai video
@@ -670,4 +670,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

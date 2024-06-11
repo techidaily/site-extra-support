@@ -1,7 +1,7 @@
 ---
 title: "\"Lighted Paths  Guiding Viewers with Intelligent Illumination for 2024\""
-date: 2024-05-25 21:17:45
-updated: 2024-05-28 12:30:10
+date: 2024-05-31T06:10:55.683Z
+updated: 2024-06-01T06:10:55.683Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

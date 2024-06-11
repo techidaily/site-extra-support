@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Silent Shifts  Mastering Crossfades Efficiently\""
-date: 2024-05-28 11:47:23
-updated: 2024-05-31 12:17:40
+date: 2024-05-31T06:10:00.063Z
+updated: 2024-06-01T06:10:00.063Z
 tags: 
   - screen-recording
   - ai video
@@ -235,4 +235,5 @@ In a nutshell, it's important to use the right program to customize the fade in/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

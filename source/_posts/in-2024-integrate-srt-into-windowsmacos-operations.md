@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Integrate SRT Into Windows/macOS Operations"
-date: 2024-05-26 20:18:16
-updated: 2024-05-27 10:57:14
+date: 2024-05-31T06:06:37.363Z
+updated: 2024-06-01T06:06:37.363Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ The above listed are several ways by which an SRT subtitle file can be opened on
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

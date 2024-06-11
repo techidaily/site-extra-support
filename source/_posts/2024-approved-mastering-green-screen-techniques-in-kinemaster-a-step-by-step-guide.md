@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Green Screen Techniques in Kinemaster - A Step-by-Step Guide\""
-date: 2024-05-27 11:20:31
-updated: 2024-05-28 12:12:40
+date: 2024-05-31T06:07:26.392Z
+updated: 2024-06-01T06:07:26.392Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ Hopefully, you've found this guide helpful, and now you have enough information 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

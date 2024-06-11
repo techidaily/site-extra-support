@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting the Art of Subtle Sound Enhancements in Lumafusion"
-date: 2024-05-26 19:16:10
-updated: 2024-05-29 10:52:52
+date: 2024-05-31T06:09:50.458Z
+updated: 2024-06-01T06:09:50.458Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

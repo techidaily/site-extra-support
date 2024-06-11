@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Speed Photography Showdown  GoPro Hero 4 VS Ghost-S Drift\""
-date: 2024-05-28 18:16:54
-updated: 2024-05-31 11:27:37
+date: 2024-05-31T06:11:39.672Z
+updated: 2024-06-01T06:11:39.672Z
 tags: 
   - screen-recording
   - ai video
@@ -494,4 +494,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

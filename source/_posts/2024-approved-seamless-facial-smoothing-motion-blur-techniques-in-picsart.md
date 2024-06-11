@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Seamless Facial Smoothing  Motion Blur Techniques in Picsart\""
-date: 2024-05-29 22:45:32
-updated: 2024-05-30 11:35:35
+date: 2024-05-31T06:06:45.495Z
+updated: 2024-06-01T06:06:45.495Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ This article has provided a comprehensive guide on how to do motion blur on Pics
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

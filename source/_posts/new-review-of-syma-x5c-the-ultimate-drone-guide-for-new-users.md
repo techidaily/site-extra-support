@@ -1,7 +1,7 @@
 ---
 title: "[New] Review of Syma X5C – The Ultimate Drone Guide for New Users"
-date: 2024-05-29 22:20:32
-updated: 2024-05-30 10:33:46
+date: 2024-05-31T06:10:35.638Z
+updated: 2024-06-01T06:10:35.638Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

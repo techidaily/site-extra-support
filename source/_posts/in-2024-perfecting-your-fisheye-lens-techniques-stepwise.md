@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Perfecting Your Fisheye Lens Techniques Stepwise"
-date: 2024-05-27 11:37:53
-updated: 2024-05-29 11:16:54
+date: 2024-05-31T06:11:35.566Z
+updated: 2024-06-01T06:11:35.566Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

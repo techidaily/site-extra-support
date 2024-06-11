@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Shortcuts That Power Up Win11 for 2024"
-date: 2024-05-27 18:31:31
-updated: 2024-05-28 10:21:13
+date: 2024-05-31T06:09:30.218Z
+updated: 2024-06-01T06:09:30.218Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

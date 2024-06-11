@@ -1,7 +1,7 @@
 ---
 title: "\"Smartest Screens  Top 11 General Knowledge Channels for 2024\""
-date: 2024-05-28 11:43:21
-updated: 2024-05-31 12:13:32
+date: 2024-05-31T06:11:13.981Z
+updated: 2024-06-01T06:11:13.981Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ We hope you've found this article helpful and that now you know where to watch i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

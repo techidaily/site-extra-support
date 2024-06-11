@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Quick Sequences with GoPro Burst"
-date: 2024-05-27 23:16:28
-updated: 2024-05-28 11:39:11
+date: 2024-05-31T06:08:26.485Z
+updated: 2024-06-01T06:08:26.485Z
 tags: 
   - screen-recording
   - ai video
@@ -198,4 +198,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

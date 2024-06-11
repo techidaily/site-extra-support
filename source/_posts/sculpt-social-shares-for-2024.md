@@ -1,7 +1,7 @@
 ---
 title: "Sculpt Social Shares for 2024"
-date: 2024-05-29 23:53:57
-updated: 2024-05-30 12:15:35
+date: 2024-05-31T06:08:32.139Z
+updated: 2024-06-01T06:08:32.139Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Memes are enjoyable because they make you smile and chuckle. The ideal way to cr
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

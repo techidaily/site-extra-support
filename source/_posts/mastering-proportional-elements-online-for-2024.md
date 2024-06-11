@@ -1,7 +1,7 @@
 ---
 title: "Mastering Proportional Elements Online for 2024"
-date: 2024-05-27 18:45:10
-updated: 2024-05-28 12:21:25
+date: 2024-05-31T06:10:44.482Z
+updated: 2024-06-01T06:10:44.482Z
 tags: 
   - screen-recording
   - ai video
@@ -986,4 +986,5 @@ When you go to the "DVD" tab, you will notice various aspect ratio options. Swit
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "9 Tips You Must Know when Shooting a 360 Degree Video for 2024"
-date: 2024-05-29 22:36:31
-updated: 2024-05-31 12:21:44
+date: 2024-05-31T06:10:25.362Z
+updated: 2024-06-01T06:10:25.362Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ Follow @Liza Brown
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

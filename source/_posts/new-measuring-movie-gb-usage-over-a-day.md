@@ -1,7 +1,7 @@
 ---
 title: "[New] Measuring Movie GB Usage Over a Day"
-date: 2024-05-27 19:41:10
-updated: 2024-05-28 11:39:55
+date: 2024-05-31T06:08:16.430Z
+updated: 2024-06-01T06:08:16.430Z
 tags: 
   - screen-recording
   - ai video
@@ -584,4 +584,5 @@ You can also compress your video online without finding and downloading any soft
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

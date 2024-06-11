@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating the Maze of FS Mode in PPro\""
-date: 2024-05-28 23:18:42
-updated: 2024-05-29 11:41:16
+date: 2024-05-31T06:10:29.417Z
+updated: 2024-06-01T06:10:29.417Z
 tags: 
   - screen-recording
   - ai video
@@ -227,4 +227,5 @@ In addition, it enables you to collaborate with partners if you are working on a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

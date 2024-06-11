@@ -1,7 +1,7 @@
 ---
 title: "Photoshop's Quick Path to Stunning Colors for 2024"
-date: 2024-05-27 20:55:35
-updated: 2024-05-29 10:23:19
+date: 2024-05-31T06:06:27.150Z
+updated: 2024-06-01T06:06:27.150Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

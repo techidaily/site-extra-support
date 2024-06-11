@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Live-Action Revealed  An In-Depth Review of Polaroid's New Camera\""
-date: 2024-05-26 10:47:42
-updated: 2024-05-28 10:27:41
+date: 2024-05-31T06:08:06.652Z
+updated: 2024-06-01T06:08:06.653Z
 tags: 
   - screen-recording
   - ai video
@@ -394,4 +394,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sony FDR-X1000 Videography - Complete Review Edition\""
-date: 2024-05-28 10:47:22
-updated: 2024-05-31 12:44:41
+date: 2024-05-31T06:07:06.033Z
+updated: 2024-06-01T06:07:06.033Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

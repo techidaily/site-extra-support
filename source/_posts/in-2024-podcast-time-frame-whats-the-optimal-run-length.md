@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Podcast Time Frame  What's the Optimal Run-Length?\""
-date: 2024-05-27 15:14:48
-updated: 2024-05-29 12:49:15
+date: 2024-05-31T06:10:01.991Z
+updated: 2024-06-01T06:10:01.991Z
 tags: 
   - screen-recording
   - ai video
@@ -911,4 +911,5 @@ Overall, it is important to carefully plan the episode length for your podcast c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

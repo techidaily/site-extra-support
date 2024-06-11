@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Insight  DJI Paper Bird Goggles Functionality\""
-date: 2024-05-24 15:16:38
-updated: 2024-05-27 12:39:43
+date: 2024-05-31T06:09:37.927Z
+updated: 2024-06-01T06:09:37.927Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

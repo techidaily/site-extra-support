@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  M1's Impact on Video Editing Software Performance\""
-date: 2024-05-27 23:59:46
-updated: 2024-05-28 10:57:20
+date: 2024-05-31T06:08:31.593Z
+updated: 2024-06-01T06:08:31.593Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

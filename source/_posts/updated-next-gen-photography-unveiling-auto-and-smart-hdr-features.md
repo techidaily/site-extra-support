@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Next-Gen Photography  Unveiling Auto and Smart HDR Features\""
-date: 2024-05-28 19:13:47
-updated: 2024-05-29 10:48:28
+date: 2024-05-31T06:09:29.033Z
+updated: 2024-06-01T06:09:29.033Z
 tags: 
   - screen-recording
   - ai video
@@ -241,4 +241,5 @@ Auto HDR will make sure both shadows and highlights are in focus, while Smart HD
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

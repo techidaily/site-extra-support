@@ -1,7 +1,7 @@
 ---
 title: "\"Master the Art of Micro-Focusing in Virtual Gatherings for 2024\""
-date: 2024-05-25 19:14:59
-updated: 2024-05-28 12:42:58
+date: 2024-05-31T06:06:37.507Z
+updated: 2024-06-01T06:06:37.507Z
 tags: 
   - screen-recording
   - ai video
@@ -95,4 +95,5 @@ You may show additional information on your Google Meet by zooming in and out. O
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

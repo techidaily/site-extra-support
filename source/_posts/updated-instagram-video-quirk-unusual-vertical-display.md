@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Instagram Video Quirk  Unusual Vertical Display\""
-date: 2024-05-24 14:56:48
-updated: 2024-05-27 12:34:27
+date: 2024-05-31T06:11:45.034Z
+updated: 2024-06-01T06:11:45.034Z
 tags: 
   - screen-recording
   - ai video
@@ -498,4 +498,5 @@ You can easily rotate your videos according to the guidelines of the social medi
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Social Proof for Effective FB Giving Initiatives for 2024"
-date: 2024-05-25 16:55:33
-updated: 2024-05-28 10:40:56
+date: 2024-05-31T06:09:05.113Z
+updated: 2024-06-01T06:09:05.113Z
 tags: 
   - screen-recording
   - ai video
@@ -143,4 +143,5 @@ By following these tips, you can run a successful Facebook giveaway that will he
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

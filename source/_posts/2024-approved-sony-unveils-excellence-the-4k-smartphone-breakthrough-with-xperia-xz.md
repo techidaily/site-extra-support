@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sony Unveils Excellence  The 4K Smartphone Breakthrough with Xperia XZ\""
-date: 2024-05-29 21:38:39
-updated: 2024-05-31 12:45:24
+date: 2024-05-31T06:07:11.535Z
+updated: 2024-06-01T06:07:11.535Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

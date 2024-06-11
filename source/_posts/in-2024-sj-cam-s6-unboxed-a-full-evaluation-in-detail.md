@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, SJ-CAM S6 Unboxed  A Full Evaluation in Detail\""
-date: 2024-05-30 21:59:15
-updated: 2024-05-31 12:30:14
+date: 2024-05-31T06:10:42.849Z
+updated: 2024-06-01T06:10:42.849Z
 tags: 
   - screen-recording
   - ai video
@@ -570,4 +570,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

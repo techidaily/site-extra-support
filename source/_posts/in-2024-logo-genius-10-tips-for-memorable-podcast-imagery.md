@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Logo Genius  10 Tips for Memorable Podcast Imagery\""
-date: 2024-05-25 10:18:13
-updated: 2024-05-28 11:25:23
+date: 2024-05-31T06:08:50.335Z
+updated: 2024-06-01T06:08:50.335Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ However, your podcast cover image can outshine competitors if you work on all th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photoshop Basics  Top Tips to Transform Images Like a Pro\""
-date: 2024-05-27 22:18:14
-updated: 2024-05-29 12:35:28
+date: 2024-05-31T06:06:54.386Z
+updated: 2024-06-01T06:06:54.386Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ Without any doubt, Adobe Photoshop is one of the notorious tools to conduct adva
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

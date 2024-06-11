@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Leveraging Video Conferencing  A Guide to Zipping Up Zoom and Gmail Integration\""
-date: 2024-05-25 19:58:41
-updated: 2024-05-28 12:24:47
+date: 2024-05-31T06:08:11.159Z
+updated: 2024-06-01T06:08:11.159Z
 tags: 
   - screen-recording
   - ai video
@@ -240,4 +240,5 @@ In a nutshell, so that everyone can arrive on time, you would be able to easily 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

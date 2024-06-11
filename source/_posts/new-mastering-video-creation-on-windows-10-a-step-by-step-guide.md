@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Video Creation on Windows 10  A Step-by-Step Guide\""
-date: 2024-05-27 11:34:51
-updated: 2024-05-28 12:56:12
+date: 2024-05-31T06:08:01.708Z
+updated: 2024-06-01T06:08:01.708Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

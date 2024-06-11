@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Through Slug Line Syntax in Screenplays"
-date: 2024-05-28 10:42:53
-updated: 2024-05-29 11:34:32
+date: 2024-05-31T06:11:02.349Z
+updated: 2024-06-01T06:11:02.349Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ The Slug Line is a great method and an important element to use to enhance your 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

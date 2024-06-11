@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Overcoming Compression Artifacts on YouTube Videos"
-date: 2024-05-28 20:19:28
-updated: 2024-05-29 10:54:58
+date: 2024-05-31T06:08:11.052Z
+updated: 2024-06-01T06:08:11.052Z
 tags: 
   - screen-recording
   - ai video
@@ -634,4 +634,5 @@ Creating distortion effects for your video using Filmora is a walk in the park. 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

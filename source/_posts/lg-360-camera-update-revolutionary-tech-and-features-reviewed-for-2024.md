@@ -1,7 +1,7 @@
 ---
 title: "\"LG 360 Camera Update  Revolutionary Tech and Features Reviewed for 2024\""
-date: 2024-05-27 17:56:54
-updated: 2024-05-28 11:40:31
+date: 2024-05-31T06:08:12.262Z
+updated: 2024-06-01T06:08:12.262Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

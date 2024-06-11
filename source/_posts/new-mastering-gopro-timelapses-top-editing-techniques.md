@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering GoPro Timelapses  Top Editing Techniques\""
-date: 2024-05-27 21:58:23
-updated: 2024-05-28 10:40:32
+date: 2024-05-31T06:09:18.418Z
+updated: 2024-06-01T06:09:18.418Z
 tags: 
   - screen-recording
   - ai video
@@ -550,4 +550,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

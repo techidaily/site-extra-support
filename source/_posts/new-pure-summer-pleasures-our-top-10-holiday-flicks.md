@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pure Summer Pleasures  Our Top 10 Holiday Flicks\""
-date: 2024-05-28 17:28:26
-updated: 2024-05-30 12:47:47
+date: 2024-05-31T06:07:11.894Z
+updated: 2024-06-01T06:07:11.894Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

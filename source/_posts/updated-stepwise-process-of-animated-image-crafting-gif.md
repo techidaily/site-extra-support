@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Stepwise Process of Animated Image Crafting (GIF)"
-date: 2024-05-30 23:56:57
-updated: 2024-05-31 11:46:32
+date: 2024-05-31T06:07:32.041Z
+updated: 2024-06-01T06:07:32.041Z
 tags: 
   - screen-recording
   - ai video
@@ -440,4 +440,5 @@ Hopefully, you liked our guide on **GIF format outros** and can now find the per
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

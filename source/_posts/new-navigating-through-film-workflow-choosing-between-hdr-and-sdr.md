@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Through Film Workflow  Choosing Between HDR & SDR\""
-date: 2024-05-27 21:24:30
-updated: 2024-05-29 12:43:24
+date: 2024-05-31T06:08:52.255Z
+updated: 2024-06-01T06:08:52.255Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ SDR quality is available in most televisions, monitors, and photography platform
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

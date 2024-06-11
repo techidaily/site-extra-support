@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Intro to Cinema  Top 8 User-Friendly Cameras (35Mm)\""
-date: 2024-05-24 13:19:44
-updated: 2024-05-27 11:50:41
+date: 2024-05-31T06:11:10.983Z
+updated: 2024-06-01T06:11:10.983Z
 tags: 
   - screen-recording
   - ai video
@@ -734,4 +734,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

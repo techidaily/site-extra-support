@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Microsoft’s HoloLens Demo  The Next Leap in Tech Experience\""
-date: 2024-05-27 12:26:58
-updated: 2024-05-28 12:47:27
+date: 2024-05-31T06:11:11.632Z
+updated: 2024-06-01T06:11:11.632Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

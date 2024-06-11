@@ -1,7 +1,7 @@
 ---
 title: "Perfect Shadows & Highlights with IPhone Lighting Tips for 2024"
-date: 2024-05-28 11:31:58
-updated: 2024-05-29 10:42:47
+date: 2024-05-31T06:07:03.846Z
+updated: 2024-06-01T06:07:03.846Z
 tags: 
   - screen-recording
   - ai video
@@ -398,4 +398,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

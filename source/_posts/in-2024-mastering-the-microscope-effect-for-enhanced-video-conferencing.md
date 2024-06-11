@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering the Microscope Effect for Enhanced Video Conferencing"
-date: 2024-05-26 17:28:18
-updated: 2024-05-28 11:18:50
+date: 2024-05-31T06:07:33.861Z
+updated: 2024-06-01T06:07:33.861Z
 tags: 
   - screen-recording
   - ai video
@@ -95,4 +95,5 @@ You may show additional information on your Google Meet by zooming in and out. O
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

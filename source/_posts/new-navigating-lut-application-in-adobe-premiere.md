@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating LUT Application in Adobe Premiere"
-date: 2024-05-28 12:59:10
-updated: 2024-05-29 12:45:22
+date: 2024-05-31T06:07:00.527Z
+updated: 2024-06-01T06:07:00.527Z
 tags: 
   - screen-recording
   - ai video
@@ -117,4 +117,5 @@ Sometimes, some of them are out there to steal your money rather than provide th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

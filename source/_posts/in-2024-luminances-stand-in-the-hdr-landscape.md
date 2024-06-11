@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Luminance's Stand in the HDR Landscape"
-date: 2024-05-25 20:24:57
-updated: 2024-05-28 11:38:12
+date: 2024-05-31T06:10:12.472Z
+updated: 2024-06-01T06:10:12.472Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ In addition to that, if you're looking to edit HDR videos with high quality, we 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

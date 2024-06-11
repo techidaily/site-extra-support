@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Close-Up Filmmaking  Tips for a Standout Videography Career\""
-date: 2024-05-26 21:41:44
-updated: 2024-05-28 10:18:41
+date: 2024-05-31T06:08:51.844Z
+updated: 2024-06-01T06:08:51.844Z
 tags: 
   - screen-recording
   - ai video
@@ -394,4 +394,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

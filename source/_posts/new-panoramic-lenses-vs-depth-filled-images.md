@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Panoramic Lenses vs Depth-Filled Images\""
-date: 2024-05-28 22:42:59
-updated: 2024-05-29 10:25:51
+date: 2024-05-31T06:10:33.989Z
+updated: 2024-06-01T06:10:33.989Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

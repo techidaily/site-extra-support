@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Hue Shifts  A Guide to Efficient Photoshop Corrections\""
-date: 2024-05-27 18:51:15
-updated: 2024-05-28 10:37:55
+date: 2024-05-31T06:08:37.900Z
+updated: 2024-06-01T06:08:37.900Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Transitions  Kinemaster's Step-by-Step Tutorial\""
-date: 2024-05-27 11:23:49
-updated: 2024-05-28 12:27:21
+date: 2024-05-31T06:06:56.620Z
+updated: 2024-06-01T06:06:56.620Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Thus, in this guide, you learned how to add transition effect in Kinemaster and 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

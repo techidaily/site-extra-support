@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 10 Sci-Fi Metaverse Movies Take You to a Brand New World\""
-date: 2024-05-26 15:57:58
-updated: 2024-05-28 10:47:33
+date: 2024-05-31T06:11:21.193Z
+updated: 2024-06-01T06:11:21.193Z
 tags: 
   - screen-recording
   - ai video
@@ -362,4 +362,5 @@ The world is heading for a more advanced form of technology that would go beyond
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

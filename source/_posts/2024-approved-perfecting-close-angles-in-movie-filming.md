@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfecting Close Angles in Movie Filming\""
-date: 2024-05-26 19:11:35
-updated: 2024-05-29 11:47:55
+date: 2024-05-31T06:08:34.957Z
+updated: 2024-06-01T06:08:34.957Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ Now you can see how to zoom in/out videos on Kinemaster. You can practice it on 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Key Sites for Innovative Font Design"
-date: 2024-05-25 14:34:58
-updated: 2024-05-28 10:23:26
+date: 2024-05-31T06:07:03.693Z
+updated: 2024-06-01T06:07:03.693Z
 tags: 
   - screen-recording
   - ai video
@@ -487,4 +487,5 @@ Hopefully, you've found this article helpful and can now get the proper 3D fonts
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

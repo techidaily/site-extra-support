@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Excellent iPad/iPhone Interview Podcast Recording for 2024\""
-date: 2024-05-30 20:54:25
-updated: 2024-05-31 10:52:53
+date: 2024-05-31T06:08:44.348Z
+updated: 2024-06-01T06:08:44.348Z
 tags: 
   - screen-recording
   - ai video
@@ -404,4 +404,5 @@ All the equipment mentioned above is available at Amazon, and you should grab th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

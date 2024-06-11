@@ -1,7 +1,7 @@
 ---
 title: "\"[New] New Gamer Era Starts  DJI’s Mavic Air Versus Spark Battle\""
-date: 2024-05-28 22:41:56
-updated: 2024-05-29 10:34:50
+date: 2024-05-31T06:10:38.814Z
+updated: 2024-06-01T06:10:38.814Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

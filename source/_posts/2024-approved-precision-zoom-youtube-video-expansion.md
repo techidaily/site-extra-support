@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Precision Zoom  YouTube Video Expansion\""
-date: 2024-05-26 23:58:11
-updated: 2024-05-29 12:45:44
+date: 2024-05-31T06:08:36.500Z
+updated: 2024-06-01T06:08:36.500Z
 tags: 
   - screen-recording
   - ai video
@@ -142,4 +142,5 @@ There are several ways you can zoom into YouTube videos to check out the desired
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

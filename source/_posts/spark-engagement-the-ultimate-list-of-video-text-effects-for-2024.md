@@ -1,7 +1,7 @@
 ---
 title: "\"Spark Engagement  The Ultimate List of Video Text Effects for 2024\""
-date: 2024-05-28 17:21:42
-updated: 2024-05-31 10:44:45
+date: 2024-05-31T06:10:39.003Z
+updated: 2024-06-01T06:10:39.003Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ We have listed the most popular text effects that are widely used in today’s v
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

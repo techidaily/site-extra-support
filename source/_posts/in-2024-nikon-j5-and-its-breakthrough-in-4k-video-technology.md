@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Nikon J5 and Its Breakthrough in 4K Video Technology"
-date: 2024-05-27 23:14:26
-updated: 2024-05-29 11:59:16
+date: 2024-05-31T06:10:58.127Z
+updated: 2024-06-01T06:10:58.127Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

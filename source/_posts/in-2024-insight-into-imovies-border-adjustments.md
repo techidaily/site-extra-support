@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Insight Into iMovie's Border Adjustments"
-date: 2024-05-26 22:59:53
-updated: 2024-05-27 12:27:33
+date: 2024-05-31T06:11:19.098Z
+updated: 2024-06-01T06:11:19.098Z
 tags: 
   - screen-recording
   - ai video
@@ -228,4 +228,5 @@ Click the Text /Credit icon to add opening titles, end credits, or subtitles to 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

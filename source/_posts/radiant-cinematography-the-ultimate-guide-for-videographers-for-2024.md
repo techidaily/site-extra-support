@@ -1,7 +1,7 @@
 ---
 title: "\"Radiant Cinematography  The Ultimate Guide for Videographers for 2024\""
-date: 2024-05-29 19:57:59
-updated: 2024-05-30 12:26:46
+date: 2024-05-31T06:06:44.248Z
+updated: 2024-06-01T06:06:44.248Z
 tags: 
   - screen-recording
   - ai video
@@ -122,4 +122,5 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

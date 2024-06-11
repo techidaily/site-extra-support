@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Pivoting From SRT to Subtitle Format"
-date: 2024-05-26 14:43:37
-updated: 2024-05-29 10:57:39
+date: 2024-05-31T06:07:08.071Z
+updated: 2024-06-01T06:07:08.071Z
 tags: 
   - screen-recording
   - ai video
@@ -543,4 +543,5 @@ If you are facing issues opening and playing SRT subtitle files on your device, 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

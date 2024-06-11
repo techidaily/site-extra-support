@@ -1,7 +1,7 @@
 ---
 title: "[New] Pioneering Stories on YouTube, 2023 Edition"
-date: 2024-05-27 21:13:41
-updated: 2024-05-29 11:36:50
+date: 2024-05-31T06:10:59.863Z
+updated: 2024-06-01T06:10:59.863Z
 tags: 
   - screen-recording
   - ai video
@@ -192,4 +192,5 @@ All in all, these were some of the best storytelling YouTube channels that every
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

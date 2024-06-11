@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Revolutionary Viewfinder, Unstoppable Video - Meet the XS 100I\""
-date: 2024-05-29 10:34:23
-updated: 2024-05-30 10:23:49
+date: 2024-05-31T06:07:40.591Z
+updated: 2024-06-01T06:07:40.591Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

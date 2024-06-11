@@ -1,7 +1,7 @@
 ---
 title: "[New] Start a New Story, Install XP’s Videographer Tools"
-date: 2024-05-29 19:46:56
-updated: 2024-05-31 11:35:58
+date: 2024-05-31T06:08:37.743Z
+updated: 2024-06-01T06:08:37.743Z
 tags: 
   - screen-recording
   - ai video
@@ -135,4 +135,5 @@ Microsoft Photos replaced the famous software, Windows Movie Maker, and the app 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

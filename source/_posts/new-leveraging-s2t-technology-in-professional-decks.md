@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging S2T Technology in Professional Decks"
-date: 2024-05-27 23:51:51
-updated: 2024-05-28 12:53:52
+date: 2024-05-31T06:10:54.817Z
+updated: 2024-06-01T06:10:54.817Z
 tags: 
   - screen-recording
   - ai video
@@ -320,4 +320,5 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

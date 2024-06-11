@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leveraging LUTs for Stunning Visual Results"
-date: 2024-05-27 16:46:18
-updated: 2024-05-28 12:37:28
+date: 2024-05-31T06:07:28.979Z
+updated: 2024-06-01T06:07:28.979Z
 tags: 
   - screen-recording
   - ai video
@@ -133,4 +133,5 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

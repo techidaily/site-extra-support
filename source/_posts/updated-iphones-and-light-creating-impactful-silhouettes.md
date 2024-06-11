@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhones and Light  Creating Impactful Silhouettes\""
-date: 2024-05-25 11:47:11
-updated: 2024-05-28 12:35:18
+date: 2024-05-31T06:11:20.632Z
+updated: 2024-06-01T06:11:20.632Z
 tags: 
   - screen-recording
   - ai video
@@ -322,4 +322,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

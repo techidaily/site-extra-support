@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Insider Guide to GoPro Wizardry"
-date: 2024-05-25 13:12:43
-updated: 2024-05-27 12:22:35
+date: 2024-05-31T06:06:32.966Z
+updated: 2024-06-01T06:06:32.966Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Smartphone Security Systems  Apple’s X Vs. Samsung's Facial Tech\""
-date: 2024-05-28 13:16:31
-updated: 2024-05-31 11:53:50
+date: 2024-05-31T06:08:18.071Z
+updated: 2024-06-01T06:08:18.071Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

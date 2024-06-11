@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Luminous Videos  An Android Lighting Guide\""
-date: 2024-05-27 18:54:54
-updated: 2024-05-28 10:28:49
+date: 2024-05-31T06:08:47.266Z
+updated: 2024-06-01T06:08:47.266Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ If you need to adjust the brightness of your video, a video editing app like Fil
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

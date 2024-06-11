@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Shades of Genius  3 Proven Tricks for Color Correction Success\""
-date: 2024-05-27 11:15:58
-updated: 2024-05-30 12:49:41
+date: 2024-05-31T06:09:15.551Z
+updated: 2024-06-01T06:09:15.551Z
 tags: 
   - screen-recording
   - ai video
@@ -686,4 +686,5 @@ Apply the gradient by clicking within the shapes. Click “OK” to save your ch
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

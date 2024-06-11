@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Intro to Graphic Motion Artistry and Usage\""
-date: 2024-05-26 10:24:16
-updated: 2024-05-27 11:56:25
+date: 2024-05-31T06:07:04.885Z
+updated: 2024-06-01T06:07:04.885Z
 tags: 
   - screen-recording
   - ai video
@@ -103,4 +103,5 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

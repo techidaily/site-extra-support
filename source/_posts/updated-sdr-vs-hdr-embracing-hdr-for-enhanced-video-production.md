@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] SDR vs HDR  Embracing HDR for Enhanced Video Production\""
-date: 2024-05-28 14:22:27
-updated: 2024-05-30 10:11:36
+date: 2024-05-31T06:10:45.711Z
+updated: 2024-06-01T06:10:45.711Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ SDR quality is available in most televisions, monitors, and photography platform
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Prodigy AI Image Editing Arsenal for 2024"
-date: 2024-05-27 16:33:20
-updated: 2024-05-30 10:39:42
+date: 2024-05-31T06:08:29.752Z
+updated: 2024-06-01T06:08:29.752Z
 tags: 
   - screen-recording
   - ai video
@@ -134,4 +134,5 @@ AI-powered tools have increasingly made human tasks comfortable and a lot easier
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

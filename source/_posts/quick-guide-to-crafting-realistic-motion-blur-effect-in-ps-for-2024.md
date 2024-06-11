@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide to Crafting Realistic Motion Blur Effect in PS for 2024"
-date: 2024-05-28 23:19:56
-updated: 2024-05-30 12:56:26
+date: 2024-05-31T06:10:20.266Z
+updated: 2024-06-01T06:10:20.266Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Do you want to add an artistic look to your photos? One of the great ways to enh
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

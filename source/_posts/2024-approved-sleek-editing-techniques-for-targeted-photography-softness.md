@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sleek Editing Techniques for Targeted Photography Softness\""
-date: 2024-05-28 10:54:43
-updated: 2024-05-31 11:34:56
+date: 2024-05-31T06:09:13.707Z
+updated: 2024-06-01T06:09:13.707Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ You can blur parts of a picture on your Android phone without installing a third
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

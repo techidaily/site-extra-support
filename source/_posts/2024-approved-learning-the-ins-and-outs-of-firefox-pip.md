@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Learning the Ins and Outs of Firefox PIP\""
-date: 2024-05-26 11:53:16
-updated: 2024-05-28 12:23:15
+date: 2024-05-31T06:07:04.917Z
+updated: 2024-06-01T06:07:04.917Z
 tags: 
   - screen-recording
   - ai video
@@ -137,4 +137,5 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

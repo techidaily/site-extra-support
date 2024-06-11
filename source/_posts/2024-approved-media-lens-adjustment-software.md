@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Media Lens Adjustment Software\""
-date: 2024-05-26 15:33:10
-updated: 2024-05-28 11:45:42
+date: 2024-05-31T06:08:34.889Z
+updated: 2024-06-01T06:08:34.889Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ In many situations, we are needed to zoom edit the videos and this is where such
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

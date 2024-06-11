@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplified Techniques for Blurring Faces in Pictures"
-date: 2024-05-30 13:47:58
-updated: 2024-05-31 11:14:29
+date: 2024-05-31T06:07:15.683Z
+updated: 2024-06-01T06:07:15.683Z
 tags: 
   - screen-recording
   - ai video
@@ -478,4 +478,5 @@ Focal blur is a radial effect that warps the dimensions of your picture a little
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

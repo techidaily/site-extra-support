@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Snapping Multiple Images on iPhone in a Blink"
-date: 2024-05-28 12:56:35
-updated: 2024-05-31 11:49:23
+date: 2024-05-31T06:08:14.689Z
+updated: 2024-06-01T06:08:14.689Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

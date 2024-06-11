@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Snappy Segments  10 Snippets to Enhance Your Edits\""
-date: 2024-05-29 19:46:22
-updated: 2024-05-31 12:24:19
+date: 2024-05-31T06:11:41.168Z
+updated: 2024-06-01T06:11:41.168Z
 tags: 
   - screen-recording
   - ai video
@@ -758,4 +758,5 @@ For macOS 10.14 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

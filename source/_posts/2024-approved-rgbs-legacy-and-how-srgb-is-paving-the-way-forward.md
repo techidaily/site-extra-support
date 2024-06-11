@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  RGB's Legacy and How Srgb Is Paving the Way Forward\""
-date: 2024-05-29 10:42:21
-updated: 2024-05-30 10:39:52
+date: 2024-05-31T06:09:41.758Z
+updated: 2024-06-01T06:09:41.758Z
 tags: 
   - screen-recording
   - ai video
@@ -92,4 +92,5 @@ As a digital photographer, your main focus can be an artistic expression rather 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

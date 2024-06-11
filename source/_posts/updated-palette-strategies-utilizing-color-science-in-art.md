@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Palette Strategies  Utilizing Color Science in Art\""
-date: 2024-05-27 21:56:20
-updated: 2024-05-29 10:36:58
+date: 2024-05-31T06:07:40.036Z
+updated: 2024-06-01T06:07:40.036Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ By including this into your thought process when creating videos with [Filmora](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

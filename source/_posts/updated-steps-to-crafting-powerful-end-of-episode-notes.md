@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Steps to Crafting Powerful End-of-Episode Notes\""
-date: 2024-05-28 23:58:12
-updated: 2024-05-31 10:55:46
+date: 2024-05-31T06:09:29.878Z
+updated: 2024-06-01T06:09:29.878Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ WITH [JENNA FISCHER](https://www.earwolf.com/person/jenna-fischer/) AND [ANGELA 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

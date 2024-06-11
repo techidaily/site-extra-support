@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Next-Gen Retail Experience Design\""
-date: 2024-05-28 19:25:36
-updated: 2024-05-29 11:10:54
+date: 2024-05-31T06:10:31.494Z
+updated: 2024-06-01T06:10:31.494Z
 tags: 
   - screen-recording
   - ai video
@@ -194,4 +194,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

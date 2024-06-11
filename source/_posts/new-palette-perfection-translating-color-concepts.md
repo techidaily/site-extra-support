@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Palette Perfection  Translating Color Concepts\""
-date: 2024-05-27 22:19:17
-updated: 2024-05-29 11:30:12
+date: 2024-05-31T06:07:08.510Z
+updated: 2024-06-01T06:07:08.510Z
 tags: 
   - screen-recording
   - ai video
@@ -94,4 +94,5 @@ By including this into your thought process when creating videos with [Filmora](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

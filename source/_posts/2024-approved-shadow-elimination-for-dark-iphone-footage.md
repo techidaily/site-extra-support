@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Shadow Elimination for Dark iPhone Footage\""
-date: 2024-05-27 16:32:39
-updated: 2024-05-30 10:57:50
+date: 2024-05-31T06:09:06.673Z
+updated: 2024-06-01T06:09:06.673Z
 tags: 
   - screen-recording
   - ai video
@@ -630,4 +630,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

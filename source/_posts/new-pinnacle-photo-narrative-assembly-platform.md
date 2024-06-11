@@ -1,7 +1,7 @@
 ---
 title: "[New] Pinnacle Photo Narrative Assembly Platform"
-date: 2024-05-27 15:33:28
-updated: 2024-05-29 10:30:44
+date: 2024-05-31T06:10:17.663Z
+updated: 2024-06-01T06:10:17.663Z
 tags: 
   - screen-recording
   - ai video
@@ -314,4 +314,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

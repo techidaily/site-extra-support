@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Audio Fading in Lumafusion Software\""
-date: 2024-05-30 19:44:39
-updated: 2024-05-31 12:17:18
+date: 2024-05-31T06:11:47.646Z
+updated: 2024-06-01T06:11:47.646Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Making Bank with YouTube  An Analysis of PewDiePie’s Earnings\""
-date: 2024-05-27 20:59:59
-updated: 2024-05-28 11:25:38
+date: 2024-05-31T06:07:57.300Z
+updated: 2024-06-01T06:07:57.300Z
 tags: 
   - screen-recording
   - ai video
@@ -383,4 +383,5 @@ PewDiePie is an apt example of earning fortunes by uploading videos and being po
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

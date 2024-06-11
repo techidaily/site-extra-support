@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Scribe's Summit Selection - Top 8\""
-date: 2024-05-27 22:11:28
-updated: 2024-05-30 10:28:32
+date: 2024-05-31T06:08:42.849Z
+updated: 2024-06-01T06:08:42.849Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ In conclusion, these were some of our recommendations for storyteller academies.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

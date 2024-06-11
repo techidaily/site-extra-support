@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Photopea Guide to Clean Image Canvases"
-date: 2024-05-27 17:43:47
-updated: 2024-05-29 10:54:19
+date: 2024-05-31T06:10:31.956Z
+updated: 2024-06-01T06:10:31.956Z
 tags: 
   - screen-recording
   - ai video
@@ -174,4 +174,5 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

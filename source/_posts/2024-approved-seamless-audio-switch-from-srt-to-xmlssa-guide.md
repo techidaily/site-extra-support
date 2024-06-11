@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Seamless Audio Switch  From SRT to XML/SSA Guide\""
-date: 2024-05-27 19:25:16
-updated: 2024-05-30 11:43:16
+date: 2024-05-31T06:10:38.489Z
+updated: 2024-06-01T06:10:38.489Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ There’s no doubt that the SRT file format is one of the most popular subtitle 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

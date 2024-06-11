@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Podcast Income  The Real Numbers\""
-date: 2024-05-28 19:11:43
-updated: 2024-05-29 12:17:51
+date: 2024-05-31T06:07:59.698Z
+updated: 2024-06-01T06:07:59.698Z
 tags: 
   - screen-recording
   - ai video
@@ -273,4 +273,5 @@ Many podcasters start as amateurs and make a living doing what they love. You ca
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

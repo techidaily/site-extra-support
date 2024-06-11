@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pushing Boundaries in Media  Crafting Curved Content\""
-date: 2024-05-28 19:23:58
-updated: 2024-05-30 12:12:33
+date: 2024-05-31T06:07:09.908Z
+updated: 2024-06-01T06:07:09.908Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ This tool allows you to distort text by adding a wavy effect to it. To use this 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

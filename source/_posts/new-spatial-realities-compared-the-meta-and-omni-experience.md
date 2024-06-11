@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Spatial Realities Compared  The Meta and Omni Experience\""
-date: 2024-05-28 12:16:15
-updated: 2024-05-31 12:30:54
+date: 2024-05-31T06:09:34.499Z
+updated: 2024-06-01T06:09:34.499Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ So, having gained knowledge on the difference between Metaverse vs. Omniverse, y
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

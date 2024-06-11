@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Integrating Skype Into Zoom Meetings Made Simple\""
-date: 2024-05-24 17:17:25
-updated: 2024-05-27 10:34:13
+date: 2024-05-31T06:08:18.525Z
+updated: 2024-06-01T06:08:18.525Z
 tags: 
   - screen-recording
   - ai video
@@ -102,4 +102,5 @@ As Microsoft has concentrated on enhancing Microsoft Teams for business users an
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

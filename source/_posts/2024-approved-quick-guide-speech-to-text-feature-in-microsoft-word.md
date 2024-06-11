@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Guide  Speech-to-Text Feature in Microsoft Word\""
-date: 2024-05-29 12:20:16
-updated: 2024-05-30 11:41:39
+date: 2024-05-31T06:08:10.390Z
+updated: 2024-06-01T06:08:10.390Z
 tags: 
   - screen-recording
   - ai video
@@ -312,4 +312,5 @@ Microsoft Word's speech-to-text feature is not perfect, but it can be a huge tim
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

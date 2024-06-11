@@ -1,7 +1,7 @@
 ---
 title: "Portable Battery Packs to Keep Recording Longer for 2024"
-date: 2024-05-26 23:52:29
-updated: 2024-05-29 10:37:11
+date: 2024-05-31T06:10:14.600Z
+updated: 2024-06-01T06:10:14.600Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

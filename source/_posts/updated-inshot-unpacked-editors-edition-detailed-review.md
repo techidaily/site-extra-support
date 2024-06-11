@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] InShot Unpacked  Editor's Edition Detailed Review\""
-date: 2024-05-25 19:22:20
-updated: 2024-05-27 11:18:59
+date: 2024-05-31T06:08:05.180Z
+updated: 2024-06-01T06:08:05.180Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ Hopefully, you find this comprehensive review helpful, and you can now edit your
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

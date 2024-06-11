@@ -1,7 +1,7 @@
 ---
 title: "\"Reducing Camera Movement in Post-Processing  Necessary for 2024\""
-date: 2024-05-27 15:41:12
-updated: 2024-05-30 11:32:28
+date: 2024-05-31T06:10:09.658Z
+updated: 2024-06-01T06:10:09.658Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

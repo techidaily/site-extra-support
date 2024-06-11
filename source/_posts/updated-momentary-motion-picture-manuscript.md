@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Momentary Motion Picture Manuscript"
-date: 2024-05-28 23:19:27
-updated: 2024-05-29 11:20:40
+date: 2024-05-31T06:08:33.908Z
+updated: 2024-06-01T06:08:33.908Z
 tags: 
   - screen-recording
   - ai video
@@ -216,4 +216,5 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shoot with Confidence - The Beginner's Guide to Cameras\""
-date: 2024-05-30 13:44:24
-updated: 2024-05-31 11:25:54
+date: 2024-05-31T06:06:46.662Z
+updated: 2024-06-01T06:06:46.662Z
 tags: 
   - screen-recording
   - ai video
@@ -730,4 +730,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

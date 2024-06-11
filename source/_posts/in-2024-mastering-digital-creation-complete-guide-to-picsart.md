@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Digital Creation  Complete Guide to PicsArt\""
-date: 2024-05-27 12:41:10
-updated: 2024-05-28 10:47:59
+date: 2024-05-31T06:08:17.877Z
+updated: 2024-06-01T06:08:17.877Z
 tags: 
   - screen-recording
   - ai video
@@ -353,4 +353,5 @@ PicsArt is an amazing photo and video editing app with lots of editing features 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

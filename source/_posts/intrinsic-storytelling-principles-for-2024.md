@@ -1,7 +1,7 @@
 ---
 title: "Intrinsic Storytelling Principles for 2024"
-date: 2024-05-24 22:26:29
-updated: 2024-05-27 11:52:39
+date: 2024-05-31T06:08:55.508Z
+updated: 2024-06-01T06:08:55.508Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ The value of storytelling can help you increase customer engagement and establis
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

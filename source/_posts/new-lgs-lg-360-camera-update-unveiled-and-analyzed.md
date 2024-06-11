@@ -1,7 +1,7 @@
 ---
 title: "[New] LG's LG 360 Camera Update Unveiled & Analyzed"
-date: 2024-05-27 22:37:14
-updated: 2024-05-28 12:48:20
+date: 2024-05-31T06:11:12.191Z
+updated: 2024-06-01T06:11:12.191Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ Follow @Benjamin Arango
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

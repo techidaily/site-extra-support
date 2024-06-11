@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pushing Boundaries with Film Color Grading (These 7)\""
-date: 2024-05-27 17:56:54
-updated: 2024-05-30 11:37:49
+date: 2024-05-31T06:08:56.055Z
+updated: 2024-06-01T06:08:56.055Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ Examples of triadic color schemes include red-yellow-blue or purple-green-orange
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

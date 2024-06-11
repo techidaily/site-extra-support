@@ -1,7 +1,7 @@
 ---
 title: "[New] Standout 1980S Visual Techniques in Media Editing"
-date: 2024-05-28 13:48:13
-updated: 2024-05-31 12:44:30
+date: 2024-05-31T06:08:31.339Z
+updated: 2024-06-01T06:08:31.339Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ To apply the **80s VHS effects**, you can take assistance from Wondershare Filmo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

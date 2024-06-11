@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Revolutionizing Patient Engagement with Creative FB Strategies"
-date: 2024-05-28 11:18:34
-updated: 2024-05-30 11:18:21
+date: 2024-05-31T06:11:26.283Z
+updated: 2024-06-01T06:11:26.283Z
 tags: 
   - screen-recording
   - ai video
@@ -180,4 +180,5 @@ We hope this blog post was informative and helpful. If you have any questions, f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering PC/Mobile Video Filter Techniques"
-date: 2024-05-26 14:48:43
-updated: 2024-05-28 12:43:47
+date: 2024-05-31T06:11:58.416Z
+updated: 2024-06-01T06:11:58.416Z
 tags: 
   - screen-recording
   - ai video
@@ -430,4 +430,5 @@ Kinemaster can also be a boon for iOS device users to add beautiful filters for 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

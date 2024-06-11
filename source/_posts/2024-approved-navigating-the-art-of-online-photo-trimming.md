@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Navigating the Art of Online Photo Trimming\""
-date: 2024-05-26 23:48:43
-updated: 2024-05-29 10:34:50
+date: 2024-05-31T06:11:01.230Z
+updated: 2024-06-01T06:11:01.230Z
 tags: 
   - screen-recording
   - ai video
@@ -98,4 +98,5 @@ This article has been quite conclusive in offering proper online tools to crop i
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

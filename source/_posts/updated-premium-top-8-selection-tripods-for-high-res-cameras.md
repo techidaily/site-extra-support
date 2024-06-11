@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Premium Top 8 Selection  Tripods for High-Res Cameras\""
-date: 2024-05-29 15:40:16
-updated: 2024-05-30 12:44:32
+date: 2024-05-31T06:09:46.366Z
+updated: 2024-06-01T06:09:46.366Z
 tags: 
   - screen-recording
   - ai video
@@ -894,4 +894,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

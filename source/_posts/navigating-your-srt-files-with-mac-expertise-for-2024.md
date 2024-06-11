@@ -1,7 +1,7 @@
 ---
 title: "Navigating Your SRT Files with Mac Expertise for 2024"
-date: 2024-05-27 15:57:49
-updated: 2024-05-29 11:12:28
+date: 2024-05-31T06:09:07.718Z
+updated: 2024-06-01T06:09:07.718Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

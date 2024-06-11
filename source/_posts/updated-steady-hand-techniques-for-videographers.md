@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Steady-Hand Techniques for Videographers\""
-date: 2024-05-29 21:52:35
-updated: 2024-05-31 12:13:34
+date: 2024-05-31T06:08:03.777Z
+updated: 2024-06-01T06:08:03.777Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ That's why awareness can go a long way towards helping you catch potential probl
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

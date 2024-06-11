@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sky's New Choreographer  GoPro Karma Takes Center Stage\""
-date: 2024-05-29 17:16:25
-updated: 2024-05-31 12:19:59
+date: 2024-05-31T06:07:14.523Z
+updated: 2024-06-01T06:07:14.523Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

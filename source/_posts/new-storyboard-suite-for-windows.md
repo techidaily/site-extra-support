@@ -1,7 +1,7 @@
 ---
 title: "[New] Storyboard Suite for Windows"
-date: 2024-05-30 12:59:39
-updated: 2024-05-31 12:52:45
+date: 2024-05-31T06:07:45.565Z
+updated: 2024-06-01T06:07:45.565Z
 tags: 
   - screen-recording
   - ai video
@@ -310,4 +310,5 @@ Follow @Shanoon Cox
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

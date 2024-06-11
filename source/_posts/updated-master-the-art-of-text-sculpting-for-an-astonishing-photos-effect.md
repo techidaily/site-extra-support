@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Master the Art of Text Sculpting for an Astonishing PHOTOS Effect"
-date: 2024-05-26 14:23:19
-updated: 2024-05-28 10:26:18
+date: 2024-05-31T06:08:43.593Z
+updated: 2024-06-01T06:08:43.593Z
 tags: 
   - screen-recording
   - ai video
@@ -154,4 +154,5 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

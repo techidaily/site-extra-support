@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Panasonic HX-A1 Wearable Camera Explored\""
-date: 2024-05-26 13:29:30
-updated: 2024-05-29 11:14:16
+date: 2024-05-31T06:10:14.376Z
+updated: 2024-06-01T06:10:14.376Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

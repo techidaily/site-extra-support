@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Seamless SRT Creation  The Ultimate XML/SSA/TTML Playbook\""
-date: 2024-05-27 11:29:59
-updated: 2024-05-30 11:47:19
+date: 2024-05-31T06:08:10.408Z
+updated: 2024-06-01T06:08:10.408Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ If you still have questions in your mind, leave them in the comment section belo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

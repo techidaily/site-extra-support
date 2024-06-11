@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Laptop Video Edits  Going Off-Inshot\""
-date: 2024-05-26 16:21:51
-updated: 2024-05-28 11:33:58
+date: 2024-05-31T06:11:31.531Z
+updated: 2024-06-01T06:11:31.531Z
 tags: 
   - screen-recording
   - ai video
@@ -607,4 +607,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

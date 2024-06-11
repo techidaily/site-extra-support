@@ -1,7 +1,7 @@
 ---
 title: "\"[New] PeakQuality Resizer – Cross-Platform Edition\""
-date: 2024-05-27 18:51:14
-updated: 2024-05-29 11:56:33
+date: 2024-05-31T06:06:33.495Z
+updated: 2024-06-01T06:06:33.495Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ For all victims who could never find a good video resolution converter, we have 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

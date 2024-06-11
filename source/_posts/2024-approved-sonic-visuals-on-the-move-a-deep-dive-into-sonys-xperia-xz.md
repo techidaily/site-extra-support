@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sonic Visuals on the Move - A Deep Dive Into Sony's Xperia XZ\""
-date: 2024-05-30 10:43:35
-updated: 2024-05-31 10:40:52
+date: 2024-05-31T06:11:40.489Z
+updated: 2024-06-01T06:11:40.489Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

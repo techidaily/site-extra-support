@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Photoshop's Secret Weapon  Advanced Techniques for 3D Lut Mastery\""
-date: 2024-05-28 19:29:48
-updated: 2024-05-29 12:28:20
+date: 2024-05-31T06:10:31.134Z
+updated: 2024-06-01T06:10:31.134Z
 tags: 
   - screen-recording
   - ai video
@@ -842,4 +842,5 @@ For macOS 10.12 or later
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

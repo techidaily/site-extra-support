@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leading Dialogue Composer's Circle"
-date: 2024-05-25 14:51:52
-updated: 2024-05-28 10:10:34
+date: 2024-05-31T06:08:16.119Z
+updated: 2024-06-01T06:08:16.119Z
 tags: 
   - screen-recording
   - ai video
@@ -196,4 +196,5 @@ To write a video script quickly, you should use templates, which are designed to
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

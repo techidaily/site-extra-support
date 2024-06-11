@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Revise & Reshape  Using the Eraser Tool in Photoshop Guide\""
-date: 2024-05-29 22:36:24
-updated: 2024-05-30 12:52:51
+date: 2024-05-31T06:09:22.218Z
+updated: 2024-06-01T06:09:22.218Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ Hopefully, you can use the tools in Phoshop with ease and remove images' backgro
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

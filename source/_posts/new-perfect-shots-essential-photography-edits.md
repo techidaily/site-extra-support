@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Shots  Essential Photography Edits\""
-date: 2024-05-27 22:13:15
-updated: 2024-05-29 11:15:46
+date: 2024-05-31T06:09:09.309Z
+updated: 2024-06-01T06:09:09.309Z
 tags: 
   - screen-recording
   - ai video
@@ -128,4 +128,5 @@ You can try the photography editing tips mentioned above to enhance your images 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

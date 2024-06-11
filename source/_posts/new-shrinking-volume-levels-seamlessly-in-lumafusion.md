@@ -1,7 +1,7 @@
 ---
 title: "[New] Shrinking Volume Levels Seamlessly in Lumafusion"
-date: 2024-05-29 15:57:47
-updated: 2024-05-31 10:31:19
+date: 2024-05-31T06:09:07.782Z
+updated: 2024-06-01T06:09:07.782Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,5 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfecting the Pause  How to Craft Exceptional Slow Motion Videos\""
-date: 2024-05-27 18:21:54
-updated: 2024-05-29 10:31:27
+date: 2024-05-31T06:08:09.905Z
+updated: 2024-06-01T06:08:09.905Z
 tags: 
   - screen-recording
   - ai video
@@ -574,4 +574,5 @@ Follow @Ollie Mattison
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
 
