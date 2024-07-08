@@ -1,0 +1,170 @@
+---
+title: "\"Mastering WMP  CD Extraction & Bursting Techniques for 2024\""
+date: 2024-07-07T17:31:40.575Z
+updated: 2024-07-08T17:31:40.575Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes Mastering WMP: CD Extraction & Bursting Techniques for 2024\""
+excerpt: "\"This Article Describes Mastering WMP: CD Extraction & Bursting Techniques for 2024\""
+keywords: "WMP CD Extract,Burst Tech Master,WMP Extraction Guide,CD Extraction Pros,Advanced Burst Technique,WMP Burning Secrets,CD Mastering Tips"
+thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07942af07cd489ff374cb4abd.png
+---
+
+## Mastering WMP: CD Extraction & Bursting Techniques
+
+# How to use windows media player to rip and burn cd
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ If you want to Rip and Burn your CD with new data using Windows Media Player then prefer to follow these simple steps:
+
+## 1: How to use Window Media Player to Rip CD?
+
+ **Step 1: Quick Rip Vs Normal Rip:**
+
+ If you are accessing CDs for the very first time then you must be searching hard about how to rip music from a CD. Don’t worry! The tutorial below can help you to understand this process. First of all you must install latest version of Windows Media Player on your device (V12); it is much improved as compared to that old V11 platform addition of preview functions and library.
+
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-1.jpg
+)
+
+ **Quick Rip:**
+
+ Users are advised to start ripping process from “AutoPlay” menu. It will appear right after you insert your CD/DVD drive inside computer. Below AutoPlay menu, you will find “Rip Music from CD – using Window Media Player” option. Once you click on this option, it will automatically open the WMP timeline on your system. Never forget to uncheck that “Always do this for audio CDs” option otherwise it will perform the same operation every time whenever a new CD will be detected. Now you need to hit “Start Rip Button”. The software tool performs ripping task with WMA file format and you can save it directly to Music Folder.
+
+ **Step 2: Normal Ripping with Windows Media Player:**
+
+ If you want to do ripping task with customizable settings then prefer to go for Normal Ripping technique. To complete this task: simply launch Window Media Player on your system. Now insert your CD but never use that AutoPlay option this time. As soon as you reach at Rip Menu then hit Rip Tab available on screen. From the drop down menu, you have to select “Formats”. It will assist users to pick audio files with WAV and MP3 file formats. Note that both these media file formats come under lossless format category so ripping process will not cause any quality reduction for your actual data. You can also enter your desired bit rate value to ensure right content quality. But note that, better content quality means larger file size.
+
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-2.jpg
+)
+
+ **Step 3: Additional CD ripping options:**
+
+ When you hit “More Options” then it will provide you many choices below. In the “Rip Options” section, you can easily enter your desired destination folder from change button that is available below “Rip Music to this Location” section. Users are also allowed to change their file format and bit rate settings. As soon as you are done with all the settings then press “OK” button.
+
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-3.jpg
+)
+
+ **Step 4: Changing Album and Track Info in Windows Media Player:**
+
+ In case if you want your software to automatically search for complete information of album online then simply right click on CD icon. Here you will find a submenu that asks for “Find Album Info”. Select your file and then press Next. On the verification screen, hit Finish.
+
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-4.jpg
+)
+
+ **Step 5: Let “Er Rip: Manual Album and Track Editing”:**
+
+ As soon as you are done with the ripping task, your software will show a message “Ripped to Library” and it will appear with each song. Now you can use Window Media Player to move these songs to any destination media like CD or music player etc. Now your media content is ready with you and you can access it easily on other players.
+
+![](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-5.jpg
+)
+
+## 2: How to Use Windows Media Player to Burn CD?
+
+ So now, you are ready to learn the CD burning process. Great! Start following these simple steps:
+
+ **Step 1: Check for the music tracks that you want to burn:**
+
+ Note that, if you want to burn a CD then it must be ripped in advanced using Window Media Player.
+
+* In case if you have not yet uploaded or ripped your CD then insert it into the CD drive. As soon as your Windows Media Player recognises this new insert, hit the “Rip CD” option that is visible at upper left portion of media player. System will take few minutes to copy this CD onto computer.
+* Those who want to assemble a mix or need to store songs from various CDs and need to create a playlist then go to upper left portion of media player and here press “create playlist” button. Enter name for your playlist and then drag and drop your desired songs over there.
+* If you want to create list from internet then you can directly download them from YouTube. Prefer to use URL to MP3 website to get it done faster. Enter your recently downloaded songs into playlist.
+
+ **Step 2: Insert your blank CD:**
+
+ It is time to put your CD into Computer Disk Drive and it will soon burn your CD while copying its original content. Note that, All CDs use to have specific storage space, you can enter data accordingly.
+
+ **Step 3: Locate Burn Tab on top Right corner of Media Player:**
+
+ You will not find any list of songs at this place and CD will also be reflected as Empty.
+
+ **Step 4: Drag your media files:**
+
+ Now as you are done with all these steps now you can start burning your CD. Simply drag the playlist or album that you have recently created for burning needs and place them on Burn tab. Now you will be able to see the complete list of songs over there.
+
+ **Step 5: Manipulate burn settings:**
+
+ Go to burn option button for this feature can be located on extreme right corner of your screen. Use this feature to set particular length between songs. Note that you can also adjust burn speed as well as quality of songs manually. Soon you will be able to create your track list.
+
+ **Step 6: Press Start Button:**
+
+ Go to burn tab and then hit start button. It will soon start the burning process and a green progress window will appear on screen.
+
+ **Step 7: Wait till the time process finishes:**
+
+ As soon as this burning process will complete, your system will immediately eject your CD from CD space.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/in-2024-launching-zoom-sessions-smoothly-with-android/"><u>In 2024, Launching Zoom Sessions Smoothly with Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stepwise-mastery-of-green-screen-techniques-in-kinemaster/"><u>In 2024, Stepwise Mastery of Green Screen Techniques in Kinemaster</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-guide-maximizing-spotify-ad-reach-for-2024/"><u>Step-by-Step Guide  Maximizing Spotify Ad Reach for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-smilescribbler-share-laughter-digitally/"><u>In 2024, SmileScribbler  Share Laughter Digitally</u></a></li>
+<li><a href="https://extra-support.techidaily.com/starting-strategies-for-an-engaging-fb-giveaway-for-2024/"><u>Starting Strategies for an Engaging FB Giveaway for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-picture-perfect-presentation-software-for-impeccable-photo-framing/"><u>2024 Approved  Picture Perfect Presentation  Software for Impeccable Photo Framing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-impact-partnering-with-influencers-on-youtube/"><u>[New] Maximizing Impact  Partnering with Influencers on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seamless-transformation-best-face-editors-on-iphones-and-androids-for-2024/"><u>Seamless Transformation  Best Face Editors on iPhones and Androids for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-guide-crafting-perfect-collages/"><u>In 2024, Master Guide  Crafting Perfect Collages</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-5-ways-to-remove-stickers-from-a-tiktok-video/"><u>In 2024, 5 Ways to Remove Stickers From a TikTok Video</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-video-quality-with-yi-4k-action-camera/"><u>2024 Approved  Mastering Video Quality with Yi 4K Action Camera</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-new-picsart-app-review-and-tutorial/"><u>2024 Approved  Navigating the New PicsArt App – Review & Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sound-sleuths-unite-free-beats-tracking-tools/"><u>[New] Sound Sleuths Unite! Free Beats-Tracking Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-songsyncing-simplified-your-guide-to-turning-tamil-music-into-alerts/"><u>In 2024, SongSyncing Simplified  Your Guide to Turning Tamil Music Into Alerts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/insightful-selection-elite-free-srt-translation-services-for-2024/"><u>Insightful Selection  Elite Free SRT Translation Services for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-starters-manual-to-mastering-screen-clarity/"><u>2024 Approved  Starter's Manual to Mastering Screen Clarity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixels-personal-soundtrack-a-selection-guide/"><u>In 2024, Pixel's Personal Soundtrack  A Selection Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premiere-10-optics-enhancing-visuals/"><u>[New] Premiere 10 Optics Enhancing Visuals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-podcast-acquisition-on-apple-devices/"><u>[Updated] Mastering Podcast Acquisition on Apple Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-videography-8-tips-of-recording-pro-videos-for-2024/"><u>IPhone Videography  8 Tips of Recording Pro Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-preserving-the-past-in-motion-photo-to-video-transition/"><u>2024 Approved  Preserving the Past in Motion  Photo to Video Transition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-savvy-sentries-of-the-mind-top-quizzes/"><u>[New] Savvy Sentries of the Mind  Top Quizzes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimizing-youtube-presentations-with-precise-times/"><u>2024 Approved  Optimizing YouTube Presentations with Precise Times</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-footage-select-best-gimbals-and-handhelds-guide/"><u>[New] Mastering Footage  Select Best Gimbals & Handhelds Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-next-gen-screen-in-depth-look-at-the-hp-envy-27/"><u>[Updated] Next Gen Screen  In-Depth Look at the HP Envy 27</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-windows-10-preparing-your-pc-for-the-upgrade/"><u>[New] From Windows 10  Preparing Your PC for the Upgrade</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-comprehensive-assessment-of-digital-entertainers/"><u>[Updated] Comprehensive Assessment of Digital Entertainers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-v29-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo V29 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/webcam-wonders-unveiling-tools-for-top-video-quality/"><u>Webcam Wonders - Unveiling Tools for Top Video Quality</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-nokia-c12-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Nokia C12 Pro online without jailbreak</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/unleashing-your-audio-potential-a-detailed-guide-to-recording-in-windows-10-for-2024/"><u>Unleashing Your Audio Potential A Detailed Guide to Recording in Windows 10 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-your-episodes-a-comprehensive-guide-to-sound-design-and-editing-for-2024/"><u>[New] Elevate Your Episodes  A Comprehensive Guide to Sound Design and Editing for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-charting-social-media-trends-with-data-graphics/"><u>[New] 2024 Approved  Charting Social Media Trends with Data Graphics</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-selfies-learn-the-art-of-stories-zooming/"><u>[Updated] In 2024, Instagram Selfies  Learn the Art of Stories Zooming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-your-niche-top-8-courses-for-aspiring-creators-for-2024/"><u>[Updated] Crafting Your Niche  Top 8 Courses for Aspiring Creators for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-laughter-on-your-phone-humorous-ringtone-sites/"><u>[New] Laughter on Your Phone  Humorous Ringtone Sites</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-superb-phone-video-and-photo-capturing-with-best-apps-list/"><u>[Updated] Superb Phone Video & Photo Capturing with Best Apps List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-guide-to-eliminate-insta-suggest-feature/"><u>[New] In 2024, Guide to Eliminate Insta Suggest Feature</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-quik-fix-a-review-of-gopros-video-editor-and-top-pc-alternatives/"><u>Updated 2024 Approved Quik Fix A Review of GoPros Video Editor & Top PC Alternatives</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-add-music-to-a-video-on-iphone-3-free-ways/"><u>2024 Approved  How to Add Music to a Video on iPhone [3 FREE WAYS]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-visual-virtuosos-questions-addressed/"><u>In 2024, Visual Virtuosos  Questions Addressed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/avoid-abrupt-jumps-perfecting-inshot-transitions-for-2024/"><u>Avoid Abrupt Jumps  Perfecting Inshot Transitions for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essentials-checklist-what-you-must-know-before-sharing-4k-videos-on-youtube/"><u>2024 Approved  Essentials Checklist - What You Must Know Before Sharing 4K Videos on Youtube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-uncomplicated-capture-efficient-screenshots-on-dell/"><u>[Updated] Uncomplicated Capture  Efficient Screenshots on Dell</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-iphone-12-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your iPhone 12 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

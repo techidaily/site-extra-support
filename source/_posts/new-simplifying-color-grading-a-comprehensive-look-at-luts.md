@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplifying Color Grading  A Comprehensive Look at LUTs\""
-date: 2024-06-19T23:12:08.037Z
-updated: 2024-06-20T23:12:08.037Z
+date: 2024-07-07T16:27:52.570Z
+updated: 2024-07-08T16:27:52.570Z
 tags: 
   - screen-recording
   - ai video
@@ -111,11 +111,11 @@ Given how beautifully Glitter Rain was received, I believed it would be fitting 
 
 Spark AR is an amazing website for LUTs and color grading. Whether you're a new student or a seasoned pro, Spark AR Studio has all the features and capabilities you need to become a good video editor. You can download free LUTs from Spark AR and apply them to your videos. The article guides on how to use LUTs in Spark AR and how to download free LUTs. So, Spark AR is one of the best online websites for LUTs I have tried.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"
