@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Low-Cost GoPro Cameras  Where to Find Them\""
-date: 2024-06-10T22:04:06.769Z
-updated: 2024-06-11T22:04:06.769Z
+date: 2024-07-30T04:47:38.973Z
+updated: 2024-07-31T04:47:38.973Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 
  Auto low light: Yes| Wireless: Wi-Fi, Bluetooth| Burst: up to 30fps | Stills: 12MP | WVGA video: up to 240fps |1080p video: up to 120fps |4K video: up to 30fps | FOV: Narrow, Medium, Super view, Wide |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![hero5 black deals](https://images.wondershare.com/filmora/article-images/gopro-hero-5-back-touchscreen.png)
 
  \+ It can capture videos with 4K resolution.
@@ -86,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 
  Auto low light: Yes| Wireless: Wi-Fi| Burst: up to 10fps | Stills: 8MP | WVGA video: up to 120fps |1080p video: up to 60fps |1440p video: up to 30fps | FOV: Ultra Wide |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![hero session deals](https://images.wondershare.com/filmora/article-images/gopro-hero-session.jpeg)
 
  \+ It supports super view.
@@ -102,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 
  Auto low light: Yes| Wireless: Wi-Fi, Bluetooth| Burst: up to 30fps | Stills: 12MP | WVGA video: up to 240fps |1080p video: up to 120fps |4K video: up to 30fps | FOV: Narrow, Medium, Ultra Wide |
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![hero4 black deals](https://images.wondershare.com/filmora/article-images/gopro-hero4-black-design.jpg)
 
  \+ It offers the best still clarity as compared to all devices of GoPro series.
@@ -116,6 +125,9 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 
  Auto low light: Yes| Wireless: Wi-Fi and Bluetooth| Burst: up to 30fps | Stills: 12MP | WVGA video: up to 240fps |1080p video: up to 60fps |4K video: up to 15fps | FOV: Narrow, Medium and Ultra Wide |
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![hero4 silver deals](https://images.wondershare.com/filmora/article-images/hero4-silver-touchscreen.jpg)
 
  \+ It was the very first device of GoPro series that was developed with built in type display.
@@ -128,6 +140,9 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 
  Auto low light: Yes| Wireless: Wi-Fi| Burst: up to 30fps | Stills: 12MP | WVGA video: up to 240fps |1080p video: up to 60fps |4K video: up to 15fps | FOV: Narrow, Medium and Ultra Wide |
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![hero3 plus deals](https://images.wondershare.com/filmora/article-images/hero3-plus.jpg)
 
  \+ This device was designed with hardware about 20% lighter and smaller as compared to its predecessor.
@@ -176,6 +191,9 @@ thumbnail: https://thmb.techidaily.com/2e153e0e621bce9ac8484d65d8c4dd2eb6f5a3b85
 
  Auto low light: No| Wireless: Not Available| Burst: up to 5fps | Stills: 5MP | WVGA video: up to 60fps |1080p video: up to 30fps |4K video: Not Supported | FOV: Ultra Wide only |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GoPro Hero + LCD deals](https://images.wondershare.com/filmora/article-images/hero-plus-lcd.jpg)
 
  \+ It provides limited features but has all popular accessories of GoPro series.
@@ -202,3 +220,43 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-use-io-screen-recorder/"><u>[Updated] How to Use IO Screen Recorder</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-realign-corrected-identity-visualization-in-facebook-sessions-for-2024/"><u>[Updated] Realign Corrected Identity Visualization in Facebook Sessions for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-exploring-the-world-of-tiktok-markers-and-triggers/"><u>2024 Approved  Exploring the World of TikTok Markers & Triggers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-is-apple-m1-macbook-air-good-for-video-editing/"><u>2024 Approved  Is Apple M1 MacBook Air Good for Video Editing?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-laugh-labs-robotic-deadpan-devs/"><u>2024 Approved  Laugh Labs  Robotic Deadpan Devs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-market-mastery-blueprint-strategic-openings/"><u>2024 Approved  Market Mastery Blueprint  Strategic Openings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-money-making-on-reddit-in-just-a-few-simple-steps/"><u>2024 Approved  Master Money-Making on Reddit in Just a Few Simple Steps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterful-tantalizing-titles-designer/"><u>2024 Approved  Masterful Tantalizing Titles Designer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-on-the-go-gyroscopic-footage-smoother/"><u>2024 Approved  On-the-Go Gyroscopic Footage Smoother</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-peak-popularity-on-reddit-10-most-upvoted-stories/"><u>2024 Approved  Peak Popularity on Reddit  10 Most Upvoted Stories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-push-the-limits-a-review-of-lgs-27uhd68-freesync-display/"><u>2024 Approved  Push the Limits  A Review of LG’s 27UHD68 FreeSync Display</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reimagining-vrs-uncharted-territories/"><u>2024 Approved  Reimagining VR's Uncharted Territories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-secure-your-shots-above-all-unlimited-free-options-and-premium-subscription-picks/"><u>2024 Approved  Secure Your Shots Above All  Unlimited Free Options & Premium Subscription Picks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-selective-sharpening-tips-for-modern-image-editors/"><u>2024 Approved  Selective Sharpening Tips for Modern Image Editors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/cutting-edge-tech-an-in-depth-review-of-apeaksofts-recorder-2023-for-2024/"><u>Cutting-Edge Tech  An In-Depth Review of Apeaksoft's Recorder, 2023 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/does-windows-subsystem-enhance-linux-presence/"><u>Does Windows Subsystem Enhance Linux Presence?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-virtual-reality-premium-rift-player-analysis/"><u>Elevating Virtual Reality  Premium Rift Player Analysis</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-v27-pro-by-fonelab-android-recover-video/"><u>How to recover old videos from your V27 Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-11-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 11 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-iphone-guide-to-achieving-stunning-hdr-photos/"><u>In 2024, IPhone Guide to Achieving Stunning HDR Photos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-directory-30-premier-websites-for-accessible-vector-design-tools/"><u>In 2024, Leading Directory  30 Premier Websites for Accessible Vector Design Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-4k-player-picks-best-8-free-cross-platform-compatible/"><u>In 2024, Optimal 4K Player Picks  Best 8 FREE, Cross-Platform Compatible</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-peeling-back-the-layers-of-magix-image-suite/"><u>In 2024, Peeling Back the Layers of MAGIX Image Suite</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-viewing-at-a-glance-quick-minigame-tips/"><u>In 2024, Precision Viewing at a Glance  Quick Minigame Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prodigy-machines-top-quality-computers-available/"><u>In 2024, Prodigy Machines  Top-Quality Computers Available</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionary-subtitle-software-choose-the-leading-10-web-apps/"><u>In 2024, Revolutionary Subtitle Software - Choose the Leading 10 Web Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-scriptwriting-essentials-for-realistic-chatter/"><u>In 2024, Scriptwriting Essentials for Realistic Chatter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secure-your-files-at-no-cost-the-best-free-1tbplus-cloud-storages/"><u>In 2024, Secure Your Files at No Cost  The Best Free 1TB+ Cloud Storages</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sonic-spellbook-can-you-alter-your-speech-discover-different-magical-solutions/"><u>In 2024, Sonic Spellbook  Can You Alter Your Speech? Discover Different Magical Solutions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-tips-for-a-full-screen-facebook-video-experience/"><u>In 2024, Tips for a Full-Screen Facebook Video Experience</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/install-brother-wireless-9330cdw-fan/"><u>Install Brother Wireless 9330CDW Fan</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-image-editing-with-these-top-8-tablets-beyond-filmoras-reach-for-2024/"><u>Master Image Editing with These Top 8 Tablets  Beyond Filmora's Reach for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastery-of-podcast-rss-feeds-a-step-by-step-tutorial-for-2024/"><u>Mastery of Podcast RSS Feeds  A Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-high-res-imagery-the-costless-technique/"><u>Unlock High-Res Imagery  The Costless Technique</u></a></li>
+</ul></div>

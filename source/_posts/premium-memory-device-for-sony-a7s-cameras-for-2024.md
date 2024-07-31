@@ -1,7 +1,7 @@
 ---
 title: "Premium Memory Device for Sony A7S Cameras for 2024"
-date: 2024-05-31T06:07:32.612Z
-updated: 2024-06-01T06:07:32.612Z
+date: 2024-07-30T01:36:14.785Z
+updated: 2024-07-31T01:36:14.785Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes Premium Memory Device for Sony A7S Cameras for 2024"
 excerpt: "This Article Describes Premium Memory Device for Sony A7S Cameras for 2024"
 keywords: "\"Sony A7S Memory Accessories,Sony A7S Premium Storage,High-Quality Sony Camera RAM,Sony A7S Ultimate Memory Upgrade,Sony A7S Enhanced SSD,Sony A7S Professional Storage,Sony A7S Top Memory Expansion\""
-thumbnail: https://www.lifewire.com/thmb/UYzt2Tr4AZa3CbzWYhHXCRzkASk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/freespacefirestick-d92102a4f6dd47e2936787982b0709f9.jpg
+thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3f7f648e31ee7c5865304f02.jpg
 ---
 
 ## Premium Memory Device for Sony A7S Cameras
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -105,6 +108,9 @@ thumbnail: https://www.lifewire.com/thmb/UYzt2Tr4AZa3CbzWYhHXCRzkASk=/400x300/fi
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -158,6 +164,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -212,6 +221,9 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -249,6 +261,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -303,6 +318,9 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -408,3 +426,47 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-rebooted-login-claiming-back-to-facebook/"><u>[New] 2024 Approved  Rebooted Login  Claiming Back to Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-best-gopro-editing-apps-for-iphone-and-android-phone/"><u>[New] Best GoPro Editing Apps for iPhone and Android Phone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-canvass-skin-removal-an-experts-handbook/"><u>[New] Mastering Canvas's Skin Removal  An Expert's Handbook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-youtube-title-creation-the-perfect-formula/"><u>[New] Mastering YouTube Title Creation  The Perfect Formula</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-collection-must-try-virtual-reality-games-for-google-cardboard/"><u>[New] Prime Collection  Must-Try Virtual Reality Games for Google Cardboard</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-review-for-parrot-ar-drone-20-elite-edition/"><u>[New] Review for Parrot AR Drone 2.0 Elite Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-skys-dynamic-range-masterpieces-website-roundup/"><u>[New] Sky's Dynamic Range Masterpieces - Website Roundup</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-secrets-of-zoom-success/"><u>[New] Unveiling the Secrets of Zoom Success</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-androids-photo-editor-showdown-can-pickup-claim-victory/"><u>[Updated] Android's Photo Editor Showdown  Can PickUp Claim Victory?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-ios-and-desktop-leaders-in-effortless-video-to-file-conversion/"><u>[Updated] IOS and Desktop Leaders in Effortless Video to File Conversion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laying-foundations-for-understanding-av1-tech/"><u>[Updated] Laying Foundations for Understanding AV1 Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-soundscape-dilution-via-audacity-tools/"><u>[Updated] Navigating Soundscape Dilution via Audacity Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-precision-in-panorama-steadying-the-gopro-sight/"><u>[Updated] Precision in Panorama  Steadying the GoPro Sight</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-punpixel-producer/"><u>[Updated] PunPixel Producer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-logic-pro-xs-audio-smoothing-methods/"><u>2024 Approved  Logic Pro X's Audio Smoothing Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-obs-or-wirecast-your-ultimate-guide-to-broadcast-software/"><u>2024 Approved  OBS or Wirecast? Your Ultimate Guide to Broadcast Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-omni-directional-vision-and-its-distinctive-features/"><u>2024 Approved  Omni-Directional Vision and Its Distinctive Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pre-upgrade-knowledge-key-elements-explained/"><u>2024 Approved  Pre-Upgrade Knowledge  Key Elements Explained</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-sites-for-digital-type-innovation/"><u>2024 Approved  Premier Sites for Digital Type Innovation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quintessential-vr-cinematic-treasures/"><u>2024 Approved  Quintessential VR Cinematic Treasures</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-video-editing-made-easy-top-16-cutting-tools-for-all-platforms-for-2024/"><u>AVI Video Editing Made Easy Top 16 Cutting Tools for All Platforms for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/detailed-look-into-the-lg-bp350ayering-and-user-experience-for-2024/"><u>Detailed Look Into the LG BP350'ayering and User Experience for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-reno-8t-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo Reno 8T in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-realme-c67-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Realme C67 5G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-invest-in-quality-top-5-handhoced-stabilizers-review/"><u>In 2024, Invest in Quality  Top 5 Handhoced Stabilizers Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-launching-joining-and-scheduling-zoom-calls-made-simple-for-android-users/"><u>In 2024, Launching, Joining, and Scheduling Zoom Calls Made Simple for Android Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lightning-fast-windowed-gallery-viewer-alert/"><u>In 2024, Lightning-Fast Windowed Gallery Viewer Alert</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-livestream-audiovideo-creators-hub/"><u>In 2024, LiveStream Audio/Video Creators Hub</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-motion-capture-in-a-canon-lens/"><u>In 2024, Perfecting Motion Capture in a Canon Lens</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reel-radiance-the-ultimate-5-tools-to-brighten-media/"><u>In 2024, Reel Radiance  The Ultimate 5 Tools to Brighten Media</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-the-innovations-a-detailed-look-at-powerdirector-24-release-for-2024/"><u>Inside the Innovations  A Detailed Look at PowerDirector '24 Release for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-meme-magic-for-2024/"><u>IPhone Meme Magic for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/is-auroras-hdr-enhancing-your-viewing-experience-in-2024/"><u>Is Aurora's HDR Enhancing Your Viewing Experience, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastery-over-instagram-video-playback-pace-for-2024/"><u>Mastery Over Instagram Video Playback Pace for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/novices-blueprint-for-easy-stressless-nft-making-for-2024/"><u>Novice's Blueprint for Easy, Stressless NFT Making for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/olympic-freeze-frame-figure-skating-best-of-2022-for-2024/"><u>Olympic Freeze-Frame  Figure Skating Best of 2022 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/preventing-htc-vive-disorientation-and-nausea-for-2024/"><u>Preventing HTC Vive Disorientation and Nausea for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-periscope-broadcasting-101-for-2024/"><u>Step-by-Step Periscope Broadcasting 101 for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-highest-resolution-elevating-quality-with-drone-edits/"><u>The Highest Resolution  Elevating Quality with Drone Edits</u></a></li>
+</ul></div>

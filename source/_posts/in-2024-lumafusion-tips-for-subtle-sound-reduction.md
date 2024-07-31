@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Lumafusion Tips for Subtle Sound Reduction"
-date: 2024-05-31T06:07:22.440Z
-updated: 2024-06-01T06:07:22.440Z
+date: 2024-07-30T01:25:25.302Z
+updated: 2024-07-31T01:25:25.302Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Lumafusion Tips for Subtle Sound Reduction"
 excerpt: "This Article Describes In 2024, Lumafusion Tips for Subtle Sound Reduction"
 keywords: "Lumafusion Noise Reduction,Subtle Sound Solutions,Lumafusion Silence Tips,Sound Control with Lumafusion,Quieting Methods Lumafusion,Reduce Ambient Noise Lumafusion,Lumafusion Quiet Techniques"
-thumbnail: https://www.lifewire.com/thmb/Lej6_-meONBLUEkeLjx6x8V53hw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-959901222-5479a2080a31432a9bf43a906ed65ec9.jpg
+thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50cca52847005eac86a562eee.jpg
 ---
 
 ## Lumafusion Tips for Subtle Sound Reduction
@@ -32,14 +32,24 @@ Step1 LumaFusion's default structure is comparable to that of many desktops edit
 
 Step2 LumaFusion allows for the automated synchronization of up to 12 camera sources and several audio tracks. When a clip is loaded into LumaFusion, touch on it to open it in the viewer and then adjust the start and finish points.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![edit sources luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/edit-sources-luma-fusion.jpg)
 
 Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transition should be placed at the very end of your music channel timeline. Tap on the Help & Settings menu to do this action. Look for Transition under the Settings menu and edit it to the appropriate duration. If you do this, your transition won't take effect until you add it again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![fade audio in luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-in-luma-fusion.jpg)
 
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. LumaFusion Alternative Way to Fade Audio in Video
 
 A multi-track video editor made specifically for mobile devices is called LumaFusion. Journalists, filmmakers, and expert video producers often utilize it to create engrossing video narratives. But if you have a toolkit with everything you need already built in so you can use it as needed, fading is unexpectedly made simple. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) does this task faster than ever because to its user-friendly interface, which makes audio editing in Filmora a breeze.
@@ -60,6 +70,9 @@ Now that you've downloaded the software's executable file, the next step is to i
 
 Drag and drop your sound recordings from the media library to the timeline at the bottom of the program when they have been successfully imported. You may now see your audio files inside the timeline, where you can easily crop the video or reduce the audio of the relevant audio file. You may utilize basic to sophisticated editing techniques inside the program. To choose the basic editor, just click on the video file within the timeline as shown below:
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Apply Fade Effects
@@ -76,10 +89,16 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
@@ -106,6 +125,9 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 ##### Step4 Share and export
@@ -124,6 +146,9 @@ Go to Clip Defaults to do that. You may change the Title and Transition lengths 
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ### 3\. How to you split audio and video in LumaFusion?
 
 Within the timeline, tap anywhere and move the mouse left or right to divide a clip in half. The audio from your clip may then be separated in the timeline. To do so, choose the audio channel and then click the pencil-shaped edit button at the bottom of the screen. This will display a variety of choices, including tools for pan, distortion, and volume. The audio editing features in LumaFusion are virtually as spectacular as the visual options—and just as intimidating.
@@ -150,3 +175,52 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-expert-insights-optimized-video-downloading-software/"><u>[New] 2024 Approved  Expert Insights  Optimized Video Downloading Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-apex-capture-vs-lumen-hub/"><u>[New] Apex Capture VS Lumen Hub</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-laugh-tracks-for-iphone-devices/"><u>[New] Laugh Tracks for iPhone Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterclass-in-timelapse-capture-via-gopro-studio/"><u>[New] Masterclass in Timelapse Capture via GoPro Studio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-nuances-of-borders-in-images-using-canva/"><u>[New] Navigating the Nuances of Borders in Images Using Canva</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-phantom-camera-control-series/"><u>[New] Phantom Camera Control Series</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-push-the-boundaries-of-imagery-with-photo-distortions/"><u>[New] Push the Boundaries of Imagery with Photo Distortions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-stepwise-methods-for-captivating-collage-compositions/"><u>[New] Stepwise Methods for Captivating Collage Compositions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-a-step-by-step-review-of-using-showmore-for-video-capture/"><u>[Updated] 2024 Approved  A Step-by-Step Review of Using ShowMore for Video Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-full-guide-mastery-of-adobe-cloud-services-with-alternatives-analysis/"><u>[Updated] Full Guide  Mastery of Adobe Cloud Services with Alternatives Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instantly-enhance-your-facebook-experience-with-collage/"><u>[Updated] Instantly Enhance Your Facebook Experience with Collage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-kinemaster-usage-plus-best-online-platforms-for-editors/"><u>[Updated] Mastering the Art of KineMaster Usage + Best Online Platforms for Editors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-motivation-on-playlist-the-leading-workout-song-picks/"><u>[Updated] Motivation on Playlist  The Leading Workout Song Picks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photography-tips-accurately-annotating-dates-on-pictures/"><u>[Updated] Photography Tips  Accurately Annotating Dates on Pictures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-guide-to-the-top-10-cost-free-picture-archives/"><u>2024 Approved  Comprehensive Guide to the Top 10 Cost-Free Picture Archives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-inside-windows-10-a-snapshot-of-its-transformation/"><u>2024 Approved  Inside Windows 10  A Snapshot of Its Transformation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-launching-a-video-channel-dedicated-to-new-and-used-product-reviews/"><u>2024 Approved  Launching a Video Channel Dedicated to New and Used Product Reviews</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-most-influential-srt-boosters-for-pc-and-apple-systems/"><u>2024 Approved  Most Influential SRT Boosters for PC & Apple Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-netflixs-video-playback-controls/"><u>2024 Approved  Navigating Netflix's Video Playback Controls</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-personalizing-your-windows-photos-experience-add-filters-sound/"><u>2024 Approved  Personalizing Your Windows Photos Experience  Add Filters, Sound</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-restoring-clear-vision-fixing-iphone-lens-out-of-focus/"><u>2024 Approved  Restoring Clear Vision  Fixing iPhone Lens Out-of-Focus</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rgbs-role-in-modern-color-standards-compared-to-srgb/"><u>2024 Approved  Rgb's Role in Modern Color Standards Compared to Srgb</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-strategies-for-splendid-colors-in-gopro-videos/"><u>2024 Approved  Step-by-Step Strategies for Splendid Colors in GoPro Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stepwise-guide-for-powerpoints-speech-to-text-functionality/"><u>2024 Approved  Stepwise Guide for PowerPoint's Speech-to-Text Functionality</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-itel-s23plus-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Itel S23+ without App | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/eliminate-unwanted-screen-elements-during-cam-record-for-2024/"><u>Eliminate Unwanted Screen Elements During Cam Record for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-y36-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo Y36 Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-v30t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme V30T Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-laughter-legends-reviewing-goofy-in-the-vhs-era/"><u>In 2024, 'Laughter Legends'  Reviewing Goofy in the VHS Era</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-launch-your-first-session-with-vrecorder/"><u>In 2024, How to Launch Your First Session with VRecorder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-is-m1-suitability-for-professional-editing-confirmed/"><u>In 2024, Is M1 Suitability for Professional Editing Confirmed?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-5-underwater-filters-for-gopro-videos/"><u>In 2024, Leading 5 Underwater Filters for Gopro Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-m1-masterpiece-flawless-video-edits-just-a-click-away/"><u>In 2024, M1 Masterpiece  Flawless Video Edits, Just a Click Away</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-audacity-for-professional-sound-capture/"><u>In 2024, Mastering Audacity for Professional Sound Capture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nikons-bold-move-into-4k-with-the-innovative-j5-model/"><u>In 2024, Nikon's Bold Move Into 4K with The Innovative J5 Model</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sound-on-call-sensor-iphone-24-tech/"><u>In 2024, Sound-on-Call Sensor  IPhone '24 Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-spectacular-photo-narrative-construction-suite/"><u>In 2024, Spectacular Photo Narrative Construction Suite</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlys-new-help-section-a-leap-forward-in-customer-service/"><u>Mondly's New Help Section: A Leap Forward in Customer Service</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photobooth-recording-stalls-whats-goin-on-for-2024/"><u>Photobooth Recording Stalls  What's Goin' On for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pierce-through-darkness-essential-techniques-to-brighten-iphone-vids-for-2024/"><u>Pierce Through Darkness  Essential Techniques to Brighten iPhone Vids for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/precision-editing-in-photopea-sculpting-cleaner-visual-space-for-2024/"><u>Precision Editing in Photopea  Sculpting Cleaner Visual Space for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professionally-enhancing-photos-with-effective-use-of-3d-lut-filters-for-2024/"><u>Professionally Enhancing Photos with Effective Use of 3D LUT Filters for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reimagined-computing-with-windows-10s-upgrades-for-2024/"><u>Reimagined Computing with Windows 10’S Upgrades for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/smartphone-evolution-at-4k-peaks-sony-xperia-xz-reviewed-for-2024/"><u>Smartphone Evolution at 4K Peaks – Sony Xperia XZ Reviewed for 2024</u></a></li>
+</ul></div>

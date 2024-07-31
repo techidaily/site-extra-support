@@ -1,7 +1,7 @@
 ---
 title: "\"Popular Imagery  Origins Decoded for 2024\""
-date: 2024-06-10T22:05:46.824Z
-updated: 2024-06-11T22:05:46.825Z
+date: 2024-07-30T02:27:46.212Z
+updated: 2024-07-31T02:27:46.212Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,9 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 
 ## Part1: Hide the Pain Harold
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -31,6 +34,9 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
@@ -39,10 +45,16 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 
 According to Andras, Hide the Pain Harold results from his vacation in Turkey. A professional photographer contacted him to do stock image modeling. During the shoot, the photographer kept telling him to smile, resulting in some photos of Andras appearing to force a smile. This expression led to netizens using his image to express situations where the forced smile is masking your true feelings.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -51,6 +63,9 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
@@ -64,6 +79,10 @@ Since then, the meme continues to enjoy mass popularity, including:
 
 The latest version of Distracted boyfriend is a compilation of photos featuring the three models, with the last one showing the women hanging out.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
@@ -82,6 +101,10 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -104,6 +127,9 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
@@ -115,6 +141,9 @@ The photo is available on most stock photo websites, such as Adobe and Tumblr. F
 
 ## Part5: FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### 1\. Can you use stock photos for memes?
 
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
@@ -125,6 +154,9 @@ This is because not all stock photo providers offer their images with a creative
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -161,3 +193,37 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-gopro-hero-series-clash-with-polaroid-cube-which-wins-for-2024/"><u>[New] GoPro Hero Series Clash with Polaroid Cube  Which Wins for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-top-10-hilarious-and-heartfelt-instagram-memes-hubs/"><u>[New] In 2024, Top 10 Hilarious & Heartfelt Instagram Memes Hubs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-meaningful-conversations-an-interviewers-journey/"><u>[New] Leading Meaningful Conversations  An Interviewer's Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pinnacle-plotlines-defining-theatrical-success/"><u>[New] Pinnacle Plotlines Defining Theatrical Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quell-the-quake-techniques-to-smooth-out-gopro-footage/"><u>[New] Quell the Quake  Techniques to Smooth Out GoPro Footage</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-exploring-the-creme-de-la-creme-instas-influential-elite/"><u>[Updated] 2024 Approved  Exploring the Crème De La Crème  Insta's Influential Elite</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-drone-color-spectrum-20-initial-free-luts-on-dji-mini-and-air/"><u>[Updated] In 2024, Drone Color Spectrum - 20 Initial FREE LUTS on DJI Mini & Air</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphone-pro-photography-mastery-of-leading-lines/"><u>[Updated] IPhone Pro Photography  Mastery of Leading Lines</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-solo-podcast-production-for-top-spots/"><u>[Updated] Mastering Solo Podcast Production for Top Spots</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-decoding-the-secrets-of-highly-successful-youtube-shorts-templates/"><u>2024 Approved  Decoding the Secrets of Highly Successful YouTube Shorts Templates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-funfactory-enjoy-video-making-with-ease/"><u>2024 Approved  FunFactory  Enjoy Video Making with Ease</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-live-techniques-lowering-volume-gradually/"><u>2024 Approved  Live Techniques  Lowering Volume Gradually</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-master-the-art-of-listening-and-viewing-with-best-android-music-vids/"><u>2024 Approved  Master the Art of Listening and Viewing with Best Android Music Vids</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-windows-11s-in-built-auto-hdr-feature/"><u>2024 Approved  Mastering Windows 11'S In-Built Auto HDR Feature</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-art-of-online-photo-trimming/"><u>2024 Approved  Navigating the Art of Online Photo Trimming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-zoom-techniques-for-efficient-skype-communication/"><u>2024 Approved  Optimal Zoom Techniques for Efficient Skype Communication</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sharing-joy-iphone-memes/"><u>2024 Approved  Sharing Joy  IPhone Memes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-instructions-for-using-telegram-online-professionally/"><u>2024 Approved  Step-By-Step Instructions For Using Telegram Online Professionally</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-v29-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo V29 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-x-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone X Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-choreographing-photography-and-filming-in-one-sweep/"><u>In 2024, Choreographing Photography and Filming in One Sweep</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-how-to-create-text-memes-with-meme-text-generator/"><u>In 2024, How to Create Text Memes with Meme Text Generator?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-insights-on-lg-bp350-user-perspectives-and-ratings/"><u>In 2024, Insights on LG BP350 - User Perspectives and Ratings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-peak-psd-layer-magic/"><u>In 2024, Peak PSD Layer Magic</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-scale-your-iphones-viewport/"><u>In 2024, Quick Scale Your iPhone's Viewport</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-samsung-ubd-k8500-review-2023-update/"><u>In 2024, Samsung UBD-K8500 Review - 2023 Update</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-setup-guide-connect-obs-and-streamlabs-on-your-mac/"><u>In 2024, Setup Guide  Connect OBS and Streamlabs on Your Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-into-sound-design-crafting-and-integrating-whatsapp-ringtone-on-devices/"><u>In 2024, Step Into Sound Design  Crafting and Integrating WhatsApp Ringtone on Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-airtunes-on-your-apple-devices-quick-guide-to-repairs-for-2024/"><u>Mastering Airtunes on Your Apple Devices - Quick Guide to Repairs for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-computing-solutions-on-desktops-for-2024/"><u>Premium Computing Solutions on Desktops for 2024</u></a></li>
+</ul></div>

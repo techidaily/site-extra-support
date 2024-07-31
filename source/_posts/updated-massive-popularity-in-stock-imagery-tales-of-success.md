@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Massive Popularity in Stock Imagery  Tales of Success\""
-date: 2024-05-31T06:09:14.235Z
-updated: 2024-06-01T06:09:14.235Z
+date: 2024-07-30T03:21:56.265Z
+updated: 2024-07-31T03:21:56.265Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Massive Popularity in Stock Imagery: Tales of Success\""
 excerpt: "\"This Article Describes [Updated] Massive Popularity in Stock Imagery: Tales of Success\""
 keywords: "Image Stock Success,Popular Stock Photos,Massive Stock Fame,Iconic Stock Art,Pro Stock Popularity,Trending Stock Images,Hit Stock Visuals"
-thumbnail: https://www.lifewire.com/thmb/CYDGZrlFjkiCzB8WEsEyoVjflXc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-whitelist-a-sender-or-domain-in-gmail-1172106-AA-v1-5b1d72d1eb97de00363eb294.PNG
+thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e3ca1f0dfa365e65b92b5c5b.PNG
 ---
 
 ## Massive Popularity in Stock Imagery: Tales of Success
@@ -31,6 +31,10 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
@@ -43,10 +47,17 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
@@ -68,8 +79,15 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
@@ -90,12 +108,22 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -113,6 +141,9 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
@@ -121,6 +152,9 @@ Yes, you can use stock photos for memes. However, you need to obtain them from r
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
@@ -159,3 +193,38 @@ Therefore, always perform stock image reverse searches to verify the image permi
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-sony-unveils-excellence-the-4k-smartphone-breakthrough-with-xperia-xz/"><u>[New] 2024 Approved  Sony Unveils Excellence  The 4K Smartphone Breakthrough with Xperia XZ</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-acquisition-101-maximizing-youtubers-earnings-for-2024/"><u>[New] Channel Acquisition 101  Maximizing Youtubers' Earnings for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-platforms-for-digital-graffiti-fonts/"><u>[New] Leading Platforms for Digital Graffiti Fonts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-zoom-establishing-a-top-tier-video-conferencing-space/"><u>[New] Mastering Zoom  Establishing a Top-Tier Video Conferencing Space</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-a-beginners-insight-into-av1-encoding/"><u>[Updated] In 2024, A Beginner's Insight Into AV1 Encoding</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-luts-galore-complimentary-package-now-available-to-dji-fans/"><u>[Updated] LUTs Galore - Complimentary Package Now Available to DJI Fans</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-the-art-of-cinematic-content-on-instagram/"><u>[Updated] Mastering the Art of Cinematic Content on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-paramount-top-rated-vr-movies/"><u>[Updated] Paramount Top-Rated VR Movies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pivotal-elements-in-designing-effective-product-praise-videos/"><u>[Updated] Pivotal Elements in Designing Effective Product Praise Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reasons-behind-missing-video-on-sony-a6400/"><u>[Updated] Reasons Behind Missing Video on Sony A6400</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sneak-peek-into-facebooks-off-activity-tracking-is-it-safe/"><u>[Updated] Sneak Peek Into Facebook's Off-Activity Tracking – Is It Safe?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-spotlight-on-youtubes-most-visionary-and-creative-ad-creators/"><u>[Updated] Spotlight on YouTube’s Most Visionary and Creative Ad Creators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-for-ios-users-jpgpng-to-pdf-transformation/"><u>[Updated] Step-by-Step Guide for iOS Users  JPG/PNG to PDF Transformation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-solo-podcast-production-for-top-spots/"><u>2024 Approved  Mastering Solo Podcast Production for Top Spots</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-sound-shifts-in-free-fire/"><u>2024 Approved  Mastering Sound Shifts in Free Fire</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-small-details-on-google-meet-screen/"><u>2024 Approved  Perfecting Small Details on Google Meet Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-polarr-photo-magic-your-complete-image-processing-manual/"><u>2024 Approved  Polarr Photo Magic  Your Complete Image Processing Manual</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-aquatic-filters-boosting-gopro-cinematography/"><u>2024 Approved  Premium Aquatic Filters Boosting GoPro Cinematography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-streamlining-your-instagram-video-experience/"><u>2024 Approved  Streamlining Your Instagram Video Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/crucial-steps-in-archiving-lol-matchups/"><u>Crucial Steps in Archiving LOL Matchups</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-huawei-p60-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Huawei P60 Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-edge-windows-podcast-tools-our-top-8-choices/"><u>In 2024, Leading Edge Windows Podcast Tools  Our Top 8 Choices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-noble-nine-top-dvd-creation-tools-sierra-edition/"><u>In 2024, Noble Nine  Top DVD Creation Tools, Sierra Edition</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-poco-m6-pro-4g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Poco M6 Pro 4G FRP</u></a></li>
+<li><a href="https://extra-support.techidaily.com/insightful-selection-elite-free-srt-translation-services-for-2024/"><u>Insightful Selection  Elite Free SRT Translation Services for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/jestjungle-your-gateway-to-universal-comedy-for-2024/"><u>JestJungle  Your Gateway to Universal Comedy for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-visuals-a-podcast-logo-blueprint-for-2024/"><u>Mastering the Visuals  A Podcast Logo Blueprint for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximum-frame-rate-for-languid-motion-videos-for-2024/"><u>Maximum Frame Rate for Languid Motion Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/newcomers-guide-to-profitability-on-periscope-live-streaming-for-2024/"><u>Newcomer’s Guide to Profitability on Periscope Live Streaming for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pioneering-the-virtual-landscape-with-metaverse-marketing-for-2024/"><u>Pioneering the Virtual Landscape with Metaverse Marketing for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/spectrum-surge-tools-for-sharper-web-videos-for-2024/"><u>Spectrum Surge  Tools for Sharper Web Videos for 2024</u></a></li>
+</ul></div>

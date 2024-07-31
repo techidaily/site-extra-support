@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Play With Perspective  Learning Warp Effects in Adobe PH\""
-date: 2024-05-31T06:10:13.185Z
-updated: 2024-06-01T06:10:13.185Z
+date: 2024-07-30T04:23:36.493Z
+updated: 2024-07-31T04:23:36.493Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Play With Perspective: Learning Warp Effects in Adobe PH\""
 excerpt: "\"This Article Describes 2024 Approved: Play With Perspective: Learning Warp Effects in Adobe PH\""
 keywords: "Warp Effects Photo,Perspective Warping,Adobe Photoshop Tricks,Distort Image Techniques,Creative Graphics Art,Warp Transform PH,Perspective Shift Tips"
-thumbnail: https://www.lifewire.com/thmb/4iKe1VoJcOmQkhqBBEAP0axpvWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/BrieLarsonRemembering-69becbb726af45609a2397c425581c9b.png
+thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582b1ae72dd2c30508b513eea6.png
 ---
 
 ## Play With Perspective: Learning Warp Effects in Adobe PH
@@ -36,6 +36,9 @@ With over 10 million users, Photoshop is one of the most popular graphics editin
 
 02 [How to Create Distortion Effects in Photoshop](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Distortion Effects Change Your Photo
 
 Adding distortion effects to your photos can help them in numerous ways. These include:
@@ -60,10 +63,16 @@ You can use distortion effects to emphasize your subject in a photo. Once viewer
 
 Many people consider taking photos as a hobby or a way to have a remembrance of memorable events in their lives. Because photography is regarded as an art, you can create great photos by taking a splendid shoot. And that's why people love seeing photography exhibits due to the unique and genuine art they see through photographs. Essentially, using distortion effects can make it look more than art.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Create Distortion Effects in Photoshop
 
 The glitch effect is a digital effect that randomly corrupts image data. You can use the glitch effect on both text and images; this is one of the coolest effects you can create in Photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Apply Glitch Effects in Photoshop
 
 A glitch effect creates a visible result of being a little unusual in its look. It is one of the most common trends in digital craft, and making it is not as difficult as it seems. You can transform ordinary photos into stunning digital artwork with the appropriate effects and filters. This guide will teach you how to do it using Photoshop.
@@ -82,6 +91,9 @@ Once you are done, Right-click and then select Layer through Copy; this will all
 
 ![how to apply glitch effects in photoshop](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3\
 
 Select your original stock, and press Control-T to use the Free Transform Tool to bring in the background sides to expose a bit of the white to the right and left.
@@ -105,20 +117,32 @@ The result will be subtle, and it'll slightly lighten the model.
 
 ![how to apply glitch effects in photoshop - result](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 5\
 
 The next step of this glitch effect is recreating the jagged photo distortion to make the visuals look as if they are out of place. You can do this by selecting the model and stock layers and merging them.
 
 ![how to apply glitch effects in photoshop - recreate jagged photo distortion](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 6\
 
 Select the Rectangular Marquee Tool, and create two skinny selections on your photo layer. You can start by creating one selection at the bottom. Then, add another one at the top by holding the Shift key.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to apply glitch effects in photoshop - using Rectangular Marquee tool](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-5.png)
 
 Change to the Move Tool by pressing the V key. Use the Arrow key on your keyboard to move selections to the left-hand side. Hold it down for some time or hit it several times to get the desired result.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Step 7\
 
 You can continue the process on a single layer; however, you'll eventually see open white spaces that do not look good. Therefore, to avoid this, you might want to Duplicate the Model Layer and then create the distortion using the copy.
@@ -151,6 +175,302 @@ Next, right-click the text layer and select Convert to Smart Object.
 
 ![how to apply glitch text effects in photoshop - Convert to smart object](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 4
+
+Head to Filter, then Distort and select the Wave option. Now, enter the following settings:
+
+* Scale Vert: 1% Horiz: 20%
+* Amplitude Max: 52 Min: 1
+* Wavelength Max: 756 Min: 178
+* Number of Generators: 2
+* Type: Square
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 5
+
+Press CTRL+J or CMD+J to duplicate the Smart Object and expand the fx dropdown.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to apply glitch text effects in photoshop - duplicate class=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-9.png)
+
+### Step 6
+
+Edit the Wave filter by double-clicking on it, then modify the settings as follows:
+
+* Scale Vert: 1% Horiz: 10%
+* Amplitude Max: 283 Min: 1
+* Wavelength Max: 372 Min: 97
+* Number of Generators: 2
+* Type: Square
+
+### Step 7
+
+Press CTRL+J or CMD+J to duplicate the Smart Object again.
+
+### Step 8
+
+Edit the Wave filter by double-clicking on it, then modify the settings as seen below:
+
+* Scale Vert: 1% Horiz: 60%
+* Amplitude Max: 33 Min: 4
+* Wavelength Max: 33 Min: 1
+* Number of Generators: 3
+* Type: Square
+
+These are typically the fuzzy distortion lines that complete the effect. Adjust the Horizontal Scale setting to achieve the amount of fuzziness you desire.
+
+### Step 9
+
+Select all the three Smart Object layers, then group them. You can name the group Glitch before filling the background with #242424.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+![how to apply glitch text effects in photoshop - group three smart object layers=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-10.png)
+
+### Step 10
+
+Double click on the smart object or group, then add a White Color Overlay. Duplicate the smart object or Glitch group thrice. That means you'll now have four groups. On these bottom-three groups, label them Blue, Green, and Red, and set their Opacity to 25%.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to apply glitch text effects in photoshop - add white color overlay=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 11
+
+Next, double click the Red group, then make sure the Color Overlay is #ff2700\. Then, double click the Green group and ensure the Color Overlay is set to #00fa00\. Now, Double click the Blue group to change its Color Overlay and make sure it's #1833ff.
+
+### Step 12
+
+Nudge the Blue, Green, and Red groups using the arrow keys and move them randomly around 10-20 pixels each.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+![how to apply glitch text effects in photoshop - adjust the group=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+### Step 13
+
+Once you're happy with the results, you can save your text in the desired location. And that's all there is when creating a glitch effect in Photoshop.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+### Create Glitch Effects in Your Video with Filmora
+
+If you want to add glitch effects to your videos, Filmora is here for you. No advanced video editing techniques are required. Check the below videos to find out more.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+## Conclusion
+
+**●** Photoshop distortion effects are essential as they do more than enhancement. They make your photos more attractive, and you can use them to emphasize your subject in photos. Follow the steps above to apply distortion effects in your text or photo using Photoshop.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+With over 10 million users, Photoshop is one of the most popular graphics editing software. The program has some cool photo effects you can use on your image collection, including creating distortion effects on images. There are also [editing tips for Photoshop beginners](https://tools.techidaily.com/wondershare/filmora/download/) to help them edit their photos. People use these effects because they have lots of benefits. With that in mind, let's look at how you can apply Photoshop distortion effects on text and photos and how this can help.
+
+#### In this article
+
+01 [How Distortion Effects Change Your Photo](#part1)
+
+02 [How to Create Distortion Effects in Photoshop](#part2)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+## How Distortion Effects Change Your Photo
+
+Adding distortion effects to your photos can help them in numerous ways. These include:
+
+#### 1\. Helps You Draw Attention to Your Work
+
+All photography lovers want to improve and enhance their pictures after taking them. By adding distortion effects to your photo, you'll make it stand out. In turn, this dramatic change will attract more viewers.
+
+Not all photos that you take will be attractive. You can also use distortion effects to make them attractive so they can get more attention.
+
+In addition to being more attractive, distortion effects make your photos more appealing. They enhance your photos to a higher level. We all know that a picture is considered a universal language with no boundaries, and it communicates well with everyone. As such, if it looks more appealing, it will be more effective.
+
+#### 2\. Conceals Errors
+
+If your photo has some mistakes you want to conceal, you can use Photoshop distortion effects. It will not only hide the errors but also make it look better.
+
+#### 3\. Allows You to Emphasize Your Subject
+
+You can use distortion effects to emphasize your subject in a photo. Once viewers look at your photo, they will immediately know what you want them to focus on.
+
+#### 4\. Creates Interesting Photo Art Works
+
+Many people consider taking photos as a hobby or a way to have a remembrance of memorable events in their lives. Because photography is regarded as an art, you can create great photos by taking a splendid shoot. And that's why people love seeing photography exhibits due to the unique and genuine art they see through photographs. Essentially, using distortion effects can make it look more than art.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+## How to Create Distortion Effects in Photoshop
+
+The glitch effect is a digital effect that randomly corrupts image data. You can use the glitch effect on both text and images; this is one of the coolest effects you can create in Photoshop.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to Apply Glitch Effects in Photoshop
+
+A glitch effect creates a visible result of being a little unusual in its look. It is one of the most common trends in digital craft, and making it is not as difficult as it seems. You can transform ordinary photos into stunning digital artwork with the appropriate effects and filters. This guide will teach you how to do it using Photoshop.
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 1\
+
+You will first need to import an image into Photoshop. Double-click on the Background layer and make it a New Layer.
+
+Press Control-Shift-N to create a New Layer positioned below your reference. Then, set your Foreground Color to white, then use the Paint Bucket Tool to fill the layer with white.
+
+### Step 2\
+
+Now, select the Magnetic Lasso Tool, as this will allow you to extract the reference by snapping to the sides of the model. Create an entire selection around the model using the Magnetic Lasso Tool.
+
+Once you are done, Right-click and then select Layer through Copy; this will allow you to create a duplicate quickly.
+
+![how to apply glitch effects in photoshop](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-1.png)
+
+### Step 3\
+
+Select your original stock, and press Control-T to use the Free Transform Tool to bring in the background sides to expose a bit of the white to the right and left.
+
+If your photo does not have a background, you could also use the Rectangle Tool to add a rectangle.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 4\
+
+You can desaturate your picture for a monochromatic color palette. Next, select the layer for the cutout of the model and head to Image > Adjustments, then choose the Hue & Saturation option. Remove the majority of the picture's color by lowering the Saturation up to 95.
+
+![how to apply glitch effects in photoshop - choose hue & saturation](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-2.png)
+
+You can use Levels to adjust the main picture further. Select the extracted model's layer and navigate to Image>Adjustments; then select Levels and make adjustments for the RGB Channel by inserting the following settings:
+
+* Output Levels: 17, 255
+* Highlight Input Level: 255
+* Midtone Input Level: 0.92
+* Midtone Input Level: 0.92
+
+The result will be subtle, and it'll slightly lighten the model.
+
+![how to apply glitch effects in photoshop - result](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
+### Step 5\
+
+The next step of this glitch effect is recreating the jagged photo distortion to make the visuals look as if they are out of place. You can do this by selecting the model and stock layers and merging them.
+
+![how to apply glitch effects in photoshop - recreate jagged photo distortion](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Step 6\
+
+Select the Rectangular Marquee Tool, and create two skinny selections on your photo layer. You can start by creating one selection at the bottom. Then, add another one at the top by holding the Shift key.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to apply glitch effects in photoshop - using Rectangular Marquee tool](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-5.png)
+
+Change to the Move Tool by pressing the V key. Use the Arrow key on your keyboard to move selections to the left-hand side. Hold it down for some time or hit it several times to get the desired result.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+### Step 7\
+
+You can continue the process on a single layer; however, you'll eventually see open white spaces that do not look good. Therefore, to avoid this, you might want to Duplicate the Model Layer and then create the distortion using the copy.
+
+Again, create more selections using the Rectangular Marquee Tool; use the Right and Left Arrow keys to move them in different directions.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+### Step 8\
+
+Use the Move Tool to create even more Rectangular Selections and move the various sections out of place. Make the effect more natural by varying the size between thicker selections and skinny ones.
+
+Do not distort the face too much; you can do each glitch separately to see what will work.
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to apply glitch effects in photoshop - final effects](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-6.png)
+
+### How to Apply Glitch Effects to Text in Photoshop
+
+Photoshop allows you to add glitch effects in the text in your work and take it to the next level. Follow the steps below to learn how to apply glitch effects in your text in Photoshop:
+
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 1\
+
+Launch Photoshop, then create a New Document. Make sure this effect is a bit large to get all the details in.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 2
+
+Enter the word Glitch using the Type tool. A simple sans-serif typeface will work well for this effect. For instance, you can use Montserrat at 480px and 140 letter spacing.
+
+### Step 3
+
+Next, right-click the text layer and select Convert to Smart Object.
+
+![how to apply glitch text effects in photoshop - Convert to smart object](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 4
 
 Head to Filter, then Distort and select the Wave option. Now, enter the following settings:
@@ -165,6 +485,9 @@ Head to Filter, then Distort and select the Wave option. Now, enter the followin
 
 Press CTRL+J or CMD+J to duplicate the Smart Object and expand the fx dropdown.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![how to apply glitch text effects in photoshop - duplicate class=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-9.png)
 
 ### Step 6
@@ -209,12 +532,295 @@ Double click on the smart object or group, then add a White Color Overlay. Dupli
 
 Next, double click the Red group, then make sure the Color Overlay is #ff2700\. Then, double click the Green group and ensure the Color Overlay is set to #00fa00\. Now, Double click the Blue group to change its Color Overlay and make sure it's #1833ff.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### Step 12
 
 Nudge the Blue, Green, and Red groups using the arrow keys and move them randomly around 10-20 pixels each.
 
 ![how to apply glitch text effects in photoshop - adjust the group=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-12.png)
 
+### Step 13
+
+Once you're happy with the results, you can save your text in the desired location. And that's all there is when creating a glitch effect in Photoshop.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Create Glitch Effects in Your Video with Filmora
+
+If you want to add glitch effects to your videos, Filmora is here for you. No advanced video editing techniques are required. Check the below videos to find out more.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
+## Conclusion
+
+**●** Photoshop distortion effects are essential as they do more than enhancement. They make your photos more attractive, and you can use them to emphasize your subject in photos. Follow the steps above to apply distortion effects in your text or photo using Photoshop.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+With over 10 million users, Photoshop is one of the most popular graphics editing software. The program has some cool photo effects you can use on your image collection, including creating distortion effects on images. There are also [editing tips for Photoshop beginners](https://tools.techidaily.com/wondershare/filmora/download/) to help them edit their photos. People use these effects because they have lots of benefits. With that in mind, let's look at how you can apply Photoshop distortion effects on text and photos and how this can help.
+
+#### In this article
+
+01 [How Distortion Effects Change Your Photo](#part1)
+
+02 [How to Create Distortion Effects in Photoshop](#part2)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How Distortion Effects Change Your Photo
+
+Adding distortion effects to your photos can help them in numerous ways. These include:
+
+#### 1\. Helps You Draw Attention to Your Work
+
+All photography lovers want to improve and enhance their pictures after taking them. By adding distortion effects to your photo, you'll make it stand out. In turn, this dramatic change will attract more viewers.
+
+Not all photos that you take will be attractive. You can also use distortion effects to make them attractive so they can get more attention.
+
+In addition to being more attractive, distortion effects make your photos more appealing. They enhance your photos to a higher level. We all know that a picture is considered a universal language with no boundaries, and it communicates well with everyone. As such, if it looks more appealing, it will be more effective.
+
+#### 2\. Conceals Errors
+
+If your photo has some mistakes you want to conceal, you can use Photoshop distortion effects. It will not only hide the errors but also make it look better.
+
+#### 3\. Allows You to Emphasize Your Subject
+
+You can use distortion effects to emphasize your subject in a photo. Once viewers look at your photo, they will immediately know what you want them to focus on.
+
+#### 4\. Creates Interesting Photo Art Works
+
+Many people consider taking photos as a hobby or a way to have a remembrance of memorable events in their lives. Because photography is regarded as an art, you can create great photos by taking a splendid shoot. And that's why people love seeing photography exhibits due to the unique and genuine art they see through photographs. Essentially, using distortion effects can make it look more than art.
+
+## How to Create Distortion Effects in Photoshop
+
+The glitch effect is a digital effect that randomly corrupts image data. You can use the glitch effect on both text and images; this is one of the coolest effects you can create in Photoshop.
+
+### How to Apply Glitch Effects in Photoshop
+
+A glitch effect creates a visible result of being a little unusual in its look. It is one of the most common trends in digital craft, and making it is not as difficult as it seems. You can transform ordinary photos into stunning digital artwork with the appropriate effects and filters. This guide will teach you how to do it using Photoshop.
+
+### Step 1\
+
+You will first need to import an image into Photoshop. Double-click on the Background layer and make it a New Layer.
+
+Press Control-Shift-N to create a New Layer positioned below your reference. Then, set your Foreground Color to white, then use the Paint Bucket Tool to fill the layer with white.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+### Step 2\
+
+Now, select the Magnetic Lasso Tool, as this will allow you to extract the reference by snapping to the sides of the model. Create an entire selection around the model using the Magnetic Lasso Tool.
+
+Once you are done, Right-click and then select Layer through Copy; this will allow you to create a duplicate quickly.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![how to apply glitch effects in photoshop](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+### Step 3\
+
+Select your original stock, and press Control-T to use the Free Transform Tool to bring in the background sides to expose a bit of the white to the right and left.
+
+If your photo does not have a background, you could also use the Rectangle Tool to add a rectangle.
+
+### Step 4\
+
+You can desaturate your picture for a monochromatic color palette. Next, select the layer for the cutout of the model and head to Image > Adjustments, then choose the Hue & Saturation option. Remove the majority of the picture's color by lowering the Saturation up to 95.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to apply glitch effects in photoshop - choose hue & saturation](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-2.png)
+
+You can use Levels to adjust the main picture further. Select the extracted model's layer and navigate to Image>Adjustments; then select Levels and make adjustments for the RGB Channel by inserting the following settings:
+
+* Output Levels: 17, 255
+* Highlight Input Level: 255
+* Midtone Input Level: 0.92
+* Midtone Input Level: 0.92
+
+The result will be subtle, and it'll slightly lighten the model.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to apply glitch effects in photoshop - result](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-3.png)
+
+### Step 5\
+
+The next step of this glitch effect is recreating the jagged photo distortion to make the visuals look as if they are out of place. You can do this by selecting the model and stock layers and merging them.
+
+![how to apply glitch effects in photoshop - recreate jagged photo distortion](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-4.png)
+
+### Step 6\
+
+Select the Rectangular Marquee Tool, and create two skinny selections on your photo layer. You can start by creating one selection at the bottom. Then, add another one at the top by holding the Shift key.
+
+![how to apply glitch effects in photoshop - using Rectangular Marquee tool](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-5.png)
+
+Change to the Move Tool by pressing the V key. Use the Arrow key on your keyboard to move selections to the left-hand side. Hold it down for some time or hit it several times to get the desired result.
+
+### Step 7\
+
+You can continue the process on a single layer; however, you'll eventually see open white spaces that do not look good. Therefore, to avoid this, you might want to Duplicate the Model Layer and then create the distortion using the copy.
+
+Again, create more selections using the Rectangular Marquee Tool; use the Right and Left Arrow keys to move them in different directions.
+
+### Step 8\
+
+Use the Move Tool to create even more Rectangular Selections and move the various sections out of place. Make the effect more natural by varying the size between thicker selections and skinny ones.
+
+Do not distort the face too much; you can do each glitch separately to see what will work.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+![how to apply glitch effects in photoshop - final effects](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-6.png)
+
+### How to Apply Glitch Effects to Text in Photoshop
+
+Photoshop allows you to add glitch effects in the text in your work and take it to the next level. Follow the steps below to learn how to apply glitch effects in your text in Photoshop:
+
+### Step 1\
+
+Launch Photoshop, then create a New Document. Make sure this effect is a bit large to get all the details in.
+
+### Step 2
+
+Enter the word Glitch using the Type tool. A simple sans-serif typeface will work well for this effect. For instance, you can use Montserrat at 480px and 140 letter spacing.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Step 3
+
+Next, right-click the text layer and select Convert to Smart Object.
+
+![how to apply glitch text effects in photoshop - Convert to smart object](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+### Step 4
+
+Head to Filter, then Distort and select the Wave option. Now, enter the following settings:
+
+* Scale Vert: 1% Horiz: 20%
+* Amplitude Max: 52 Min: 1
+* Wavelength Max: 756 Min: 178
+* Number of Generators: 2
+* Type: Square
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 5
+
+Press CTRL+J or CMD+J to duplicate the Smart Object and expand the fx dropdown.
+
+![how to apply glitch text effects in photoshop - duplicate class=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+### Step 6
+
+Edit the Wave filter by double-clicking on it, then modify the settings as follows:
+
+* Scale Vert: 1% Horiz: 10%
+* Amplitude Max: 283 Min: 1
+* Wavelength Max: 372 Min: 97
+* Number of Generators: 2
+* Type: Square
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Step 7
+
+Press CTRL+J or CMD+J to duplicate the Smart Object again.
+
+### Step 8
+
+Edit the Wave filter by double-clicking on it, then modify the settings as seen below:
+
+* Scale Vert: 1% Horiz: 60%
+* Amplitude Max: 33 Min: 4
+* Wavelength Max: 33 Min: 1
+* Number of Generators: 3
+* Type: Square
+
+These are typically the fuzzy distortion lines that complete the effect. Adjust the Horizontal Scale setting to achieve the amount of fuzziness you desire.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 9
+
+Select all the three Smart Object layers, then group them. You can name the group Glitch before filling the background with #242424.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to apply glitch text effects in photoshop - group three smart object layers=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 10
+
+Double click on the smart object or group, then add a White Color Overlay. Duplicate the smart object or Glitch group thrice. That means you'll now have four groups. On these bottom-three groups, label them Blue, Green, and Red, and set their Opacity to 25%.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+![how to apply glitch text effects in photoshop - add white color overlay=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 11
+
+Next, double click the Red group, then make sure the Color Overlay is #ff2700\. Then, double click the Green group and ensure the Color Overlay is set to #00fa00\. Now, Double click the Blue group to change its Color Overlay and make sure it's #1833ff.
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 12
+
+Nudge the Blue, Green, and Red groups using the arrow keys and move them randomly around 10-20 pixels each.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![how to apply glitch text effects in photoshop - adjust the group=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-12.png)
+
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Step 13
 
 Once you're happy with the results, you can save your text in the desired location. And that's all there is when creating a glitch effect in Photoshop.
@@ -289,6 +895,9 @@ Now, select the Magnetic Lasso Tool, as this will allow you to extract the refer
 
 Once you are done, Right-click and then select Layer through Copy; this will allow you to create a duplicate quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to apply glitch effects in photoshop](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-1.png)
 
 ### Step 3\
@@ -301,6 +910,9 @@ If your photo does not have a background, you could also use the Rectangle Tool 
 
 You can desaturate your picture for a monochromatic color palette. Next, select the layer for the cutout of the model and head to Image > Adjustments, then choose the Hue & Saturation option. Remove the majority of the picture's color by lowering the Saturation up to 95.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to apply glitch effects in photoshop - choose hue & saturation](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-2.png)
 
 You can use Levels to adjust the main picture further. Select the extracted model's layer and navigate to Image>Adjustments; then select Levels and make adjustments for the RGB Channel by inserting the following settings:
@@ -334,6 +946,9 @@ You can continue the process on a single layer; however, you'll eventually see o
 
 Again, create more selections using the Rectangular Marquee Tool; use the Right and Left Arrow keys to move them in different directions.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ### Step 8\
 
 Use the Move Tool to create even more Rectangular Selections and move the various sections out of place. Make the effect more natural by varying the size between thicker selections and skinny ones.
@@ -354,10 +969,17 @@ Launch Photoshop, then create a New Document. Make sure this effect is a bit lar
 
 Enter the word Glitch using the Type tool. A simple sans-serif typeface will work well for this effect. For instance, you can use Montserrat at 480px and 140 letter spacing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Step 3
 
 Next, right-click the text layer and select Convert to Smart Object.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![how to apply glitch text effects in photoshop - Convert to smart object](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-7.png)
 
 ### Step 4
@@ -370,12 +992,21 @@ Head to Filter, then Distort and select the Wave option. Now, enter the followin
 * Number of Generators: 2
 * Type: Square
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Step 5
 
 Press CTRL+J or CMD+J to duplicate the Smart Object and expand the fx dropdown.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![how to apply glitch text effects in photoshop - duplicate class=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Step 6
 
 Edit the Wave filter by double-clicking on it, then modify the settings as follows:
@@ -386,10 +1017,16 @@ Edit the Wave filter by double-clicking on it, then modify the settings as follo
 * Number of Generators: 2
 * Type: Square
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 7
 
 Press CTRL+J or CMD+J to duplicate the Smart Object again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 8
 
 Edit the Wave filter by double-clicking on it, then modify the settings as seen below:
@@ -424,10 +1061,16 @@ Nudge the Blue, Green, and Red groups using the arrow keys and move them randoml
 
 ![how to apply glitch text effects in photoshop - adjust the group=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Step 13
 
 Once you're happy with the results, you can save your text in the desired location. And that's all there is when creating a glitch effect in Photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Create Glitch Effects in Your Video with Filmora
 
 If you want to add glitch effects to your videos, Filmora is here for you. No advanced video editing techniques are required. Check the below videos to find out more.
@@ -440,424 +1083,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-## Conclusion
-
-**●** Photoshop distortion effects are essential as they do more than enhancement. They make your photos more attractive, and you can use them to emphasize your subject in photos. Follow the steps above to apply distortion effects in your text or photo using Photoshop.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-With over 10 million users, Photoshop is one of the most popular graphics editing software. The program has some cool photo effects you can use on your image collection, including creating distortion effects on images. There are also [editing tips for Photoshop beginners](https://tools.techidaily.com/wondershare/filmora/download/) to help them edit their photos. People use these effects because they have lots of benefits. With that in mind, let's look at how you can apply Photoshop distortion effects on text and photos and how this can help.
-
-#### In this article
-
-01 [How Distortion Effects Change Your Photo](#part1)
-
-02 [How to Create Distortion Effects in Photoshop](#part2)
-
-## How Distortion Effects Change Your Photo
-
-Adding distortion effects to your photos can help them in numerous ways. These include:
-
-#### 1\. Helps You Draw Attention to Your Work
-
-All photography lovers want to improve and enhance their pictures after taking them. By adding distortion effects to your photo, you'll make it stand out. In turn, this dramatic change will attract more viewers.
-
-Not all photos that you take will be attractive. You can also use distortion effects to make them attractive so they can get more attention.
-
-In addition to being more attractive, distortion effects make your photos more appealing. They enhance your photos to a higher level. We all know that a picture is considered a universal language with no boundaries, and it communicates well with everyone. As such, if it looks more appealing, it will be more effective.
-
-#### 2\. Conceals Errors
-
-If your photo has some mistakes you want to conceal, you can use Photoshop distortion effects. It will not only hide the errors but also make it look better.
-
-#### 3\. Allows You to Emphasize Your Subject
-
-You can use distortion effects to emphasize your subject in a photo. Once viewers look at your photo, they will immediately know what you want them to focus on.
-
-#### 4\. Creates Interesting Photo Art Works
-
-Many people consider taking photos as a hobby or a way to have a remembrance of memorable events in their lives. Because photography is regarded as an art, you can create great photos by taking a splendid shoot. And that's why people love seeing photography exhibits due to the unique and genuine art they see through photographs. Essentially, using distortion effects can make it look more than art.
-
-## How to Create Distortion Effects in Photoshop
-
-The glitch effect is a digital effect that randomly corrupts image data. You can use the glitch effect on both text and images; this is one of the coolest effects you can create in Photoshop.
-
-### How to Apply Glitch Effects in Photoshop
-
-A glitch effect creates a visible result of being a little unusual in its look. It is one of the most common trends in digital craft, and making it is not as difficult as it seems. You can transform ordinary photos into stunning digital artwork with the appropriate effects and filters. This guide will teach you how to do it using Photoshop.
-
-### Step 1\
-
-You will first need to import an image into Photoshop. Double-click on the Background layer and make it a New Layer.
-
-Press Control-Shift-N to create a New Layer positioned below your reference. Then, set your Foreground Color to white, then use the Paint Bucket Tool to fill the layer with white.
-
-### Step 2\
-
-Now, select the Magnetic Lasso Tool, as this will allow you to extract the reference by snapping to the sides of the model. Create an entire selection around the model using the Magnetic Lasso Tool.
-
-Once you are done, Right-click and then select Layer through Copy; this will allow you to create a duplicate quickly.
-
-![how to apply glitch effects in photoshop](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-1.png)
-
-### Step 3\
-
-Select your original stock, and press Control-T to use the Free Transform Tool to bring in the background sides to expose a bit of the white to the right and left.
-
-If your photo does not have a background, you could also use the Rectangle Tool to add a rectangle.
-
-### Step 4\
-
-You can desaturate your picture for a monochromatic color palette. Next, select the layer for the cutout of the model and head to Image > Adjustments, then choose the Hue & Saturation option. Remove the majority of the picture's color by lowering the Saturation up to 95.
-
-![how to apply glitch effects in photoshop - choose hue & saturation](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-2.png)
-
-You can use Levels to adjust the main picture further. Select the extracted model's layer and navigate to Image>Adjustments; then select Levels and make adjustments for the RGB Channel by inserting the following settings:
-
-* Output Levels: 17, 255
-* Highlight Input Level: 255
-* Midtone Input Level: 0.92
-* Midtone Input Level: 0.92
-
-The result will be subtle, and it'll slightly lighten the model.
-
-![how to apply glitch effects in photoshop - result](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-3.png)
-
-### Step 5\
-
-The next step of this glitch effect is recreating the jagged photo distortion to make the visuals look as if they are out of place. You can do this by selecting the model and stock layers and merging them.
-
-![how to apply glitch effects in photoshop - recreate jagged photo distortion](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-4.png)
-
-### Step 6\
-
-Select the Rectangular Marquee Tool, and create two skinny selections on your photo layer. You can start by creating one selection at the bottom. Then, add another one at the top by holding the Shift key.
-
-![how to apply glitch effects in photoshop - using Rectangular Marquee tool](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-5.png)
-
-Change to the Move Tool by pressing the V key. Use the Arrow key on your keyboard to move selections to the left-hand side. Hold it down for some time or hit it several times to get the desired result.
-
-### Step 7\
-
-You can continue the process on a single layer; however, you'll eventually see open white spaces that do not look good. Therefore, to avoid this, you might want to Duplicate the Model Layer and then create the distortion using the copy.
-
-Again, create more selections using the Rectangular Marquee Tool; use the Right and Left Arrow keys to move them in different directions.
-
-### Step 8\
-
-Use the Move Tool to create even more Rectangular Selections and move the various sections out of place. Make the effect more natural by varying the size between thicker selections and skinny ones.
-
-Do not distort the face too much; you can do each glitch separately to see what will work.
-
-![how to apply glitch effects in photoshop - final effects](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-6.png)
-
-### How to Apply Glitch Effects to Text in Photoshop
-
-Photoshop allows you to add glitch effects in the text in your work and take it to the next level. Follow the steps below to learn how to apply glitch effects in your text in Photoshop:
-
-### Step 1\
-
-Launch Photoshop, then create a New Document. Make sure this effect is a bit large to get all the details in.
-
-### Step 2
-
-Enter the word Glitch using the Type tool. A simple sans-serif typeface will work well for this effect. For instance, you can use Montserrat at 480px and 140 letter spacing.
-
-### Step 3
-
-Next, right-click the text layer and select Convert to Smart Object.
-
-![how to apply glitch text effects in photoshop - Convert to smart object](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-7.png)
-
-### Step 4
-
-Head to Filter, then Distort and select the Wave option. Now, enter the following settings:
-
-* Scale Vert: 1% Horiz: 20%
-* Amplitude Max: 52 Min: 1
-* Wavelength Max: 756 Min: 178
-* Number of Generators: 2
-* Type: Square
-
-### Step 5
-
-Press CTRL+J or CMD+J to duplicate the Smart Object and expand the fx dropdown.
-
-![how to apply glitch text effects in photoshop - duplicate class=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-9.png)
-
-### Step 6
-
-Edit the Wave filter by double-clicking on it, then modify the settings as follows:
-
-* Scale Vert: 1% Horiz: 10%
-* Amplitude Max: 283 Min: 1
-* Wavelength Max: 372 Min: 97
-* Number of Generators: 2
-* Type: Square
-
-### Step 7
-
-Press CTRL+J or CMD+J to duplicate the Smart Object again.
-
-### Step 8
-
-Edit the Wave filter by double-clicking on it, then modify the settings as seen below:
-
-* Scale Vert: 1% Horiz: 60%
-* Amplitude Max: 33 Min: 4
-* Wavelength Max: 33 Min: 1
-* Number of Generators: 3
-* Type: Square
-
-These are typically the fuzzy distortion lines that complete the effect. Adjust the Horizontal Scale setting to achieve the amount of fuzziness you desire.
-
-### Step 9
-
-Select all the three Smart Object layers, then group them. You can name the group Glitch before filling the background with #242424.
-
-![how to apply glitch text effects in photoshop - group three smart object layers=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-10.png)
-
-### Step 10
-
-Double click on the smart object or group, then add a White Color Overlay. Duplicate the smart object or Glitch group thrice. That means you'll now have four groups. On these bottom-three groups, label them Blue, Green, and Red, and set their Opacity to 25%.
-
-![how to apply glitch text effects in photoshop - add white color overlay=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-11.png)
-
-### Step 11
-
-Next, double click the Red group, then make sure the Color Overlay is #ff2700\. Then, double click the Green group and ensure the Color Overlay is set to #00fa00\. Now, Double click the Blue group to change its Color Overlay and make sure it's #1833ff.
-
-### Step 12
-
-Nudge the Blue, Green, and Red groups using the arrow keys and move them randomly around 10-20 pixels each.
-
-![how to apply glitch text effects in photoshop - adjust the group=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-12.png)
-
-### Step 13
-
-Once you're happy with the results, you can save your text in the desired location. And that's all there is when creating a glitch effect in Photoshop.
-
-### Create Glitch Effects in Your Video with Filmora
-
-If you want to add glitch effects to your videos, Filmora is here for you. No advanced video editing techniques are required. Check the below videos to find out more.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-## Conclusion
-
-**●** Photoshop distortion effects are essential as they do more than enhancement. They make your photos more attractive, and you can use them to emphasize your subject in photos. Follow the steps above to apply distortion effects in your text or photo using Photoshop.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-With over 10 million users, Photoshop is one of the most popular graphics editing software. The program has some cool photo effects you can use on your image collection, including creating distortion effects on images. There are also [editing tips for Photoshop beginners](https://tools.techidaily.com/wondershare/filmora/download/) to help them edit their photos. People use these effects because they have lots of benefits. With that in mind, let's look at how you can apply Photoshop distortion effects on text and photos and how this can help.
-
-#### In this article
-
-01 [How Distortion Effects Change Your Photo](#part1)
-
-02 [How to Create Distortion Effects in Photoshop](#part2)
-
-## How Distortion Effects Change Your Photo
-
-Adding distortion effects to your photos can help them in numerous ways. These include:
-
-#### 1\. Helps You Draw Attention to Your Work
-
-All photography lovers want to improve and enhance their pictures after taking them. By adding distortion effects to your photo, you'll make it stand out. In turn, this dramatic change will attract more viewers.
-
-Not all photos that you take will be attractive. You can also use distortion effects to make them attractive so they can get more attention.
-
-In addition to being more attractive, distortion effects make your photos more appealing. They enhance your photos to a higher level. We all know that a picture is considered a universal language with no boundaries, and it communicates well with everyone. As such, if it looks more appealing, it will be more effective.
-
-#### 2\. Conceals Errors
-
-If your photo has some mistakes you want to conceal, you can use Photoshop distortion effects. It will not only hide the errors but also make it look better.
-
-#### 3\. Allows You to Emphasize Your Subject
-
-You can use distortion effects to emphasize your subject in a photo. Once viewers look at your photo, they will immediately know what you want them to focus on.
-
-#### 4\. Creates Interesting Photo Art Works
-
-Many people consider taking photos as a hobby or a way to have a remembrance of memorable events in their lives. Because photography is regarded as an art, you can create great photos by taking a splendid shoot. And that's why people love seeing photography exhibits due to the unique and genuine art they see through photographs. Essentially, using distortion effects can make it look more than art.
-
-## How to Create Distortion Effects in Photoshop
-
-The glitch effect is a digital effect that randomly corrupts image data. You can use the glitch effect on both text and images; this is one of the coolest effects you can create in Photoshop.
-
-### How to Apply Glitch Effects in Photoshop
-
-A glitch effect creates a visible result of being a little unusual in its look. It is one of the most common trends in digital craft, and making it is not as difficult as it seems. You can transform ordinary photos into stunning digital artwork with the appropriate effects and filters. This guide will teach you how to do it using Photoshop.
-
-### Step 1\
-
-You will first need to import an image into Photoshop. Double-click on the Background layer and make it a New Layer.
-
-Press Control-Shift-N to create a New Layer positioned below your reference. Then, set your Foreground Color to white, then use the Paint Bucket Tool to fill the layer with white.
-
-### Step 2\
-
-Now, select the Magnetic Lasso Tool, as this will allow you to extract the reference by snapping to the sides of the model. Create an entire selection around the model using the Magnetic Lasso Tool.
-
-Once you are done, Right-click and then select Layer through Copy; this will allow you to create a duplicate quickly.
-
-![how to apply glitch effects in photoshop](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-1.png)
-
-### Step 3\
-
-Select your original stock, and press Control-T to use the Free Transform Tool to bring in the background sides to expose a bit of the white to the right and left.
-
-If your photo does not have a background, you could also use the Rectangle Tool to add a rectangle.
-
-### Step 4\
-
-You can desaturate your picture for a monochromatic color palette. Next, select the layer for the cutout of the model and head to Image > Adjustments, then choose the Hue & Saturation option. Remove the majority of the picture's color by lowering the Saturation up to 95.
-
-![how to apply glitch effects in photoshop - choose hue & saturation](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-2.png)
-
-You can use Levels to adjust the main picture further. Select the extracted model's layer and navigate to Image>Adjustments; then select Levels and make adjustments for the RGB Channel by inserting the following settings:
-
-* Output Levels: 17, 255
-* Highlight Input Level: 255
-* Midtone Input Level: 0.92
-* Midtone Input Level: 0.92
-
-The result will be subtle, and it'll slightly lighten the model.
-
-![how to apply glitch effects in photoshop - result](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-3.png)
-
-### Step 5\
-
-The next step of this glitch effect is recreating the jagged photo distortion to make the visuals look as if they are out of place. You can do this by selecting the model and stock layers and merging them.
-
-![how to apply glitch effects in photoshop - recreate jagged photo distortion](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-4.png)
-
-### Step 6\
-
-Select the Rectangular Marquee Tool, and create two skinny selections on your photo layer. You can start by creating one selection at the bottom. Then, add another one at the top by holding the Shift key.
-
-![how to apply glitch effects in photoshop - using Rectangular Marquee tool](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-5.png)
-
-Change to the Move Tool by pressing the V key. Use the Arrow key on your keyboard to move selections to the left-hand side. Hold it down for some time or hit it several times to get the desired result.
-
-### Step 7\
-
-You can continue the process on a single layer; however, you'll eventually see open white spaces that do not look good. Therefore, to avoid this, you might want to Duplicate the Model Layer and then create the distortion using the copy.
-
-Again, create more selections using the Rectangular Marquee Tool; use the Right and Left Arrow keys to move them in different directions.
-
-### Step 8\
-
-Use the Move Tool to create even more Rectangular Selections and move the various sections out of place. Make the effect more natural by varying the size between thicker selections and skinny ones.
-
-Do not distort the face too much; you can do each glitch separately to see what will work.
-
-![how to apply glitch effects in photoshop - final effects](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-6.png)
-
-### How to Apply Glitch Effects to Text in Photoshop
-
-Photoshop allows you to add glitch effects in the text in your work and take it to the next level. Follow the steps below to learn how to apply glitch effects in your text in Photoshop:
-
-### Step 1\
-
-Launch Photoshop, then create a New Document. Make sure this effect is a bit large to get all the details in.
-
-### Step 2
-
-Enter the word Glitch using the Type tool. A simple sans-serif typeface will work well for this effect. For instance, you can use Montserrat at 480px and 140 letter spacing.
-
-### Step 3
-
-Next, right-click the text layer and select Convert to Smart Object.
-
-![how to apply glitch text effects in photoshop - Convert to smart object](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-7.png)
-
-### Step 4
-
-Head to Filter, then Distort and select the Wave option. Now, enter the following settings:
-
-* Scale Vert: 1% Horiz: 20%
-* Amplitude Max: 52 Min: 1
-* Wavelength Max: 756 Min: 178
-* Number of Generators: 2
-* Type: Square
-
-### Step 5
-
-Press CTRL+J or CMD+J to duplicate the Smart Object and expand the fx dropdown.
-
-![how to apply glitch text effects in photoshop - duplicate class=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-9.png)
-
-### Step 6
-
-Edit the Wave filter by double-clicking on it, then modify the settings as follows:
-
-* Scale Vert: 1% Horiz: 10%
-* Amplitude Max: 283 Min: 1
-* Wavelength Max: 372 Min: 97
-* Number of Generators: 2
-* Type: Square
-
-### Step 7
-
-Press CTRL+J or CMD+J to duplicate the Smart Object again.
-
-### Step 8
-
-Edit the Wave filter by double-clicking on it, then modify the settings as seen below:
-
-* Scale Vert: 1% Horiz: 60%
-* Amplitude Max: 33 Min: 4
-* Wavelength Max: 33 Min: 1
-* Number of Generators: 3
-* Type: Square
-
-These are typically the fuzzy distortion lines that complete the effect. Adjust the Horizontal Scale setting to achieve the amount of fuzziness you desire.
-
-### Step 9
-
-Select all the three Smart Object layers, then group them. You can name the group Glitch before filling the background with #242424.
-
-![how to apply glitch text effects in photoshop - group three smart object layers=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-10.png)
-
-### Step 10
-
-Double click on the smart object or group, then add a White Color Overlay. Duplicate the smart object or Glitch group thrice. That means you'll now have four groups. On these bottom-three groups, label them Blue, Green, and Red, and set their Opacity to 25%.
-
-![how to apply glitch text effects in photoshop - add white color overlay=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-11.png)
-
-### Step 11
-
-Next, double click the Red group, then make sure the Color Overlay is #ff2700\. Then, double click the Green group and ensure the Color Overlay is set to #00fa00\. Now, Double click the Blue group to change its Color Overlay and make sure it's #1833ff.
-
-### Step 12
-
-Nudge the Blue, Green, and Red groups using the arrow keys and move them randomly around 10-20 pixels each.
-
-![how to apply glitch text effects in photoshop - adjust the group=](https://images.wondershare.com/filmora/article-images/2022/04/photoshop-distortion-effects-12.png)
-
-### Step 13
-
-Once you're happy with the results, you can save your text in the desired location. And that's all there is when creating a glitch effect in Photoshop.
-
-### Create Glitch Effects in Your Video with Filmora
-
-If you want to add glitch effects to your videos, Filmora is here for you. No advanced video editing techniques are required. Check the below videos to find out more.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 **●** Photoshop distortion effects are essential as they do more than enhancement. They make your photos more attractive, and you can use them to emphasize your subject in photos. Follow the steps above to apply distortion effects in your text or photo using Photoshop.
@@ -884,3 +1112,57 @@ For macOS 10.12 or later
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-decoding-social-media-success-navigate-the-best-and-hidden-tiktok-glyphs-for-2024/"><u>[New] Decoding Social Media Success - Navigate the Best & Hidden TikTok Glyphs for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-key-methods-to-customize-song-speed-on-spotify/"><u>[New] In 2024, Key Methods to Customize Song Speed on Spotify</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-nailing-your-live-on-facebook-a-recorders-manual/"><u>[New] In 2024, Nailing Your Live on Facebook  A Recorder's Manual</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-indispensable-sandbox-journeys-await-in-2024/"><u>[New] Indispensable Sandbox Journeys Await, In 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-lessons-in-motion-mastering-classroom-editing/"><u>[New] Lessons in Motion  Mastering Classroom Editing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-time-warp-in-video-editing/"><u>[New] Mastering Time Warp in Video Editing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-moviemakermag-extreme-review-complete-take-on-androvid-editor/"><u>[New] MovieMakerMag Extreme Review – Complete Take on AndroVid Editor</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-palette-perfection-essential-techniques-to-brighten-your-photos/"><u>[New] Palette Perfection  Essential Techniques to Brighten Your Photos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ridiculousrender-hub/"><u>[New] RidiculousRender Hub</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sound-sleuths-unite-free-beats-tracking-tools/"><u>[New] Sound Sleuths Unite! Free Beats-Tracking Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-steps-to-secure-clear-image-collections/"><u>[New] Steps to Secure, Clear Image Collections</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-path-to-cross-media-popularity-via-television-and-fb-live/"><u>[New] The Path to Cross-Media Popularity via Television and FB Live</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-youtube-strategies-compiling-10-basic-yet-engaging-ideas-for-everyone/"><u>[Updated] In 2024, Essential YouTube Strategies  Compiling 10 Basic Yet Engaging Ideas for Everyone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-invisible-voices-techniques-for-silent-screen-recordings/"><u>[Updated] In 2024, Invisible Voices  Techniques for Silent Screen Recordings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-low-cost-action-cameras-list-for-less-than-100-savings/"><u>[Updated] Low-Cost Action Cameras List for Less Than $100 Savings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-nexus-development-summary-pinnacle-studio-audit-2023/"><u>[Updated] Nexus Development Summary  Pinnacle Studio Audit, 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pioneering-programs-3d-animation-crafting/"><u>[Updated] Pioneering Programs  3D Animation Crafting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-fixes-for-professional-looking-indie-films/"><u>[Updated] Quick Fixes for Professional-Looking Indie Films</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-rewind-feat-unraveling-sequence-with-a-single-click/"><u>[Updated] YouTube's Rewind Feat  Unraveling Sequence with a Single Click</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-make-slow-motion-videos-on-instagram-reels/"><u>2024 Approved  How to Make Slow Motion Videos on Instagram Reels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-negate-video-ordering-in-android/"><u>2024 Approved  Learn To Negate Video Ordering in Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-image-quality-a-guide-without-watermarks/"><u>2024 Approved  Mastering Image Quality  A Guide Without Watermarks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-path-to-apple-podcast-acceptance/"><u>2024 Approved  Navigating the Path to Apple Podcast Acceptance</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-to-no-cost-and-risk-free-vlc-player-download-for-macos/"><u>2024 Approved  Navigating to No-Cost & Risk-Free VLC Player Download for macOS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-6-sites-boosting-corporate-engagement/"><u>2024 Approved  Premier 6 Sites Boosting Corporate Engagement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quadcopters-unveiled-their-intricate-workings-revealed/"><u>2024 Approved  Quadcopters Unveiled  Their Intricate Workings Revealed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-virtual-conferencing-in-gmail-via-zoom-best-practices/"><u>2024 Approved  Seamless Virtual Conferencing in Gmail via Zoom Best Practices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shedding-the-gloom-brighten-your-iphone-vids/"><u>2024 Approved  Shedding the Gloom  Brighten Your Iphone Vids</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sleek-skill-using-watch-to-unlock-mac/"><u>2024 Approved  Sleek Skill  Using Watch to Unlock Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlocking-organic-growth-your-afb-playbook/"><u>2024 Approved  Unlocking Organic Growth  Your AFB Playbook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-play-7t-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor Play 7T Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y100i-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y100i FRP Bypass Instantly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/from-raw-to-refined-tailoring-youtube-videos-with-premiere-pro/"><u>From Raw to Refined  Tailoring YouTube Videos with Premiere Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-8-plus-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 8 Plus to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-sky-depot-for-enterprise-files/"><u>In 2024, Premier Sky Depot for Enterprise Files</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prepping-for-the-latest-macos-big-sur-update/"><u>In 2024, Prepping for the Latest MacOS Big Sur Update</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionize-your-talking-skills-with-these-no-cost-audio-modifications/"><u>In 2024, Revolutionize Your Talking Skills with These No-Cost Audio Modifications</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speed-up-your-photo-journey-creating-rapid-google-collages/"><u>In 2024, Speed Up Your Photo Journey  Creating Rapid Google Collages</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-checklist-for-google-podcast-enthusiasts/"><u>In 2024, The Ultimate Checklist for Google Podcast Enthusiasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-xr-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone XR in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximizing-impact-partnering-with-influencers-on-youtube-for-2024/"><u>Maximizing Impact  Partnering with Influencers on YouTube for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/momentum-in-motion-our-choice-of-top-10-film-titles-for-2024/"><u>Momentum in Motion  Our Choice of Top 10 Film Titles for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/navigating-twitters-aspect-ratio-policies-for-2024/"><u>Navigating Twitter's Aspect Ratio Policies for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-se-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone SE</u></a></li>
+<li><a href="https://extra-support.techidaily.com/novel-windows-11-strategies-for-peak-performance-for-2024/"><u>Novel Windows 11 Strategies for Peak Performance for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719255130164-tackle-non-working-shift-with-simple-tweaks/"><u>Tackle Non-Working Shift with Simple Tweaks.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-selecting-the-ideal-livestream-service-for-2024/"><u>The Art of Selecting the Ideal Livestream Service for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-how-to-remove-vocals-in-adobe-audition-unveiling-the-6-easy-steps/"><u>Updated How To Remove Vocals In Adobe Audition Unveiling The 6 Easy Steps</u></a></li>
+</ul></div>

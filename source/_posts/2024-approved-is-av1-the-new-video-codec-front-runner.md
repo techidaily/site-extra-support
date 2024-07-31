@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Is AV1 The New Video Codec Front-Runner?\""
-date: 2024-05-31T06:10:13.134Z
-updated: 2024-06-01T06:10:13.134Z
+date: 2024-07-30T04:23:33.290Z
+updated: 2024-07-31T04:23:33.290Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Is AV1 The New Video Codec Front-Runner?\""
 excerpt: "\"This Article Describes 2024 Approved: Is AV1 The New Video Codec Front-Runner?\""
 keywords: "\"AV1 Leadership,Video Codec Update,AV1 Advantage,Next-Gen Video,AV1 Dominance,Codec AV1 Front,Video Tech Trend\""
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## Is AV1 The New Video Codec Front-Runner?
@@ -26,12 +26,19 @@ Released in 2013 by Google, VP9 is a free, open-source video codec that replaced
 
 In the meantime, a 2014 comparison between VP9 and /AVC discovered that VP9 offers a 45% bitrate advantage over. Netflix also concluded in 2016 that VP9  could have the same efficiency after tweaking the parameters. So overall, VP9 supports lossless encoding of raw bitstreams, making it perfect for streaming videos in MP4 and WebM.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Part 2\. What is AV1?
 
 AV1 is a relatively new video codec by Alliance for Open Media, a consortium of which Google is a co-founder. Like VP9, it's a royalty-free video codec, meaning you don't have to pay licensing fee to use it. AV1 was developed to replace VP9, so expect it to be compatible with all VP9-supported platforms. Besides Google, the Alliance for Open Media also includes Netflix, Amazon, Cisco, Intel, Microsoft, and Mozilla.
 
 The first AV1 version was released in 2016 but was held back due to unresolved critical bugs. Then in March 2018, the Alliance announced another release alongside software encoder/decoder. Although the codec is primarily designed to compete with licensed codecs like  AVC, there are concerns that it may threaten the existence of other royalty-free codecs. But as a consumer, freebies are always a welcome addition.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Part 3\. Detailed Comparison Between VP9 and AV1
 
 For viewers to enjoy high-quality content without using a lot of resources, efficient video compression technology is a must. As it stands, both VP9 and AV1 are royalty-free codecs, meaning that they are 100% free to use. However, these codecs differ. Here is what we've gathered for the **VP9 vs AV1** comparison:
@@ -40,16 +47,26 @@ For viewers to enjoy high-quality content without using a lot of resources, effi
 
 Both video compression techniques are relatively new, which AV1 being the latest. This means VP9 and AV1 are compatible with various HTML5 browsers and devices. Google says VP9 decoding is compatible with more than 2 billion endpoints, meaning you can open VP9 on Mozilla Firefox, Opera, Chrome, Safari, Edge, Android smartphones/TVs, and local media players.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![compatibility](https://images.wondershare.com/filmora/article-images/2022/11/av1-vs-vp9-1.jpg)
 
 But on the other hand, viewers might experience an "error" message when opening AV1 locally on your old PC. While Intel works around the clock to develop supported drivers, some may not be compatible with your old computer. But expect wider AV1 compatibility now that more tech companies like Meta, Samsung, and Apple have joined the Alliance for Open Media. Currently, YouTube and Netflix are already streaming some videos in AV1.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Performance - AV1 has an edge
 
 Regarding practical performance, it's widely agreed that AV1 has the upper hand over standard codecs like VP9, and VP8. According to a test by EpsosVox on Intel's AV1 encoder, the codec showed higher performance efficiency than NVIDIA's NVENC, OBS x264, and AMF by AMD. The test results showed that the AV1 encoder is 16% better than the competing encoders.
 
 Another 2018 Facebook Engineering (now Meta) test showed that AV1 achieved 34% higher compression than VP9\. The test also showed that AV1 is 50.3% and 46.2% better than the x264 main profile and x264 high profile. However, the test showed that AV1 requires a longer encoding duration than the current alternative due to the complexities involved.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![facebook av1 vs vp9 comparison](https://images.wondershare.com/filmora/article-images/2022/11/av1-vs-vp9-2.jpg)
 
 Most importantly, Facebook suggested that AV1's performance significantly increases with increased video resolution. This means viewers will enjoy a higher quality 8K and UHD/4K content when using AV1 than VP9 and other codecs. And yes, higher compressions by AV1 mean a smaller file size at the same bitrates as the VP9 codec.
@@ -78,6 +95,9 @@ Apply these steps to create an MP4 AV1 video on Filmora 11:
 
 ##### Step1Customize video settings and upload a video
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![av1 vs vp9 load video](https://images.wondershare.com/filmora/article-images/2022/11/av1-vs-vp9-4.jpg)
 
 Install and run [Filmora 11](https://tools.techidaily.com/wondershare/filmora/download/) on your computer, then select the video aspect ratio. For example, choose 16:9 (Widescreen) for YouTube videos. After that, start a **New Project** and click **Import Media** to load the video. Of course, you can load multiple videos and merge them later. Now move the video to the timeline by dragging.
@@ -94,8 +114,14 @@ As you may already know, thousands of videos are uploaded daily on YouTube. Ther
 
 Are you satisfied with the edited video? Click **Play** to preview it and apply further edits if needed. Then, tap **Export** and choose **MP4 AV1** as the target format. Lastly, name your video and export it to your local drive. You can also click the **YouTube** tab to directly upload the video on the platform. And that's it!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5\. FAQs About AV1 and VP9
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### What is the best video codec?
 
 There's nothing like the "best video codec" because it depends on user preference.  Although it offers universal compatibility, its performance is far behind codecs like AV1, and VP9. Also, it's a licensed video codec, one reason why YouTube stopped streaming.
@@ -104,6 +130,9 @@ There's nothing like the "best video codec" because it depends on user preferenc
 
 Checking the type of codec used to stream a YouTube video is relatively straightforward. Open the video and right-click the video screen. Then, click "Stats for nerds" to view the video codec, color, network connection speed, frames, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How can I disable/disable AV1 playback on Firefox?
 
 If you're using Firefox 63.0 or newer, you can disable/enable AV1 support. To do that, open the browser, then type _about:config_ before tapping **Enter** to search. Then, tap the **I accept the risk** button, then double-tap _media.av1.enabled_ to change the **Value** to **false** or **true**.
@@ -116,6 +145,9 @@ You can open AV1 on VLC version 3.0.0, released on February 2018\. Remember that
 
 After multiple tests to compare AV1 and H.266, it was discovered that the former lags in numerous aspects. As a result, Alliance for Open Media had to go back to the drawing board to design AV2\. But don't expect this codec until at least 2024 to 2025.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summary
 
 We hope this AV1 vs VP9 comparison article has dispelled all your fears about using the AV1 codec. Although it's okay to use VP9, AV1 offers superior compression while delivering higher image quality than VP9\. So, use [Filmora 11](https://tools.techidaily.com/wondershare/filmora/download/) to create your MP4 AV1 videos for YouTube.
@@ -148,3 +180,42 @@ We hope this AV1 vs VP9 comparison article has dispelled all your fears about us
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-detailed-ice-cream-snapshot-analysis-report/"><u>[New] Detailed Ice Cream Snapshot Analysis Report</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pinnacle-of-meme-artistry-program/"><u>[New] Pinnacle of Meme Artistry Program</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-power-up-with-the-ultimate-exercise-soundtrack-guide/"><u>[New] Power Up with the Ultimate Exercise Soundtrack Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-radiant-rendering-the-graders-artistic-journey/"><u>[New] Radiant Rendering  The Grader's Artistic Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revamping-videography-the-story-of-nikon-1j5s-4k-achievement/"><u>[New] Revamping Videography  The Story of Nikon 1J5’s 4K Achievement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-selecting-superior-sound-10-top-mic-recommendations/"><u>[New] Selecting Superior Sound  10 Top Mic Recommendations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-skyrocket-your-storage-top-20-free-cloud-services-to-choose-from-1tbplus/"><u>[New] Skyrocket Your Storage - Top 20 Free Cloud Services to Choose From (1TB+)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterful-examples-of-3d-font-art-available-from-these-9-web-destinations/"><u>[Updated] Masterful Examples of 3D Font Art Available From These 9 Web Destinations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-morning-judgment-creative-viewpoints/"><u>[Updated] Morning Judgment  Creative Viewpoints</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-no-complications-approach-switching-up-flipper-voices-in-windows-domain/"><u>[Updated] No-Complications Approach  Switching Up Flipper Voices in Windows Domain</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-streaming-platforms-reviewed-and-rated/"><u>[Updated] Premier Streaming Platforms Reviewed & Rated</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionize-visual-content-leading-montage-tools-for-phones/"><u>[Updated] Revolutionize Visual Content  Leading Montage Tools for Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-procuring-high-quality-clip-art-with-no-cost/"><u>[Updated] Strategies for Procuring High-Quality Clip Art with No Cost</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-android-guide-for-backward-video-display/"><u>2024 Approved  Android Guide for Backward Video Display</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leveraging-slug-lines-for-content-engagement/"><u>2024 Approved  Leveraging Slug Lines for Content Engagement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-the-ideal-360-cameras-for-videography/"><u>2024 Approved  Selecting the Ideal 360° Cameras for Videography</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-galaxy-a14-5g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Galaxy A14 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-oneplus-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on OnePlus</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elemental-story-framework/"><u>Elemental Story Framework</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/express-exuberance-create-memetic-content-with-kapwing/"><u>Express Exuberance  Create Memetic Content With Kapwing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boost-your-files-future-with-these-20-best-in-class-no-cost-services/"><u>In 2024, Boost Your Files' Future with These 20 Best-in-Class No-Cost Services</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-strategies-for-enhancing-vhs-photos-digitally/"><u>In 2024, Optimal Strategies for Enhancing VHS Photos Digitally</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-propel-your-video-writes-the-ai-way/"><u>In 2024, Propel Your Video' Writes  The AI Way</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pulsating-performance-audio-addition-to-videos-on-win11/"><u>In 2024, Pulsating Performance  Audio Addition to Videos on Win11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-tips-speeding-up-video-playback-on-snapchat-for-novices/"><u>In 2024, Quick Tips  Speeding Up Video Playback on Snapchat for Novices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-splendid-windows-11-backdrops/"><u>In 2024, Secrets to Splendid Windows 11 Backdrops</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sierra-sovereign-dvd-and-media-cutting-tools/"><u>In 2024, Sierra Sovereign Dvd & Media Cutting Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/livestream-perfection-selecting-your-go-to-platform-for-2024/"><u>Livestream Perfection  Selecting Your Go-To Platform for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximize-your-snapshots-on-android-for-2024/"><u>Maximize Your Snapshots on Android for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prosperity-startups-the-13-least-experience-demanding-reddit-techniques-for-2024/"><u>Prosperity Startups  The 13 Least Experience-Demanding Reddit Techniques for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-and-easy-image-transition-techniques-explored-for-2024/"><u>Quick and Easy Image Transition Techniques Explored for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quintessential-vr-cinematic-treasures-for-2024/"><u>Quintessential VR Cinematic Treasures for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-tale-of-two-sides-in-the-vr-revolution-for-2024/"><u>The Tale of Two Sides in the VR Revolution for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-contemporary-vintage-game-systems/"><u>Ultimate Contemporary Vintage Game Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-how-to-activate-windows-11-written-for-high-dynamic-range-auto-hdr-for-2024/"><u>Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR) for 2024</u></a></li>
+</ul></div>

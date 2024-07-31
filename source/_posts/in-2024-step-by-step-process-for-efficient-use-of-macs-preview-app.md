@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Process for Efficient Use of Mac's Preview App\""
-date: 2024-05-31T06:11:24.173Z
-updated: 2024-06-01T06:11:24.173Z
+date: 2024-07-30T05:37:44.903Z
+updated: 2024-07-31T05:37:44.903Z
 tags: 
   - screen-recording
   - ai video
@@ -13,14 +13,212 @@ categories:
 description: "\"This Article Describes In 2024, Step-by-Step Process for Efficient Use of Mac's Preview App\""
 excerpt: "\"This Article Describes In 2024, Step-by-Step Process for Efficient Use of Mac's Preview App\""
 keywords: "Mac Preview Proc,Using Preview Effectively,Mastering Mac Preview,Efficient Preview Tips,Optimize Mac Preview Use,Streamline Preview on Mac,Quick Preview Guide Mac"
-thumbnail: https://www.lifewire.com/thmb/KMEogKOuBs--nRX9aV9hudENKzQ=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/iStock-493217440-59f8f005054ad90010327362.png
+thumbnail: https://thmb.techidaily.com/128652f3635b5c02571aebd32ea42bdf5de3d8228fe08a4a4993ce8bcc5b8b84.png
 ---
 
 ## Step-by-Step Process for Efficient Use of Mac's Preview App
 
 # How to Use Preview App on Mac
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+The **Preview app** is a built-in program in macOS, and works as a default viewer for the image and PDF files that your Mac computer has. Because Preview is also an editing software, you don’t need to look for any other third-party tool for basic photo and PDF manipulations.
+
+That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
+
+Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
+
+The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### How to View and Edit Photos in Preview on Mac
+
+As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
+
+#### To view an image in Preview
+
+* Double-click the photo, or
+* Right-click the photo, go to **Open With** on the context menu, and click **Preview (default)** from the submenu that appears
+
+#### To edit an image in Preview
+
+* Use the tools present on the standard toolbar at the top of the interface
+* Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to Show Markup Tools in Preview on Mac
+
+Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
+
+**Step 1: Show Markup Tools**
+
+Click the **Show Markup Toolbar** icon present at the upper-right area to reveal the editing tools right under the standard toolbar.
+
+**Step 2: Hide Markup Tools**
+
+Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
+
+**Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+### How to Crop in Preview
+
+In order to crop a photo in the **Preview app**:
+
+**Step 1: Open the Image**
+
+Use the method explained earlier to open the photo you want to edit in Preview.
+
+**Step 2: Select the Area of Interest**
+
+Drag the mouse pointer over the area of the photo you want to keep. If need be, click anywhere between the marked region and drag to reposition the selection. In addition, you can use any of the available side handles to adjust the area of interest on the image.
+
+**Step 3: Crop the Photo**
+
+Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to Rotate Image in Preview
+
+Rotating an image in the **Preview app** is fairly simple. To do so:
+
+**Step 1: Open the Target Image**
+
+Use the method explained above to open the photo in Preview.
+
+**Step 2: Rotate the Image**
+
+Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+### How to Add Text to Image in Preview
+
+The **Preview app** even lets you annotate the images with ease. To add text to a photo:
+
+**Step1: Insert Text Frame**
+
+Click the **Text** icon from the **Markup Toolbar**, drag the side handles to adjust the width of the text frame, and use the mouse to drag and reposition the entire frame to your preferred location on the photo.
+
+**Step 2: Add Text**
+
+Click inside the frame, delete the existing placeholder text, and type a new caption/annotation for the picture.
+
+**Step 3: Format the Text**
+
+Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
+
+### How to Remove Background in Preview
+
+As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
+
+**Step 1: Select Unwanted Parts of the Image**
+
+Click the **Instant Alpha** icon from the left area of the **Markup Toolbar**, click anywhere on the unwanted background on the image, and slowly drag the mouse. Notice the red colored coating that the image starts getting covered with. This is the portion that Preview will consider background and will remove. While dragging the mouse, if any section of the image that you want to keep gets red, drag the pointer to the opposite direction to deselect the area.
+
+**Step 2: Remove the Background**
+
+Once the background portion of the image gets selected (colored in red), without releasing the mouse button, press **Delete** on the keyboard.
+
+**Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
+
+**Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
+
+### How to Combine Images into One
+
+This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
+
+**Step 1: Open Both the Images**
+
+Drag mouse over both the images you want to participate in the process, right-click any one of the selected photos, go to **Open With**, and click **Preview (default)** from the submenu.
+
+**Step 2: Remove Background from the First Image**
+
+Ensure that Preview opens with both the images listed in the sidebar in the left. From the sidebar, select first image, and use the **Instant Alpha** tool as explained earlier to remove the background.
+
+**Step 3: Combine the Images**
+
+After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+### How to Save Images in Different Formats
+
+The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
+
+**Step 1: Get to the Export Box**
+
+After opening an image, click **File** from the menu bar at the top, and click **Export** from the menu that appears next.
+
+**Step 2: Choose Output Format and Export**
+
+Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Part 2: FAQs About Preview App on Mac
+
+#### What is the Preview App?
+
+1. Preview is a built-in program in macOS that works as a default image and PDF viewer, and is also equipped with some elementary editing tools.
+
+#### Where to find the Preview App on Mac?
+
+1. Usually, when you double-click an image or a PDF document, the **Preview app** is automatically initialized displaying the contents of the file. If you want to manually open the program, you can find it in the **Applications** folder on your Mac.
+
+#### What formats does Preview support?
+
+1. At the time of this writing, the **Preview app** supports **HEIC**, **JPEG**, **JPEG-2000**, **OpenEXR**, **PDF**, **PNG**, and **TIFF**
+
+#### Can you convert images in Preview?
+
+1. Yes, you can. In addition to the process explained in **Section 8** of **Part 1**, the **Preview app for Mac** also supports batch conversion. To do so, you must:
+
+* Select all the images you want to convert
+* Drag the selected photos to the **Preview** icon on the **Dock**
+* Confirm that all the images you selected are present in the sidebar of the **Preview app**. You can drag and drop more images from your Mac to this sidebar to add them to the list
+* Press **Command** \+ **A** on the keyboard to select all the images in the sidebar
+* Click **File** from the menu bar at the top
+* Click **Export Selected Images** from the menu that comes down
+
+**Note:** Make sure that all the images you selected are of the same format. Preview doesn’t allow batch conversion of varied photo types.
+
+* Pick a destination folder from the navigation bar in the left
+* Click **Options** from the bottom
+* Select your preferred output format for all the images from the **Format** drop-down list
+* Click **Choose** to convert all the images in a single go
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
 
 ##### Ollie Mattison
 
@@ -36,6 +234,9 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -64,6 +265,9 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -124,6 +328,9 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -184,6 +391,9 @@ Choose a destination folder in the **Where** field, select your preferred format
 * Select your preferred output format for all the images from the **Format** drop-down list
 * Click **Choose** to convert all the images in a single go
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -220,6 +430,9 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -234,6 +447,9 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -250,6 +466,9 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -278,6 +497,9 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -310,6 +532,9 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -370,12 +595,18 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -432,176 +663,9 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
-### How to Add Text to Image in Preview
-
-The **Preview app** even lets you annotate the images with ease. To add text to a photo:
-
-**Step1: Insert Text Frame**
-
-Click the **Text** icon from the **Markup Toolbar**, drag the side handles to adjust the width of the text frame, and use the mouse to drag and reposition the entire frame to your preferred location on the photo.
-
-**Step 2: Add Text**
-
-Click inside the frame, delete the existing placeholder text, and type a new caption/annotation for the picture.
-
-**Step 3: Format the Text**
-
-Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
-
-### How to Remove Background in Preview
-
-As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
-
-**Step 1: Select Unwanted Parts of the Image**
-
-Click the **Instant Alpha** icon from the left area of the **Markup Toolbar**, click anywhere on the unwanted background on the image, and slowly drag the mouse. Notice the red colored coating that the image starts getting covered with. This is the portion that Preview will consider background and will remove. While dragging the mouse, if any section of the image that you want to keep gets red, drag the pointer to the opposite direction to deselect the area.
-
-**Step 2: Remove the Background**
-
-Once the background portion of the image gets selected (colored in red), without releasing the mouse button, press **Delete** on the keyboard.
-
-**Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
-
-**Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-### How to Combine Images into One
-
-This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
-
-**Step 1: Open Both the Images**
-
-Drag mouse over both the images you want to participate in the process, right-click any one of the selected photos, go to **Open With**, and click **Preview (default)** from the submenu.
-
-**Step 2: Remove Background from the First Image**
-
-Ensure that Preview opens with both the images listed in the sidebar in the left. From the sidebar, select first image, and use the **Instant Alpha** tool as explained earlier to remove the background.
-
-**Step 3: Combine the Images**
-
-After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
-
-### How to Save Images in Different Formats
-
-The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
-
-**Step 1: Get to the Export Box**
-
-After opening an image, click **File** from the menu bar at the top, and click **Export** from the menu that appears next.
-
-**Step 2: Choose Output Format and Export**
-
-Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-### Part 2: FAQs About Preview App on Mac
-
-#### What is the Preview App?
-
-1. Preview is a built-in program in macOS that works as a default image and PDF viewer, and is also equipped with some elementary editing tools.
-
-#### Where to find the Preview App on Mac?
-
-1. Usually, when you double-click an image or a PDF document, the **Preview app** is automatically initialized displaying the contents of the file. If you want to manually open the program, you can find it in the **Applications** folder on your Mac.
-
-#### What formats does Preview support?
-
-1. At the time of this writing, the **Preview app** supports **HEIC**, **JPEG**, **JPEG-2000**, **OpenEXR**, **PDF**, **PNG**, and **TIFF**
-
-#### Can you convert images in Preview?
-
-1. Yes, you can. In addition to the process explained in **Section 8** of **Part 1**, the **Preview app for Mac** also supports batch conversion. To do so, you must:
-
-* Select all the images you want to convert
-* Drag the selected photos to the **Preview** icon on the **Dock**
-* Confirm that all the images you selected are present in the sidebar of the **Preview app**. You can drag and drop more images from your Mac to this sidebar to add them to the list
-* Press **Command** \+ **A** on the keyboard to select all the images in the sidebar
-* Click **File** from the menu bar at the top
-* Click **Export Selected Images** from the menu that comes down
-
-**Note:** Make sure that all the images you selected are of the same format. Preview doesn’t allow batch conversion of varied photo types.
-
-* Pick a destination folder from the navigation bar in the left
-* Click **Options** from the bottom
-* Select your preferred output format for all the images from the **Format** drop-down list
-* Click **Choose** to convert all the images in a single go
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-The **Preview app** is a built-in program in macOS, and works as a default viewer for the image and PDF files that your Mac computer has. Because Preview is also an editing software, you don’t need to look for any other third-party tool for basic photo and PDF manipulations.
-
-That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
-
-## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
-
-Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
-
-The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
-
-### How to View and Edit Photos in Preview on Mac
-
-As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
-
-#### To view an image in Preview
-
-* Double-click the photo, or
-* Right-click the photo, go to **Open With** on the context menu, and click **Preview (default)** from the submenu that appears
-
-#### To edit an image in Preview
-
-* Use the tools present on the standard toolbar at the top of the interface
-* Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
-
-### How to Show Markup Tools in Preview on Mac
-
-Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
-
-**Step 1: Show Markup Tools**
-
-Click the **Show Markup Toolbar** icon present at the upper-right area to reveal the editing tools right under the standard toolbar.
-
-**Step 2: Hide Markup Tools**
-
-Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
-
-**Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-### How to Crop in Preview
-
-In order to crop a photo in the **Preview app**:
-
-**Step 1: Open the Image**
-
-Use the method explained earlier to open the photo you want to edit in Preview.
-
-**Step 2: Select the Area of Interest**
-
-Drag the mouse pointer over the area of the photo you want to keep. If need be, click anywhere between the marked region and drag to reposition the selection. In addition, you can use any of the available side handles to adjust the area of interest on the image.
-
-**Step 3: Crop the Photo**
-
-Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
-
-### How to Rotate Image in Preview
-
-Rotating an image in the **Preview app** is fairly simple. To do so:
-
-**Step 1: Open the Target Image**
-
-Use the method explained above to open the photo in Preview.
-
-**Step 2: Rotate the Image**
-
-Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -724,3 +788,60 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-making-shapes-pop-with-photoshop-tips/"><u>[New] Making Shapes Pop with Photoshop Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-monitor-magic-asuss-mg28uq-review-reveals-a-new-vision-era/"><u>[New] Monitor Magic – ASUS's MG28UQ Review Reveals a New Vision Era</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pixelated-personae-effective-face-covering-tactics/"><u>[New] Pixelated Personae  Effective Face Covering Tactics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-top-5-weightless-camcorders-for-adventure/"><u>[New] Prime Top 5 Weightless Camcorders for Adventure</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quietude-on-the-silver-screen-a-study/"><u>[New] Quietude on the Silver Screen  A Study</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smartphone-photographers-must-have-app-list/"><u>[New] Smartphone Photographers' Must-Have App List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-storage-sizing-film-duration-in-gb/"><u>[New] Storage Sizing  Film Duration in GB</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-capturing-your-ps4-experience/"><u>[New] The Ultimate Guide  Capturing Your PS4 Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unraveling-virtual-physical-coexistence-what-is-mixed-reality-in-2024/"><u>[New] Unraveling Virtual-Physical Coexistence  What Is Mixed Reality, In 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-deep-dive-into-youtube-app-features-on-smartphones/"><u>[Updated] A Deep Dive Into YouTube App Features on Smartphones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-eyevid-fb-content-grabber-for-2024/"><u>[Updated] EyeVid  FB Content Grabber for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-global-phenomenon-vids-surpassing-100-million-views-for-2024/"><u>[Updated] Global Phenomenon Vids Surpassing 100 Million Views for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-first-steps-in-telegram-marketing-an-initiation-handbook/"><u>[Updated] In 2024, First Steps in Telegram Marketing  An Initiation Handbook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-interactive-content-the-key-to-boosted-facebook-pages/"><u>[Updated] Interactive Content  The Key to Boosted Facebook Pages</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-advanced-visual-techniques-with-version-22-vce/"><u>[Updated] Mastering Advanced Visual Techniques with Version 2.2 VCE</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-srt-extension-on-both-macwindows-platforms/"><u>[Updated] Mastering SRT Extension on Both Mac/Windows Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-zoom-on-xbox-one-a-step-by-step-guide/"><u>[Updated] Mastering Zoom on Xbox One  A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-instas-archive-maze-for-optimal-results-for-2024/"><u>[Updated] Navigating Insta’s Archive Maze for Optimal Results for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-gpus-engineered-for-4k-gaming/"><u>[Updated] Premium GPUs Engineered for 4K Gaming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-samsungs-image-crafting-app-benefits-and-insights/"><u>[Updated] Samsung's Image Crafting App  Benefits & Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smarter-storage-simpler-style-top-40-mobile-video-reducers-on-android/"><u>[Updated] Smarter Storage, Simpler Style  Top 40 Mobile Video Reducers on Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speeding-up-spotify-tracks-safe-techniques-and-strategies/"><u>[Updated] Speeding Up Spotify Tracks  Safe Techniques and Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-straightforward-guide-to-flipper-sound-manipulation-on-windows-os/"><u>[Updated] Straightforward Guide to Flipper Sound Manipulation on Windows OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instavid-magic-integrating-soundtracks-into-your-stories/"><u>2024 Approved  InstaVid Magic  Integrating Soundtracks Into Your Stories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-bring-text-alive-free-animation-for-vids/"><u>2024 Approved  Learn to Bring Text Alive  Free Animation for Vids</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-iphone-cams-with-these-hacks/"><u>2024 Approved  Master iPhone Cams with These Hacks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-psd-color-dynamics/"><u>2024 Approved  Master PSD Color Dynamics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mobile-mastery-best-apps-for-photo-enhancing-features/"><u>2024 Approved  Mobile Mastery  Best Apps for Photo-Enhancing Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-freebie-waters-of-final-cut-pro/"><u>2024 Approved  Navigating the Freebie Waters of Final Cut Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-through-gopro-and-time-lapse-synergy/"><u>2024 Approved  Navigating Through GoPro and Time-Lapse Synergy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimize-visual-design-top-10-must-have-type-plugins-for-ae/"><u>2024 Approved  Optimize Visual Design  Top 10 Must-Have Type Plugins for AE</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quirky-quirks-your-simple-steps-for-memelore-mastery/"><u>2024 Approved  Quirky Quirks  Your Simple Steps for Memelore Mastery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sketchgiggle-generate-chuckles/"><u>2024 Approved  SketchGiggle  Generate Chuckles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-on-snapchat-a-users-handbook-for-highlights/"><u>2024 Approved  Spotlight on Snapchat  A User's Handbook for Highlights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-15-pro-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 15 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dynamic-subscriber-buttons-for-video-creators-filmora-edition/"><u>Dynamic Subscriber Buttons for Video Creators - Filmora Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify some outdated your hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-kickstart-your-video-enhancement-game-with-snapchat/"><u>In 2024, Kickstart Your Video Enhancement Game with Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-liberating-your-media-experience-free-movplay-software/"><u>In 2024, Liberating Your Media Experience  Free MOV/PLAY Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715860142549-in-2024-master-the-art-of-organizing-group-conversations-on-skype-irrespective-of-your-systems-os/"><u>In 2024, Master the Art of Organizing Group Conversations on Skype, Irrespective of Your System's OS.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mirth-manual-best-free-meme-kits-alive/"><u>In 2024, Mirth Manual  Best Free Meme Kits Alive</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-sierra-icloud-for-seamless-access/"><u>In 2024, Navigating Sierra iCloud for Seamless Access</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-virtual-realm-key-strategies-for-shooting-360-video-top-9-rules/"><u>In 2024, Navigating the Virtual Realm  Key Strategies for Shooting 360° Video (Top 9 Rules)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimize-your-streaming-game-incorporating-chroma-key-effects-with-ease/"><u>In 2024, Optimize Your Streaming Game  Incorporating Chroma Key Effects with Ease</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-puzzle-paradise-10-amazing-e-commerce-sites-for-box-enigmas/"><u>In 2024, Puzzle Paradise  10 Amazing E-Commerce Sites for Box Enigmas</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ranking-premium-photo-and-video-shows-x-ios14/"><u>In 2024, Ranking Premium Photo & Video Shows (X-IOS14)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sony-a6400-why-is-my-video-playback-failed/"><u>In 2024, Sony A6400  Why Is My Video Playback Failed?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-nokia-c12-plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Nokia C12 Plus Location | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/irreversible-integration-of-tiktok-profile-linking-technique-for-2024/"><u>Irreversible Integration of TikTok Profile Linking Technique for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-class-selecting-the-top-10-4k-shoulder-rigs-for-2024/"><u>Master Class  Selecting the Top 10 4K Shoulder Rigs for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proven-marketing-spells-20-must-use-terms-for-2024/"><u>Proven Marketing Spells  20 Must-Use Terms for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/razers-hd-webcam-thorough-review-guide/"><u>Razer's HD Webcam  Thorough Review Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reveal-your-future-design-with-our-selection-of-top-9-websites-for-type-innovation-for-2024/"><u>Reveal Your Future Design with Our Selection of Top 9 Websites for Type Innovation for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Recap  How to Locate YouTube Comments Post-Upload\""
-date: 2024-05-31T06:08:21.836Z
-updated: 2024-06-01T06:08:21.836Z
+date: 2024-07-30T02:27:15.292Z
+updated: 2024-07-31T02:27:15.292Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Quick Recap: How to Locate YouTube Comments Post-Upload\""
 excerpt: "\"This Article Describes 2024 Approved: Quick Recap: How to Locate YouTube Comments Post-Upload\""
 keywords: "\"Find YouTube Comments Post-Upload,YouTube Comment Location Guide,Post-Upload YouTube Comment Access,Accessing Comments After Upload (YouTube),YouTube Comments Post-Upload Search,Guide to Locate Uploaded Comments,Navigate YouTube Comments Post-Upload\""
-thumbnail: https://www.lifewire.com/thmb/leXxUGfl7MKQ8Ib1MmS0JR6na00=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-108757759-5c912404c9e77c00010e9762.jpg
+thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878b6869f4909ce7c65740d3ae.jpg
 ---
 
 ## Quick Recap: How to Locate YouTube Comments Post-Upload
@@ -22,6 +22,9 @@ All social media has a comment section where in those who watch or follow you ar
 
 If you are a content creator who makes product reviews, the comment section is also one that will help the brand. Most brands want to have a voice on matters that affect them. The most powerful way to do that on YouTube is to make amazing videos on topics dear to your heart. But you don't want people to think of you as merely a broadcaster. Social media requires that you be social and make intelligent comments on your videos and those of others, showing that you are trying, and engaging with your audience.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![how to view comments on youtube](https://images.wondershare.com/filmora/article-images/2022/11/how-to-view-comments-on-youtube.jpg)
 
 Unfortunately, when it comes to comment, YouTube can be a little clunky and time consuming especially as your channel grows and you have more comments to respond to.
@@ -54,6 +57,9 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 
 Step1 Below the video itself, find the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
@@ -72,6 +78,9 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
@@ -88,6 +97,9 @@ Step5 To edit your comment, click on the “vertical ellipsis” (three vertical
 
 Step6 Make the necessary edits and choose “Save”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -96,6 +108,9 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -112,6 +127,10 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 ## Conclusion
@@ -148,3 +167,46 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-react-when-youre-your-own-reflection-in-a-video-call/"><u>[New] 2024 Approved  How to React When You're Your Own Reflection in a Video Call</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-yourselfie-instagrams-verification-essentials/"><u>[New] 2024 Approved  Mastering Yourselfie  Instagram's Verification Essentials</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-insiders-guide-to-the-best-6-harnesses-for-capturing-life-with-gopro/"><u>[New] Insider's Guide to the Best 6 Harnesses for Capturing Life with GOPRO</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-google-photos-full-potential/"><u>[New] Leveraging Google Photos' Full Potential</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-metaverse-designs-your-quick-start-for-avatars/"><u>[New] Mastering Metaverse Designs  Your Quick-Start for Avatars</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-melodic-matrices-crafting-top-tracks-to-initiate-your-podcasts/"><u>[New] Melodic Matrices  Crafting Top Tracks to Initiate Your Podcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-musical-virtuoso-sessions/"><u>[New] Prime Musical Virtuoso Sessions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-and-quirky-make-memes-with-kapwing-app/"><u>[New] Quick & Quirky  Make Memes with Kapwing App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-single-tasking-with-background-elimination/"><u>[New] Single-Tasking with Background Elimination</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-libre-meditation-harmonies/"><u>[Updated] Libre Meditation Harmonies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-photo-color-alteration-a-professionals-guide/"><u>[Updated] Mastering Photo Color Alteration  A Professional's Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-social-media-connections-instagram-and-tiktok/"><u>[Updated] Mastering Social Media Connections  Instagram & TikTok</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-real-time-proportion-alteration-tool/"><u>[Updated] Real-Time Proportion Alteration Tool</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-scouting-the-superior-18-video-recorders-for-seamless-streams/"><u>[Updated] Scouting the Superior 18 Video Recorders for Seamless Streams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-srt-to-xmlssattml-mastery-guide/"><u>[Updated] Step-by-Step  SRT to XML/SSA/TTML Mastery Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-key-to-earning-on-youtube-in-depth-ad-revenue-guidebook/"><u>[Updated] The Key to Earning on YouTube  In-Depth Ad Revenue Guidebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-sd-card-selections-for-optimal-gopro-hero-78-performance/"><u>2024 Approved  Prime SD Card Selections for Optimal GoPro Hero 7/8 Performance</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pro-level-perfection-iphone-xs-photographic-breakthroughs/"><u>2024 Approved  Pro-Level Perfection  IPhone X's Photographic Breakthroughs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-radial-blur-made-easy-pro-techniques-in-adobe-ps/"><u>2024 Approved  Radial Blur Made Easy  Pro Techniques in Adobe PS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-creativity-on-the-go-androidios-montages-top-8/"><u>2024 Approved  Seamless Creativity on the Go  Android/iOS Montages Top 8</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-the-best-hdr-cameras-simplified/"><u>2024 Approved  Selecting the Best HDR Cameras Simplified</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/error-code-0x80242016-stopping-windows-updates/"><u>Error Code 0X80242016 Stopping Windows Updates</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-11x-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme 11X 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bigger-photos-equal-quality-output/"><u>In 2024, Bigger Photos, Equal Quality Output</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-focusfulness-selecting-online-video-augmenters/"><u>In 2024, Focusfulness  Selecting Online Video Augmenters</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-the-headset-comprehensive-vr-gear-analysis/"><u>In 2024, Inside the Headset  Comprehensive VR Gear Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-the-innovative-world-of-intova-x/"><u>In 2024, Inside the Innovative World of Intova X</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-picart-secrets-to-pristine-picture-perfection/"><u>In 2024, PicArt Secrets to Pristine Picture Perfection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rethink-your-feed-6-innovative-video-platforms-on-mobile-devices/"><u>In 2024, Rethink Your Feed  6 Innovative Video Platforms on Mobile Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snappy-picture-assemblies-a-brisk-guide-to-google-collages/"><u>In 2024, Snappy Picture Assemblies  A Brisk Guide to Google Collages</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sonys-blu-ray-revolution-s6700-updates/"><u>In 2024, Sony's Blu-Ray Revolution  S6700 Updates</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-storytelling-with-epic-videos-for-2024/"><u>Instagram Storytelling with Epic Videos for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-vr-headset-picks-for-uavs-for-2024/"><u>Premium VR Headset Picks for UAVs for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/ranked-slideshow-creation-software-on-latest-iphones-for-2024/"><u>Ranked Slideshow Creation Software on Latest iPhones for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-xs-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone XS Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sketch-up-your-ideas-an-essential-guide-to-the-top-8-drawing-tools-on-ios-for-2024/"><u>Sketch Up Your Ideas  An Essential Guide to the Top 8 Drawing Tools on iOS for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-listings-for-3d-type-creation/"><u>Ultimate Listings for 3D Type Creation</u></a></li>
+</ul></div>

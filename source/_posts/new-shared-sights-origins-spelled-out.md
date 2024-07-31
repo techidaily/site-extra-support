@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shared Sights  Origins Spelled Out\""
-date: 2024-05-31T06:09:54.887Z
-updated: 2024-06-01T06:09:54.887Z
+date: 2024-07-30T04:04:36.889Z
+updated: 2024-07-31T04:04:36.889Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Shared Sights: Origins Spelled Out\""
 excerpt: "\"This Article Describes [New] Shared Sights: Origins Spelled Out\""
 keywords: "\"Shared Views Origin,Spelled Origins,Origins Insight,Eye-Spelling Starts,Origins Unveiled,Sights & Origins Mix,Origin Meaning Spelled\""
-thumbnail: https://www.lifewire.com/thmb/FSEnoGCMAP0T58dNwB2d4-upLhA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-688982955-596fff12519de200112ef724.jpg
+thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1e91d61e1ddb527be75674b2.jpg
 ---
 
 ## Shared Sights: Origins Spelled Out
@@ -22,6 +22,9 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
@@ -39,6 +42,9 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 
 According to Andras, Hide the Pain Harold results from his vacation in Turkey. A professional photographer contacted him to do stock image modeling. During the shoot, the photographer kept telling him to smile, resulting in some photos of Andras appearing to force a smile. This expression led to netizens using his image to express situations where the forced smile is masking your true feelings.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
@@ -47,6 +53,18 @@ Currently, Hide the Pain Harold has over 300,000 followers across all platforms.
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
@@ -68,6 +86,9 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
@@ -90,12 +111,23 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Part4: Bonjour Bear
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![bonjour bear](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-11.jpg)
 
 Unlike the previous stock image memes, Bonjour Bear was not an instant hit among netizens. The stock image was posted online in 2016 by Uryadnikov Sergey and featured a polar bear peeking through its winter den. However, it began causing a buzz in early 2019, following a Reddit post that included hilarious captions.
@@ -113,6 +145,9 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part5: FAQs
 
 ### 1\. Can you use stock photos for memes?
@@ -121,10 +156,16 @@ Yes, you can use stock photos for memes. However, you need to obtain them from r
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Can you use watermarked stock photos to create memes?
 
 No. Before using watermarked images to create memes, you must get verifiable permission from the rights holder. This is because it violates copyright law and can result in heavy fines or even prison time in extreme circumstances.
@@ -159,3 +200,43 @@ Therefore, always perform stock image reverse searches to verify the image permi
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unbeatable-6-apps-for-crafting-perfect-reels-on-instagram/"><u>[New] In 2024, Unbeatable 6 Apps for Crafting Perfect Reels on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-iphone-strategies-preserving-and-enjoying-gifs-at-their-best/"><u>[New] IPhone Strategies  Preserving & Enjoying GIFs at Their Best</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-leverage-vimeo-for-wider-viewership/"><u>[New] Leverage Vimeo for Wider Viewership</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pioneers-of-possibilities-the-leading-6-in-artistic-realms/"><u>[New] Pioneers of Possibilities  The Leading 6 in Artistic Realms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-role-of-b-roll-in-polishing-video-projects/"><u>[New] The Role of B-Roll in Polishing Video Projects</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-your-photo-grids-on-ig-with-these-premium-tools-for-2024/"><u>[Updated] Elevate Your Photo Grids on IG with These Premium Tools for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-a-step-by-step-approach-to-choosing-superior-fpv-drone-propellers/"><u>[Updated] In 2024, A Step-by-Step Approach to Choosing Superior FPV Drone Propellers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-interactive-media-meets-brand-partnerships-on-youtube/"><u>[Updated] Interactive Media Meets Brand Partnerships on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-minimizing-vr-nausea-effective-strategies/"><u>[Updated] Minimizing VR Nausea  Effective Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-basics-of-windows-10-effortlessly/"><u>2024 Approved  Master the Basics of Windows 10 Effortlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-tempo-a-guide-to-instagram-story-adjustments/"><u>2024 Approved  Mastering Tempo  A Guide to Instagram Story Adjustments</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-opening-orchestra-the-ultimate-list-of-harmonious-hubs-for-auditory-appetizers/"><u>2024 Approved  Opening Orchestra  The Ultimate List of Harmonious Hubs for Auditory Appetizers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-energy-kits-for-gopro-hero5-genuine-and-third-party-brands/"><u>2024 Approved  Optimal Energy Kits for GoPro Hero5 – Genuine and Third-Party Brands</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-instruction-manual-for-wm6/"><u>2024 Approved  Perfect Instruction Manual for WM6</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-sound-design-for-canva-video-templates/"><u>2024 Approved  Perfecting Sound Design for Canva Video Templates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-vr-devices-the-essential-list/"><u>2024 Approved  Pinnacle VR Devices  The Essential List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pixel-perfect-video-modifier/"><u>2024 Approved  Pixel-Perfect Video Modifier</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pushing-boundaries-a-roundup-of-the-best-nft-generators-available/"><u>2024 Approved  Pushing Boundaries  A Roundup of the Best NFT Generators Available</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-6-tools-to-convert-visual-text-into-different-languages/"><u>Elite 6 Tools to Convert Visual Text Into Different Languages</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-iphone-8-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect iPhone 8 and iPad</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-learn-the-art-of-saving-and-logging-periscope-content/"><u>In 2024, Learn the Art of Saving & Logging Periscope Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-tiktok-engagement-in-unboxing-videos/"><u>In 2024, Maximizing TikTok Engagement in Unboxing Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-film-quality-the-seven-top-cameras-for-action/"><u>In 2024, Pro Film Quality  The Seven Top Cameras for Action</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices/"><u>In 2024, Sky's Limit for Your Visual Stories  Unlimited Free Options and Premium Choices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-steps-to-decline-autoplayed-and-suggested-podcasts-on-spotify/"><u>In 2024, Steps to Decline Autoplayed and Suggested Podcasts on Spotify</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-metaverse-and-omniverse-a-detailed-breakdown/"><u>In 2024, The Metaverse & Omniverse  A Detailed Breakdown</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oppo-a78-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Oppo A78 5G Phone Network-Ready</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximizing-engagement-sharing-images-on-youtube-for-2024/"><u>Maximizing Engagement  Sharing Images on YouTube for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/path-to-professionalism-morphvox-transformation-guide-for-2024/"><u>Path to Professionalism  MorphVOX Transformation Guide for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-vivo-y100i-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Vivo Y100i</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-infinix-hot-30i-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Infinix Hot 30i</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-resources-for-text-style-adjustment-files-for-2024/"><u>Prime Resources for Text Style Adjustment Files for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-network-reevaluates-presidents-access/"><u>Social Network Reevaluates President's Access</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tech-gear-review-vr-treadmills-showdown-for-2024/"><u>Tech Gear Review  VR Treadmills Showdown for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-youtubthumbnail-guide-for-mac-users/"><u>The Ultimate YoutubThumbnail Guide for Mac Users</u></a></li>
+</ul></div>

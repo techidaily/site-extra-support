@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sony's Shutterbug  Fixing the No-Video Fiasco\""
-date: 2024-05-31T06:08:22.528Z
-updated: 2024-06-01T06:08:22.528Z
+date: 2024-07-30T02:28:00.307Z
+updated: 2024-07-31T02:28:00.307Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Sony's Shutterbug: Fixing the No-Video Fiasco\""
 excerpt: "\"This Article Describes [Updated] Sony's Shutterbug: Fixing the No-Video Fiasco\""
 keywords: "\"Sony Video Issue,Sony PlayStation Repair,No-Video Troubleshoot,Shutterbug Tips,Sony Video Fix Guide,Game Console Video Errors,Sony Fiasco Resolution\""
-thumbnail: https://www.lifewire.com/thmb/xkgMG-bnpvmxZip_ipwSLUGjfqk=/1000x333/filters:no_upscale():max_bytes(150000):strip_icc()/HowTo_Streaming-b1314997a00a440b991ad46d81d56038.png
+thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446ee8e6c9838cd48c592632a7.png
 ---
 
 ## Sony's Shutterbug: Fixing the No-Video Fiasco
@@ -28,6 +28,10 @@ When this happens, do not panic. Most of the time, once you know the solution to
 
 **Reasons About Can’t I See Videos on Sony A6400**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-2.jpg)
 
 There are varying reasons why your videos might not appear on Sony A6400; below are some of the top reasons you might be facing this issue.
@@ -58,6 +62,9 @@ This is a common reason why you can’t see the videos on Sony A6400\. Sometimes
 * Right-click on the video, and choose ‘properties.’
 * Click the ‘tools’ category on the new Windows and select the ‘error checking’ feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-4.jpg)
 
 * The next step is automatically clicking the ‘check’ button to repair the camera’s SD card.
@@ -130,6 +137,9 @@ When this happens, do not panic. Most of the time, once you know the solution to
 
 **Reasons About Can’t I See Videos on Sony A6400**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-2.jpg)
 
 There are varying reasons why your videos might not appear on Sony A6400; below are some of the top reasons you might be facing this issue.
@@ -145,6 +155,9 @@ Now that you know the top reasons you can’t see videos on Sony A6400, you migh
 
 **Ensure the Video Format is Supported**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-3.jpg)
 
 Although this reason isn’t as popular as the rest, there are times when the Sony A6400 records videos in a format that’s not supported by your system. When this happens, it could be why you can’t see videos on Sony A6400\. Most of the video formats supported by Mac and Windows include AVI, MOV, FLV, MP4, etc.
@@ -208,14 +221,23 @@ Among the top-quality camcorders in the market, Sony is one of the leading optio
 * **Step 3:** This will promptly redirect you to the editor page; click on the ‘file’ tab and choose ‘import media file.’ You need to have copied the video to your PC before beginning the process. You can also select ‘import from a camcorder’ to import the video directly.
 * **Step 4:** Navigate to the folder where the video is and click on ‘open.’
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-6.jpg)
 
 * **Step 5:** Start to customize your Sony A6400 video as you prefer; you can split the video into smaller clips, edit the audio track or add a new one to the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-7.jpg)
 
 You can also include editing features like transitions, special video effects, etc. The various features available on Filmora allow you to enhance the value of your video file.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-8.jpg)
 
 * **Step 6:** Once you’re done editing the video, select the ‘export’ tab, allowing you to save your video to a new location. You can also change your video’s bit rate, resolution, and frame rate.
@@ -262,6 +284,9 @@ This is a common reason why you can’t see the videos on Sony A6400\. Sometimes
 * Right-click on the video, and choose ‘properties.’
 * Click the ‘tools’ category on the new Windows and select the ‘error checking’ feature.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-4.jpg)
 
 * The next step is automatically clicking the ‘check’ button to repair the camera’s SD card.
@@ -274,6 +299,9 @@ If the videos are hidden, you might not be able to see the videos when you conne
 * Open the SD Card storage and try to locate the videos if they’re still not visible.
 * Navigate to the view section from the navigation bar, and from the show/hide option, click the ‘view hidden items’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-5.jpg)
 
 * This would make all hidden videos show up, and you can open any of the videos you want.
@@ -318,10 +346,16 @@ Among the top-quality camcorders in the market, Sony is one of the leading optio
 
 You can also include editing features like transitions, special video effects, etc. The various features available on Filmora allow you to enhance the value of your video file.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-8.jpg)
 
 * **Step 6:** Once you’re done editing the video, select the ‘export’ tab, allowing you to save your video to a new location. You can also change your video’s bit rate, resolution, and frame rate.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-9.jpg)
 
 **Final Thoughts**
@@ -349,6 +383,10 @@ Now that you know the top reasons you can’t see videos on Sony A6400, you migh
 
 **Ensure the Video Format is Supported**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-3.jpg)
 
 Although this reason isn’t as popular as the rest, there are times when the Sony A6400 records videos in a format that’s not supported by your system. When this happens, it could be why you can’t see videos on Sony A6400\. Most of the video formats supported by Mac and Windows include AVI, MOV, FLV, MP4, etc.
@@ -376,6 +414,9 @@ If the videos are hidden, you might not be able to see the videos when you conne
 * Open the SD Card storage and try to locate the videos if they’re still not visible.
 * Navigate to the view section from the navigation bar, and from the show/hide option, click the ‘view hidden items’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-5.jpg)
 
 * This would make all hidden videos show up, and you can open any of the videos you want.
@@ -412,10 +453,16 @@ Among the top-quality camcorders in the market, Sony is one of the leading optio
 * **Step 3:** This will promptly redirect you to the editor page; click on the ‘file’ tab and choose ‘import media file.’ You need to have copied the video to your PC before beginning the process. You can also select ‘import from a camcorder’ to import the video directly.
 * **Step 4:** Navigate to the folder where the video is and click on ‘open.’
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-6.jpg)
 
 * **Step 5:** Start to customize your Sony A6400 video as you prefer; you can split the video into smaller clips, edit the audio track or add a new one to the video.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![cannot-see-video-sony-a6400-](https://images.wondershare.com/filmora/article-images/2022/05/cannot-see-video-sony-a6400-7.jpg)
 
 You can also include editing features like transitions, special video effects, etc. The various features available on Filmora allow you to enhance the value of your video file.
@@ -452,3 +499,42 @@ Knowing why you can’t see videos on Sony A6400 is essential because it allows 
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-designing-your-perfect-tiktok-outro/"><u>[New] In 2024, Designing Your Perfect TikTok Outro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discovering-the-timeline-for-youtube-earnings/"><u>[New] In 2024, Discovering the Timeline for YouTube Earnings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-canva-10-best-practices-unveiled/"><u>[New] Mastering Canva  10 Best Practices Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-using-telegram-online/"><u>[New] Mastering the Art of Using Telegram Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-redefining-visual-standards-hdr-vs-standard-sdr/"><u>[New] Redefining Visual Standards  HDR Vs. Standard SDR</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pc-playback-protocol-for-consoles-an-instructive-path-for-2024/"><u>[Updated] PC Playback Protocol for Consoles  An Instructive Path for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pinnacle-lineup-of-flexible-fonts/"><u>[Updated] Pinnacle Lineup of Flexible Fonts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-precision-shade-modifier/"><u>[Updated] Precision Shade Modifier</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rhythms-of-romance-most-beloved-ballads-for-engagement/"><u>[Updated] Rhythms of Romance  Most Beloved Ballads for Engagement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/10-instagram-video-editing-app-marketers-must-know-for-2024/"><u>10 Instagram Video Editing App Marketers Must Know for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-image-uploads-on-instagram/"><u>2024 Approved  Mastering Image Uploads on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-nuances-of-video-sound-design/"><u>2024 Approved  Mastering the Nuances of Video Sound Design</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigate-to-the-best-10-sites-for-vector-image-download/"><u>2024 Approved  Navigate to the Best 10 Sites for Vector Image Download</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-score-free-adventures-tiktoks-hidden-background-gemstones/"><u>2024 Approved  Score-Free Adventures  TikTok's Hidden Background Gemstones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-edits-start-on-all-your-tech/"><u>2024 Approved  Seamless Edits Start on All Your Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-offline-and-unreachable-servers/"><u>Addressing Steam Offline and Unreachable Servers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/boosting-online-presence-top-30-freefire-hashtags-and-tag-strategies/"><u>Boosting Online Presence  Top 30 FreeFire Hashtags and Tag Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-the-too-many-different-cell-formats-error-in-excel-2010-stellar-by-stellar-guide/"><u>Fix the Too many different cell formats Error in Excel 2010? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-huawei-nova-y71-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Huawei Nova Y71?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-is-minimizing-unstable-movement-in-photoshop-beneficial/"><u>In 2024, Is Minimizing Unstable Movement in Photoshop Beneficial?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lg-smart-cam-2023-in-depth-analysis-and-updates/"><u>In 2024, LG Smart Cam 2023  In-Depth Analysis & Updates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-make-your-mark-personalized-brands-zero-price-tag/"><u>In 2024, Make Your Mark - Personalized Brands, Zero Price Tag</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-melodic-mastery-add-songs-to-video-seamlessly-on-windows-11-pcs/"><u>In 2024, Melodic Mastery  Add Songs to Video Seamlessly on Windows 11 PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-streaming-services-ranked-a-comparison-analysis/"><u>In 2024, Prime Streaming Services Ranked  A Comparison Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pushing-the-envelope-in-display-technology-detailed-examination-of-benq-bl2711u/"><u>In 2024, Pushing the Envelope in Display Technology  Detailed Examination of BenQ BL2711U</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-clicks-big-smiles-crafting-memes-easily/"><u>In 2024, Quick Clicks, Big Smiles  Crafting Memes Easily</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rectifying-gopro-video-warping-a-step-by-step-guide/"><u>In 2024, Rectifying GoPro Video Warping  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-choosing-the-ultimate-free-online-srt-translators/"><u>In 2024, Secrets to Choosing the Ultimate Free Online SRT Translators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-shoot-the-worlds-hustle-and-bustle-iphone-tips-for-shutter-speed-blurs/"><u>In 2024, Shoot the World's Hustle and Bustle  IPhone Tips for Shutter Speed Blurs</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-nvidias-geforce-cloud-a-gaming-revolutionary/"><u>Is Nvidia’s GeForce Cloud a Gaming Revolutionary?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-reversed-color-photography-for-2024/"><u>Mastering the Art of Reversed Color Photography for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-virtual-lecture-identifier-for-2024/"><u>Pinnacle Virtual Lecture Identifier for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-guide-to-capturing-timelapses-with-gopro-hero5/"><u>Quick Guide to Capturing Timelapses with GoPro Hero5</u></a></li>
+<li><a href="https://extra-support.techidaily.com/racing-cameras-face-off-is-gopro-the-ultimate-champion-in-2024/"><u>Racing Cameras Face Off  Is GoPro the Ultimate Champion, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-guide-to-open-and-tweak-your-srt-on-mac-for-2024/"><u>Step-by-Step Guide to Open and Tweak Your SRT on Mac for 2024</u></a></li>
+</ul></div>

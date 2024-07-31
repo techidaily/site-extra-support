@@ -1,7 +1,7 @@
 ---
 title: "\"Starting Your Own Platform  A Guide to Critiquing Home Essentials for 2024\""
-date: 2024-05-31T06:10:44.750Z
-updated: 2024-06-01T06:10:44.750Z
+date: 2024-07-30T04:56:41.826Z
+updated: 2024-07-31T04:56:41.826Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Starting Your Own Platform: A Guide to Critiquing Home Essentials for 2024\""
 excerpt: "\"This Article Describes Starting Your Own Platform: A Guide to Critiquing Home Essentials for 2024\""
 keywords: "Critique Homemaking Tips,Essential Evaluation Guide,DIY Home Insight,Homestyle Review Basics,Home Improvement Analysis,Basic Home Assessment,Personal Essentials Appraisal"
-thumbnail: https://www.lifewire.com/thmb/xoj9YPxPAH01wV7Yk9lbephb9tY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/eae25c8cb1f012b237b4735a8d726d09f7b30b165b0175087b89427fe82c8e76.jpg
 ---
 
 ## Starting Your Own Platform: A Guide to Critiquing Home Essentials
@@ -42,14 +42,23 @@ When creating a YouTube channel, you need to make sure that you have all the equ
 
 **Products:** Products that you will make a review, the one that you think you can stand until the end. Like for example you can change the brand of the products but you should stick to that type of product, like if you want to talk about Tech then you will do all reviews about Tech, if it's about skin care product then all the reviews should also be done about skin care.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![things to prepare product review video](https://images.wondershare.com/filmora/article-images/2022/09/things-to-prepare-product-review-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Things to consider to start Product Review Channel
 
 ### **Create a YouTube Channel**
 
 Before you do a product review, you need to create a YouTube channel where you can post the product review videos you made. There you can get paid for the videos you made thru Google Adsense when your channel is Monetized. But if you're just starting out, don't think that you'll make money right away, because it's not that easy. Before you can earn on YouTube you must first pass the requirements that YouTube asks for you to become a partner, it is to have 1,000 Subscriber and 4,000 watch hours.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![select right product to review](https://images.wondershare.com/filmora/article-images/2022/09/select-right-product-to-review.jpg)
 
 However, it's important to note that even from there, YouTube will still evaluate your channel for other strict criteria to make sure it is complying with all their policies and best practices outside of watch time and watch hours minimums.
@@ -70,6 +79,9 @@ When you have a lot of product review video on you channel, other Brands will ap
 
 I recommend sticking with the same kind of products and specialize so that the viewers will familiar that you are the one doing that kind of review. They know immediately whose channel they should search of they ever need your review.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Script about the Products**
 
 Here is some basic information on how you make a quality script
@@ -93,6 +105,9 @@ Editing is important if you want to look good. People don't like to watch long b
 
 Also stick to clean edits, this will give your video a professional look and encourage viewers to watch from the beginning till the end.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit product review video filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-product-review-video-filmora.jpg)
 
 ### **Promote the Video**
@@ -119,8 +134,14 @@ Even though the company want influencers to be fair and honest, they also expect
 
 Also stick to clean edits, this will give your video a professional look and encourage viewers to watch from the beginning till the end.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![edit product review video filmora](https://images.wondershare.com/filmora/article-images/2022/09/edit-product-review-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### **Promote the Video**
 
 There are a lot of powerful benefits on how you should not forget to promote your video creation.
@@ -131,8 +152,14 @@ Social media advertising is about more than promoting your products or services.
 
 Just remember create content that is both engaging and relevant to your audience and people will naturally remember your channel, re share your content and recommend you to their followers, friends, and family. By making sure your channel is creating shareable paid content, you will be able to drive more traffic to your website and improve conversions.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![prompt product review video](https://images.wondershare.com/filmora/article-images/2022/09/prompt-product-review-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Even though the company want influencers to be fair and honest, they also expect a relatively positive review since they're paying the influencers for their time. Many viewers on necessarily don't care if a video is sponsored or not, they mainly want creator to give a useful opinion. The most important part of those process is to be patient. Expect it to take a months before get notice of people, getting subscriber is complicated and you feel like giving up, but the more reviews you have, the better. Thus, in the beginning you won't make anything until you put in the work, but you can see how you can go from 0 subscribers or views to 1000 once you build up a nice content, all from your single YouTube channel. Remember that give your best in every video you make because one day your hard work will pay off. Best of Luck!
@@ -163,3 +190,49 @@ Even though the company want influencers to be fair and honest, they also expect
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-android-and-ios-prime-asmr-software-options/"><u>[New] 2024 Approved  Android & iOS  Prime ASMR Software Options</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-keep-your-videos-trending-on-youtube-by-sustaining-creative-commitments/"><u>[New] 2024 Approved  Keep Your Videos Trending on YouTube by Sustaining Creative Commitments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-earning-by-critiquing-goodies-a-youtube-guide/"><u>[New] In 2024, Earning by Critiquing Goodies  A YouTube Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-meet-the-system-and-hardware-needs-of-big-sur-os/"><u>[New] Meet the System & Hardware Needs of Big Sur OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-proiphone-close-up-techniques-unlocking-creative-vision/"><u>[New] Proiphone Close-Up Techniques  Unlocking Creative Vision</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reinstate-crystal-clear-zoom-sound/"><u>[New] Reinstate Crystal-Clear Zoom Sound</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-scaling-down-macos-from-sierra-to-el-capitan-os/"><u>[New] Scaling Down MacOS  From Sierra To El Capitan OS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mov-file-management-made-simple-on-windows-10/"><u>[Updated] 2024 Approved  .mov File Management Made Simple on Windows 10</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-beat-drops-in-seconds-a-beginners-guide-to-music-videos/"><u>[Updated] 2024 Approved  Beat Drops in Seconds  A Beginner’s Guide to Music Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-transformation-of-user-interaction-understanding-the-update/"><u>[Updated] In 2024, The Transformation of User Interaction  Understanding the Update</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-innovative-vr-experiences-from-elite-designers/"><u>[Updated] Innovative VR Experiences From Elite Designers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lullabies-of-relaxation-prime-asmr-talents/"><u>[Updated] Lullabies of Relaxation  Prime ASMR Talents</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigate-to-these-10-online-havens-showcasing-striking-3d-texts/"><u>[Updated] Navigate to These 10 Online Havens Showcasing Striking 3D Texts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-skys-eye-insights-overview/"><u>[Updated] Sky's Eye Insights  Overview</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sound-sculpting-crafting-harmony-in-audiovox-studio/"><u>[Updated] Sound Sculpting  Crafting Harmony in Audiovox Studio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spinning-stories-across-a-whole-cone/"><u>[Updated] Spinning Stories Across a Whole Cone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-method-for-selecting-tiktok-screenshots/"><u>[Updated] Step-by-Step Method for Selecting TikTok Screenshots</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-creators-guide-turn-viewers-into-paychecks/"><u>[Updated] The Creator’s Guide  Turn Viewers Into Paychecks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-laughlens-pictorial-humor-studio/"><u>2024 Approved  LaughLens  Pictorial Humor Studio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-editing-pros-in-dev-device-content/"><u>2024 Approved  Leading Editing Pros in Dev Device Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-iphone-video-editing-for-quick-clear-trims/"><u>2024 Approved  Master iPhone Video Editing for Quick, Clear Trims</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-mastering-fades-in-adobe-audition-basics/"><u>2024 Approved  Mastering Fades in Adobe Audition Basics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-iphone-photo-albums-seamless-integration-with-icloud/"><u>2024 Approved  Perfecting iPhone Photo Albums  Seamless Integration with iCloud</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rethinking-wirecast-choices/"><u>2024 Approved  Rethinking WireCast Choices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-14-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 14 Plus Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-6s-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-xs-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone XS and iPad Without Apple ID | Stellar</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-excellent-windows-compatible-video-recorders/"><u>In 2024, Excellent Windows-Compatible Video Recorders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-applying-apple-music-to-your-videos/"><u>In 2024, Expert Tips for Applying Apple Music to Your Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-the-innovations-of-vegaspro-19/"><u>In 2024, Inside the Innovations of VegasPro '19</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-learning-the-ropes-of-telegram-promotion-for-beginners/"><u>In 2024, Learning the Ropes of Telegram Promotion for Beginners</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leveraging-live-streaming-for-maximum-impact-on-youtube-with-limited-subscribers/"><u>In 2024, Leveraging Live Streaming for Maximum Impact on YouTube with Limited Subscribers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-video-editing-does-m1-macbook-air-hold-up/"><u>In 2024, Professional Video Editing  Does M1 MacBook Air Hold Up?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-leap-forward-oxford-mondly-essential-words-guide/"><u>Language Leap Forward: Oxford-Mondly Essential Words Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigate-to-new-horizinas-top-win11-gaming-delights-for-2024/"><u>Navigate to New Horizinas  Top Win11 Gaming Delights for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-4k-displays-top-ten-elite-selections-for-2024/"><u>Premium 4K Displays  Top Ten Elite Selections for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-matchmakers-15-perfect-gear-compatible-with-gopro-for-2024/"><u>Premium Matchmakers  15 Perfect Gear Compatible with GoPro for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/ready-for-victory-try-this-top-ranked-free-voice-alteration-software-now-for-2024/"><u>Ready for Victory? Try This Top-Ranked Free Voice Alteration Software Now for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snap-spectacularly-with-top-10-sticker-enhancing-phone-apps/"><u>Snap Spectacularly with Top 10 Sticker-Enhancing Phone Apps</u></a></li>
+</ul></div>

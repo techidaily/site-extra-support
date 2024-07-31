@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Affinity Photo's Features to Excise Borders Effectively"
-date: 2024-05-31T06:07:42.144Z
-updated: 2024-06-01T06:07:42.144Z
+date: 2024-07-30T01:46:12.493Z
+updated: 2024-07-31T01:46:12.494Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Navigating Affinity Photo's Features to Excise Borders Effectively"
 excerpt: "This Article Describes [New] Navigating Affinity Photo's Features to Excise Borders Effectively"
 keywords: "PhotoAnonEdit,HideFaceEditor,IDPhotoChange,CamouflagePicTools,IdentityShadeApps,PhotoShrouders,StealthImageEditor"
-thumbnail: https://www.lifewire.com/thmb/aRH6vOV_0jBflE3kV0tZyaKc5sA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/computergirl-5a4c08d45b6e24003798be4a.jpg
+thumbnail: https://thmb.techidaily.com/5e51a6387f9a892e242df734bd7d8aebcab09cf3323b4c96e24f50d5adccd843.jpg
 ---
 
 ## Navigating Affinity Photo's Features to Excise Borders Effectively
@@ -26,6 +26,9 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -34,14 +37,23 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -56,6 +68,10 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -119,6 +135,23 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -143,6 +176,9 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -175,3 +211,41 @@ Hopefully, this article and video can help you create ideal images!
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-free-non-intrusive-android-screen-recorders/"><u>[New] Best Free Non-Intrusive Android Screen Recorders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-expert-list-of-websites-ease-up-on-youtube-videos-and-templates-for-2024/"><u>[New] Expert List of Websites  Ease Up on Youtube Videos and Templates for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-zooms-full-spectrum-of-live-video-capabilities/"><u>[New] Leveraging Zoom's Full Spectrum of Live Video Capabilities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterpiece-makers-best-apps-of-2024-photos/"><u>[New] Masterpiece Makers  Best Apps of 2024 Photos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-customizing-facebook-memories-with-look-back-edits/"><u>[Updated] Customizing Facebook Memories with Look Back Edits</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-vibrant-visions-a-guide-through-the-top-5-color-tvs/"><u>[Updated] In 2024, Vibrant Visions  A Guide Through the Top 5 Color TVs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laughlens-creator/"><u>[Updated] LaughLens Creator</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-of-catchphrase-design/"><u>[Updated] Master of Catchphrase Design</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-desktop-and-mobile-incorporate-timestamps-on-youtube/"><u>[Updated] Mastering Desktop & Mobile  Incorporate Timestamps on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastery-in-radio-theatre-craftsm-written/"><u>[Updated] Mastery in Radio-Theatre Craftsm Written</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-max-360-vs-hero-11-gopro-cameras-face-off/"><u>[Updated] Max 360 Vs. Hero 11 - GoPro Cameras Face Off</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-next-era-cinema-vrs-role-in-entertainment/"><u>[Updated] Next Era Cinema  VR's Role in Entertainment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-cinematic-creations-your-ultimate-guide-to-at-home-filmmaking-hacks/"><u>[Updated] Quick Cinematic Creations  Your Ultimate Guide to At-Home Filmmaking Hacks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-speeding-up-periscope-live-broadcasting-tips/"><u>2024 Approved  Speeding Up Periscope Live Broadcasting Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stealthy-photo-editing-with-picsart/"><u>2024 Approved  Stealthy Photo Editing with Picsart</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-s17-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo S17 Pro Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-14-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi 14 Phone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-detailed-framework-elevating-your-mobile-screenshots-using-mobizen/"><u>In 2024, Detailed Framework  Elevating Your Mobile Screenshots Using Mobizen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-motivation-the-hottest-playlists-for-workouts/"><u>In 2024, Ignite Motivation  The Hottest Playlists for Workouts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-phantoms-time-reversal-feature/"><u>In 2024, Mastering Phantom's Time-Reversal Feature</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimizing-tiktok-content-via-zoom-tools/"><u>In 2024, Optimizing TikTok Content via Zoom Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pivoting-careers-from-novice-to-industry-veteran/"><u>In 2024, Pivoting Careers  From Novice to Industry Veteran</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixelperfect-tools-overview-series/"><u>In 2024, PixelPerfect Tools Overview Series</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionizing-movie-magic-with-the-4k-31mu97-b-from-lg/"><u>In 2024, Revolutionizing Movie Magic with the 4K 31MU97-B From LG</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-12-mini-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 12 mini Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/movavis-latest-video-edition-a-comprehensive-review-for-2024/"><u>Movavi’s Latest Video Edition  A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-methods-to-embed-audios-in-mkv-files-new-edition-update-guide/"><u>New In 2024, Methods to Embed Audios in MKV Files New Edition Update Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-your-podcast-secrets-for-compelling-opening-videos-for-2024/"><u>Perfect Your Podcast  Secrets for Compelling Opening Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/personalize-phone-chimes-a-whatsapp-tone-builders-manual-for-2024/"><u>Personalize Phone Chimes  A WhatsApp Tone Builder's Manual for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pricing-guide-to-film-a-bands-music-visual-for-2024/"><u>Pricing Guide to Film a Band's Music Visual for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-correction-quest-how-to-skillfully-edit-images-on-win10-for-2024/"><u>Quick Correction Quest  How to Skillfully Edit Images on WIN10 for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-list-of-top-5-pc-screen-grabbers-ranked-1-5-for-2024/"><u>The Ultimate List of Top 5 PC Screen Grabbers Ranked #1-#5 for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Realme 10T 5G | Dr.fone</u></a></li>
+</ul></div>

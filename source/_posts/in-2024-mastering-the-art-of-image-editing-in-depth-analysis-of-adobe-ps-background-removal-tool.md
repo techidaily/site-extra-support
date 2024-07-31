@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering the Art of Image Editing  In-Depth Analysis of Adobe PS Background Removal Tool\""
-date: 2024-05-31T06:10:35.327Z
-updated: 2024-06-01T06:10:35.327Z
+date: 2024-07-30T04:47:00.311Z
+updated: 2024-07-31T04:47:00.311Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,9 @@ To simplify things, we'll provide basic information about the eraser tools in Ph
 
 So, if you are ready to learn how to use the Background Eraser tool in Photoshop, let's dig in!
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Basic Information About Eraser Tools In Photoshop
 
 The **eraser tools in Photoshop** can be used to create transparent backgrounds or to remove unwanted background elements from an image. These tools work by sampling the color of the pixels in the image and then erasing pixels that match the sampled color.
@@ -44,6 +47,9 @@ The following are the similarities between the Background Eraser and Magic Erase
 
 **Destructive Tools:** Both the Background Eraser and Magic Eraser are destructive tools in nature. They delete the pixels you erase. Therefore, you cannot undo or redo your changes once you've used either of these tools. However, there are some non-native workarounds to restore your images.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Dissimilarities
 
 Here are some dissimilarities between the Background Eraser and Magic Eraser Tools:
@@ -58,6 +64,9 @@ Each tool's diversity in options significantly affects the final image's quality
 
 Before starting our tutorial on **how to use the Background Eraser tool in Photoshop,** let's first discuss the adjustment options enabled when selecting the tool and working with them. In this way, you can better understand the steps in the guidance.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Brush Preset Picker
 
 When you enable the Background Eraser tool in Photoshop, you will see that the cursor changes to a brush, indicating that this tool works like other **"Brush Tools."**
@@ -78,6 +87,9 @@ In the Background Eraser tool's **Options bar,** you will find the **"Sampling O
 
 **Background Swatch**: You may sometimes have difficulty positioning the crosshair tool precisely over the color you wish to erase. To prevent this, you can use the Background Swatch Option that helps you pick a color and will only erase the activated color from the BG.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Limits
 
 After you pick a color to erase, the Limits function identifies the location of the pixels that match that color, making it easier for you to erase them precisely.
@@ -92,6 +104,9 @@ The Limit function comes with three options:
 
 ![limits function in background eraser tool](https://images.wondershare.com/filmora/article-images/2023/03/limits-function-in-background-eraser-tool.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### 4\. Tolerance
 
 Located directly to the right of the Limits function, Tolerance is one of the most important options in Background Eraser, as it signifies how much a pixel's shade can vary from the sampled color for Photoshop to erase it.
@@ -106,22 +121,35 @@ If, however, the background color is fringing around the subject, use a higher T
 
 The Brush Angle option can help you adjust the angle of your crosshair to quickly erase the pixels in difficult-to-reach areas in your image's background. You can also hit the **"R"** key on your keyboard to rotate the canvas.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. Protect Foreground Color
 
 Sometimes, Photoshop erases parts of your subject while removing the background, no matter what Tolerance value you use. To avoid this, the Protected Foreground Color option in the Options bar can come in handy.
 
 This option allows you to choose a color from your subject as a foreground color, and Photoshop will stop erasing it while you drag the brush over the image to remove the background.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. Pen Pressure
 
 Pen Pressure is helpful if you use a drawing tablet instead of a mouse. With this option selected, the crosshair opacity will be regulated based on the pressure applied with your pen on the tablet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How To Use Background Eraser Tool To Erase An Image Background?
 
 The following steps will help you learn how to erase your image background using Photoshop's Background Eraser tool.
 
 Step1 In the first step, launch [**Adobe Photoshop**](https://www.adobe.com/products/photoshop.html) on your PC and import your image. Then, select the **Background Eraser Tool** in the Toolbar.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![using the background eraser tool in photoshop](https://images.wondershare.com/filmora/article-images/2023/03/using-the-background-eraser-tool-in-photoshop.png)
 
 Step2 Now, click and drag over the background area you want to erase. Photoshop will automatically select the area you want to erase as you drag.
@@ -136,6 +164,9 @@ However, if the pixels are positioned far apart from each other, you can set the
 
 Step4 If your image background and subject are of the same color and **Photoshop** it removing parts of your subject during the process, set the **Tolerance** to a **low value** by dragging its slider up or down or typing it in the box.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![setting the tolerance value in background eraser tool](https://images.wondershare.com/filmora/article-images/2023/03/setting-the-tolerance-value-in-background-eraser-tool.png)
 
 Step5 When removing pixels from a background, you can preserve specific pixel colors from being removed, which can be helpful if they are close to the area you want to erase.
@@ -168,12 +199,18 @@ Therefore, as long as we keep the crosshair within the pink area, Photoshop will
 
 However, if we accidentally erase the blue stripes, we can always go back by simply pressing the **"CTRL+Z"** in Windows and **"Command+Z"** in Mac. To undo multiple steps, hit the **"Ctrl+Alt+Z" (Windows)** or **Command+Option+Z" (Mac)** keys repeatedly.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Common FAQs When Using Background Esarser Tool in Photoshop
 
 ### 1\. Why Is Photoshop Eraser Tool Not Accessible?
 
 If your Photoshop Eraser Tool is not accessible, make sure you have no active selection and that you are working on the active layer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### 2\. I Am Unable To Locate The Background Eraser Tool In Photoshop. Where Is It?
 
 You can find the Background Eraser Tool in the **Toolbar** on the left-hand side of the screen. Right-click the **"Eraser"** tool and select **"Background Eraser"** from the menu.
@@ -198,6 +235,9 @@ Hopefully, you can use the tools in Phoshop with ease and remove images' backgro
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this comprehensive guide, we've discussed the basic information about the Eraser tool and the adjustment settings of the Background Eraser tool. We've also provided a step-by-step process for using **the Background Eraser Tool in Photoshop.**
@@ -228,3 +268,63 @@ Hopefully, you can use the tools in Phoshop with ease and remove images' backgro
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-extract-facebook-videos-for-mobile-and-desktop-easy/"><u>[New] In 2024, Extract Facebook Videos for Mobile & Desktop Easy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-laughing-alongside-the-metaverse-diy-humor-tips-and-tricks/"><u>[New] Laughing Alongside the Metaverse  DIY Humor Tips & Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-microsofts-hololens-journey-from-vision-to-reality/"><u>[New] Microsoft’s HoloLens Journey – From Vision to Reality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-world-of-live-periscope-streaming/"><u>[New] Navigating the World of Live Periscope Streaming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-nighttime-narratives-in-pixels/"><u>[New] Nighttime Narratives in Pixels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimal-quick-image-reader-for-pcs/"><u>[New] Optimal Quick Image Reader for PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-picture-puns-smilesketchers/"><u>[New] Picture Puns  SmileSketchers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-radiate-on-screen-quicker-ways-to-brighten-iphone-media/"><u>[New] Radiate on Screen  Quicker Ways to Brighten iPhone Media</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spectacular-photo-narrative-construction-suite/"><u>[New] Spectacular Photo Narrative Construction Suite</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-comprehensible-path-to-proficient-greenscreen-in-kinemaster/"><u>[New] The Comprehensible Path to Proficient Greenscreen in KineMaster</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-ultimate-guide-to-tiktok-income-predictors-for-2024/"><u>[New] The Ultimate Guide to TikTok Income Predictors for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-does-immediate-subscription-enhance-user-engagement-on-youtube/"><u>[Updated] 2024 Approved  Does Immediate Subscription Enhance User Engagement on Youtube?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-message-reactions-with-ease-discord/"><u>[Updated] 2024 Approved  Navigating Message Reactions with Ease (Discord)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-overview-the-spectrum-of-visual-recorders/"><u>[Updated] In 2024, Overview  The Spectrum of Visual Recorders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-picscanners-face-blurring-made-easy-for-everyone/"><u>[Updated] PicScanner's Face-Blurring Made Easy for Everyone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-tips-for-transforming-mundane-into-epic-with-gopro-timelapse/"><u>[Updated] Pro Tips for Transforming Mundane Into Epic with GoPro Timelapse</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reimagining-photography-toolwiz-photosapps-full-on-review/"><u>[Updated] Reimagining Photography  Toolwiz PhotosApp's Full-On Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reinstate-crystal-clear-zoom-sound/"><u>[Updated] Reinstate Crystal-Clear Zoom Sound</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-healthcare-marketing-via-social-networks/"><u>[Updated] Revolutionizing Healthcare Marketing via Social Networks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-selecting-ideal-fpv-propellers-a-comprehensive-guide/"><u>[Updated] Selecting Ideal FPV Propellers  A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2023-hack-alert-unlocking-your-fb-account-for-2024/"><u>2023 Hack Alert  Unlocking Your FB Account for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-a-compreranble-collection-of-game-logging-apps-transcending-fbx-limitations/"><u>2024 Approved  A Compreranble Collection of Game Logging Apps Transcending FBX Limitations</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-creativeslideshows-macos-sierra-edition/"><u>2024 Approved  CreativeSlideshows  MacOS Sierra Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-low-volume-settings-in-os-xwindows/"><u>2024 Approved  Mastering Low-Volume Settings in OS X/Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-budget-no-problem-here-are-the-best-vfx-pages/"><u>2024 Approved  No Budget? No Problem! Here Are the Best VFX Pages</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-downloaders-your-guide-to-superior-4k-content/"><u>2024 Approved  Optimal Downloaders  Your Guide to Superior 4K Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-apps-for-synching-pictures-and-beats/"><u>2024 Approved  Pioneering Apps For Synching Pictures & Beats</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-proiphone-close-up-techniques-unlocking-creative-vision/"><u>2024 Approved  Proiphone Close-Up Techniques  Unlocking Creative Vision</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-squeezing-light-from-iphone-nocturnes/"><u>2024 Approved  Squeezing Light From iPhone Nocturnes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-start-here-how-to-expedite-videos-in-snapchat-for-new-users/"><u>2024 Approved  Start Here  How to Expedite Videos in Snapchat for New Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-best-screen-capture-tools-for-creative-professionals/"><u>2024 Approved  The Best Screen Capture Tools for Creative Professionals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/a-simple-tutorial-starting-screen-recording-on-mac/"><u>A Simple Tutorial  Starting Screen Recording on Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-future-together-top-vr-gear-for-2024/"><u>Exploring the Future Together  Top VR Gear for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y200-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y200 Without Password | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-crafting-quality-content-for-youtube-success/"><u>In 2024, Crafting Quality Content for YouTube Success</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-sony-xperia-10-v-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Sony Xperia 10 V to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pioneering-metaverse-brand-presence/"><u>In 2024, Pioneering Metaverse Brand Presence</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-playflixapp-user-feedback-synopsis/"><u>In 2024, PlayFlixApp User Feedback Synopsis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quantum-hdr-phenomenon-in-digital-photography/"><u>In 2024, Quantum HDR Phenomenon in Digital Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-screencentral-exclusive-global-views-with-homeside-links/"><u>In 2024, ScreenCentral  Exclusive Global Views with Homeside Links</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-start-editing-with-ease-implementing-movie-maker-in-windows-11/"><u>In 2024, Start Editing with Ease  Implementing Movie Maker in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-the-complete-cheatsheet-to-make-a-collage/"><u>In 2024, The Complete Cheatsheet to Make a Collage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turn-out-clearer-snaps-ranking-the-most-effective-online-editors/"><u>In 2024, Turn Out Clearer Snaps  Ranking the Most Effective Online Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-simultaneous-iphone-shots-and-videos/"><u>In 2024, Unveiling the Secrets of Simultaneous iPhone Shots & Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphones-audio-advantages-for-podcast-lovers-for-2024/"><u>IPhone's Audio Advantages for Podcast Lovers for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphones-ultimate-video-capture-list-for-2024/"><u>IPhone's Ultimate Video Capture List for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/key-software-to-craft-impeccable-voices-for-virtual-stars-for-2024/"><u>Key Software to Craft Impeccable Voices for Virtual Stars for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-e-learning-titling-toolkit-for-2024/"><u>Leading E-Learning Titling Toolkit for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/luminance-hdr-analysis-worth-the-production-for-2024/"><u>Luminance HDR Analysis  Worth the Production for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/magix-vpx-the-ultimate-software-showdown-for-2024/"><u>Magix VPX  The Ultimate Software Showdown for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-ios-steps-for-acquiring-itunes-subscriptions-for-2024/"><u>Mastering iOS  Steps for Acquiring iTunes Subscriptions for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-video-playback-rate-adjustments-in-snapchat-for-2024/"><u>Mastering Video Playback Rate Adjustments in Snapchat for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/navigating-steam-with-your-switch-pro-device/"><u>Navigating Steam with Your Switch Pro Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/one-mans-quest-with-3d-tech-3dr-analysis-for-2024/"><u>One Man's Quest with 3D Tech  '3DR' Analysis for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/optimizing-real-time-instagram-video-playback-mobileonline/"><u>Optimizing Real-Time Instagram Video Playback (Mobile/Online)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-battle-of-broadcasting-is-xsplit-better-than-obs-for-livestreams-for-2024/"><u>The Battle of Broadcasting  Is XSplit Better Than OBS for Livestreams for 2024</u></a></li>
+</ul></div>

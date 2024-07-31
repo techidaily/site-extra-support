@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Phantom Grip  Advanced Camera Review\""
-date: 2024-05-31T06:11:50.750Z
-updated: 2024-06-01T06:11:50.750Z
+date: 2024-07-30T06:05:30.579Z
+updated: 2024-07-31T06:05:30.579Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes [New] Phantom Grip: Advanced Camera Review\""
 excerpt: "\"This Article Describes [New] Phantom Grip: Advanced Camera Review\""
 keywords: "\"Phantom Grip Guide,Pro Cams & Grips,Advanced Camera Tools,Optimal Video Stabilization,Professional CamGrip,High-Res Grip Tech,Ultimate Camera Accessories\""
-thumbnail: https://www.lifewire.com/thmb/h-DgWxrYcNgmRVWIwezpfkWPwfw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/EmirMemedovski-a14e9770dd044a20ba8c691f0ee1c000.jpg
+thumbnail: https://thmb.techidaily.com/cd3d2360a2d4ccd17e303566ba964ef54de4b2742b9a5d3bf951667fe61ff2f5.jpg
 ---
 
 ## Phantom Grip: Advanced Camera Review
 
 # Drift Innocations Ghost-S Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://www.lifewire.com/thmb/h-DgWxrYcNgmRVWIwezpfkWPwfw=/400x300/fi
 
  Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
@@ -125,6 +131,9 @@ Follow @Max Wales
 
  Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
@@ -204,6 +213,9 @@ Follow @Max Wales
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -220,10 +232,16 @@ Follow @Max Wales
 
  Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Complete Review for Drift Ghost-S
 
 #### **Specs table:**
@@ -297,6 +315,9 @@ Follow @Max Wales
 
  What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
@@ -319,6 +340,9 @@ Follow @Max Wales
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Complete Review for Drift Ghost-S
 
 #### **Specs table:**
@@ -424,3 +448,57 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-windows-10-top-new-apps-and-games-for-your-pc/"><u>[New] 2024 Approved  Windows 10  Top New Apps & Games for Your PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-epic-game-viewing-venues-the-top-nine-for-2024/"><u>[New] Epic Game Viewing Venues  The Top Nine for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-connoisseur-transform-your-sub4sub-experience-now-for-2024/"><u>[New] From Novice to Connoisseur  Transform Your Sub4sub Experience Now for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-14-creative-text-animation-cases/"><u>[New] Leading 14 Creative Text Animation Cases</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pushing-boundaries-a-roundup-of-the-best-nft-generators-available/"><u>[New] Pushing Boundaries  A Roundup of the Best NFT Generators Available</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-directory-top-10-sources-for-free-graphics/"><u>[Updated] In 2024, The Ultimate Directory  Top 10 Sources for Free Graphics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-is-aurora-hdr-setting-photography-trends/"><u>[Updated] Is Aurora HDR Setting Photography Trends?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lifelike-linkage-logistics-softwares-substance-over-hardwares-hustle/"><u>[Updated] Lifelike Linkage Logistics  Software's Substance over Hardware's Hustle</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-live-and-stream-like-a-pro-with-these-best-webcam-software-top-18/"><u>[Updated] Live and Stream Like a Pro with These Best Webcam Software (Top 18)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-graphic-design-careers-successfully/"><u>[Updated] Navigating Graphic Design Careers Successfully</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-video-guide-top-15-youtube-channels-for-ultimate-product-reviews/"><u>[Updated] Premium Video Guide  Top 15 YouTube Channels for Ultimate Product Reviews</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-screensaviors-guide-global-and-regional-channels-led-by-you/"><u>[Updated] ScreenSaviors Guide  Global and Regional Channels Led by You</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sculpting-images-a-beginners-guide-to-pics-distortion/"><u>[Updated] Sculpting Images  A Beginner's Guide to Pics Distortion</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-uniting-your-feeds-posting-videos-from-twitter-on-snapchat/"><u>[Updated] Uniting Your Feeds  Posting Videos From Twitter on Snapchat</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-beat-blast-innovative-audio/"><u>2024 Approved  Beat Blast  Innovative Audio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-integrated-video-workflows-on-ios/"><u>2024 Approved  Integrated Video Workflows on iOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-intensifying-interaction-with-enhanced-zoom-on-roblox/"><u>2024 Approved  Intensifying Interaction with Enhanced Zoom on Roblox</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-nuances-of-inshot-video-segments/"><u>2024 Approved  Navigating the Nuances of Inshot Video Segments</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimizing-video-quality-youtube-to-mpeg-conversion-strategies/"><u>2024 Approved  Optimizing Video Quality  YouTube to MPEG Conversion Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pairing-audio-with-visuals-web-forum/"><u>2024 Approved  Pairing Audio with Visuals Web Forum</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-podcasters-playlist-the-best-music-spots-to-open-your-ears/"><u>2024 Approved  Podcaster’s Playlist  The Best Music Spots to Open Your Ears</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pro-level-techniques-for-avi-to-gif-transition-via-filmora-tools-windowsmacos/"><u>2024 Approved  Pro-Level Techniques for AVI to GIF Transition via Filmora Tools (Windows/macOS)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-steps-to-access-high-rate-youtube-likes/"><u>2024 Approved  Quick Steps to Access High-Rate YouTube Likes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionizing-your-digital-presence-through-strategic-social-media-mastery/"><u>2024 Approved  Revolutionizing Your Digital Presence Through Strategic Social Media Mastery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smart-picklist-top-value-free-livestream-software-and-apps-reviewed-this-year/"><u>2024 Approved  Smart Picklist  Top Value Free Livestream Software & Apps Reviewed This Year</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-clearing-background-artifacts-in-figma/"><u>2024 Approved  Step-by-Step  Clearing Background Artifacts in Figma</u></a></li>
+<li><a href="https://facebook.techidaily.com/be-alert-disarm-these-14-common-social-media-swindles/"><u>Be Alert! Disarm These 14 Common Social Media Swindles</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/clearing-photos-expert-background-takedown-in-photopea/"><u>Clearing Photos  Expert Background Takedown in Photopea</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-visuals-what-sets-360-apart/"><u>Comprehensive Visuals  What Sets 360° Apart?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a79-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-12-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme 12 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximize-your-youtube-srt-a-three-pronged-plan/"><u>In 2024, Maximize Your Youtube SRT  A Three-Pronged Plan</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimizing-zoom-meetings-a-guide-to-format-upgrading/"><u>In 2024, Optimizing Zoom Meetings  A Guide to Format Upgrading</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-overcoming-obstacles-in-iphone-xs-facial-detection-system/"><u>In 2024, Overcoming Obstacles in iPhone X’s Facial Detection System</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pioneers-shaping-the-future-of-vr-experiences/"><u>In 2024, Pioneers Shaping The Future Of VR Experiences</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-realme-12-proplus-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Realme 12 Pro+ 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sky-high-storages-expert-recommendations/"><u>In 2024, Sky-High Storages  Expert Recommendations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-spotlight-on-blurbs-captivating-podcast-intros/"><u>In 2024, Spotlight on Blurbs  Captivating Podcast Intros</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-s17-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo S17 FRP</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inspiring-visual-collages-a-kaleidoscope-for-the-soul-for-2024/"><u>Inspiring Visual Collages  A Kaleidoscope for the Soul for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-visual-impact-the-best-ae-title-methods-for-2024/"><u>Mastering Visual Impact  The Best AE Title Methods for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-world-with-a-fisheye-lens-for-2024/"><u>Navigating the World with a Fisheye Lens for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-red-magic-8s-proplus-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Red Magic 8S Pro+ Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/precision-subtitle-tweaking-for-the-mac-pro-user-for-2024/"><u>Precision Subtitle Tweaking for the Mac Pro User for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-virtual-classroom-creation-tool-for-2024/"><u>Prime Virtual Classroom Creation Tool for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/srt-file-playback-windows-and-mac-integration-for-2024/"><u>SRT File Playback  Windows & Mac Integration for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/straightening-drone-shake-a-video-guide-for-2024/"><u>Straightening Drone Shake  A Video Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tailoring-trailer-music-to-evoke-emotion-for-2024/"><u>Tailoring Trailer Music to Evoke Emotion for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-essential-guide-to-earnings-monetizing-content-on-vimeo/"><u>The Essential Guide to Earnings  Monetizing Content on Vimeo</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola G54 5G | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Master Your Mac with Ease  An Ultimate Guide to Utilizing Preview App\""
-date: 2024-06-27T23:48:16.926Z
-updated: 2024-06-28T23:48:16.926Z
+date: 2024-07-30T03:25:14.380Z
+updated: 2024-07-31T03:25:14.380Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
 
 # How to Use Preview App on Mac
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -36,6 +39,9 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -50,6 +56,9 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -64,6 +73,9 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -92,6 +104,9 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -152,6 +167,9 @@ After opening an image, click **File** from the menu bar at the top, and click *
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -200,3 +218,64 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlock-epic-video-with-gopro-time-lapse-strategies/"><u>[New] 2024 Approved  Unlock Epic Video with GoPro Time Lapse Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comparative-study-alert-inshot-vs-standard-editors/"><u>[New] Comparative Study Alert  InShot vs Standard Editors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snap-income-trends-in-making-money-on-social-media/"><u>[New] In 2024, Snap Income  Trends in Making Money on Social Media</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instantaneously-obscured-identities-quick-tips-with-piscart/"><u>[New] Instantaneously Obscured Identities  Quick Tips with Piscart</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices/"><u>[New] Mastering Audio  Best Practices for iPodcasting Interviews on iOS Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-online-play-in-depth-guide-to-using-kinemaster-and-its-rivals/"><u>[New] Mastering Online Play  In-Depth Guide to Using KineMaster and Its Rivals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-display-youtube-video-upgrades/"><u>[New] Maximizing Display  YouTube Video Upgrades</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mosaicmind-pro-unleashing-creative-potential/"><u>[New] MosaicMind Pro  Unleashing Creative Potential</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-next-level-experience-in-metaverse-with-top-8-accessories/"><u>[New] Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pixelpilot-photovideo-slide-show-for-macos/"><u>[New] PixelPilot  Photovideo Slide Show for macOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-selecting-from-dji-action-gopro-max-360-insta360-x3/"><u>[New] Selecting From DJI Action, GoPro Max 360, Insta360 X3</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-stealthy-editing-blur-faces-with-picsart/"><u>[New] Stealthy Editing  Blur Faces With Picsart</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-visual-unity-ai-driven-instavideo-compilation/"><u>[New] Visual Unity  AI-Driven InstaVideo Compilation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-are-camera-shakes-less-troublesome-after-photostable-effects/"><u>[Updated] Are Camera Shakes Less Troublesome After PhotoStable Effects?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-different-editions-of-windows-film-editor-software/"><u>[Updated] In 2024, Different Editions of Windows Film Editor Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-digital-dominance-which-is-superior-youtubes-shorts-or-tiktoks/"><u>[Updated] In 2024, Discovering Digital Dominance  Which Is Superior, YouTubes Shorts or TikToks?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-kinemaster-written-in-5-steps-plus-best-digital-editors-online/"><u>[Updated] Mastering KineMaster' Written in 5 Steps + Best Digital Editors Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-public-domain-game-music-downloads/"><u>[Updated] Public Domain Game Music Downloads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-methodology-for-going-live-with-podcasts/"><u>[Updated] Seamless Methodology for Going Live with Podcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snappy-strategies-for-reacquiring-deleted-posts/"><u>[Updated] Snappy Strategies for Reacquiring Deleted Posts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-insert-a-linked-text-in-your-tiktok-bio/"><u>[Updated] Step-by-Step Guide  Insert a Linked Text in Your TikTok Bio</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-investigating-cash-for-review-scenarios/"><u>2024 Approved  Investigating Cash-for-Review Scenarios</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-launch-any-video-projects-with-free-kits/"><u>2024 Approved  Launch Any Video Projects with Free Kits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-cropping-and-composition-the-audio-visual-balance-in-canvas/"><u>2024 Approved  Learn to Cropping & Composition  The Audio-Visual Balance in Canvas</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-perfecting-your-phones-capability-for-youtube-thumbnail-creation/"><u>2024 Approved  Perfecting Your Phone's Capability for YouTube Thumbnail Creation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reviewing-ion-air-pro-3-capturing-life-in-high-definition/"><u>2024 Approved  Reviewing ION Air Pro 3 - Capturing Life in High Definition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-revolutionary-gaming-documentation-beyond-fbx-norms/"><u>2024 Approved  Revolutionary Gaming Documentation Beyond FBX Norms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplifying-the-complex-an-in-depth-review-of-vida-app/"><u>2024 Approved  Simplifying the Complex  An In-Depth Review of Vida App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smooth-transition-tips-for-inshot-editors/"><u>2024 Approved  Smooth Transition Tips for Inshot Editors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-stepwise-guide-to-smoothing-out-audio-dynamics/"><u>2024 Approved  Stepwise Guide to Smoothing Out Audio Dynamics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>2024 Approved  Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-unveiling-audible-tweets-within-social-media-videos/"><u>2024 Approved  Unveiling Audible Tweets Within Social Media Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-poco-x5-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/8-ways-to-restore-missing-desktop-icons-on-windows-11/"><u>8 Ways to Restore Missing Desktop Icons on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-6-plus-by-drfone-ios/"><u>How To Unlock A Found iPhone 6 Plus?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-acquainted-with-the-10-best-sketching-apps-for-chrome-os/"><u>In 2024, Get Acquainted with The 10 Best Sketching Apps for Chrome OS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leveraging-social-media-giants-to-skyrocket-your-marketing-game/"><u>In 2024, Leveraging Social Media Giants to Skyrocket Your Marketing Game</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-efficiency-with-azures-audio-transcription/"><u>In 2024, Maximizing Efficiency with Azure's Audio Transcription</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-panning-for-priceless-pieces-in-open-source-archives/"><u>In 2024, Panning for Priceless Pieces in Open-Source Archives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-paragon-of-plot-design-in-cinemas-segmented-landscape/"><u>In 2024, Paragon of Plot Design in Cinema's Segmented Landscape</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-uniting-fans-anime-opening-songs-showcase/"><u>In 2024, Uniting Fans  Anime Opening Songs Showcase</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-7-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 7 i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-your-subtitles-with-top-10-free-converter-websites-for-2024/"><u>Master Your Subtitles with Top 10 Free Converter Websites for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-visual-impact-a-comprehensive-guide-to-zooms-video-filters-for-2024/"><u>Mastering Visual Impact  A Comprehensive Guide to Zoom's Video Filters for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/meme-making-made-simple-without-cost-for-2024/"><u>Meme-Making Made Simple, Without Cost for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-through-tiktoks-video-palettes-for-2024/"><u>Navigating Through TikTok's Video Palettes for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-windows-11-a-practical-reference-for-2024/"><u>Navigating Windows 11  A Practical Reference for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/oceanic-visionaries-selecting-the-top-5-cameras-for-2024/"><u>Oceanic Visionaries  Selecting the Top 5 Cameras for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-panning-top-techniques-for-cricket-live-views-for-2024/"><u>Perfect Panning  Top Techniques for Cricket Live Views for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photoshop-hdr-mastery-from-basics-to-advanced-strategies-for-2024/"><u>Photoshop HDR Mastery  From Basics to Advanced Strategies for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premiere-pros-shadowy-showdown-for-2024/"><u>Premiere Pro's Shadowy Showdown for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/productive-pastimes-during-your-podcast-engagement-for-2024/"><u>Productive Pastimes During Your Podcast Engagement for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-and-cool-tips-for-insta-collage-creation-for-2024/"><u>Quick & Cool Tips for Insta Collage Creation for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/shedding-light-on-inscrutable-x-errors-plaguing-lol/"><u>Shedding Light on Inscrutable X Errors Plaguing LoL</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sierra-edition-selecting-top-video-editing-software-on-mac/"><u>Sierra Edition  Selecting Top Video Editing Software on Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/stay-ahead-of-the-curve-with-iphone-and-androids-best-photo-sticker-apps-for-2024/"><u>Stay Ahead of the Curve with iPhone and Android's Best Photo Sticker Apps for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-netflix-subtitle-translation-methods-comprehensive-guide-for-2024/"><u>Updated Netflix Subtitle Translation Methods Comprehensive Guide for 2024</u></a></li>
+</ul></div>
