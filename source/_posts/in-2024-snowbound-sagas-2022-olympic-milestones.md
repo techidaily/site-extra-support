@@ -104,28 +104,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-support.techidaily.com/new-picturemosaic-maker-blend-videos-and-pics-macos/"><u>[New] PictureMosaic Maker  Blend Videos & Pics macOS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-spin-innovator-pack/"><u>[Updated] Spin Innovator Pack</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-master-the-art-of-zooming-in-snapchat-photos-and-videos/"><u>In 2024, Master the Art of Zooming in Snapchat Photos & Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premiere-sneak-peeks-cinema-edition/"><u>2024 Approved  Premiere Sneak Peeks - Cinema Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quick-steps-for-adding-speech-to-text-in-powerpoint-slides/"><u>[Updated] Quick Steps for Adding Speech-to-Text in PowerPoint Slides</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-computing-solutions-on-desktops/"><u>In 2024, Premium Computing Solutions on Desktops</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pinnacle-wearable-cameras-in-adrenaline-world/"><u>[New] Pinnacle Wearable Cameras in Adrenaline World</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-saga-storytellers-syndicate-quintessential-quartet/"><u>[Updated] Saga Storytellers Syndicate - Quintessential Quartet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seamless-conversion-ideal-tweeter-video-solution-providers-for-2024/"><u>Seamless Conversion  Ideal Tweeter Video Solution Providers for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-optimizing-video-playback-for-engaged-audiences/"><u>In 2024, Optimizing Video Playback for Engaged Audiences</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-online-workshop-title-author/"><u>Expert Online Workshop Title Author</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-foundational-steps-to-your-distinctive-marketing-voice/"><u>[Updated] The Foundational Steps to Your Distinctive Marketing Voice</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-redmi-a2plus-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi Redmi A2+ Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-6-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 6 has bad ESN or blacklisted IMEI?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-filmcrafters-compendium-unpacked-qanda/"><u>[New] In 2024, FilmCrafters' Compendium  Unpacked Q&A</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-6-plus-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 6 Plus Without a Passcode</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-momentum-media-10-hot-tweets-to-watch/"><u>[New] In 2024, Momentum Media  10 Hot Tweets to Watch</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-k70-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi K70 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 14 | Dr.fone</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

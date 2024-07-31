@@ -104,29 +104,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-support.techidaily.com/new-strategic-approaches-to-dominating-spotifys-ad-space/"><u>[New] Strategic Approaches to Dominating Spotify's Ad Space</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastermakers-in-av-production-top-5-list/"><u>In 2024, Mastermakers in AV Production  Top 5 List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-rhythms-of-romance-most-beloved-ballads-for-engagement/"><u>[Updated] Rhythms of Romance  Most Beloved Ballads for Engagement</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-masterclass-in-high-speed-recording/"><u>2024 Approved  Masterclass in High-Speed Recording</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-youtube-title-creation-the-perfect-formula/"><u>[Updated] Mastering YouTube Title Creation  The Perfect Formula</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-palette-perfection-translating-color-concepts/"><u>[New] Palette Perfection  Translating Color Concepts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mass-movement-mastery-the-drone-top-list/"><u>[New] Mass Movement Mastery  The Drone Top List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-maximizing-engagement-sharing-images-on-youtube/"><u>[New] Maximizing Engagement  Sharing Images on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-fast-forward-faster-in-snapchat-simple-and-quick/"><u>2024 Approved  Learn to Fast-Forward Faster in Snapchat, Simple & Quick</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-uploading-srt-text-in-digital-communities/"><u>[Updated] Mastering the Art of Uploading SRT Text in Digital Communities</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-social-media-syncing-made-simple-tweets-and-tiktoks/"><u>2024 Approved  Social Media Syncing Made Simple  Tweets and TikToks</u></a></li>
-<li><a href="https://animation-videos.techidaily.com/in-2024-how-to-find-3d-animation-studio/"><u>In 2024, How to Find 3D Animation Studio</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-boosting-youtube-productions-best-mac-mp4-editors-guide/"><u>In 2024, Boosting YouTube Productions  Best Mac MP4 Editors Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-8-top-choices-your-go-to-templates-on-ig-for-2024/"><u>Unveiling 8 Top Choices  Your Go-To Templates on IG for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-mastering-the-art-of-fishy-tones-a-guide-to-using-discords-clownfish-vocal-effect/"><u>Updated Mastering the Art of Fishy Tones A Guide to Using Discords Clownfish Vocal Effect</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-a05-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy A05 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-f54-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy F54 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-top-15-snapchat-sharing-tactics-for-maximum-impact/"><u>In 2024, Top 15 Snapchat Sharing Tactics for Maximum Impact</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-nokia-150-2023-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Nokia 150 (2023)</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
