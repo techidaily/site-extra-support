@@ -1,0 +1,198 @@
+---
+title: "[New] Pro Techniques for Professional Iphone Shots"
+date: 2024-08-08T19:43:24.733Z
+updated: 2024-08-09T19:43:24.733Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "This Article Describes [New] Pro Techniques for Professional Iphone Shots"
+excerpt: "This Article Describes [New] Pro Techniques for Professional Iphone Shots"
+keywords: "\"IPhone Pro Photography Tips,Expert iPhone Shooting Hacks,Mastering iPhone Photo Professionally,Advanced iPhone Photography Techniques,Professional Iphone Shot Strategies,Essential iPhone Imaging Skills,High-Quality iPhone Image Capture\""
+thumbnail: https://thmb.techidaily.com/d168a05f3f195d26d6b5e0381b43203121c261c3de6a774edbf948a46452563c.png
+---
+
+## Pro Techniques for Professional Iphone Shots
+
+# iPhone Photography Lighting Tips
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+Photography derives its name from two ancient Greek words, photos, which means light and graphé which means drawing, so in its original sense to snap a photo of something is actually the act of drawing with light. How we use the light on our pictures is what makes these images unique and different from others, which is the reason why it is important to know which types of natural and artificial lights can help you improve the quality of your iPhone photos.
+
+Being a photographer means that you must be able to use light to your own advantage and play with it to get better results, so in this article we are going to take you through a lot of different types of light and we are going to provide you with useful tips on how to use light in your photos.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## iPhone Photography Lighting Tips
+
+* [Part 1: Tips for Outdoor iPhone Photographers](#part1)
+* [Part 2: Tips for Indoor iPhone Photography Sessions](#part2)
+
+### Tips for Outdoor iPhone Photographers
+
+**1\. Golden hour:** Diffused light is much more pleasant for taking photos and the softest natural light can be found during the sunrise and sunset. The hour before the sun sets or rises is called the golden hour and it is one of the best times of the day for photography in terms of the quality of light that is available. Colors on photos taken during the golden hour appear warm and pictures have a lot of red, yellow or orange due to the low position of the sun on the horizon. Sunrise and sunset are also a perfect time of the day to capture silhouette photos or breathtaking landscapes.
+
+![golden-hour-photo](https://images.wondershare.com/filmora/article-images/golden-hour-photo.jpg)
+
+Image resource: Constractly
+
+Anyone who has seen a photo of a sunset knows how light during the golden hour looks like, but being able to capture such beautiful light requires you to use your iPhone as a photo camera frequently. If you constantly take pictures early in the morning or just before sunset you'll be able to take your iPhone photography a step further.
+
+**2\. Blue hour:** Around half an hour before the night ends or after the sunset there is still enough light to shoot amazing photos. During that narrow period of time, you can create stunning city vistas because the artificial light of metropolises creates a contrast to the sky in the background. The light during the blue hour is colder, which is why photos taken during the period tend to have more blues and greens.
+
+![blue-hour-photography](https://images.wondershare.com/filmora/article-images/blue-hour-photography.jpg)
+
+Holding your phone in your hand while taking pictures during the blue hour may result in blurry photos because you have to set longer exposures in order to ensure your camera is getting enough light. Placing your iPhone on a tripod or on a surface on which it will be perfectly stable, will enable you to produce razor-sharp images with a lot of blue hour light.
+
+**3\. Midday:** One hour before and after the noon and the Sun is at its highest point, which means that during this period of the day it provides the most light. The type of light the Sun produces at this time of the day is called direct light, that is much less diffused than the light in the morning. Even though there is enough light to take pictures while holding your iPhone, too much light can also create problems if you are using automatic settings.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+![midday-lighting](https://images.wondershare.com/filmora/article-images/midday-lighting.jpg)
+
+Image resource: flickr
+
+The abundance of light puts you at risk of overexposing parts of your photo, and for that reason it is better to set the ISO, Aperture and Exposure values manually, using some of the iOS apps that enable you to control your iPhone camera settings. The direct light produces a strong contrast between light and shadow, that can create a great rhythm on a photo.
+
+**4\. Cloudy sky:** Clouds can be photographer's best friend and his or her's worst enemy. A cloudy gray sky generates all sorts of problems to cameras because it is often much brighter than the rest of the scene. On the other hand, a blue sky with fluffy white clouds looks like the perfect background for a photo. This is a great example of how much outdoor photography depends on good weather conditions.
+
+![cloudy-sky-lighting](https://images.wondershare.com/filmora/article-images/cloudy-sky-lighting.jpg)
+
+Image resource: Digital Photo Secrets
+
+Cloudy gray days allow you to take better black and white photos because the scenes you can take photos of, don't have too much color. Monochrome photos are easier to take because unlike with color photos you only have to work with blacks and whites.
+
+Color photos of a cloudy sky look better if the sky is clear and there are only a few cloud formations in the shot, and if you want to take photos of clouds you just have to be careful not to use zoom too much.
+
+**5\. Mist and Fog:** Mist or fog has a tendency to diffuse light which makes the light more pleasant to the human eye, but the reduced visibility complicates taking pictures for a number of reasons. A great photo always depends on a good moment, so in order to make good use of mist, you have to be at a right location and at a right time. Early morning is the best time to experiment with light softened by fog because usually there is enough light so you can capture sunbeams as they fall on the scene before you.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![mist-fog-lighting](https://images.wondershare.com/filmora/article-images/mist-fog-lighting.jpg)
+
+Image resource: Digital Photo Secrets
+
+As rewarding as they may be, mist creates a lot of problems for iPhone photographers, because finding a focus point is more difficult than it is under normal light conditions. The light you can capture through the mist is truly magical, but it is often difficult to come across this type of light.
+
+**6\. Backlight:** Commonly, photos receive most of the light from the light that falls from the front, but when the light falls from the back of the photo's subject that means that the picture is backlit. The best example of the backlit photo is a silhouette photo, because most of the light in the photo comes from the source located behind the subject of a photo, thus making it possible to create a silhouette of a figure.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
+![get-silhoutte-photo](https://images.wondershare.com/filmora/article-images/get-silhoutte-photo.jpg)
+
+Image resource: Google
+
+All you need to do in order to capitalize on backlight is to place the subject of the photo between the iPhone camera and a source of light. The light that's coming directly towards camera will force you to reduce the camera's exposure, which will create a dark figure on your photo. If you want to take great backlit photos, you need to learn how to use sources of light you have at your disposal. Use anything you can find, shop windows, street lamps or anything else that can help you take a better photo.
+
+**7\. Artificial light at night:** Long exposure photography is an art that takes time to master, but being patient and willing to learn all its tricks will improve your photo taking skills. Using an artificial light at night can help you avoid using flash or tripods while taking photos with an iPhone. Even if there is a lot of artificial light in the scene you want to photograph, the stability of your camera should be your main concern because even the smallest camera shake can easily blur the photo.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+![artificial-light-outdoor](https://images.wondershare.com/filmora/article-images/artificial-light-outdoor.jpg)
+
+Image resource: Efram Goldberg Photography
+
+Rain creates reflections of artificial light on the streets at night, which is why if you like night photography, taking pictures at night after the rain is one of the best times for long exposure pictures. iPhones can capture amazing night shots, but they do need additional photo equipment to achieve their best results.
+
+### Watch Video! Tips for Taking Photos on iPhone in Different Lighting
+
+### Tips for Indoor iPhone Photography Sessions
+
+Indoor photography often includes the use of artificial light, but during the day iPhone photographers can also take advantage of the light that comes through the windows. The light that falls at an angle produces shadows that add a sense of depth to the photo, thus creating an opportunity to take an artistic photo indoors.
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![artificial-light](https://images.wondershare.com/filmora/article-images/artificial-light.jpg)
+
+However, artificial sources of light are usually a better option if you want to take interior photos since the natural sources of light are scarce and unreliable. Using a flash on your iPhone is also an option but its strong light will completely change the light setting of the scene.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-essential-guide-to-rapid-signature-removal-for-2024/"><u>[New] Essential Guide to Rapid Signature Removal for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-harmonizing-your-browsing-experience-with-automatic-youtube-playback-on-facebook/"><u>[New] Harmonizing Your Browsing Experience with Automatic YouTube Playback on Facebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-transition-techniques-decreasing-volume-gradually-in-pp/"><u>[New] In 2024, Transition Techniques  Decreasing Volume Gradually in PP</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instant-access-windows-photos-view/"><u>[New] Instant Access Windows Photos View</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instaphoto-tips-for-seamless-sharing/"><u>[New] InstaPhoto Tips for Seamless Sharing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-invisible-broadcasts-anonymous-instagram-live-tips/"><u>[New] Invisible Broadcasts  Anonymous Instagram Live Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-key-insights-mastering-win11-features/"><u>[New] Key Insights  Mastering Win11 Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pinnacle-color-balance-pro/"><u>[New] Pinnacle Color Balance Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premiere-reviews-exploring-the-best-8k-cameras/"><u>[New] Premiere Reviews  Exploring the Best 8K Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-slow-motion-mobile-photography-and-video-apps-iosandroid/"><u>[New] Premium Slow Motion Mobile Photography & Video Apps iOS/Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-sound-selection-optimal-websites-list/"><u>[New] Premium Sound Selection  Optimal Websites List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplify-a-surplus-of-saves-mastering-edits-for-less-clutter/"><u>[New] Simplify a Surplus of Saves  Mastering Edits for Less Clutter</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-multi-user-platforms-for-effective-talks/"><u>[Updated] In 2024, Top Multi-User Platforms for Effective Talks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-integrating-diverse-iphone-media-formats-together/"><u>[Updated] Integrating Diverse iPhone Media Formats Together</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-panzoid-leaders-choice-best-newcomer-lists/"><u>[Updated] Panzoid Leaders' Choice  Best Newcomer Lists</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-personalizing-windows-11-backgrounds-easily/"><u>[Updated] Personalizing Windows 11 Backgrounds Easily</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-webcam-choices-enhancing-zoom-communication/"><u>[Updated] Premium Webcam Choices  Enhancing Zoom Communication</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-selfies-with-top-android-and-ios-face-modifiers/"><u>[Updated] Revolutionize Selfies with Top Android & iOS Face Modifiers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-scrutinizing-the-most-accessible-affordable-lut-collections/"><u>[Updated] Scrutinizing the Most Accessible, Affordable LUT Collections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-stock-image-memes-real-life-narratives/"><u>[Updated] Top 10 Stock Image Memes  Real Life Narratives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-performers-in-the-world-of-live-game-broadcast-cams/"><u>[Updated] Top Performers in the World of Live Game Broadcast Cams</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-create-a-youtube-music-playlist-on-web-and-mobile-a-detailed-guidance/"><u>2024 Approved  Create a YouTube Music Playlist on Web and Mobile - A Detailed Guidance</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-mobile-color-correction-in-seconds/"><u>2024 Approved  Master Mobile Color Correction in Seconds</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-monetization-magic-geek-channels/"><u>2024 Approved  Monetization Magic  Geek Channels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-optimal-4k-video-recording-tools-compilation/"><u>2024 Approved  Optimal 4K Video Recording Tools Compilation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-microphones-for-high-resolution-4k-video-shooting/"><u>2024 Approved  Prime Microphones for High-Resolution 4K Video Shooting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sky-sprinting-guide-plus-mastering-the-art-of-fpv-drone-racing/"><u>2024 Approved  Sky Sprinting Guide + Mastering the Art of FPV Drone Racing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-secrets-to-selecting-prime-videographers/"><u>2024 Approved  Unlocking Secrets to Selecting Prime Videographers</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-public-antipathy-towards-social-media-ecosystems/"><u>Deciphering Public Antipathy Towards Social Media Ecosystems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-together-a-list-of-engaging-metaverse-games/"><u>Explore Together  A List of Engaging Metaverse Games</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-s18-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo S18 Pro Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-easily-unlock-nokia-screen-by-drfone-android/"><u>In 2024, How To Easily Unlock Nokia Screen?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-motorola-g54-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Motorola G54 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterclass-in-selecting-prime-hdr-cameras/"><u>In 2024, Masterclass in Selecting Prime HDR Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-sound-setup-ultimate-tips-and-gear-list/"><u>In 2024, Masterful Sound Setup  Ultimate Tips & Gear List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-photo-editing-in-minutes-pixlr-quick-hacks/"><u>In 2024, Mastering Photo Editing in Minutes  Pixlr Quick Hacks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-onestream-broadcasts-essential-strategies-explored/"><u>In 2024, Perfecting OneStream Broadcasts  Essential Strategies Explored</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-solving-movie-editing-queries-with-filmora-guidance/"><u>In 2024, Solving Movie-Editing Queries with Filmora Guidance</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sound-engineering-simplified-gradual-diminishment-in-lumafusion/"><u>In 2024, Sound Engineering Simplified  Gradual Diminishment in Lumafusion</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-14-pro-max-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 14 Pro Max to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/keeping-crystal-clear-avoiding-lens-haze-for-2024/"><u>Keeping Crystal Clear  Avoiding Lens Haze for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-av-creators-digital-edition-list-for-2024/"><u>Leading AV Creators  Digital Edition List for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leveraging-windows-10s-photos-app-a-guide-to-adding-text-to-visual-content-for-2024/"><u>Leveraging Windows 10'S Photos App  A Guide to Adding Text to Visual Content for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-multi-display-mode-an-in-depth-guide-to-pip-on-edge-for-2024/"><u>Mastering Multi-Display Mode  An In-Depth Guide to PIP on Edge for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-of-video-quality-the-best-5-low-speed-recorders-for-2024/"><u>Pinnacle of Video Quality  The Best 5 Low-Speed Recorders for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/podcast-logo-basics-key-principles-for-striking-art-for-2024/"><u>Podcast Logo Basics  Key Principles for Striking Art for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-giggle-and-graphics-editor-for-2024/"><u>Premium Giggle & Graphics Editor for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-tutorial-for-top-memes-kinemaster-for-2024/"><u>Quick Tutorial for Top Memes  KineMaster for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-hidden-world-of-your-online-footprint-unveiling-facebooks-secrets-for-2024/"><u>The Hidden World of Your Online Footprint - Unveiling Facebook’s Secrets for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-iphone-filming-software-catalog/"><u>Top iPhone Filming Software Catalog</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-13-mini-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 13 mini? 5 Tips You Must Know</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-lenovo-thinkpad-x1-titanium-yoga-the-ideal-choice-for-diehard-thinkpad-lovers/"><u>Ultimate Guide: Lenovo ThinkPad X1 Titanium Yoga – The Ideal Choice for Diehard ThinkPad Lovers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-the-mixer-in-you-20-free-custom-luts-for-dji-minis-and-airs-for-2024/"><u>Unleash the Mixer in You  20 Free, Custom LUTs for DJI Minis & Airs for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
