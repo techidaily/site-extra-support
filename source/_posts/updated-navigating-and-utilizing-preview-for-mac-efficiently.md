@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating and Utilizing Preview for Mac Efficiently"
-date: 2024-09-08T01:08:47.338Z
-updated: 2024-09-09T01:08:47.338Z
+date: 2024-09-11T08:49:26.213Z
+updated: 2024-09-14T09:52:16.535Z
 tags: 
   - screen-recording
   - ai video
@@ -36,12 +36,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -70,12 +64,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -92,12 +80,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -111,11 +93,12 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -131,6 +114,13 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -164,18 +154,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -189,11 +167,12 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -234,53 +213,28 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-boost-your-channels-top-5-youtube-tricks-for-increased-visibility/"><u>[New] 2024 Approved  Boost Your Channels  Top 5 YouTube Tricks for Increased Visibility</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-explosive-entertainment-for-little-ones/"><u>[New] 2024 Approved  Explosive Entertainment for Little Ones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-iphone-strategies-preserving-and-enjoying-gifs-at-their-best/"><u>[New] IPhone Strategies  Preserving & Enjoying GIFs at Their Best</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-iphones-best-5-podcast-audio-platforms/"><u>[New] IPhone's Best 5 Podcast Audio Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-livegaze-app-reviews-and-ratings/"><u>[New] LiveGaze App Reviews & Ratings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-masterful-8-tools-for-flawless-sub-and-srt-conversion/"><u>[New] Masterful 8 Tools for Flawless Sub and SRT Conversion</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-masterful-selection-8-top-free-3d-video-players-windows-and-mac/"><u>[New] Masterful Selection  8 Top Free 3D Video Players Windows & Mac</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pioneers-of-possibilities-the-leading-6-in-artistic-realms/"><u>[New] Pioneers of Possibilities  The Leading 6 in Artistic Realms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-remove-automatically-suggested-podcasts-from-your-spotify-playlist/"><u>[New] Remove Automatically Suggested Podcasts From Your Spotify Playlist</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sound-first-screen-second-podcasts-vs-youtube-analysis/"><u>[New] Sound First, Screen Second – Podcasts Vs YouTube Analysis</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-speak-now-act-for-free-via-technology/"><u>[New] Speak Now, Act for Free via Technology</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-screenrecorderpro-a-detailed-analysis-of-video-capture-software/"><u>[Updated] 2024 Approved  ScreenRecorderPro  A Detailed Analysis of Video Capture Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-enterprise-cloud-vault-optimal-data-management/"><u>[Updated] Leading Enterprise Cloud Vault  Optimal Data Management</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-learn-the-art-of-virality-infuse-insta-reels-with-tiktok-charm/"><u>[Updated] Learn the Art of Virality  Infuse Insta Reels With TikTok Charm</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-world-of-elite-hdr-camera-choices/"><u>[Updated] Navigating the World of Elite HDR Camera Choices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premier-zones-for-cutting-edge-vr-viewing/"><u>[Updated] Premier Zones for Cutting-Edge VR Viewing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revamp-your-mac-the-macos-sierra-setup-process/"><u>[Updated] Revamp Your Mac  The macOS Sierra Setup Process</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-reality-expertly-reviewed-peripherals/"><u>[Updated] Revolutionizing Reality  Expertly Reviewed Peripherals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-isolated-earbuds-fix-manual/"><u>[Updated] The Isolated Earbuds Fix Manual</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-lightrooms-favorite-color-grads-and-luts-compilation/"><u>2024 Approved  LightRoom's Favorite Color Grads and LUTs Compilation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-opening-orchestra-the-ultimate-list-of-harmonious-hubs-for-auditory-appetizers/"><u>2024 Approved  Opening Orchestra  The Ultimate List of Harmonious Hubs for Auditory Appetizers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-instruction-manual-for-wm6/"><u>2024 Approved  Perfect Instruction Manual for WM6</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-vr-devices-the-essential-list/"><u>2024 Approved  Pinnacle VR Devices  The Essential List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pixelpioneer-8-version-visual-conjurer/"><u>2024 Approved  PixelPioneer  8-Version Visual Conjurer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-rgbs-legacy-and-how-srgb-is-paving-the-way-forward/"><u>2024 Approved  RGB's Legacy and How Srgb Is Paving the Way Forward</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-soundscape-storytelling-at-its-best/"><u>2024 Approved  Soundscape Storytelling at Its Best</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-advice-wiping-and-rebuilding-the-settings-on-your-apple-tablet-or-phone/"><u>Expert Advice: Wiping and Rebuilding the Settings on Your Apple Tablet or Phone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-how-to-find-youtube-partners-and-make-collab-videos/"><u>In 2024, How to Find YouTube Partners and Make Collab Videos?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-key-players-in-top-6-4k-youtube-to-mp3-conversion-software/"><u>In 2024, Key Players in Top 6 4K YouTube-to-MP3 Conversion Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-key-steps-for-effective-green-screen-shooting/"><u>In 2024, Key Steps for Effective Green Screen Shooting</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pixelperfect-image-transformations/"><u>In 2024, PixelPerfect Image Transformations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-enterprise-sky-space-hoarder/"><u>In 2024, Prime Enterprise Sky Space Hoarder</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reactivate-windows-photo-viewer-with-ease-win-11/"><u>In 2024, Reactivate Windows Photo Viewer with Ease (Win 11)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximizing-engagement-sharing-images-on-youtube-for-2024/"><u>Maximizing Engagement  Sharing Images on YouTube for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/professional-gopro-footage-in-3-simple-steps-for-2024/"><u>Professional Gopro Footage in 3 Simple Steps for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seamlessly-capture-and-store-your-favorite-episodes-on-iphone-for-2024/"><u>Seamlessly Capture and Store Your Favorite Episodes on iPhone for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/simple-swift-and-superior-voice-tweaks-for-pubg-players-for-2024/"><u>Simple, Swift, and Superior Voice Tweaks for PUBG Players for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-v27e-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo V27e for Streaming | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-luminous-leverage-5-key-videography-aids/"><u>[New] Luminous Leverage 5 Key Videography Aids</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rekindle-ambition-top-10-motivational-moments/"><u>[New] Rekindle Ambition Top 10 Motivational Moments</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spectacular-8-cam-enhancers-for-improved-video-feeds/"><u>[New] Spectacular 8 Cam Enhancers for Improved Video Feeds</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-stealthy-spectator-of-online-tales-for-2024/"><u>[New] Stealthy Spectator of Online Tales for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-one-mans-quest-with-3d-tech-3dr-analysis/"><u>[Updated] One Man's Quest with 3D Tech '3DR' Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-proven-tactics-for-unblemished-image-sourcing/"><u>[Updated] Proven Tactics for Unblemished Image Sourcing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-nvidias-latest-geforce-rtx-3090-drivers-optimized-for-windows-11-8-and-7/"><u>Download and Install NVIDIA's Latest GeForce RTX 3090 Drivers: Optimized for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/extended-lifespan-required-for-electric-vehicle-batteries-in-california/"><u>Extended Lifespan Required for Electric Vehicle Batteries in California</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-the-paladins-game-crashes-proven-strategies-and-updates/"><u>Fix the Paladins Game Crashes: Proven Strategies and Updates</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-xr-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone XR Apple ID on MacBook</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-g2-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo G2 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/improving-vimeo-playback-pace/"><u>Improving Vimeo Playback Pace</u></a></li>
+<li><a href="https://extra-support.techidaily.com/post-a-highlight-from-the-latest-audio-show-for-2024/"><u>Post a Highlight From the Latest Audio Show for 2024</u></a></li>
+</ul></div>
+

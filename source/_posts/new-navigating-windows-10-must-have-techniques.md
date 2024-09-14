@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Windows 10  Must-Have Techniques\""
-date: 2024-09-08T01:08:42.765Z
-updated: 2024-09-09T01:08:42.765Z
+date: 2024-09-09T02:11:42.927Z
+updated: 2024-09-14T02:36:47.351Z
 tags: 
   - screen-recording
   - ai video
@@ -16,18 +16,6 @@ keywords: "Win10 Navigation Tips,Essential Win10 Tricks,Mastering Win10 Features
 thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0b2c51be60c5944e75e29423.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Navigating Windows 10: Must-Have Techniques
 
 # Must-Know Windows 10 Tips and Tricks
@@ -50,12 +38,6 @@ The start menu of Windows 10 is now resizable. It can be quote odd for many but 
 
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
 
 If you would like to have the ability to simply bark commands at your personal computer, you launch Cortana through hitting the search field within the taskbar and then choose the Notebook icon in the left side choices pane. You choose “settings” from the list and have the “Let Cortana respond when you say ‘Hey Cortana’” choice. You will have an active and working microphone for it to work.
@@ -74,12 +56,6 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
 
 Windows Key-Tab open and leaves open the new task view to show all the running and working programs as well as the virtual desktops. To make the latest virtual desktop, you can use the Windows Key-Ctrl-D. Windows Key-C will get Cortana listening and following your voice input then the Windows Key-S will open its daily glance to showcase the weather, news and sports. Command the line users to obtain a bunch of new selection shortcuts by using the keys Shift and the Arrow keys.
@@ -88,12 +64,6 @@ Windows Key-Tab open and leaves open the new task view to show all the running a
 
 ![taskview](https://images.wondershare.com/filmora/article-images/taskview.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Virtual desktops are among the most favorites of most Windows users and it is one of the coolest features of the new Windows 10\. You could move programs between a virtual desktop & another. To make it happen, when you are running different desktops, you proceed to Task View through pressing the Windows Key-Tab combo. You right click the app you want to transfer from a virtual desktop to the other, choose “Move To” and then you move the app to the desktop where it should go.
 
 With Windows 10, it is now easy to create several desktops as well as run applications from each, so every desktop is showing only those apps that are running in a particular virtual desktop. In case that you do not want to make use of this feature, you may simply remove the “Task View” button.
@@ -102,24 +72,12 @@ With Windows 10, it is now easy to create several desktops as well as run applic
 
 ![a7](https://images.wondershare.com/windows10/a7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This is quite simple yet most people make use of the very capable contemporary email client that has been included in the latest editions of Windows. The email client that has been included in Windows 10 now comes with collapsible conversation view and email preview panel. Plus, it integrates the buttons for new contact and calendar apps. You could simply add different mail accounts from various providers.
 
 #### 7. New Edge Browser
 
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
@@ -130,63 +88,36 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-a-guide-to-profit-sharing-for-creators-of-video-clips-for-2024/"><u>[New] A Guide to Profit Sharing for Creators of Video Clips for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-ace-list-of-low-cost-youtube-caption-tools-for-2024/"><u>[New] Ace List of Low-Cost YouTube Caption Tools for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-is-itops-performance-worth-your-investment-for-2024/"><u>[New] Is ITop's Performance Worth Your Investment for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-jotting-down-just-a-minute-movie/"><u>[New] Jotting Down Just a Minute Movie</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-key-strategies-for-recruiting-superior-video-artists/"><u>[New] Key Strategies for Recruiting Superior Video Artists</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-photos-with-samsungs-latest-toolkit/"><u>[New] Mastering Photos with Samsung's Latest Toolkit</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-maximize-your-tiktok-experience-with-updated-numbers/"><u>[New] Maximize Your TikTok Experience with Updated Numbers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-digital-cropping-easy-online-methods/"><u>[New] Navigating Digital Cropping - Easy Online Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pioneering-technologies-vr-applications/"><u>[New] Pioneering Technologies  VR Applications</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premiere-10-optics-enhancing-visuals/"><u>[New] Premiere 10 Optics Enhancing Visuals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-silverleaf-studio-exploring-lightroom-substitutes/"><u>[New] Silverleaf Studio  Exploring Lightroom Substitutes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-instant-access-to-hd-facebook-feeds/"><u>[Updated] 2024 Approved  Instant Access to HD Facebook Feeds</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-virtual-console-with-top-5-ps3-emulators/"><u>[Updated] In 2024, Mastering Virtual Console with Top 5 PS3 Emulators</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-inspire-chuckles-designing-memes-on-kapwing/"><u>[Updated] Inspire Chuckles – Designing Memes on Kapwing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-interlinking-giants-a-comprehensible-guide-for-instra-and-tikto/"><u>[Updated] Interlinking Giants  A Comprehensible Guide for Instra & Tikto</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-listen-log-and-store-iphone-2024-call-recordings/"><u>[Updated] Listen, Log and Store  IPhone 2024 Call Recordings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mobile-masterpieces-phones-ideal-for-media-makers/"><u>[Updated] Mobile Masterpieces  Phones Ideal for Media Makers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-optimal-home-theater-choosing-the-right-3d-blu-ray-devices/"><u>[Updated] Optimal Home Theater  Choosing the Right 3D Blu-Ray Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pioneering-time-lapse-mastery-full-slomo-app-evaluation-2024/"><u>[Updated] Pioneering Time-Lapse Mastery  Full SloMo App Evaluation, 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-your-gaming-with-advanced-controller-software/"><u>[Updated] Revolutionizing Your Gaming with Advanced Controller Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-scriptwriting-101-decoding-and-writing-slug-lines/"><u>[Updated] Scriptwriting 101  Decoding and Writing Slug Lines</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-specialized-compilation-choosing-ringtones-with-ease/"><u>[Updated] Specialized Compilation  Choosing Ringtones with Ease</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-filmmaking-for-the-future-adapting-videos-vertically-for-instagram/"><u>2024 Approved  Filmmaking for the Future  Adapting Videos Vertically for Instagram</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-10-essential-stages-for-proficient-smm-expertise/"><u>2024 Approved  Navigating 10 Essential Stages for Proficient SMM Expertise</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-perfect-pairing-of-xbox-and-zooming-techniques-for-gaming/"><u>2024 Approved  The Perfect Pairing of Xbox and Zooming Techniques for Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-look-at-addressing-error-code-262-on-roblox/"><u>A Comprehensive Look at Addressing Error Code 262 on Roblox</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/best-of-the-year-top-10-iphone-data-rescue-apps-with-ios-17-compatibility/"><u>Best of the Year: Top 10 iPhone Data Rescue Apps with iOS 17 Compatibility</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/breaking-into-solos-creating-popular-podcasts/"><u>Breaking Into Solos  Creating Popular Podcasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/close-up-magic-avoiding-distance-blur-on-videoleap-for-2024/"><u>Close-Up Magic  Avoiding Distance Blur on Videoleap for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/discovering-the-basics-of-digital-pixel-landscapes/"><u>Discovering the Basics of Digital Pixel Landscapes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-a15-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy A15 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-105-classic-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a78-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A78 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-integrate-video-content-for-playlist-building/"><u>In 2024, Integrate Video Content for Playlist Building</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leading-the-digital-frontier-best-oculus-gaming-setups/"><u>In 2024, Leading the Digital Frontier  Best Oculus Gaming Setups</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-mayhem-top-party-games-listed/"><u>In 2024, Metaverse Mayhem  Top Party Games Listed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimal-assistance-premier-tone-designers-for-iphones/"><u>In 2024, Optimal Assistance  Premier Tone Designers for iPhones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-hardware-choices-for-uhd-editors/"><u>In 2024, Premium Hardware Choices for UHD Editors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-quick-setup-for-flawless-time-lapses-on-ipad/"><u>In 2024, Quick Setup for Flawless Time-Lapses on iPad</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-simplified-blur-methods-for-perfect-iphone-pics-a-quick-guide/"><u>In 2024, Simplified Blur Methods for Perfect iPhone Pics - A Quick Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-nubia-red-magic-9-proplus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Nubia Red Magic 9 Pro+? Fixed | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/introductory-tips-gradual-amplification-techniques-for-2024/"><u>Introductory Tips  Gradual Amplification Techniques for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-hdr-portraiture-comprehensive-photography-guide-for-2024/"><u>Mastering HDR Portraiture  Comprehensive Photography Guide for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pioneering-stop-motion-films-the-ultimate-15-list-for-2024/"><u>Pioneering Stop-Motion Films - The Ultimate 15 List for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-dramatic-structuring-zone-for-2024/"><u>Premier Dramatic Structuring Zone for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/reverse-video-order-on-your-ios-gadget-for-2024/"><u>Reverse Video Order on Your iOS Gadget for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/snapseed-simplified-photo-editing-made-accessible-for-2024/"><u>Snapseed Simplified  Photo Editing Made Accessible for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-instructions-for-picking-background-scores-for-vlogs-for-2024/"><u>Step-by-Step Instructions for Picking Background Scores for Vlogs for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-exploring-computer-components/"><u>Tom's Tech Insights: Exploring Computer Components</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Motorola G54 5G | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-safest-drone-selections-5-great-options-for-young-ones/"><u>[New] Safest Drone Selections 5 Great Options for Young Ones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-securing-photo-libraries-without-copyright-notices/"><u>[New] Securing Photo Libraries Without Copyright Notices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sonys-shutterbug-fixing-the-no-video-fiasco/"><u>[New] Sony's Shutterbug Fixing the No-Video Fiasco</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leaders-in-next-gen-sensory-devices/"><u>[Updated] Leaders in Next-Gen Sensory Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-premium-ff-downloader-suite-for-efficient-fb-media-grabs/"><u>[Updated] Premium FF Downloader Suite for Efficient FB Media Grabs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-showcasing-brilliance-iconic-anime-intros/"><u>[Updated] Showcasing Brilliance Iconic Anime Intros</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-streamline-video-editing-in-windows-10-photos-using-story-remix/"><u>[Updated] Streamline Video Editing in Windows 10 Photos Using Story Remix</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unwind-twitch-feeds-immediately-for-2024/"><u>[Updated] Unwind Twitch Feeds Immediately for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-magic-6-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor Magic 6 Phone Pattern Lock</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-find-n3-flip-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo Find N3 Flip? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reviving-dull-images-the-most-effective-10-web-editing-aids-for-2024/"><u>Reviving Dull Images The Most Effective 10 Web Editing Aids for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/by-step-process-for-free-youtube-educational-events-for-2024/"><u>Step-by-Step Process for Free Youtube Educational Events for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-best-ai-chatbot-discover-with-gpt-plus-vs-perplexity/"><u>The Best AI Chatbot? Discover with GPT Plus Vs. Perplexity</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-100-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor 100.</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

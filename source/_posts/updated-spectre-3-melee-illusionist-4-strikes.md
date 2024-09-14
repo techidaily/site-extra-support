@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Spectre 3 Melee  Illusionist 4 Strikes\""
-date: 2024-09-08T01:08:44.459Z
-updated: 2024-09-09T01:08:44.459Z
+date: 2024-09-06T22:57:59.699Z
+updated: 2024-09-14T01:45:25.860Z
 tags: 
   - screen-recording
   - ai video
@@ -16,24 +16,12 @@ keywords: "Spectre 3 Combat,Melee Illusionist,Spectre 3 Strike,Illusionist Fight
 thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7b5406862c612e4d87ad3713.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Spectre 3 Melee: Illusionist 4 Strikes
 
 # Phantom 3 vs. Phantom 4 Complete Comparison
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -44,18 +32,6 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Comparison of Basic Specs
 
 | Specs                                             | DJI Phantom 4                                                                                                                                                                                      | DJI Phantom 3 Pro                                                                                                                                                                                  |
@@ -92,18 +68,6 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
  4\. Still images have not been improved greatly in their quality but the DJI Phantom 4 now has an onboard camera that's capable of UHD 4k video as well as a number of other formats. The older version of the drone featured a different sensor and different image processing which did not allow for the same quality of video.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Complete comparison and review
 
 #### 1\.  Design
@@ -136,77 +100,11 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-viewer-interest-6-essential-video-formats/"><u>[New] Mastering Viewer Interest  6 Essential Video Formats</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-snap-motion-blur-photos-effortlessly-with-iphone-techniques/"><u>[New] Snap Motion-Blur Photos Effortlessly with iPhone Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-for-winning-anime-projects-via-movie-maker/"><u>[New] Step-by-Step for Winning Anime Projects via Movie Maker</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2023-how-to-autoplay-facebook-videos/"><u>[Updated] 2023 | How to Autoplay Facebook Videos?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optimizing-your-xbox-experience-with-advanced-screen-capture-methods/"><u>[Updated] 2024 Approved  Optimizing Your Xbox Experience with Advanced Screen Capture Methods</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-guide-to-selecting-frame-rate-for-hd-recording/"><u>[Updated] 2024 Approved  The Ultimate Guide to Selecting Frame Rate for HD Recording</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovative-methods-to-hear-podcasts-on-iphone/"><u>[Updated] Innovative Methods to Hear Podcasts on iPhone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-the-art-of-audio-alteration-in-sony-games/"><u>[Updated] Master the Art of Audio Alteration in Sony Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-your-craft-exclusive-free-templates-and-tips/"><u>[Updated] Master Your Craft  Exclusive Free Templates & Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-media-effects-a-comprehensive-guide-to-device-filters/"><u>[Updated] Mastering Media Effects  A Comprehensive Guide to Device Filters</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-picks-top-10-unrivaled-digital-backdrop-switchers/"><u>[Updated] Prime Picks  Top 10 Unrivaled Digital Backdrop Switchers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-rising-stars-choices-top-5-hmds-for-drone-enthusiasts/"><u>[Updated] Rising Stars' Choices  Top 5 HMDs for Drone Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-elegance-in-design-with-canvas-hidden-tips/"><u>[Updated] The Art of Elegance in Design with Canva's Hidden Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unleash-creativity-building-a-memorable-podcast-logo/"><u>[Updated] Unleash Creativity  Building a Memorable Podcast Logo</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-online-retailers-specialized-in-personalized-boxed-gifts-for-2024/"><u>10 Online Retailers Specialized in Personalized Boxed Gifts for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-audiophiles-choice-best-microphones-for-podcasting/"><u>2024 Approved  Audiophile's Choice  Best Microphones for Podcasting</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-laughlens-creator/"><u>2024 Approved  LaughLens Creator</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-gpu-choices-4k-editing-and-rendering/"><u>2024 Approved  Optimal GPU Choices  4K Editing & Rendering</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pure-magic-in-editing-top-6-background-removers-proved-effective/"><u>2024 Approved  Pure Magic in Editing  Top 6 Background Removers Proved Effective</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-a-prime-livestream-service-top-10-essentials/"><u>2024 Approved  Selecting a Prime Livestream Service  Top 10 Essentials</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sifting-through-inshots-features-for-best-edits/"><u>2024 Approved  Sifting Through InShot's Features for Best Edits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-simplified-transfer-tactics-from-iphone-to-computer/"><u>2024 Approved  Simplified Transfer Tactics From iPhone to Computer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/5-best-apps-blending-visual-storytelling-and-music/"><u>5 Best Apps Blending Visual Storytelling & Music</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-note-30-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Note 30 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/a-beginners-guide-to-interpreting-youtube-analytics-scores/"><u>A Beginner’s Guide to Interpreting Youtube Analytics Scores</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-oneplus-ace-3-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide OnePlus Ace 3 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722990295876-bid-goodbye-to-screenshake-learn-the-key-techniques-to-stop-that-annoying-flicker/"><u>Bid Goodbye to Screenshake – Learn the Key Techniques to Stop That Annoying Flicker</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/breaking-down-the-rca-video-doorbell-camera-an-authoritative-security-device-assessment/"><u>Breaking Down the RCA Video Doorbell Camera: An Authoritative Security Device Assessment</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/chromesnap-tracker-os-level-recording/"><u>ChromeSnap Tracker  OS Level Recording</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guard-your-images-with-top-photo-watermarks-for-2024/"><u>Guard Your Images with Top Photo Watermarks for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-innovative-approaches-to-android-video-capture/"><u>In 2024, Innovative Approaches to Android Video Capture</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-intersecting-experiences-dissecting-vr-augmented-and-mixed-reality/"><u>In 2024, Intersecting Experiences  Dissecting VR, Augmented & Mixed Reality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-laughlounge-app-join-the-meme-revolution/"><u>In 2024, LaughLounge App - Join the Meme Revolution</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing/"><u>In 2024, Navigating the Landscape of Color Correction  Innovative Uses of LUTs in Video Editing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-push-boundaries-top-windows-10-innovations-in-games-and-apps/"><u>In 2024, Push Boundaries  Top Windows 10 Innovations in Games and Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pushing-boundaries-with-high-speed-cinematography/"><u>In 2024, Pushing Boundaries with High-Speed Cinematography</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-ranking-the-greats-top-15-stop-motion-masterpieces/"><u>In 2024, Ranking the Greats - Top 15 Stop Motion Masterpieces</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-securely-downloading-youtube-audios-3-easy-and-reliable-methods/"><u>In 2024, Securely Downloading YouTube Audios  3 Easy & Reliable Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sleepy-tales-in-visual-format-analysis/"><u>In 2024, Sleepy Tales in Visual Format  Analysis</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-se-2022-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone SE (2022) Is Unlocked</u></a></li>
-<li><a href="https://extra-support.techidaily.com/lowering-audio-amplitude-progressively-using-lumafusion-for-2024/"><u>Lowering Audio Amplitude Progressively Using Lumafusion for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-iphones-hdr-photography-techniques-for-2024/"><u>Mastering iPhone's HDR Photography Techniques for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-text-memes-using-meme-text-genrator-for-2024/"><u>Mastering Text Memes  Using Meme Text Gen'rator for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-photo-retouching-for-2024/"><u>Mastering the Art of Photo Retouching for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-the-top-10-live-streaming-choices-for-2024/"><u>Navigating the Top 10 Live Streaming Choices for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-s24plus-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy S24+ Phone Now with These Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/peak-performance-tools-best-4k-cameras-for-professionals-for-2024/"><u>Peak Performance Tools  Best 4K Cameras for Professionals for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/powerful-strategies-for-optimizing-gratuitous-timer-use-for-2024/"><u>Powerful Strategies for Optimizing Gratuitous Timer Use for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premiere-pro-rapid-transitions-for-2024/"><u>Premiere Pro Rapid Transitions for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/pros-picks-top-10-spotify-recording-applications/"><u>Pro's Picks  Top 10 Spotify Recording Applications</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-iphone-7-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your iPhone 7 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-game-magic-with-customizations-on-steam/"><u>Unlocking Game Magic with Customizations on Steam</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unveiling-instagrams-videography-timeframe/"><u>Unveiling Instagram's Videography Timeframe</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -214,3 +112,28 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-navigating-through-youtube-settings-to-mute-snapshots/"><u>[New] Navigating Through YouTube Settings to Mute Snapshots</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-starting-point-auditions-approach-to-soft-volume-increase/"><u>[New] Starting Point Audition's Approach to Soft Volume Increase</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-best-photo-text-editor-to-add-text-on-picture-for-2024/"><u>[Updated] Best Photo Text Editor to Add Text on Picture for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-selecting-the-ultimate-gear-for-stellar-4k-production/"><u>[Updated] Selecting the Ultimate Gear for Stellar 4K Production</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-google-pixel-8-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Google Pixel 8</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oppo-a1-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Oppo A1 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-macrofocusadvance-magnify-and-resize-pristine-pics/"><u>In 2024, MacroFocusAdvance Magnify & Resize Pristine Pics</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photography-these-are-your-cams-in-24-for-2024/"><u>New Photography? These Are Your Cams in '24 for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-compatible-graphics-in-overwatch-problem-solved/"><u>No Compatible Graphics in Overwatch - Problem Solved</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-online-spots-for-availing-text-enhancement-files-for-2024/"><u>Prime Online Spots for Availing Text Enhancement Files for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quantum-megadesk-pure-4k-multi-touch-for-2024/"><u>Quantum MegaDesk Pure 4K Multi-Touch for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winx-hd-video-converter-deluxe/"><u>WinX HD Video Converter Deluxe 最新アップデート経歴:進化した動画変換機能</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

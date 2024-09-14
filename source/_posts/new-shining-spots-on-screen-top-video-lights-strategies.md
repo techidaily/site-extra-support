@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shining Spots on Screen  Top Video Lights Strategies\""
-date: 2024-09-08T01:08:46.593Z
-updated: 2024-09-09T01:08:46.593Z
+date: 2024-09-07T01:33:25.501Z
+updated: 2024-09-13T16:00:38.516Z
 tags: 
   - screen-recording
   - ai video
@@ -16,24 +16,12 @@ keywords: "\"Video Lighting Tips,Effective Screen Lights,Top Video Illumination,
 thumbnail: https://thmb.techidaily.com/ce2b50426ded5a960fb87586d9bc144c1e1a55defefae42789a30b646b9173fc.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Shining Spots on Screen: Top Video Lights Strategies
 
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -72,12 +60,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
 ##### Step4 Use Practical Lights
@@ -86,22 +68,10 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
@@ -116,12 +86,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
@@ -162,51 +126,25 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-fixing-sound-discrepan-points-in-facebook-streams-for-2024/"><u>[New] Fixing Sound Discrepan Points in Facebook Streams for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-instantaneous-ease-in-podcast-broadcasts/"><u>[New] Instantaneous Ease in Podcast Broadcasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-olympic-ice-sprints-the-best-of-short-track-skating/"><u>[New] Olympic Ice Sprints  The Best of Short-Track Skating</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-optimize-sound-speed-with-these-essential-apps/"><u>[New] Optimize Sound Speed with These Essential Apps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-perfecting-your-vocal-harmony-in-canva-projects-for-2024/"><u>[New] Perfecting Your Vocal Harmony in Canva Projects for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-saving-big-on-final-cut-pro-without-paying/"><u>[New] Saving Big on Final Cut Pro without Paying</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-seamless-soundscapes-youtube-music-integration-tips/"><u>[New] Seamless Soundscapes  YouTube Music Integration Tips</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-silly-screens-top-youtube-humorists-worth-your-time/"><u>[New] Silly Screens  Top YouTube Humorists Worth Your Time</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-a-step-by-step-guide-to-your-profit-share-in-youtube-shorts/"><u>[Updated] A Step-by-Step Guide to Your Profit Share in YouTube Shorts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-introducing-windows-xps-media-production-hub/"><u>[Updated] Introducing Windows XP's Media Production Hub</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-desktop-image-blending-techniques/"><u>[Updated] Mastering Desktop Image Blending Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-seamlessly-shift-focus-with-picart-clear-borders/"><u>[Updated] Seamlessly Shift Focus with PicArt Clear Borders</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-smart-selections-top-10-apps-for-in-the-moment-baseball-and-soccer-viewing/"><u>[Updated] Smart Selections  Top 10 Apps for In-the-Moment Baseball and Soccer Viewing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speed-kings-and-queens-key-moments-from-the-short-track-games/"><u>[Updated] Speed Kings and Queens  Key Moments From the Short Track Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-laptop-perfection-10-coolest-downloadable-desktop-photos/"><u>2024 Approved  Laptop Perfection  10 Coolest Downloadable Desktop Photos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mediamagic-8-edition/"><u>2024 Approved  MediaMagic 8 Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-open-access-to-the-masters-oeuvre/"><u>2024 Approved  Open Access to the Masters' Oeuvre</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-and-easy-steps-for-photos-in-your-instagram-gallery/"><u>2024 Approved  Quick and Easy Steps for Photos in Your Instagram Gallery</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-screen-success-brand-endorsement-strategies/"><u>2024 Approved  Screen Success  Brand Endorsement Strategies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-mastering-ppros-full-screen-preview/"><u>2024 Approved  Step-by-Step  Mastering PPro's Full Screen Preview</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/enriching-insta-videos-employ-three-dynamic-description-techniques/"><u>Enriching Insta Videos  Employ Three Dynamic Description Techniques</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-motorola-moto-g-stylus-5g-2023-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Motorola Moto G Stylus 5G (2023) Pattern Lock Screen</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-your-digital-talk-leading-web-based-text-to-speech-apps-for-chrome/"><u>In 2024, Mastering Your Digital Talk  Leading Web-Based Text-to-Speech Apps for Chrome</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-engagement-sharing-images-on-youtube/"><u>In 2024, Maximizing Engagement  Sharing Images on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-podcast-openings-unveiled-scripted-appeals/"><u>In 2024, Podcast Openings Unveiled  Scripted Appeals</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-focus-the-top-10-high-res-shoulder-rigs/"><u>In 2024, Prime Focus  The Top 10 High-Res Shoulder Rigs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pun-picture-studio-chucklecrafts/"><u>In 2024, Pun Picture Studio  ChuckleCrafts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pursuing-dynamic-visuals-the-ultimate-guide-for-converting-sdr-to-hdri/"><u>In 2024, Pursuing Dynamic Visuals  The Ultimate Guide for Converting SDR to HDRI</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sierra-users-the-ultimate-list-for-video-editing-apps/"><u>In 2024, Sierra Users  The Ultimate List for Video Editing Apps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/iphone-and-ipad-video-powerhouses-the-ultimate-list-of-10/"><u>IPhone & iPad Video Powerhouses  The Ultimate List of 10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/learn-quick-image-text-alteration-online-resources-for-2024/"><u>Learn Quick Image Text Alteration  Online Resources for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mac-video-excellence-the-creme-de-la-liste-for-sierra-users-for-2024/"><u>Mac Video Excellence  The Crème De La Liste for Sierra Users for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-securing-cost-free-vlc-player-download-on-mac-for-2024/"><u>Mastering the Art of Securing, Cost-Free VLC Player Download on Mac for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-adobe-systems-adobe-premiere-pro-cs6-for-mac-free-download-for-2024/"><u>New Adobe Systems Adobe Premiere Pro CS6 for Mac (Free Download) for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-rotate-avi-videos-for-free-top-16-software-for-multiple-platforms/"><u>New In 2024, Rotate AVI Videos for Free Top 16 Software for Multiple Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/online-and-offline-freebies-in-text-animation-for-2024/"><u>Online & Offline Freebies in Text Animation for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfecting-film-editing-final-cut-pro-101-for-2024/"><u>Perfecting Film Editing  Final Cut Pro 101 for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/reignite-your-gaming-experience-free-voice-transformation-for-valorant-lovers-for-2024/"><u>Reignite Your Gaming Experience  Free Voice Transformation for Valorant Lovers for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seamless-sound-synthesis-inshots-audio-guide-for-2024/"><u>Seamless Sound Synthesis  InShot's Audio Guide for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/secrets-of-skillful-navigation-around-edgenuity-videos-for-2024/"><u>Secrets of Skillful Navigation Around Edgenuity Videos for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-youtube-challenges-head-on-with-insights-from-hub-of-creators-for-2024/"><u>Tackling YouTube Challenges Head-On with Insights From Hub of Creators for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-a05s-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-experts-guide-to-360-video-conversion-and-youtube-sharing-for-2024/"><u>The Expert's Guide to 360 Video Conversion and YouTube Sharing for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-reviews-for-the-barnes-and-noble-nook-glowlight-4-ereader-is-it-worth-it/"><u>Top Reviews for the Barnes & Noble Nook GlowLight 4 eReader: Is It Worth It?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-samsung-bd-j5900-review-2023-update/"><u>[New] Samsung BD-J5900 Review - 2023 Update</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-battle-tested-selecting-the-supreme-7-fps/"><u>[Updated] Battle Tested Selecting the Supreme 7 FPS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-prospects-the-hottest-google-cardboard-vr-gaming-titles/"><u>[Updated] Prime Prospects The Hottest Google Cardboard VR Gaming Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-editors-picks-optimal-after-effects-plugin-choices/"><u>[Updated] Pro Editor's Picks Optimal After Effects Plugin Choices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-srt-simplified-core-concepts-made-clear/"><u>[Updated] SRT Simplified Core Concepts Made Clear</u></a></li>
+<li><a href="https://extra-support.techidaily.com/beat-game-crashes-overcome-dead-by-daylights-code-8014-bug-permanently/"><u>Beat Game Crashes: Overcome Dead By Daylight's Code 8014 Bug Permanently</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2016-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2016 document online</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-thinkpad-with-latest-windows-11-drivers/"><u>Optimize Thinkpad with Latest Windows 11 Drivers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/timeless-telephony-a-compilation-of-calls-for-2024/"><u>Timeless Telephony A Compilation of Calls for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/troubleshooting-tips-why-football-manager-2019-keeps-crashing-and-how-to-fix-it/"><u>Troubleshooting Tips: Why Football Manager 2019 Keeps Crashing and How to Fix It</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-6-best-free-online-audio-editor-to-use-100-free/"><u>Updated Top 6 Best Free Online Audio Editor to Use (100 Free)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/usb-30-gigabit-network-adapter-most-recent-windows-compatible-driver-update-available-now/"><u>USB 3.0 Gigabit Network Adapter - Most Recent Windows-Compatible Driver Update Available Now</u></a></li>
+<li><a href="https://howto.techidaily.com/zte-nubia-z60-ultra-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Nubia Z60 Ultra Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

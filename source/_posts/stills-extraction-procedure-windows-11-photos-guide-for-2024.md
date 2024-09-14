@@ -1,7 +1,7 @@
 ---
 title: "\"Stills Extraction Procedure  Windows 11 Photos Guide for 2024\""
-date: 2024-09-08T01:08:47.392Z
-updated: 2024-09-09T01:08:47.392Z
+date: 2024-09-09T16:48:14.807Z
+updated: 2024-09-13T19:00:57.913Z
 tags: 
   - screen-recording
   - ai video
@@ -22,18 +22,6 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
@@ -59,12 +47,6 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -74,18 +56,6 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
 ## Part 2: Why I can’t save photo from video
@@ -99,21 +69,16 @@ We are explaining the solutions here –
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Alternative way to save photo from video
 
 When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
@@ -126,15 +91,23 @@ Here comes the guide –
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
@@ -147,52 +120,23 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-crafting-dynamic-gifs-from-video-an-illustrative-tutorial/"><u>[New] 2024 Approved  Crafting Dynamic Gifs From Video  An Illustrative Tutorial</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-enhancing-video-content-iphoneipad-screen-capture-basics/"><u>[New] Enhancing Video Content  IPhone/iPad Screen Capture Basics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-selecting-peak-pace-for-slow-video-capture/"><u>[New] Mastering the Art of Selecting Peak Pace for Slow Video Capture</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-nailing-iphone-snaps-top-editing-tricks/"><u>[New] Nailing iPhone Snaps  Top Editing Tricks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-noise-free-auditory-shifts/"><u>[New] Navigating Noise-Free Auditory Shifts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premium-drones-best-deals-today/"><u>[New] Premium Drones, Best Deals Today</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-revolutionizing-receiving-a-new-paradigm-in-openings/"><u>[New] Revolutionizing Receiving  A New Paradigm in Openings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-amplify-focus-on-the-little-things-with-videoleap-zoom/"><u>[Updated] Amplify Focus on the Little Things with VideoLeap Zoom</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-audio-alchemy-instagram-video-to-mp3-a-compreayers-guide/"><u>[Updated] Audio Alchemy  Instagram Video to Mp3 - A Compreayer's Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-speedy-visualizer-in-windows/"><u>[Updated] Leading Speedy Visualizer in Windows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-maximize-iphone-screen-space-with-smaller-videos/"><u>[Updated] Maximize iPhone Screen Space with Smaller Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-maximizing-engagement-sharing-images-on-youtube/"><u>[Updated] Maximizing Engagement  Sharing Images on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-real-world-applications-of-magix-video-pro-x/"><u>[Updated] Real-World Applications of Magix Video Pro X</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-scrutinizing-the-new-parrot-ar-drone-edition/"><u>[Updated] Scrutinizing the New Parrot AR Drone Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-podcast-dissemination-instagram-stories-vs-feed/"><u>2024 Approved  Podcast Dissemination  Instagram Stories Vs. Feed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionize-your-workflow-best-free-3d-text-files/"><u>2024 Approved  Revolutionize Your Workflow  Best FREE 3D Text Files</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-simplify-your-workflow-incorporating-luts-into-pscc-projects/"><u>2024 Approved  Simplify Your Workflow  Incorporating LUTs Into PSCC Projects</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-techniques-for-incor-written-by-sarah-johnson/"><u>Advanced Techniques for Incor Written By  Sarah Johnson</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/zing-whether-youtube-premium-is-right-for-you/"><u>Analyzing Whether YouTube Premium Is Right for You</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/y-behind-the-screen-color-correction-insights/"><u>Beauty Behind the Screen  Color Correction Insights</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-a05s-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy A05s to Roku | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-a-compreshift-guide-to-creating-profitable-and-engaging-youtube-collaborations/"><u>In 2024, A Compreshift Guide to Creating Profitable & Engaging YouTube Collaborations</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-master-psd-color-dynamics/"><u>In 2024, Master PSD Color Dynamics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-picture-in-picture-on-safaris-ecosystem/"><u>In 2024, Navigating Picture-in-Picture on Safari's Ecosystem</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-10-subtitle-editing-software-online/"><u>In 2024, Premier 10 Subtitle Editing Software Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pushing-boundaries-of-editing-how-to-erase-image-borders-on-canva/"><u>In 2024, Pushing Boundaries of Editing  How to Erase Image Borders on Canva</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-selective-sharpening-tips-for-modern-image-editors/"><u>In 2024, Selective Sharpening Tips for Modern Image Editors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-shot-with-precision-the-top-10-camera-lens-choices-for-photographers/"><u>In 2024, Shot with Precision  The Top 10 Camera Lens Choices for Photographers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-soundtrack-switch-up-effortlessly-moving-your-music-queue/"><u>In 2024, Soundtrack Switch-Up  Effortlessly Moving Your Music Queue</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-13-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/instagrams-rising-stars-discover-the-magic-behind-their-growth-in-9-steps-for-2024/"><u>Instagram's Rising Stars  Discover the Magic Behind Their Growth in 9 Steps for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leveraging-cookiebot-for-enhanced-digital-advertising-success/"><u>Leveraging Cookiebot for Enhanced Digital Advertising Success</u></a></li>
-<li><a href="https://extra-support.techidaily.com/olympic-snowscape-highlights-cross-style-22-for-2024/"><u>Olympic Snowscape Highlights - Cross Style '22 for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-power-problems-a-users-manual-for-playstation-5-controller-recharging/"><u>Overcoming Power Problems: A User's Manual for PlayStation 5 Controller Recharging</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-chrome-setup-in-windows-11-systems/"><u>Seamless Chrome Setup in Windows 11 Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-realme-gt-3-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Realme GT 3 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-s17t-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo S17t IMEI without Root A Comprehensive Guide</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/1716069459020-new-a-user-friendly-guide-to-seamless-collaboration-across-different-operating-systems-via-skype-group-chats-for-2024/"><u>[New] A User-Friendly Guide to Seamless Collaboration Across Different Operating Systems via Skype Group Chats. For 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-examining-streaming-platform-powerhouses-twitch-and-youtube-comparison/"><u>[New] In 2024, Examining Streaming Platform Powerhouses Twitch and YouTube Comparison</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-iphones-vr-video-viewing/"><u>[New] Mastering iPhone's VR Video Viewing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sculpted-smiles-and-eyes-introducing-facial-movement-with-motion-blur-in-picsart/"><u>[New] Sculpted Smiles and Eyes Introducing Facial Movement with Motion Blur in Picsart</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-step-by-step-save-gifs-from-fb-on-different-devices/"><u>[Updated] In 2024, Step-by-Step Save GIFs From FB on Different Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterclass-in-3d-color-grading-with-custom-luts/"><u>[Updated] Masterclass in 3D Color Grading with Custom LUTs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-money-savers-budget-priced-vr-devices-china/"><u>[Updated] Money Savers Budget-Priced VR Devices (China)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-the-path-iphone-file-exchange-for-2024/"><u>[Updated] Navigating the Path IPhone File Exchange for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Infinix Smart 7 HD</u></a></li>
+</ul></div>
+

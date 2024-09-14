@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Gradual Audio Reduction in Digital Studios"
-date: 2024-09-08T01:08:43.869Z
-updated: 2024-09-09T01:08:43.869Z
+date: 2024-09-07T20:34:16.697Z
+updated: 2024-09-13T17:20:41.058Z
 tags: 
   - screen-recording
   - ai video
@@ -38,12 +38,6 @@ Step3 After getting the volume parameter, now you will need to create automation
 
 ![create automation clips fl studio](https://images.wondershare.com/filmora/article-images/2022/07/create-automation-clips-fl-studio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After selecting that, there will be an addition of a new automation clip to the playlist.
 
 Step4 Due to the automation clip, you will be able to do a smooth transition in and out of that song or audio. Now, you can create a suitable volume for fading your sound. If you want to create another new automation, then click on the right. After that click on the left and drag it.
@@ -62,12 +56,6 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
@@ -76,12 +64,6 @@ Step3 If you want your audio to fade out, again go to the audio setting. Then dr
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Related FAQs of FL Studio Audio Editing
 
 ### 1\. How to fade out FL studio mobile?
@@ -89,21 +71,29 @@ No matter which audio editing software, what matters is the learning outcome. Le
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. What is declicking mode FL studio?
 
 Declicking is an option that helps to remove ‘Clicks’ in the beginning or end. But when it comes to FL Studio, the meaning is a bit different. If you need to cut a part of your audio in FL Studio and later there arises a jump between two parts. This is known as declicking mode in FL Studio.
@@ -122,34 +112,29 @@ Step3 If you want your audio to fade out, again go to the audio setting. Then dr
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Related FAQs of FL Studio Audio Editing
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. What is declicking mode FL studio?
 
 Declicking is an option that helps to remove ‘Clicks’ in the beginning or end. But when it comes to FL Studio, the meaning is a bit different. If you need to cut a part of your audio in FL Studio and later there arises a jump between two parts. This is known as declicking mode in FL Studio.
@@ -178,53 +163,20 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-10-moba-games-for-android-gamers-unveiled/"><u>[New] 2024 Approved  Top 10 MOBA Games for Android Gamers Unveiled</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-harnessing-the-power-camera-techniques-in-ios-11/"><u>[New] Harnessing the Power  Camera Techniques in iOS 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-secrets-to-precision-in-picking-drone-power-units/"><u>[New] In 2024, Secrets to Precision in Picking Drone Power Units</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-instructions-windows-movie-maker-version-6-installation/"><u>[New] Instructions  Windows Movie Maker Version 6 Installation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leveraging-audacity-for-unparalleled-professional-recording/"><u>[New] Leveraging Audacity for Unparalleled Professional Recording</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-obtaining-professional-photo-banners/"><u>[New] Mastering the Art of Obtaining Professional Photo Banners</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-no-monetary-investment-how-to-acquire-fcp/"><u>[New] No Monetary Investment? How to Acquire FCP</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-online-onyx-the-monetary-meaningfulness-of-pewdiepies-earnings/"><u>[New] Online Onyx  The Monetary Meaningfulness of Pewdiepie's Earnings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-precision-cuts-and-transitions-for-premier-users/"><u>[New] Precision Cuts & Transitions for Premier Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quintessential-scores-in-8-distinct-movie-spheres/"><u>[New] Quintessential Scores in 8 Distinct Movie Spheres</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-seamless-video-snapshots-on-smartphones-with-optical-stabilization/"><u>[New] Seamless Video Snapshots on Smartphones with Optical Stabilization</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-shattering-stickers-transform-your-tiktok-videos/"><u>[New] Shattering Stickers  Transform Your TikTok Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-turn-youtube-clips-into-animated-gifs-step-by-step-guide/"><u>[New] Turn Youtube Clips Into Animated GIFs  Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-your-path-to-youtube-stardom-six-simple-steps-for-greater-visibility/"><u>[New] Your Path to YouTube Stardom  Six Simple Steps for Greater Visibility</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-become-a-travel-vlogger-the-ultimate-guide-of-travel-vlogging/"><u>[Updated] 2024 Approved  How To Become A Travel Vlogger | The Ultimate Guide of Travel Vlogging</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-view-access-for-groups-shared-stuff/"><u>[Updated] 2024 Approved  Mastering View Access for Group's Shared Stuff</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-insta-pros-guide-accelerate-your-path-to-social-media-stardom/"><u>[Updated] Insta Pro's Guide  Accelerate Your Path to Social Media Stardom</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-investment-returns-on-youtuber-promotions/"><u>[Updated] Investment Returns on Youtuber Promotions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-apps-for-refined-dji-aerial-filmmaking/"><u>[Updated] Leading Apps for Refined DJi Aerial Filmmaking</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-movies-with-top-10-professional-cinema-gear/"><u>[Updated] Mastering Movies with Top 10 Professional Cinema Gear</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-rating-7-of-the-ultimate-waterproof-recorder-guide/"><u>[Updated] Rating #7 of the Ultimate Waterproof Recorder Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-gamescene-capturers-compendium/"><u>2024 Approved  GameScene Capturer's Compendium</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-journey-to-audio-excellence-mastering-ios-based-recording-techniques/"><u>2024 Approved  Journey to Audio Excellence  Mastering iOS-Based Recording Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-online-meetings-zoom-tips-for-chromebooks/"><u>2024 Approved  Mastering Online Meetings  Zoom Tips for Chromebooks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-in-motion-advanced-techniques-for-tiktok-edits/"><u>2024 Approved  Mastery in Motion  Advanced Techniques for TikTok Edits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-novices-compendium-understanding-pixel-perfection/"><u>2024 Approved  Novice's Compendium  Understanding Pixel Perfection</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-premiere-pro-speed-blackouts/"><u>2024 Approved  Premiere Pro Speed Blackouts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-slowly-suppressing-audio-loudness/"><u>2024 Approved  Slowly Suppressing Audio Loudness</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-speedy-assembly-for-stunning-google-image-mosaics/"><u>2024 Approved  Speedy Assembly for Stunning Google Image Mosaics</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-your-audio-experience-download-and-setup-for-soundmax-on-windows-systems/"><u>Enhance Your Audio Experience - Download & Setup for SoundMAX on Windows Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-star-wars-jedi-fallen-order-installation-problems-expert-tips-and-solutions/"><u>Fix Your Star Wars Jedi: Fallen Order Installation Problems - Expert Tips and Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-smart-8-plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Smart 8 Plus to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-digital-media-xmlttml-conversion-guide-for-srt/"><u>In 2024, Mastering Digital Media  XML/TTML Conversion Guide for SRT</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-subtitle-integration-a-complete-guide-for-social-media-platforms/"><u>In 2024, Mastering Subtitle Integration  A Complete Guide for Social Media Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-action-recorder-with-in-face-view/"><u>In 2024, Prime Action Recorder with In-Face View</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pro-camera-addons-buyers-insider-guide/"><u>In 2024, Pro-Camera Addons  Buyer's Insider Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reimagine-video-narratives-with-windows-10s-story-remix-tool/"><u>In 2024, Reimagine Video Narratives with Windows 10'S Story Remix Tool</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-significant-tenets-of-interactive-storytelling/"><u>In 2024, Significant Tenets of Interactive Storytelling</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-snap-edit-and-assemble-a-rapid-google-collage-how-to/"><u>In 2024, Snap, Edit & Assemble  A Rapid Google Collage How-To</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/mts-video-editing-software-5-top-rated-options/"><u>MTS Video Editing Software 5 Top-Rated Options</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimize-cinematography-anywhere-with-luts-simply-for-2024/"><u>Optimize Cinematography Anywhere with LUTs, Simply for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimize-your-shots-with-pro-light-tips-for-iphones-for-2024/"><u>Optimize Your Shots with Pro Light Tips for IPhones for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/podcasting-prowess-crafting-a-trendsetting-showcase-for-2024/"><u>Podcasting Prowess  Crafting a Trendsetting Showcase for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplifying-steam-problem-solving-in-windows-11-os/"><u>Simplifying Steam Problem Solving in Windows 11 OS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sky-in-spectacue-prime-platforms-showcasing-hdr-imagery-for-2024/"><u>Sky in Spectacue - Prime Platforms Showcasing HDR Imagery for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-for-when-your-devices-main-audio-jack-fails-guide/"><u>Solution Steps for When Your Device's Main Audio Jack Fails [Guide]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tango-app-review-premium-messaging-experience-at-zero-cost-enhanced-calling-options-available/"><u>Tango App Review: Premium Messaging Experience at Zero Cost – Enhanced Calling Options Available</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-vivacut-edit-pro-comprehensive-review-and-tutorial-2024/"><u>Ultimate VivaCut Edit Pro  Comprehensive Review & Tutorial 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-perpetual-inactivity-in-windows-11s-defender-feature/"><u>Unlocking Perpetual Inactivity in Windows 11'S Defender Feature</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-enhancing-digital-meetings-focus-up-techniques/"><u>[New] Enhancing Digital Meetings Focus Up Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamlabs-vs-obs-assessing-the-leading-livestream-tools/"><u>[New] In 2024, Streamlabs Vs. OBS Assessing the Leading Livestream Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-max-360-vs-hero-11-the-decisive-battle-for-superior-gopro-action-footage/"><u>[New] Max 360 vs Hero 11 - The Decisive Battle for Superior GoPro Action Footage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionize-tech-connectivity-top-free-speech-conversion-tools-for-macos/"><u>[New] Revolutionize Tech Connectivity Top Free Speech Conversion Tools for MacOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplify-multitasking-with-picture-in-picture-feature-ios/"><u>[New] Simplify Multitasking with Picture in Picture Feature (iOS)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-hue-transformations-expert-tactics-revealed/"><u>[Updated] Mastering Hue Transformations Expert Tactics Revealed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-streaming-tips-for-uninterrupted-broadcasts/"><u>[Updated] Seamless Streaming Tips for Uninterrupted Broadcasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/6-superior-apps-for-effortless-mac-video-grabbing/"><u>6 Superior Apps for Effortless Mac Video Grabbing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-look-inside-magix-pixel-management-for-2024/"><u>A Look Inside MAGIX Pixel Management for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/guide-to-extracting-drm-protected-content-from-specific-ebook-pages-eg-page-13/"><u>Guide to Extracting DRM Protected Content From Specific eBook Pages (E.g., Page 13)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-setting-up-multiple-email-addresses-on-gmail/"><u>Guide: Setting Up Multiple Email Addresses on Gmail</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/navigating-vector-editing-beyond-magixs-domain/"><u>Navigating Vector Editing Beyond Magix's Domain</u></a></li>
+<li><a href="https://extra-support.techidaily.com/newbies-pathway-to-stunning-photo-edits-in-ps-for-2024/"><u>Newbie's Pathway to Stunning Photo Edits in PS for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-of-performance-new-samsung-bdplus-review-for-2024/"><u>Pinnacle of Performance - New Samsung BD+ Review for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-huawei-p60-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Huawei P60</u></a></li>
 </ul></div>
+

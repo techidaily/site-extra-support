@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Performance Issues with Football Manager 2022 on Your PC
-date: 2024-09-08T01:08:45.215Z
-updated: 2024-09-09T01:08:45.215Z
+date: 2024-09-11T16:51:48.396Z
+updated: 2024-09-14T08:35:18.079Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: This Article Describes Expert Tips for Resolving Performance Issues wit
 thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Steps for Football Manager 2021 PC Game Crashes - Solved
 
 Football Manager 2021 is by far one of the most popular management simulator games. However, many players still reported the game keeps crashing and constantly becomes unplayable. If you have the same problem, don’t worry. We’ve put together a full list of solutions for Football Manager 2021 crashing on PC.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not try them all. Simply work your way down the list until you find the one that works for you.
@@ -41,12 +29,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -63,12 +45,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -108,29 +84,19 @@ If this method doesn’t help, go ahead with the next fix below.
 2. Click the**View** tab and make sure**Hidden items** is ticked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
+
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -140,20 +106,24 @@ So does the crash go away now? If not, there is the last fix to try.
 2. Right-click**Football Manager 2021** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
@@ -174,8 +144,6 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,39 +153,18 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-boost-engagement-advanced-youtube-tag-strategies-revealed/"><u>[New] Boost Engagement  Advanced YouTube Tag Strategies Revealed</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/fficient-tactics-for-viewing-subscribers-on-yt-for-2024/"><u>[New] Efficient Tactics for Viewing Subscribers on YT for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-epic-review-and-substitute-guidance-for-2024/"><u>[New] Epic Review & Substitute Guidance for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-master-the-art-of-photo-purity-with-picart/"><u>[New] Master the Art of Photo Purity with PicArt</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-redefining-social-sharing-alternatives-to-periscope-on-iphones-and-androids-for-2024/"><u>[New] Redefining Social Sharing  Alternatives to Periscope on iPhones & Androids for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-smoother-rides-with-htc-vive-anti-nausea-tips/"><u>[New] Smoother Rides with HTC Vive  Anti-Nausea Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sound-in-sight-mixing-music-into-microsofts-presentation-tool/"><u>[New] Sound in Sight  Mixing Music Into Microsoft's Presentation Tool</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-top-vr-game-engines-2023-update/"><u>[New] Top VR Game Engines -2023 Update</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-a-step-by-step-guide-to-mastering-magix-video-pro-x/"><u>[Updated] A Step-by-Step Guide to Mastering Magix Video Pro X</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-inside-hand-tracking-techniques-and-varieties/"><u>[Updated] Inside Hand Tracking  Techniques & Varieties</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-inside-the-core-a-thorough-insight-into-xstudio-video-studio/"><u>[Updated] Inside the Core  A Thorough Insight Into XStudio Video Studio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-intellectual-innovations-curated-selection-of-2024s-top-trivia-channels/"><u>[Updated] Intellectual Innovations  Curated Selection of 2024'S Top Trivia Channels</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-maximum-definition-boost-expert-video-upscaler/"><u>[Updated] Maximum Definition Boost  Expert Video Upscaler</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mirror-your-gameplay-today-for-2024/"><u>[Updated] Mirror Your Gameplay Today for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-reddits-hidden-gems-6-tactics-that-transform-beginners-into-titans/"><u>[Updated] Reddit's Hidden Gems  6 Tactics That Transform Beginners Into Titans</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-crafting-authenticity-in-client-testimonial-videos/"><u>2024 Approved  Crafting Authenticity in Client Testimonial Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-launching-into-the-world-of-vlogging/"><u>2024 Approved  Launching Into the World of Vlogging</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-luts-techniques-for-movie-visuals-enhancement/"><u>2024 Approved  Luts Techniques for Movie Visuals Enhancement</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-effective-interview-techniques/"><u>2024 Approved  Mastering The Art Of Effective Interview Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pixels-perfection-elevate-your-picture-crafting/"><u>2024 Approved  Pixels Perfection  Elevate Your Picture Crafting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/digital-media-converter-for-phone-owners/"><u>Digital Media Converter for Phone Owners</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/excellent-camcorders-with-facing-panel-for-2024/"><u>Excellent Camcorders with Facing Panel for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-redefining-wanderlust-with-virtual-reality-tours/"><u>In 2024, Redefining Wanderlust with Virtual Reality Tours</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revel-in-reality-an-extensive-review-of-lgs-high-fidelity-monitor-31mu97-b/"><u>In 2024, Revel in Reality - An Extensive Review of LG's High-Fidelity Monitor, 31MU97-B</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reviewing-microsofts-hololens-step-into-the-future/"><u>In 2024, Reviewing Microsoft's HoloLens – Step Into the Future</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revolutionary-guide-to-iphone-x-animoji-mastery/"><u>In 2024, Revolutionary Guide to iPhone X Animoji Mastery</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-background-removal-in-images-using-canva-for-2024/"><u>Mastering Background Removal in Images Using Canva for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-microscope-mode-in-roblox-games-for-2024/"><u>Mastering Microscope Mode in Roblox Games for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/moneysmart-cumulus-storage-scaling-files-economically-for-2024/"><u>MoneySmart Cumulus Storage - Scaling Files Economically for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-editing-software-perfect-for-dev-screens-for-2024/"><u>Premier Editing Software  Perfect for Dev Screens for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-winpodcast-solutions-roundup-for-2024/"><u>Premium WinPodcast Solutions Roundup for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/rapid-runners-prime-fastest-titles-for-pc-mobile-devices-for-2024/"><u>Rapid Runners  Prime Fastest Titles for PC, Mobile Devices for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/repaired-hp-photosmart-205n-printer-functions/"><u>Repaired HP Photosmart 205N Printer Functions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/revitalize-your-photos-bringing-back-photo-viewer-in-win-11-for-2024/"><u>Revitalize Your Photos  Bringing Back Photo Viewer in Win 11 for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-up-your-storytelling-effortless-text-addition-for-video-clips-with-photos-for-2024/"><u>Step Up Your Storytelling  Effortless Text Addition for Video Clips with Photos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-iosandroid-techniques-extracting-twitters-gifs/"><u>[New] 2024 Approved IOS/Android Techniques Extracting Twitter's GIFs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-funimate-login-and-sign-up-guide/"><u>[New] Funimate Login and Sign Up Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimal-live-video-distributors-suite/"><u>[New] Optimal Live Video Distributors' Suite</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photography-for-rookies-top-cameras-of-the-year-2024/"><u>[New] Photography for Rookies Top Cameras of the Year 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-secure-smooth-cinematography-the-best-stabilizer-brands-guide-for-2024/"><u>[New] Secure Smooth Cinematography The Best Stabilizer Brands Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-5-iphone-backdrop-modification-programs/"><u>[Updated] Leading 5 iPhone Backdrop Modification Programs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-and-easy-iphone-burst-techniques/"><u>[Updated] Quick and Easy iPhone Burst Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-color-with-the-precision-of-4k-blade-cameras/"><u>[Updated] Revolutionizing Color with the Precision of 4K Blade Cameras</u></a></li>
+<li><a href="https://fox-http.techidaily.com/dji-quadcopter-a-deep-dive-into-phantom-3-for-2024/"><u>DJI Quadcopter A Deep Dive Into Phantom 3 for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-11-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme 11 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-dilemma-stop-overwatch-2-from-continuously-crashing-on-your-desktop/"><u>Solving the Dilemma: Stop Overwatch 2 From Continuously Crashing on Your Desktop</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-visual-potential-a-review-of-powershot-sx70-the-zoomers-dream/"><u>Unlocking Visual Potential: A Review of PowerShot SX70, The Zoomer's Dream</u></a></li>
 </ul></div>
+

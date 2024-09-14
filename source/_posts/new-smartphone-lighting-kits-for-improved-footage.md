@@ -1,7 +1,7 @@
 ---
 title: "[New] Smartphone Lighting Kits for Improved Footage"
-date: 2024-09-08T01:08:42.007Z
-updated: 2024-09-09T01:08:42.007Z
+date: 2024-09-12T19:29:51.318Z
+updated: 2024-09-13T16:00:21.957Z
 tags: 
   - screen-recording
   - ai video
@@ -16,30 +16,12 @@ keywords: "\"Smartphone Lights Kit,Film Brightening Kit,Mobile Lighting Set,Low-
 thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bdf323c545591ca9aaa0e0818.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Smartphone Lighting Kits for Improved Footage
 
 # Smartphone Accessories for Making Videos
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Ollie Mattison
 
  Mar 27, 2024• Proven solutions
@@ -48,12 +30,6 @@ A smartphone with a great camera is all you need to record great videos, but you
 
 The best smartphone accessories are lightweight and require as little setup as possible. One of the best things about making videos on your phone is that it allows you to be spontaneous and record life as it happens. A great smartphone accessory will not make it any more complicated to record on the go.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Smartphone Accessories for Making Videos
 
 Here are four of the best accessories for shooting videos on your smartphone:
@@ -62,18 +38,6 @@ Here are four of the best accessories for shooting videos on your smartphone:
 
 ![tips on lenses](https://images.wondershare.com/filmora/article-images/accessories-clip-on-lenses.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 When you use a DSLR you generally have a lot more control over your images than when you record using other kinds of cameras. Part of this is due to the variety of lenses that are available for DSLRs. Most cameras only have the one built-in lens, but DSLRs have detachable lenses you can change to create different effects. Using Clip-On Lenses you can adjust the built-in lens of your smartphone camera to create these same kinds of effects.
 
 Clip-On Lenses are tiny, which makes them convenient for carrying around. Using them is as easy as clipping them right over your smartphone camera lens. Sets of Clip-On Lenses can be found for under $50.
@@ -82,12 +46,6 @@ Clip-On Lenses are tiny, which makes them convenient for carrying around. Using 
 
 ![pistol grip](https://images.wondershare.com/filmora/article-images/accessories-pistol-grip.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 It will not matter how clear and sharp your videos are if they are shaky. To avoid the stereotypically shaky ‘cellphone vid’ look you will need to stabilize your phone while you record, and there are a lot of ways you can do that. Mounting your phone on a Pistol Grip is one of them.
 
 Smartphones mounted on Pistol Grips will record more stable footage while you walk around with them, and the many Pistol Grips will also attach to a tripod or monopod. If you already have a tripod for a different camera a pistol grip will allow you to use it for your smartphone as well without purchasing a second tripod mount. Pistol Grips for mobile phones cost around $15.
@@ -104,12 +62,6 @@ Selfie Sticks make it possible for you to record from a wider variety of angles,
 
 ![lav mic](https://images.wondershare.com/filmora/article-images/accessories-lav-mic.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 One of the biggest obstacles when shooting smartphone videos is capturing adequate audio. Not all videos need audio – sometimes you just want to use music – but if there is any speaking in your video then your audio becomes just as important as your visual recording. As great as most smartphone cameras are, the microphones that come with them usually lack that same quality. You can improve the quality of your audio recordings using a free program called Audacity, or you can get an external microphone.
 
 LAV Mics, also called lavalier or lapel mics, are a popular choice because they are so portable. A LAV Mic will clip right on to your shirt for maximum flexibility while recording on the go. You can get a wired LAV Mic specifically for smartphones for $50.
@@ -122,50 +74,36 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-essential-insights-on-youtube-tvs-unique-features/"><u>[New] 2024 Approved  Essential Insights on YouTube TV's Unique Features</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-zoom-transcription-apps-finding-value-in-freepaid-for-2024/"><u>[New] Essential Zoom Transcription Apps  Finding Value in Free/Paid for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-insights-the-best-approaches-to-live-cricket-broadcasting/"><u>[New] Expert Insights  The Best Approaches to Live Cricket Broadcasting</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-8-strategies-in-digital-sound-logging-techniques/"><u>[New] In 2024, Top 8 Strategies in Digital Sound Logging Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-no-prior-skills-no-problem-top-13-cash-making-techniques-on-reddit/"><u>[New] No Prior Skills? No Problem  Top 13 Cash-Making Techniques on Reddit</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-optimal-5-displays-for-immersive-ps5-gaming/"><u>[New] Optimal 5 Displays for Immersive PS5 Gaming</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-laughlens-quickly-create-social-memes-and-gifs/"><u>[Updated] LaughLens  Quickly Create Social Memes & Gifs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-ouroboros-creator-suite/"><u>[Updated] Ouroboros Creator Suite</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-revisiting-lost-content-2-methods-for-retrieving-yt-deletions/"><u>[Updated] Revisiting Lost Content  2 Methods for Retrieving YT Deletions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-secrets-for-transcribing-twitter-videos-into-mp3-format/"><u>[Updated] Secrets for Transcribing Twitter Videos Into MP3 Format</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sharpen-your-videoleap-videos-from-afar/"><u>[Updated] Sharpen Your Videoleap Videos From Afar</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-spin-up-original-web-memes-instantly/"><u>[Updated] Spin Up Original Web Memes Instantly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-newcomers-guide-profiting-from-live-streaming-on-periscope/"><u>2024 Approved  Newcomer’s Guide  Profiting From Live Streaming on Periscope</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-prepare-yourself-7-must-have-tech-in-the-digital-frontier/"><u>2024 Approved  Prepare Yourself  7 Must-Have Tech in the Digital Frontier</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-fee-free-timing-devices/"><u>2024 Approved  Prime Fee-Free Timing Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-proven-pathways-for-sound-alteration-in-pubg-gamers/"><u>2024 Approved  Proven Pathways for Sound Alteration in PUBG Gamers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-simplify-complex-designs-by-mastering-figmas-backdrop-cleansing/"><u>2024 Approved  Simplify Complex Designs by Mastering Figma's Backdrop Cleansing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unmatched-fun-awaits-in-our-top-12-pc-clicker-games-list/"><u>2024 Approved  Unmatched Fun Awaits in Our Top 12 PC Clicker Games List</u></a></li>
-<li><a href="https://win11.techidaily.com/arrow-anomalies-heres-how-to-tackle-them/"><u>Arrow Anomalies? Here’s How to Tackle Them</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bringing-stories-to-life-adding-effective-narration/"><u>Bringing Stories to Life  Adding Effective Narration</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722874188548-decode-the-future-of-phablets-all-you-need-to-know-about-the-imminent-release-of-samsungs-galaxy-z-fold-7-price-and-specs-revealed/"><u>Decode the Future of Phablets: All You Need to Know About the Imminent Release of Samsung's Galaxy Z Fold 7 - Price & Specs Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-enjoy-espn-plus-content-on-an-lg-smart-televison-set/"><u>How to Enjoy ESPN Plus Content on an LG Smart Televison Set</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-13-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 13 Pro Max Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-a-beginners-primer-to-modifying-your-status-on-discord/"><u>In 2024, A Beginner's Primer to Modifying Your Status on Discord</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-key-sites-the-6-most-vital-platforms-for-b2b-relationships/"><u>In 2024, Key Sites  The 6 Most Vital Platforms for B2B Relationships</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-instagram-simplified-techniques-for-perfect-collages/"><u>In 2024, Mastering Instagram  Simplified Techniques for Perfect Collages</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pioneering-headsets-elevating-drone-use/"><u>In 2024, Pioneering Headsets Elevating Drone Use</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pro-gopro-filming-tips-for-flawless-results/"><u>In 2024, Pro Gopro Filming Tips for Flawless Results</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reel-revolution-top-tech-for-brightening-videos/"><u>In 2024, Reel Revolution  Top Tech for Brightening Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sparkle-on-screen-ideal-tools-for-online-videos/"><u>In 2024, Sparkle on Screen  Ideal Tools for Online Videos</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mirth-mechanics-gratis-tools-to-amuse-and-entertain-for-2024/"><u>Mirth Mechanics  Gratis Tools to Amuse and Entertain for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/purefocuserase-professionally-crafted-photo-editor-for-2024/"><u>PureFocusErase  Professionally Crafted Photo Editor for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/repairing-windows-updater-error-0xca00a009/"><u>Repairing Windows Updater Error #0xCA00A009</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seamless-conversion-from-iphonepc-explore-the-8-best-apps-for-2024/"><u>Seamless Conversion From iPhone/PC  Explore the #8 Best Apps for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-evolution-continues-what-to-know-about-apples-most-recent-ipad-upgrade/"><u>The Evolution Continues: What to Know About Apple's Most Recent iPad Upgrade</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-a15-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy A15 5G Device</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-periscope-insights-accessibility-costs-and-signup-guide/"><u>[New] Periscope Insights Accessibility, Costs & Signup Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-tailoring-content-to-trends-organic-growth-strategies-for-youtubers/"><u>[Updated] In 2024, Tailoring Content to Trends Organic Growth Strategies for YouTubers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-straightforward-steps-for-hassle-free-high-dynamic-range/"><u>[Updated] Straightforward Steps for Hassle-Free High Dynamic Range</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-for-optimal-featured-channels-in-youtubes-algorithm/"><u>2024 Approved Strategies for Optimal Featured Channels in YouTube's Algorithm</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-techniques-for-sony-store-shopping/"><u>Advanced Techniques for Sony Store Shopping</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-record-and-relive-iphoneandroid-google-meet-sessions/"><u>In 2024, Record and Relive IPhone/Android Google Meet Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovating-your-teaching-with-interactive-screencasts/"><u>Innovating Your Teaching with Interactive Screencasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/nextgen-video-upscaler-mobiledesktop-edition-for-2024/"><u>NextGen Video Upscaler Mobile/Desktop Edition for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/no1-video-recorders-with-personalized-view-for-2024/"><u>No.1 Video Recorders with Personalized View for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimize-your-digital-space-regularly-scheduled-file-deletion-with-stellar-file-eraser-v5-for-windows-users/"><u>Optimize Your Digital Space: Regularly Scheduled File Deletion with Stellar File Eraser v5 for Windows Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reddits-supreme-judges-the-most-upvoted-posts-ever-for-2024/"><u>Reddit's Supreme Judges The Most Upvoted Posts Ever for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/setting-up-and-managing-discord-channels-step-by-step-guide-for-2024/"><u>Setting Up and Managing Discord Channels Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sliding-to-victory-celebrating-the-best-in-snowboard-cross-winter-games-22-for-2024/"><u>Sliding to Victory Celebrating the Best in Snowboard Cross, Winter Games '22 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sprint-through-style-speedy-tips-for-enhancing-photos-in-windows-app-for-2024/"><u>Sprint Through Style Speedy Tips for Enhancing Photos in Windows App for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unresponsive-homekit-gadgets-heres-how-to-restore-functionality-quickly/"><u>Unresponsive HomeKit Gadgets? Here's How to Restore Functionality Quickly!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

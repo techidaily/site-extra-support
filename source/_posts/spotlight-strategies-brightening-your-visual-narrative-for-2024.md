@@ -1,7 +1,7 @@
 ---
 title: "\"Spotlight Strategies  Brightening Your Visual Narrative for 2024\""
-date: 2024-09-08T01:08:47.444Z
-updated: 2024-09-09T01:08:47.444Z
+date: 2024-09-11T21:08:41.228Z
+updated: 2024-09-14T05:11:14.756Z
 tags: 
   - screen-recording
   - ai video
@@ -16,30 +16,12 @@ keywords: "Visual Storytelling SEO,Image Optimization Tips,Branded Visual Conten
 thumbnail: https://www.lifewire.com/thmb/Nev8LKp-o6j1texwntaEutDxy8Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ParamountPlus-a41971c25c834395b2f0417fe3822037.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Spotlight Strategies: Brightening Your Visual Narrative
 
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -66,12 +48,6 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
@@ -84,12 +60,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
 ##### Step4 Use Practical Lights
@@ -102,18 +72,6 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
@@ -124,12 +82,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
@@ -174,43 +126,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-accelerated-windows-content-verification/"><u>[New] Accelerated Windows Content Verification</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-fast-track-your-fame-on-instagram-our-ultimate-list-of-15-must-try-techniques/"><u>[New] In 2024, Fast-Track Your Fame on Instagram  Our Ultimate List of 15 Must-Try Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-the-way-in-high-res-display-technology/"><u>[New] Leading the Way in High-Res Display Technology</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-picture-crafting-top-10-resources-for-elegant-photo-framing/"><u>[New] Picture Crafting  Top 10 Resources for Elegant Photo Framing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-podcast-logo-basics-key-principles-for-striking-art/"><u>[New] Podcast Logo Basics  Key Principles for Striking Art</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-proven-strategies-for-precise-web-based-photo-cropping/"><u>[New] Proven Strategies for Precise Web-Based Photo Cropping</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-revitalize-reps-with-the-top-backdrop-tracks-for-training/"><u>[New] Revitalize Reps with the Top Backdrop Tracks for Training</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-rhythm-discoveries-at-your-fingertips-free-online/"><u>[New] Rhythm Discoveries at Your Fingertips (Free, Online)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-stay-ahead-of-the-game-top-task-filled-ideas-for-maximizing-your-podcast-experience/"><u>[New] Stay Ahead of the Game  Top Task-Filled Ideas for Maximizing Your Podcast Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-make-every-moment-count-with-these-15-engaging-activities-while-listening-to-talk-shows/"><u>[Updated] Make Every Moment Count with These 15 Engaging Activities While Listening to Talk Shows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-games-with-kinemaster-app-android-analysis/"><u>[Updated] Mastering Games with KineMaster App - Android Analysis</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-sketches-prime-ipados-drawing-software/"><u>[Updated] Revolutionizing Sketches  Prime iPadOS Drawing Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speedy-photo-editing-tips-for-windows-11-users/"><u>[Updated] Speedy Photo Editing Tips for Windows 11 Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglegraphics-suite/"><u>2024 Approved  GiggleGraphics Suite</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-laughter-labyrayer-with-adobes-help/"><u>2024 Approved  Laughter Labyrayer with Adobe's Help</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimize-live-feed-select-from-the-best-9-filters/"><u>2024 Approved  Optimize Live Feed  Select From the Best 9 Filters</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-scriptwriting-secrets-for-a-captivating-and-authentic-storyline/"><u>2024 Approved  Scriptwriting Secrets for a Captivating and Authentic Storyline</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sensory-cinema-the-vr-experience/"><u>2024 Approved  Sensory Cinema  The VR Experience</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-skyrocket-your-channels-with-these-essential-freegame-tags-for-youtube/"><u>2024 Approved  Skyrocket Your Channels with These Essential FreeGame Tags for YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-path-turning-gifs-into-stickers-across-social-media-messaging/"><u>2024 Approved  Step-by-Step Path  Turning GIFs Into Stickers Across Social Media Messaging</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/dissecting-facebook-short-videos-a-comprehensive-overview/"><u>Dissecting Facebook Short Videos   A Comprehensive Overview</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ding-your-reach-a-complete-guide-to-popularizing-youtube-shorts-for-2024/"><u>Expanding Your Reach  A Complete Guide to Popularizing YouTube Shorts for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/funny-faces-crafting-7-cheeky-youtube-comedy-videos/"><u>Funny Faces  Crafting 7 Cheeky YouTube Comedy Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-add-an-array-of-pins-on-google-maps-a-comprehensive-walkthrough/"><u>How to Add an Array of Pins on Google Maps: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g84-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G84 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-8-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-real-time-broadcasting-step-by-step-guide/"><u>In 2024, Mastering Real-Time Broadcasting  Step by Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-stills-extraction-in-windows-11-photos/"><u>In 2024, Mastering Stills Extraction in Windows 11 Photos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-software-choices-for-tweeting-vids/"><u>In 2024, Pinnacle Software Choices for Tweeting Vids</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-tips-for-restarting-disrupted-fb-live-videos/"><u>In 2024, Tips for Restarting Disrupted FB Live Videos</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974530760-instant-access-to-downloaded-hp-stream-networking-drivers-click-here/"><u>Instant Access to Downloaded HP Stream Networking Drivers - Click Here!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/journey-into-the-art-of-long-exposure-a-comprehensive-guide-to-gopro-timelapses-for-2024/"><u>Journey Into the Art of Long-Exposure  A Comprehensive Guide to GoPro Timelapses for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-through-the-best-pc-vr-headset-lineup-of-2023-for-2024/"><u>Navigating Through the Best PC VR Headset Lineup of 2023 for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1721467467002-no-need-for-itunes-heres-how-you-can-bring-your-iphone-back-from-the-dead/"><u>No Need for iTunes? Here's How You Can Bring Your iPhone Back From the Dead</u></a></li>
-<li><a href="https://extra-support.techidaily.com/precision-countdown-ios-and-android-wedding-timer-selection-for-2024/"><u>Precision Countdown  IOS and Android Wedding Timer Selection for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/saving-your-hangout-participation/"><u>Saving Your Hangout Participation</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-tecno-pop-8-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Tecno Pop 8 without backup.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/u-are-u-reader-drivers-version-450/"><u>U-Are-U Reader Drivers - Version 4.50</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-direct-conversion-of-spotify-music-5-tools-for-youtube-streaming/"><u>[New] In 2024, Direct Conversion of Spotify Music 5 Tools for YouTube Streaming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-overcoming-srt-transfer-issues-from-premiere/"><u>[New] Overcoming SRT Transfer Issues From Premiere</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reimagining-art-top-6-influencers-shaping-nft-culture/"><u>[New] Reimagining Art Top 6 Influencers Shaping NFT Culture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-mastering-ppros-full-screen-preview/"><u>[New] Step-by-Step Mastering PPro's Full Screen Preview</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-10-nintendo-switch-fighting-games/"><u>[Updated] Top 10 Nintendo Switch Fighting Games</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-classic-comedy-time-machine-the-goofy-tape-journey/"><u>In 2024, Classic Comedy Time Machine The Goofy Tape Journey</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/precision-and-excellence-a-guide-to-professional-audacity-recordings-for-2024/"><u>Precision and Excellence A Guide to Professional Audacity Recordings for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quality-images-at-a-glance-top-10-vector-sources-for-2024/"><u>Quality Images at a Glance Top 10 Vector Sources for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-is-meta-phasing-out-facebooks-face-recognition-tech/"><u>Why Is Meta Phasing Out Facebook's Face Recognition Tech?</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

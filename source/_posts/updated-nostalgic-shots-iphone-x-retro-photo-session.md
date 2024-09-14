@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Nostalgic Shots  IPhone X Retro Photo Session\""
-date: 2024-09-08T01:08:42.881Z
-updated: 2024-09-09T01:08:42.881Z
+date: 2024-09-08T22:16:15.481Z
+updated: 2024-09-14T04:12:09.077Z
 tags: 
   - screen-recording
   - ai video
@@ -35,12 +35,6 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -51,12 +45,6 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Image resource: 9to5mac
 
 Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn't allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don't point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn't perform great in low-light conditions.
@@ -67,30 +55,12 @@ The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera
 
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Image resource: imore
 
 Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera's Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### For iPhone 8, 7 or older iPhones users
 
 #### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
@@ -101,12 +71,6 @@ If there is not enough light or if you are too far away from the camera, the app
 
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
 #### [Tadaa SLR](https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8)
@@ -117,12 +81,6 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
 #### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
@@ -153,49 +111,31 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/new-navigating-stardew-the-complete-guide-to-ginger-for-2024/"><u>[New] Navigating Stardew  The Complete Guide to Ginger for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-next-gen-editing-experience-reviewed-magix-video-pro-x/"><u>[New] Next-Gen Editing Experience Reviewed  Magix Video Pro X</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prime-oculus-rift-games-captivating-players-worldwide/"><u>[New] Prime Oculus Rift Games Captivating Players Worldwide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-ringtone-archive-iphone-2024-edition/"><u>[New] Ringtone Archive  IPhone 2024 Edition</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-streamline-your-recordings-zooms-leading-transcription-apps-reviewed/"><u>[Updated] 2024 Approved  Streamline Your Recordings  Zoom's Leading Transcription Apps Reviewed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-paint-perfection-experts-guide-to-color-transformation/"><u>[Updated] Paint Perfection  Expert's Guide to Color Transformation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-patient-engagement-with-creative-fb-strategies/"><u>[Updated] Revolutionizing Patient Engagement with Creative FB Strategies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-share-your-latest-audio-exploration/"><u>[Updated] Share Your Latest Audio Exploration</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-your-tiktok-experience-with-updated-numbers/"><u>2024 Approved  Maximize Your TikTok Experience with Updated Numbers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-photoshops-quick-path-to-stunning-colors/"><u>2024 Approved  Photoshop's Quick Path to Stunning Colors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-sound-stream-for-speakers/"><u>2024 Approved  Seamless Sound Stream for Speakers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-sync-zoom-meeting-times-across-mobile-and-desktop-calendars/"><u>2024 Approved  Sync Zoom Meeting Times Across Mobile & Desktop Calendars</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-infinix-note-30-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Infinix Note 30 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-windows-terminal-for-quake-environment/"><u>Accessing Windows Terminal for Quake Environment</u></a></li>
-<li><a href="https://program-issues.techidaily.com/achieving-seamless-gameplay-tips-for-fixing-lags-and-boosting-frames-in-valorant/"><u>Achieving Seamless Gameplay - Tips for Fixing Lags & Boosting Frames in Valorant</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone 14 Plus</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leading-apps-for-refined-dji-aerial-filmmaking/"><u>In 2024, Leading Apps for Refined DJi Aerial Filmmaking</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-master-strategies-for-reaching-a-million-view-goal/"><u>In 2024, Master Strategies for Reaching a Million-View Goal</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-masterclass-in-image-cleanup-remove-unwanted-surroundings/"><u>In 2024, Masterclass in Image Cleanup  Remove Unwanted Surroundings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigate-nearby-landscapes-on-roblox-easily/"><u>In 2024, Navigate Nearby Landscapes on Roblox Easily</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-nostalgia-frame-portraits-on-the-x-phone/"><u>In 2024, Nostalgia Frame  Portraits on the X Phone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pot-player-review/"><u>In 2024, POT Player Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-social-media-stardom-in-a-nutshell-master-these-9-tactics-for-insta-glory/"><u>In 2024, Social Media Stardom in a Nutshell  Master These 9 Tactics for Insta Glory</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/iphone-hdr-masterclass-from-basics-to-brilliance-for-2024/"><u>IPhone HDR Masterclass  From Basics to Brilliance for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mac-users-seamlessly-setting-up-streamlabs-in-obs-for-2024/"><u>Mac Users  Seamlessly Setting Up Streamlabs in OBS for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-marketing-magic-in-metaverse-for-2024/"><u>Mastering Marketing Magic in Metaverse for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-windows-11-photo-and-video-import-magic-for-2024/"><u>Mastering Windows 11  Photo & Video Import Magic for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/melodic-beginnings-curbside-sound-sources-for-2024/"><u>Melodic Beginnings  Curbside Sound Sources for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/metaverse-joke-ology-building-your-own-hilarious-memes-for-2024/"><u>Metaverse Joke-Ology  Building Your Own Hilarious Memes for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/niche-marketing-through-periscope-broadcasts-for-2024/"><u>Niche Marketing Through Periscope Broadcasts for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfecting-elite-canon-time-lapse-cinematic-for-2024/"><u>Perfecting Elite Canon Time-Lapse Cinematic for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/srt-explained-essential-aspects-and-more-for-2024/"><u>SRT Explained  Essential Aspects and More for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/tips-to-prevent-frame-skipping-in-obs-studio/"><u>Tips to Prevent Frame Skipping in OBS Studio</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-reimagine-your-farm-in-stardew-valley-with-these-7-mods/"><u>[New] In 2024, Reimagine Your Farm in Stardew Valley with These 7 Mods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-listen-log-and-store-iphone-2024-call-recordings/"><u>[New] Listen, Log and Store IPhone 2024 Call Recordings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-round-the-houses-full-rotation-photography/"><u>[New] Round the Houses Full Rotation Photography</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-defending-your-youtube-profile/"><u>[Updated] In 2024, Defending Your YouTube Profile</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-synchronization-enhancing-audio-visual-with-subtitles-in-wmp/"><u>[Updated] Perfect Synchronization Enhancing Audio-Visual with Subtitles in WMP</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-resolving-startech-hardware-drivers-compatibility-with-windows-systems/"><u>Comprehensive Guide: Resolving StarTech Hardware Drivers Compatibility with Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-user-experience-linking-win-prefixes-and-ms-logins/"><u>Enhancing User Experience: Linking Win Prefixes & MS Logins</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-decoding-advanced-image-editing-the-role-of-luts-in-cs6/"><u>In 2024, Decoding Advanced Image Editing The Role of LUTs in CS6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/redefining-visual-storytelling-with-virtual-reality-for-2024/"><u>Redefining Visual Storytelling with Virtual Reality for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
