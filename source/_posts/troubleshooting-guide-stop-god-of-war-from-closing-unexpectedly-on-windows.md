@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Stop God of War From Closing Unexpectedly On Windows"
-date: 2024-09-12T21:35:30.915Z
-updated: 2024-09-13T19:15:04.269Z
+date: 2024-09-15T17:11:51.915Z
+updated: 2024-09-19T18:12:49.382Z
 tags:
   - win11
   - win10
@@ -51,16 +51,10 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Enable desktop capture
@@ -70,10 +64,10 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c238e4810b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
@@ -95,20 +89,16 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-market-precision-strategic-package-interpretations/"><u>[New] Market Precision Strategic Package Interpretations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-inshot-pro-advanced-features-showcase/"><u>[Updated] InShot Pro Advanced Features Showcase</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-the-monitor-game-samsungs-ue590-review-inside-out/"><u>[Updated] Master the Monitor Game - Samsung's UE590 Review Inside Out</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-must-have-gear-for-road-trip-documentaries/"><u>[Updated] Must-Have Gear for Road Trip Documentaries</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-nine-pinnacle-filmora-features-videographers-adore/"><u>[Updated] Nine Pinnacle Filmora Features Videographers Adore</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-optimal-color-grading-using-luts-in-adobe-premiere-pro/"><u>2024 Approved Expert Tips for Optimal Color Grading Using LUTs in Adobe Premiere Pro</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-f15-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy F15 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-razr-40-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Razr 40 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS with a Mask On</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-top-scratches-comparative-review-of-recorders/"><u>In 2024, Top Scratches Comparative Review of Recorders</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-setup-guide-how-to-install-the-canon-pro-100-driver-for-your-windows-pc/"><u>Instant Setup Guide: How to Install the Canon PRO 100 Driver for Your Windows PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/no-fuss-full-fun-exploring-ifunnys-meme-treasure-for-2024/"><u>No Fuss, Full Fun Exploring iFunny's Meme Treasure for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/solved-no-valid-dx11-video-card-found-black-ops-error/"><u>Solved: “No Valid DX11 Video Card Found” Black Ops Ⅲ Error</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-3-methods-for-efficiently-backing-up-your-mac-photos/"><u>Top 3 Methods for Efficiently Backing Up Your Mac Photos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-inspirational-quotations-for-the-metaverse-era/"><u>[New] In 2024, Inspirational Quotations for the Metaverse Era</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-iphones-with-ease-download-podcasts-made-simple/"><u>[Updated] Navigating iPhones with Ease - Download Podcasts Made Simple</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-startup-strategies-for-making-money-on-periscope/"><u>[Updated] Startup Strategies for Making Money on Periscope</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unlocking-visual-storytelling-the-20-key-strategies-for-powerful-fb-video-marketing/"><u>2024 Approved Unlocking Visual Storytelling The 20 Key Strategies for Powerful FB Video Marketing</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-container-object-enumeration-failure-on-windows-10-complete-guide/"><u>How to Fix 'Container Object Enumeration Failure' On Windows 10 - Complete Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y77t-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y77t Without PUK Codes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-analysis-unpacking-picsarts-capabilities/"><u>In 2024, Expert Analysis Unpacking PicsArt's Capabilities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-ios-podcast-setup-boost-your-audio-quality-game-for-2024/"><u>Professional iOS Podcast Setup Boost Your Audio Quality Game for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplifying-typing-the-complete-guide-to-using-bings-ai-in-android/"><u>Simplifying Typing: The Complete Guide to Using Bing's AI in Android</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-flv-video-editing-software-top-picks/"><u>Updated 2024 Approved Free FLV Video Editing Software Top Picks</u></a></li>
 </ul></div>
 

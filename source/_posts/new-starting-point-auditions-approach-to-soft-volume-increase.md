@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Starting Point  Audition's Approach to Soft Volume Increase\""
-date: 2024-09-13T08:55:36.221Z
-updated: 2024-09-14T09:44:49.562Z
+date: 2024-09-14T20:58:19.196Z
+updated: 2024-09-19T17:39:58.350Z
 tags: 
   - screen-recording
   - ai video
@@ -79,15 +79,28 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 ## Part 3\. Related FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How do you do a master fade in Audition?
 
@@ -96,13 +109,6 @@ Select the option of amplifying the effects i.e., amplitude and compression. Do 
 ### 3\. Adobe Audition fade-out greyed out?
 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -131,26 +137,26 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Adobe Audition fade-out greyed out?
 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -185,16 +191,18 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-how-to-send-hidden-youtube-videos-using-google-login/"><u>[New] 2024 Approved How to Send Hidden YouTube Videos Using Google Login</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-memorable-moments-from-the-2022-skatescape/"><u>[New] Memorable Moments From the 2022 Skatescape</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-samsung-photo-editor-review-2023-pros-con-features-and-guide/"><u>[New] Samsung Photo Editor Review 2023 - Pros, Con, Features, and Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-profit-power-up-maximize-youtube-studio-dollars-across-platforms/"><u>[Updated] 2024 Approved Profit Power-Up Maximize YouTube Studio Dollars Across Platforms</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-best-tvs-to-accompany-your-highest-rated-consoles/"><u>[Updated] Best TVs to Accompany Your Highest Rated Consoles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-luts-with-adobe-after-effects/"><u>[Updated] Mastering LUTs with Adobe After Effects</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-moviemeld-editor-review-in-depth-analysis/"><u>[Updated] MovieMeld Editor Review – In-Depth Analysis</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sifting-through-legacy-works-a-cultural-journey/"><u>[Updated] Sifting Through Legacy Works A Cultural Journey</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-youtubes-functionality-following-uploaded-videos/"><u>Exploring YouTube’s Functionality Following Uploaded Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-overcoming-windows-update-error-code-0x8007001f/"><u>Fixing the Issue: Overcoming Windows Update Error Code 0X8007001f</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-poco-c55-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Poco C55 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-precision-guided-tour-unearthing-hidden-youtube-gems/"><u>[New] Precision-Guided Tour Unearthing Hidden YouTube Gems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elevate-video-output-quality-mastering-aiseesoft-screencast-tech/"><u>[Updated] Elevate Video Output Quality Mastering Aiseesoft Screencast Tech</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevating-your-visual-narrative-smart-editing-on-snapchat-for-2024/"><u>[Updated] Elevating Your Visual Narrative Smart Editing on Snapchat for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-immortal-gameplay-highlights-of-android-samsungs/"><u>[Updated] In 2024, Immortal Gameplay Highlights of Android Samsungs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-making-your-voice-heard-in-the-podcast-realm/"><u>[Updated] Making Your Voice Heard in the Podcast Realm</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-language-free-top-8-srt-translation-websites/"><u>[Updated] Mastering Language Free, Top 8 SRT Translation Websites</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-notrace-remover-ultimate-background-cleanse/"><u>[Updated] NoTrace Remover Ultimate Background Cleanse</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-pause-non-selected-youtube-video-suggestions-for-2024/"><u>[Updated] Pause Non-Selected YouTube Video Suggestions for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spectre-3-melee-illusionist-4-strikes/"><u>[Updated] Spectre 3 Melee Illusionist 4 Strikes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://extra-support.techidaily.com/orchestrating-overtures-for-optimal-movie-teasers-for-2024/"><u>Orchestrating Overtures for Optimal Movie Teasers for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/professional-tips-for-iphone-360-videography-for-2024/"><u>Professional Tips for iPhone 360 Videography for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-and-easy-how-to-transform-your-mobile-device-into-a-vr-headset-for-2024/"><u>Quick and Easy How to Transform Your Mobile Device Into a VR Headset for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2024-09-11T00:52:27.291Z
-updated: 2024-09-13T20:06:44.822Z
+date: 2024-09-17T00:15:57.499Z
+updated: 2024-09-19T20:20:30.860Z
 tags:
   - chatgpt
   - open-ai
@@ -55,16 +55,16 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -81,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
@@ -102,22 +109,16 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -130,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
 You read it here first, folks.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -161,16 +155,17 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-maximizing-your-visuals-the-ultrawide-vs-uhd-4k-debate/"><u>[New] Maximizing Your Visuals The UltraWide vs UHD 4K Debate</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quick-diy-filming-fixes-the-top-5-hacks-to-try-now/"><u>[Updated] Quick DIY Filming Fixes The Top 5 Hacks to Try Now</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-nokia-g42-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-swiftly-and-permanently-discard-a-partition-on-windows-pc/"><u>How to Swiftly and Permanently Discard a Partition on Windows PC</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-xs-max-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone XS Max Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-essentials-with-toms-expert-tips/"><u>Mastering Hardware Essentials with Tom's Expert Tips</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-se-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone SE to Android | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimizing-your-periscope-stream-experience-for-2024/"><u>Optimizing Your Periscope Stream Experience for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfecting-the-blend-audio-and-visual-synchronization-in-videos-for-2024/"><u>Perfecting the Blend Audio and Visual Synchronization in Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/secure-your-home-with-style-expert-analysis-of-the-yale-assure-lock-2-plus-and-its-compatibility-with-iphones/"><u>Secure Your Home with Style: Expert Analysis of the Yale Assure Lock 2 Plus and Its Compatibility with iPhones</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unavailable-servers-in-destiny-2-effective-strategies/"><u>Troubleshooting Unavailable Servers in Destiny 2: Effective Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-ultimate-compilation-winning-16-free-media-players/"><u>[New] 2024 Approved Ultimate Compilation Winning 16 Free Media Players</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-best-picks-the-most-acclaimed-10-online-vimeo-video-harvesters/"><u>[New] Best Picks The Most Acclaimed 10 Online Vimeo Video Harvesters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-streamline-social-tweet-to-fb-guide/"><u>[New] Streamline Social Tweet to FB Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-insider-tips-for-facebook-cover-video-mastery-for-2024/"><u>[Updated] Insider Tips for Facebook Cover Video Mastery for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-prospects-the-hottest-google-cardboard-vr-gaming-titles/"><u>[Updated] Prime Prospects The Hottest Google Cardboard VR Gaming Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-srt-simplified-core-concepts-made-clear/"><u>[Updated] SRT Simplified Core Concepts Made Clear</u></a></li>
+<li><a href="https://facebook.techidaily.com/donald-trumps-fight-free-speech-vs-tech-overreach/"><u>Donald Trump's Fight: Free Speech Vs. Tech Overreach</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-m54-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy M54 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nubia-red-magic-8s-proplus-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nubia Red Magic 8S Pro+ Unlock Without Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-zte-blade-a73-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your ZTE Blade A73 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-essential-guide-to-aspect-ratio-standards-on-yt/"><u>In 2024, The Essential Guide to Aspect Ratio Standards on YT</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-camera-tech-the-top-10-camcorders-for-2024/"><u>Prime Camera Tech The Top 10 Camcorders for 2024</u></a></li>
 </ul></div>
 

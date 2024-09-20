@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Light on Shadows  Techniques for Depth in Illustrator\""
-date: 2024-09-13T06:11:57.484Z
-updated: 2024-09-13T18:00:59.612Z
+date: 2024-09-15T00:38:42.413Z
+updated: 2024-09-19T17:21:24.611Z
 tags: 
   - screen-recording
   - ai video
@@ -77,10 +77,16 @@ You might not believe it, but there's an even more accessible and less expensive
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Create a 3D Text Effect In Filmora?
@@ -96,6 +102,13 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
@@ -109,6 +122,13 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -119,13 +139,6 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
@@ -133,13 +146,6 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -169,20 +175,21 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-automated-audio-transcription-with-azure/"><u>[New] Mastering the Art of Automated Audio Transcription with Azure</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-shining-spots-on-screen-top-video-lights-strategies/"><u>[New] Shining Spots on Screen Top Video Lights Strategies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-new-era-of-racing-vr-bike-selection-guide/"><u>[Updated] New Era of Racing VR Bike Selection Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-selecting-your-perfect-vr-experience-mobile-vs-tethered-options/"><u>[Updated] Selecting Your Perfect VR Experience Mobile Vs. Tethered Options</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-unraveling-youtubes-platform-for-content-crafting/"><u>2024 Approved Unraveling YouTube’s Platform for Content Crafting</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/blueprint-for-excelling-in-global-languages-tests/"><u>Blueprint for Excelling in Global Languages Tests</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-vivo-v27-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo V27 Pro Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g73-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G73 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-new-horizons-a-tech-upgrade-blueprint/"><u>Navigating New Horizons A Tech Upgrade Blueprint</u></a></li>
-<li><a href="https://extra-support.techidaily.com/revisiting-video-broadcast-choices-post-wirecast-for-2024/"><u>Revisiting Video Broadcast Choices Post-Wirecast for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-a-non-functional-windows-internal-camera-expert-guidance/"><u>Reviving a Non-Functional Windows Internal Camera - Expert Guidance</u></a></li>
-<li><a href="https://extra-support.techidaily.com/screen-protectors-that-enhance-vr-filming-for-2024/"><u>Screen Protectors That Enhance VR Filming for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seamlessslide-visual-harmony-on-macsierra-for-2024/"><u>SeamlessSlide Visual Harmony on MacSierra for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/srt-to-subconvert-the-ultimate-guide-for-2024/"><u>SRT to SUBCONVERT The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-future-soundscape-pioneers-unveiling-the-top-8-2023-daws-for-hip-hop-production-excellence/"><u>Updated 2024 Approved Future Soundscape Pioneers Unveiling the Top 8 2023 DAWs for Hip-Hop Production Excellence</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-audiences-on-the-rise-gauge-for-2024/"><u>[New] Audiences on the Rise Gauge for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-through-youtube-settings-to-mute-snapshots/"><u>[New] Navigating Through YouTube Settings to Mute Snapshots</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-select-15-professional-luts-to-boost-gopro-cinematography/"><u>[New] Select 15 Professional LUTs to Boost GoPro Cinematography</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-treasure-trove-of-inspirational-video-concepts-for-2024/"><u>[New] The Ultimate Treasure Trove of Inspirational Video Concepts for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-break-through-boundaries-15plus-best-free-video-starters/"><u>[Updated] 2024 Approved Break Through Boundaries 15+ Best Free Video Starters</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-elevating-your-videos-visual-impact-youtubthumbnail-design-on-macos/"><u>[Updated] Elevating Your Video's Visual Impact YoutubThumbnail Design on macOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lifetime-favorites-reddits-highly-endorsed-top-10/"><u>[Updated] Lifetime Favorites Reddit's Highly-Endorsed Top 10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-selecting-the-ultimate-gear-for-stellar-4k-production/"><u>[Updated] Selecting the Ultimate Gear for Stellar 4K Production</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-gasp-and-guffaw-10-instagram-pages-where-laughter-meets-tears/"><u>2024 Approved Gasp & Guffaw 10 Instagram Pages Where Laughter Meets Tears</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-seekingsuperiorcameraspost-mycam/"><u>2024 Approved SeekingSuperiorCamerasPost-MyCam</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/gaming-on-samsungs-q60r-series-in-depth-analysis-of-the-qled-4k-tv/"><u>Gaming on Samsung's Q60R Series: In-Depth Analysis of the QLED 4K TV</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-15-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photography-these-are-your-cams-in-24-for-2024/"><u>New Photography? These Are Your Cams in '24 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-online-spots-for-availing-text-enhancement-files-for-2024/"><u>Prime Online Spots for Availing Text Enhancement Files for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quantum-megadesk-pure-4k-multi-touch-for-2024/"><u>Quantum MegaDesk Pure 4K Multi-Touch for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-what-to-do-when-your-tiktok-app-keeps-crashing/"><u>Troubleshooting Steps: What To Do When Your TikTok App Keeps Crashing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Gradual Audio Reduction in Digital Studios"
-date: 2024-09-07T20:34:16.697Z
-updated: 2024-09-13T17:20:41.058Z
+date: 2024-09-15T20:39:02.638Z
+updated: 2024-09-19T18:02:09.045Z
 tags: 
   - screen-recording
   - ai video
@@ -66,33 +66,27 @@ No matter which audio editing software, what matters is the learning outcome. Le
 
 ## Related FAQs of FL Studio Audio Editing
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -119,16 +113,10 @@ No matter which audio editing software, what matters is the learning outcome. Le
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How to crescendo in FL studio?
@@ -163,20 +151,19 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-enhancing-digital-meetings-focus-up-techniques/"><u>[New] Enhancing Digital Meetings Focus Up Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamlabs-vs-obs-assessing-the-leading-livestream-tools/"><u>[New] In 2024, Streamlabs Vs. OBS Assessing the Leading Livestream Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-max-360-vs-hero-11-the-decisive-battle-for-superior-gopro-action-footage/"><u>[New] Max 360 vs Hero 11 - The Decisive Battle for Superior GoPro Action Footage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-revolutionize-tech-connectivity-top-free-speech-conversion-tools-for-macos/"><u>[New] Revolutionize Tech Connectivity Top Free Speech Conversion Tools for MacOS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-simplify-multitasking-with-picture-in-picture-feature-ios/"><u>[New] Simplify Multitasking with Picture in Picture Feature (iOS)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-hue-transformations-expert-tactics-revealed/"><u>[Updated] Mastering Hue Transformations Expert Tactics Revealed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-seamless-streaming-tips-for-uninterrupted-broadcasts/"><u>[Updated] Seamless Streaming Tips for Uninterrupted Broadcasts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/6-superior-apps-for-effortless-mac-video-grabbing/"><u>6 Superior Apps for Effortless Mac Video Grabbing</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a-look-inside-magix-pixel-management-for-2024/"><u>A Look Inside MAGIX Pixel Management for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/guide-to-extracting-drm-protected-content-from-specific-ebook-pages-eg-page-13/"><u>Guide to Extracting DRM Protected Content From Specific eBook Pages (E.g., Page 13)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-setting-up-multiple-email-addresses-on-gmail/"><u>Guide: Setting Up Multiple Email Addresses on Gmail</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/navigating-vector-editing-beyond-magixs-domain/"><u>Navigating Vector Editing Beyond Magix's Domain</u></a></li>
-<li><a href="https://extra-support.techidaily.com/newbies-pathway-to-stunning-photo-edits-in-ps-for-2024/"><u>Newbie's Pathway to Stunning Photo Edits in PS for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pinnacle-of-performance-new-samsung-bdplus-review-for-2024/"><u>Pinnacle of Performance - New Samsung BD+ Review for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-huawei-p60-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Huawei P60</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-creative-geniuses-selecting-the-best-youtube-videos-for-channels/"><u>[New] 2024 Approved Creative Geniuses Selecting the Best YouTube Videos for Channels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-whatsapp-video-transfers-from-tweeted-content/"><u>[New] 2024 Approved WhatsApp Video Transfers From Tweeted Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-seo-mastery-balancing-titles-and-tags/"><u>[New] 2024 Approved YouTube SEO Mastery Balancing Titles and Tags</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-the-art-of-video-presentations-with-these-themes/"><u>[New] Master the Art of Video Presentations with These Themes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-drone-selections-to-enhance-gopro-videos/"><u>[New] Prime Drone Selections to Enhance GoPro Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-youtube-mp4-encoding-steps/"><u>[New] Prime YouTube MP4 Encoding Steps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-graphics-for-high-res-media-creation/"><u>[Updated] Leading Graphics for High Res Media Creation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-precision-photography-the-most-exceptional-phones-for-4k-imaging/"><u>2024 Approved Precision Photography The Most Exceptional Phones for 4K Imaging</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-sync-your-style-across-ios-and-android-with-a-customized-whatsapp-sound/"><u>2024 Approved Sync Your Style Across iOS and Android with a Customized WhatsApp Sound</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-these-4-amazing-complimentary-web-based-schedulers/"><u>Explore These 4 Amazing Complimentary Web-Based Schedulers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fake-detection-unveiled-openais-counter-to-gpt-dupes/"><u>Fake Detection Unveiled: OpenAI's Counter to GPT Dupes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-audio-drivers-today-for-free-instant-setup-steps/"><u>Get Your HP Audio Drivers Today for Free - Instant Setup Steps!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/interactive-insights-archive-for-2024/"><u>Interactive Insights Archive for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/srt-revisited-direct-conversion-to-subcap-for-2024/"><u>SRT Revisited Direct Conversion to SUBCAP for 2024</u></a></li>
 </ul></div>
 

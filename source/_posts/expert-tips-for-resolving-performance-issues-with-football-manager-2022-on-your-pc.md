@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Performance Issues with Football Manager 2022 on Your PC
-date: 2024-09-11T16:51:48.396Z
-updated: 2024-09-14T08:35:18.079Z
+date: 2024-09-14T20:45:01.117Z
+updated: 2024-09-19T21:32:04.550Z
 tags:
   - win11
   - win10
@@ -63,6 +63,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Temporarily disable your antivirus
 
  Antivirus is known to interfere with Football Manager 2021 and your Steam or Epic game launcher. To see if that’s the case, you could disable the antivirus programs first. In case you don’t know how, below are some links for your reference.
@@ -86,10 +93,10 @@ If this method doesn’t help, go ahead with the next fix below.
 3. Navigate to the following locations:  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
@@ -104,25 +111,19 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
@@ -153,18 +154,20 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-iosandroid-techniques-extracting-twitters-gifs/"><u>[New] 2024 Approved IOS/Android Techniques Extracting Twitter's GIFs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-funimate-login-and-sign-up-guide/"><u>[New] Funimate Login and Sign Up Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-optimal-live-video-distributors-suite/"><u>[New] Optimal Live Video Distributors' Suite</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-photography-for-rookies-top-cameras-of-the-year-2024/"><u>[New] Photography for Rookies Top Cameras of the Year 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-secure-smooth-cinematography-the-best-stabilizer-brands-guide-for-2024/"><u>[New] Secure Smooth Cinematography The Best Stabilizer Brands Guide for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-5-iphone-backdrop-modification-programs/"><u>[Updated] Leading 5 iPhone Backdrop Modification Programs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quick-and-easy-iphone-burst-techniques/"><u>[Updated] Quick and Easy iPhone Burst Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-color-with-the-precision-of-4k-blade-cameras/"><u>[Updated] Revolutionizing Color with the Precision of 4K Blade Cameras</u></a></li>
-<li><a href="https://fox-http.techidaily.com/dji-quadcopter-a-deep-dive-into-phantom-3-for-2024/"><u>DJI Quadcopter A Deep Dive Into Phantom 3 for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-11-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme 11 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-dilemma-stop-overwatch-2-from-continuously-crashing-on-your-desktop/"><u>Solving the Dilemma: Stop Overwatch 2 From Continuously Crashing on Your Desktop</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlocking-visual-potential-a-review-of-powershot-sx70-the-zoomers-dream/"><u>Unlocking Visual Potential: A Review of PowerShot SX70, The Zoomer's Dream</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-enhancing-aerial-video-the-best-gimbals-reviewed-for-2024/"><u>[New] Enhancing Aerial Video The Best Gimbals Reviewed for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-social-sphere-instaplustiktok/"><u>[New] Navigating the Social Sphere Insta+TikTok</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revisiting-reruns-the-classic-goofy-movie/"><u>[New] Revisiting Reruns The Classic 'Goofy Movie'</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-new-horizons-in-video-player-software/"><u>[Updated] Navigating New Horizons in Video Player Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-perfecting-zoom-sound-a-dual-strategy-approach-for-2024/"><u>[Updated] Perfecting Zoom Sound A Dual Strategy Approach for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-paving-the-path-to-online-success-youtubes-keyword-guide/"><u>2024 Approved Paving the Path to Online Success YouTube's Keyword Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-complete-walkthrough-for-green-screen-expertise-in-kinemaster/"><u>A Complete Walkthrough for Green Screen Expertise in Kinemaster</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-steps-for-converting-veg-files-into-mp4-using-sony-vegas-pro/"><u>Easy Steps for Converting VEG Files Into MP4 Using Sony Vegas Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-google-meet-sound-issues-on-microsoft-windows-systems/"><u>Expert Tips for Fixing Google Meet Sound Issues on Microsoft Windows Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-among-us-from-crashing-expert-tips-and-tricks-for-gamers-in-2nody24/"><u>How To Stop Among Us From Crashing: Expert Tips and Tricks for Gamers in 2Nody24</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-sporting-cameras-for-adventure-for-2024/"><u>Premium Sporting Cameras for Adventure for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pulse-pounding-beats-fitness/"><u>Pulse-Pounding Beats Fitness</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-pace-facebook-videos-prime-extensions-tips-and-tricks-list-for-2024/"><u>Quick-Pace Facebook Videos Prime Extensions, Tips & Tricks List for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/spotlight-on-superiority-top-ten-camera-lens-picks-for-2024/"><u>Spotlight on Superiority Top Ten Camera Lens Picks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-tiktoks-potential-changing-your-profile-number-for-2024/"><u>Unlocking TikTok's Potential Changing Your Profile Number for 2024</u></a></li>
 </ul></div>
 

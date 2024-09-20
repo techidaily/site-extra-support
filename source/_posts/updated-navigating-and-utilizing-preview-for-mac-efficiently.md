@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating and Utilizing Preview for Mac Efficiently"
-date: 2024-09-11T08:49:26.213Z
-updated: 2024-09-14T09:52:16.535Z
+date: 2024-09-15T22:01:36.631Z
+updated: 2024-09-19T17:38:34.482Z
 tags: 
   - screen-recording
   - ai video
@@ -64,6 +64,13 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -92,13 +99,6 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -116,10 +116,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -154,6 +154,13 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -165,13 +172,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -222,19 +222,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-luminous-leverage-5-key-videography-aids/"><u>[New] Luminous Leverage 5 Key Videography Aids</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-rekindle-ambition-top-10-motivational-moments/"><u>[New] Rekindle Ambition Top 10 Motivational Moments</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-spectacular-8-cam-enhancers-for-improved-video-feeds/"><u>[New] Spectacular 8 Cam Enhancers for Improved Video Feeds</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-stealthy-spectator-of-online-tales-for-2024/"><u>[New] Stealthy Spectator of Online Tales for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-one-mans-quest-with-3d-tech-3dr-analysis/"><u>[Updated] One Man's Quest with 3D Tech '3DR' Analysis</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-proven-tactics-for-unblemished-image-sourcing/"><u>[Updated] Proven Tactics for Unblemished Image Sourcing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-nvidias-latest-geforce-rtx-3090-drivers-optimized-for-windows-11-8-and-7/"><u>Download and Install NVIDIA's Latest GeForce RTX 3090 Drivers: Optimized for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/extended-lifespan-required-for-electric-vehicle-batteries-in-california/"><u>Extended Lifespan Required for Electric Vehicle Batteries in California</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-the-paladins-game-crashes-proven-strategies-and-updates/"><u>Fix the Paladins Game Crashes: Proven Strategies and Updates</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-xr-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone XR Apple ID on MacBook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-g2-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo G2 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/improving-vimeo-playback-pace/"><u>Improving Vimeo Playback Pace</u></a></li>
-<li><a href="https://extra-support.techidaily.com/post-a-highlight-from-the-latest-audio-show-for-2024/"><u>Post a Highlight From the Latest Audio Show for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-insight-into-burst-mode-for-dynamic-photography/"><u>[New] Insight Into Burst Mode for Dynamic Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximum-frame-quality-for-slow-motion-videos/"><u>[New] Maximum Frame Quality for Slow Motion Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-transition-of-zip-to-subrip-srt-formats/"><u>[Updated] Navigating the Transition of Zip to SubRip (SRT) Formats</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-approach-to-crafting-hits-on-9gag/"><u>[Updated] Step-by-Step Approach to Crafting Hits on 9GAG</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-purchasing-illegitimate-views-online/"><u>[Updated] Unveiling Purchasing Illegitimate Views Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-introducing-sw320s-visionary-approach-to-4k-monitoring/"><u>2024 Approved Introducing Sw320’s Visionary Approach to 4K Monitoring</u></a></li>
+<li><a href="https://extra-support.techidaily.com/a-deep-dive-into-the-value-proposition-the-hisense-50-4k-hdr-tv-unveiled/"><u>A Deep Dive Into the Value Proposition: The Hisense 50 4K HDR TV Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722196012429-affordable-cybersecurity-solve-ransomware-for-just-50-using-your-phone-plus-insights-from-chatgpt-in-our-latest-episode/"><u>Affordable Cybersecurity: Solve Ransomware for Just $50 Using Your Phone, Plus Insights From ChatGPT in Our Latest Episode!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/future-perfected-4-upgrades-were-hoping-to-discover-in-gpt-5/"><u>Future Perfected: 4 Upgrades We're Hoping to Discover in GPT-5</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-video-workflows-selecting-the-best-players/"><u>In 2024, Streamline Your Video Workflows Selecting the Best Players</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pathway-for-pixels-transferring-data-to-computers-for-2024/"><u>Pathway for Pixels Transferring Data to Computers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/rising-dram-market-demands-lead-sk-hynix-towards-expanded-production/"><u>Rising DRAM Market Demands Lead SK Hynix Towards Expanded Production</u></a></li>
 </ul></div>
 
