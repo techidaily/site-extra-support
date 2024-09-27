@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Starting Point  Audition's Approach to Soft Volume Increase\""
-date: 2024-09-14T20:58:19.196Z
-updated: 2024-09-19T17:39:58.350Z
+date: 2024-09-22T17:29:34.657Z
+updated: 2024-09-27T16:02:50.170Z
 tags: 
   - screen-recording
   - ai video
@@ -65,6 +65,13 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steps to use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) to fade audio:**
 
 * First, do the installation of Filmora software from the home screen and set the default procedure for a successful installation, and then open it. Now, to your timeline, add your desired audio file, and then, opt for double-clicking on the same for opening the Audio editing menu.
@@ -78,33 +85,20 @@ You can also split audio, adjust audio, replace the original audio of a video, a
 
 ## Part 3\. Related FAQs
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. How do you do a master fade in Audition?
 
 Select the option of amplifying the effects i.e., amplitude and compression. Do the necessary adjustments there. Then, go to effects and click on Special, and from there, select Mastering.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Adobe Audition fade-out greyed out?
 
@@ -133,15 +127,22 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
 
 ## Part 3\. Related FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. How do you fade in multitrack in Audition?
 
 If you want to fade in and fade out two clips at the same time, then controlling just one track or multiple tracks will allow you to do fades on multiple audios inside the multitrack in Adobe Audition.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How do you do a master fade in Audition?
@@ -153,10 +154,10 @@ Select the option of amplifying the effects i.e., amplitude and compression. Do 
 Fade-in and fade-out options are available in the top-left and right corners of the waveform. Right-clicking in the project panel will produce no ability to work in the audition. That option is called grey out. Whatever you want to look for won't work in this view.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -189,5 +190,26 @@ Adobe Audition has always been a powerful platform for audio editing. But as eve
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-elevate-your-gaming-experience-discovering-kinemasters-potential/"><u>[Updated] In 2024, Elevate Your Gaming Experience - Discovering KineMaster's Potential</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-free-to-fortune-carryminatis-youtube-transformation-ajey/"><u>[Updated] In 2024, From Free to Fortune CarryMinati’s YouTube Transformation (Ajey)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-seamless-speech-recognition-the-pinnacle-of-googles-translation/"><u>[Updated] In 2024, Seamless Speech Recognition The Pinnacle of Google's Translation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-image-correction-in-just-5-essential-android-editing-tools/"><u>[Updated] Master Image Correction in Just 5 Essential Android Editing Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-selecting-optimal-gopro-protection-top-10-selections/"><u>[Updated] Selecting Optimal GoPro Protection - Top 10 Selections</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-aero-tech-machine-varieties/"><u>2024 Approved Aero Tech Machine Varieties</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-inside-the-best-windows-10-features/"><u>2024 Approved Inside the Best Windows 10 Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-marketplaces-for-bespoke-wrapping-marvels/"><u>2024 Approved Leading Marketplaces for Bespoke Wrapping Marvels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-multitasking-firefox-picture-in-picture-explained/"><u>2024 Approved Mastering Multitasking Firefox Picture-in-Picture Explained</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-osblend-the-vmix-alternative/"><u>2024 Approved OSBlend The VMix Alternative</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-chrome-drawing-programs-the-ultimate-list/"><u>2024 Approved Prime Chrome Drawing Programs The Ultimate List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convertir-archivos-de-video-con-facilidad-tres-maneras-gratuitas-para-cambiar-mts-en-mp4/"><u>Convertir Archivos De Video Con Facilidad: Tres Maneras Gratuitas Para Cambiar MTS en MP4</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-infinix-hot-40-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Infinix Hot 40 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-speed-eradicating-background-bgs-in-a-flash/"><u>In 2024, Mastering Speed Eradicating Background Bgs in a Flash</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-gear-for-enhanced-live-video-quality/"><u>In 2024, Optimal Gear for Enhanced Live Video Quality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lockdown-protocol-instantaneous-secure-tiktok-link-addition-for-2024/"><u>Lockdown Protocol Instantaneous, Secure TikTok Link Addition for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/rediscovered-legend-the-grand-value-behind-spyro-reignited-trilogy-critique/"><u>Rediscovered Legend: The Grand Value Behind Spyro Reignited Trilogy Critique</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tuneful-images-the-apple-fusion-method-for-2024/"><u>Tuneful Images The Apple Fusion Method for 2024</u></a></li>
+</ul></div>
 

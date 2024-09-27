@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigating Win11 Like a Pro - Your Guidebook\""
-date: 2024-09-08T01:08:50.812Z
-updated: 2024-09-09T01:08:50.812Z
+date: 2024-09-23T16:59:29.512Z
+updated: 2024-09-27T17:59:19.314Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,6 @@ keywords: "Windows 11 Mastery,Pro W11 Navigation,Ultimate Win11 Tips,Navigate W1
 thumbnail: https://www.lifewire.com/thmb/7PylRPR7R3eCbTAmFPkIawl4_mA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/Broken-Phone-Blue-Background-2ee3ff783b18494fa0b8916c0d029105.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Navigating Win11 Like a Pro - Your Guidebook
 
 # Must-Know Windows 10 Tips and Tricks
@@ -44,12 +38,6 @@ The start menu of Windows 10 is now resizable. It can be quote odd for many but 
 
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Cortana is finally here in Windows 10, taking control of the search functions as well as dishing out as much sass of the operating system in the same way with Windows Phone edition. On the other hand, by default, it will never listen and follow your commands.
 
 If you would like to have the ability to simply bark commands at your personal computer, you launch Cortana through hitting the search field within the taskbar and then choose the Notebook icon in the left side choices pane. You choose “settings” from the list and have the “Let Cortana respond when you say ‘Hey Cortana’” choice. You will have an active and working microphone for it to work.
@@ -60,12 +48,6 @@ While you are poking around the Cortana’s options, you may dive in the Noteboo
 
 ![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The current Windows 10’s preview comes with some interesting apps like the new Xbox app, Insider Hub, Project Spartan web browser, Windows Feedback and a lot more. Though they are good apps to use when you want to get started in using Windows 10, Microsoft is likewise making available the preview of touch-friendly editions of Microsoft Word, Excel as well as the PowerPoint. All of these are known to be universal apps and that means similar code is running on the phones, PCs and tablets.
 
 On the other hand, Microsoft did not release similar apps that are optimized for tablets and phones as of now. These apps don’t come with Windows 10 yet you may download the new apps through the Store. Microsoft will also release the Music Preview and also the Video Preview applications. These apps are designed to replace the present Video and Music apps in Windows 8.1\. These two will be introducing a brand new look which complements the design that Microsoft tries to implement across different apps all over the OS.
@@ -74,18 +56,6 @@ On the other hand, Microsoft did not release similar apps that are optimized for
 
 ![Windows 10 keyboard shortcuts](https://images.wondershare.com/filmora/article-images/Windows-10-keyboard-shortcuts.png)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Most of them include the Windows key. The New window-snapping choices allow you not just to fill partially the screen on one side but also the screen quadrant. Also, you may tap the Windows key downward and hit “Right Arrow” and the “Up Arrow”. With that, the program window would move to the top quadrant at the right side of the screen.
 
 Windows Key-Tab open and leaves open the new task view to show all the running and working programs as well as the virtual desktops. To make the latest virtual desktop, you can use the Windows Key-Ctrl-D. Windows Key-C will get Cortana listening and following your voice input then the Windows Key-S will open its daily glance to showcase the weather, news and sports. Command the line users to obtain a bunch of new selection shortcuts by using the keys Shift and the Arrow keys.
@@ -108,29 +78,15 @@ This is quite simple yet most people make use of the very capable contemporary e
 
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Most users were tired and sick of the Internet Explorer’s incompatibility with a few newer websites. They also hate the sluggish performance of the previous versions. While the latest editions of Internet Explorer have created some significant gains in these aspects, the new Edge Browser of Windows 10 can make a neat and perfect break and it also offers better speed as well as new compatibility which is likely to surprise you. Besides, it now comes with a number of tools that are not available in Internet Explorer and these include the site annotation, extensions and reading view.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -138,3 +94,30 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-game-changing-tips-master-the-art-of-minecraft-capture-on-a-mac/"><u>[New] 2024 Approved Game-Changing Tips Master the Art of Minecraft Capture on a Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-gopro-hero-vs-yi-4k-which-takes-the-prize-in-latest-tech/"><u>[New] GoPro Hero Vs. Yi 4K Which Takes the Prize in Latest Tech?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spotlight-on-5-captivating-book-viddies/"><u>[New] Spotlight on 5 Captivating Book Viddies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-game-recorder-mastery-top-5-techniques-for-windows-11/"><u>[Updated] 2024 Approved Game Recorder Mastery Top 5 Techniques for Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-peak-visionary-suite-feedback/"><u>[Updated] Peak Visionary Suite Feedback</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionize-note-taking-with-mematic-app/"><u>2024 Approved Revolutionize Note-Taking with Mematic App</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-saving-your-hangout-participation/"><u>2024 Approved Saving Your Hangout Participation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-fixing-libgdk-win32-20-0dll-error-on-your-computer/"><u>Guide to Fixing 'libgdk-win32-2.0-0.dll' Error on Your Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-c65-lock-screen-password-by-drfone-android/"><u>How To Change Poco C65 Lock Screen Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-honor-play-7t-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Honor Play 7T to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-motion-secrets-from-a-pro-canon-time-lapse-viewer/"><u>In 2024, Masterful Motion Secrets From a Pro Canon Time-Lapse Viewer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimized-auditory-experience-choosing-the-best-audio-device/"><u>In 2024, Optimized Auditory Experience Choosing the Best Audio Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snap-edit-share-your-initial-guide-to-lunapic/"><u>In 2024, Snap, Edit, Share Your Initial Guide to LunaPic</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-drivers-of-epson-xp-640-printers-on-windows-pcs/"><u>Step-by-Step Guide: Updating Drivers of Epson XP-640 Printers on Windows PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-what-to-do-when-your-software-doesnt-recognize-installed-hardware/"><u>Troubleshooting Guide: What to Do When Your Software Doesn't Recognize Installed Hardware</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

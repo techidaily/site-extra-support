@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Stepwise Journey  Becoming a Pro with Audacity for Recording\""
-date: 2024-09-18T18:23:34.702Z
-updated: 2024-09-20T01:16:35.273Z
+date: 2024-09-26T17:42:15.197Z
+updated: 2024-09-27T17:10:12.639Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ Step3To choose the kind of track you want, click "Tracks" at the top of the page
 
 Step4To begin the recording, simply click the "Record" button. As soon as you press record, an audio graph of your voice should start to display. Using the "Shift + R" hotkeys on your keyboard, you can add a new recording if you'd like to.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Recording using Mac
 
 To record audio on your Mac, you might need to install Audacity and additional plugins. The best option is to use the Soundflower program, which enables you to send sound to other apps rather than your computer's speakers. Here's how to use Soundflower and Audacity to record audio on a Mac.
@@ -47,6 +54,13 @@ Step2The Soundflower app must then be set up. To achieve this, choose "Sounds" f
 Step3In the "Device" section of the Audacity preferences box, choose "Soundflower (2ch)". From the recording area, choose "Software playthrough." Click "OK" to save the options you've selected.
 
 Step4Launch audacity, then open the app whose audio you wish to record. To begin the recording, click the "Record" button.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Export your audio
 
@@ -94,12 +108,26 @@ Simply select the necessary file format from the drop-down box that appears next
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-retro-tech-treasure/"><u>[New] 2024 Approved Retro Tech Treasure</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-ion-air-pro-3-camera-analysis-gearing-up-for-great-shots/"><u>[Updated] ION Air Pro 3 Camera Analysis - Gearing Up for Great Shots</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lighten-your-livestreams-selecting-5-brightening-tech/"><u>[Updated] Lighten Your Livestreams Selecting 5 Brightening Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-your-wit-kapwing-meme-creator-guide/"><u>[Updated] Master Your Wit Kapwing Meme Creator Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits/"><u>[Updated] Photography Tutorial How to Shoot and Create Impressive HDR Portraits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-selective-image-blurring-techniques/"><u>2024 Approved Mastering Selective Image Blurring Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snapshots-of-progress-windows-10s-new-features/"><u>2024 Approved Snapshots of Progress Windows 10'S New Features</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-gpio-control-program-free-download/"><u>AMD GPIO Control Program - Free Download</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gopro-hero4-vs-drift-ghost-ultimate-performance-showdown/"><u>GoPro Hero4 Vs. Drift Ghost - Ultimate Performance Showdown</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s18e-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-aspect-ratio-adaptation-in-dev-workflows/"><u>In 2024, Seamless Aspect Ratio Adaptation in Dev Workflows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/iphone-stuck-in-attempting-to-recover-data-loop-heres-how-to-break-free/"><u>IPhone Stuck in ‘Attempting to Recover Data’ Loop? Here’s How to Break Free!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-sound-communication-on-whatsapp-for-2024/"><u>Mastering Sound Communication on WhatsApp for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-presentation-with-personalized-typography-in-ae-projects-for-2024/"><u>Perfect Presentation with Personalized Typography in AE Projects for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-audio-hardware-software-installation/"><u>Seamless Audio Hardware Software Installation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-most-popular-6-free-and-quick-youtube-video-repositories/"><u>The Most Popular 6 Free & Quick YouTube Video Repositories</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-every-epic-title-solving-egl-visibility-issues/"><u>Unlocking Every Epic Title: Solving EGL Visibility Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-wit-a-guide-to-making-memes-shine/"><u>Visual Wit A Guide to Making Memes Shine</u></a></li>
+</ul></div>
 

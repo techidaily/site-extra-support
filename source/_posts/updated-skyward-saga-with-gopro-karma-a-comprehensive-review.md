@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Skyward Saga with GoPro Karma  A Comprehensive Review\""
-date: 2024-09-17T21:04:43.823Z
-updated: 2024-09-19T19:50:11.782Z
+date: 2024-09-24T18:21:44.748Z
+updated: 2024-09-27T16:02:57.658Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -87,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
 
 #### Conclusion
@@ -94,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -108,12 +129,24 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-basics-motion-graphics-framework/"><u>[New] Mastering the Basics Motion Graphics Framework</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-does-spending-on-youtube-followers-really-amplify-your-presence-for-2024/"><u>[Updated] Does Spending on YouTube Followers Really Amplify Your Presence for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-secure-surveillance-skills-redacting-and-obscuring-personal-information/"><u>[Updated] In 2024, Secure Surveillance Skills Redacting and Obscuring Personal Information</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-rx-fanfare-update-pack-for-2024/"><u>[Updated] RX Fanfare Update Pack for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-11-powerful-gpt-strategies-for-authenticity-in-fiction/"><u>Discovering 11 Powerful GPT Strategies for Authenticity in Fiction</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-14-pro-maxipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone 14 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-video-resizing-utility/"><u>In 2024, Precision Video Resizing Utility</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pursuing-peak-performance-selecting-premium-drone-motors/"><u>In 2024, Pursuing Peak Performance Selecting Premium Drone Motors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-srgb-versus-rgb-a-detailed-comparison-for-professionals/"><u>In 2024, Srgb Versus Rgb A Detailed Comparison for Professionals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/jumpstart-gaming-fun-xbox-one-and-zoom-integration-for-2024/"><u>Jumpstart Gaming Fun Xbox One and Zoom Integration for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/making-your-mark-with-video-content-in-captivate-for-2024/"><u>Making Your Mark with Video Content in Captivate for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-vlc-tips-revealing-unknown-features-for-2024/"><u>Master VLC Tips Revealing Unknown Features for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photos-unbound-choosing-between-cost-free-and-premium-cloud-options-for-2024/"><u>Photos Unbound Choosing Between Cost-Free and Premium Cloud Options for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-and-easy-steps-for-photos-in-your-instagram-gallery-for-2024/"><u>Quick and Easy Steps for Photos in Your Instagram Gallery for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-video-cameras-previewed-for-2024/"><u>Superior Video Cameras Previewed for 2024</u></a></li>
+</ul></div>
 

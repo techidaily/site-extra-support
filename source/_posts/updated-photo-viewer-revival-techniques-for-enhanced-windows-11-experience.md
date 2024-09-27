@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photo Viewer Revival Techniques for Enhanced Windows 11 Experience"
-date: 2024-09-16T00:42:26.341Z
-updated: 2024-09-19T16:19:35.940Z
+date: 2024-09-23T18:27:57.316Z
+updated: 2024-09-27T16:11:45.590Z
 tags: 
   - screen-recording
   - ai video
@@ -69,6 +69,13 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2 to get Windows Photo Viewer back
 
 Here comes another way to restore Windows Photo Viewer on your computer. If your computer has been upgraded to Windows 10 from an older version, then Windows Photo Viewer might be lying around somewhere. You can retrieve it to view images.
@@ -83,22 +90,22 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -106,13 +113,20 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -128,5 +142,24 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-journey-through-hybrid-horizons-understanding-mixed-reality-for-2024/"><u>[New] Journey Through Hybrid Horizons Understanding Mixed Reality for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-make-your-own-meme-now/"><u>[New] Make Your Own Meme Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-screen-selection-simplified-ultrawide-versus-uhd-4k-demystified/"><u>[New] Screen Selection Simplified UltraWide Versus UHD 4K Demystified</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smart-picks-user-friendly-bd-software-for-pc-and-mac/"><u>[New] Smart Picks User-Friendly BD Software for PC and Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-storage-analysis-videography-on-64128gb-hardware/"><u>[New] Storage Analysis Videography on 64/128GB Hardware</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-keeping-balance-in-the-world-of-immersive-virtuality/"><u>[Updated] Keeping Balance in the World of Immersive Virtuality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-tips-transforming-mundane-footage-into-epic-gopro-time-lapses/"><u>[Updated] Pro Tips Transforming Mundane Footage Into Epic GoPro Time-Lapses</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-manycam-recorder-review/"><u>2024 Approved ManyCam Recorder Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-serpent-soundtrack-comprehensive-guide-to-tts-resources-online/"><u>2024 Approved Serpent Soundtrack Comprehensive Guide to TTS Resources Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplified-hdr-an-in-depth-examination/"><u>2024 Approved Simplified HDR An In-Depth Examination</u></a></li>
+<li><a href="https://techidaily.com/enhancing-website-personalization-with-cookiebot-technology/"><u>Enhancing Website Personalization with Cookiebot Technology</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-spark-go-2023-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Spark Go (2023) Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y36-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y36? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/replay-xiaomi-11s-best-moments-with-crystal-clarity/"><u>Replay Xiaomi 11'S Best Moments with Crystal Clarity</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/screencapture-pro-a-comprehensive-analysis-for-2024/"><u>ScreenCapture Pro A Comprehensive Analysis for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-what-is-ai-pixel-art-generator/"><u>Updated In 2024, What Is AI Pixel Art Generator?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-editing-tips-and-tricks-for-shorter-videos-for-2024/"><u>YouTube Editing Tips and Tricks for Shorter Videos for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal Typographic Animations Compiled"
-date: 2024-09-18T21:19:11.832Z
-updated: 2024-09-19T23:43:58.562Z
+date: 2024-09-23T18:37:39.727Z
+updated: 2024-09-27T17:53:35.869Z
 tags: 
   - screen-recording
   - ai video
@@ -34,11 +34,32 @@ You get 110 animated elements that you can apply to the text in your video. The 
 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Dynamic Text Animations
 
 There is always a high demand for dynamic text animations in After Effects. This pack focuses on three types of animations namely bounce, kinetic and overshoot. You get 50 presets, 20 title scenes as well as 10 different typography scenes. You can animate texts, titles, as well as characters. You can even adjust the properties to match your video content as per your requirements. In fact, there are advanced controls available for further customization.
 
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Squash & Stretch Preset
 
@@ -47,17 +68,10 @@ If you want to add texts and titles in your video that looks like the games mean
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. CounterPro Preset
@@ -66,13 +80,6 @@ In this pack, you will find unique text effects, and you can animate text with k
 
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Text Library
 
 If there is a must-have preset you should manage to have in After Effects is Text Library. There are as many as 1000 text presets available and this will serve all your requirements completely. Starting from animations and effects to transitions, everything is available in different categories for you to choose from and apply to your text. The pack keeps on updating to include trendy and funky text effects so that you do not miss out anything.
@@ -80,10 +87,10 @@ If there is a must-have preset you should manage to have in After Effects is Tex
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Kinetic Text Animation
@@ -130,5 +137,18 @@ As the saying goes, the more the merrier and the more presets you have, the more
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-monitor-magic-top-choices-to-transform-your-xbox-series-x-playtime/"><u>[New] Monitor Magic Top Choices to Transform Your Xbox Series X Playtime</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-secrets-unveiled-seamlessly-download-your-favorite-vimeo-videos-anywhere-for-2024/"><u>[New] Secrets Unveiled Seamlessly Download Your Favorite Vimeo Videos Anywhere for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-enhancing-engagement-share-tiktoks-on-twitter/"><u>[Updated] In 2024, Enhancing Engagement Share TikToks on Twitter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-no-cost-fcp-how-to-achieve-that/"><u>[Updated] No Cost FCP? How to Achieve That</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-srt-pinnacle-selecting-the-premier-turbo-charger-systems-for-os-xwin/"><u>2024 Approved SRT Pinnacle Selecting the Premier Turbo Charger Systems for OS X/Win</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-factors-to-evaluate-when-purchasing-your-first-video-recording-gadget/"><u>Essential Factors to Evaluate When Purchasing Your First Video Recording Gadget</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-streamer-capture-and-save-videos-for-2024/"><u>FB-Streamer Capture and Save Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-photo-and-video-size-adjustment-guide-for-2024/"><u>Instagram Photo and Video Size Adjustment Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-ultimate-guide-to-manycam-and-virtual-webcams/"><u>Live Streaming Mastery: Ultimate Guide to ManyCam and Virtual Webcams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-the-art-of-attraction-8-proven-techniques-for-reel-success-for-2024/"><u>Master the Art of Attraction 8 Proven Techniques for Reel Success for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/selective-cinematic-forecast-collection-for-2024/"><u>Selective Cinematic Forecast Collection for 2024</u></a></li>
+</ul></div>
 
