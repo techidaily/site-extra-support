@@ -1,7 +1,7 @@
 ---
 title: "[Updated] IPhone Users' Guide to Picture Softening (Four Ways)"
-date: 2024-09-24T17:24:53.719Z
-updated: 2024-09-27T16:35:28.243Z
+date: 2024-09-30T23:04:00.848Z
+updated: 2024-10-02T16:57:33.815Z
 tags: 
   - screen-recording
   - ai video
@@ -74,12 +74,259 @@ Tap and hold the main subject on the screen until the **AE/AF Lock** message sho
 
 Get closer to the subject. Ensure that the background around the main subject gets blurry and you move forward. Tap the **Capture** icon once you are close enough to get the desired level of blurriness in the background. Now, use the method explained above to access the captured photo.
 
+## Part 3: Adding Vignette Effect to Photo to Blur the Background on iPhone
+
+The built-in Photos app comes with the Vignette effect that can be applied to the image at the time of editing. However, to get this done, it is recommended that the main subject should be at the center so the background looks unimportant. You can follow the steps given below to learn **how to blur a picture on iPhone** with the Vignette effect:
+
+**Step 1: Get to the Photo’s Edit Mode**
+
+Launch the **Photos** app on your iPhone, go to the album with the target photo, and tap to open the target photo. Next, make sure that the picture is not open in the full-screen mode, and tap **Edit** from the top-right corner to get to the **Edit** mode.
+
+**Step 2: Apply and Adjust the Vignette Effect**
+
+Tap the Effects icon from the bottom, swipe left to horizontally scroll through the available effects to get to **VIGNETTE**, and use the slider under it to manage the intensity to **blur picture iPhone** has.
+
+![blur picture on iphone with vignette effect](https://images.wondershare.com/filmora/article-images/blur-picture-on-iphone-with-vignette-effect.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Step 3: Save and Access the Photo**
+
+Tap **Done** from the bottom-right corner to save the changes and to exit the **Edit** mode. Continue using the image as and/or where needed.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 4: Blur the Background of Photos on iPhone with Apps
+
+You may want to use a third-party app to apply effects to the photos because they offer several advanced features that the iPhone’s built-in Photos app doesn’t. Furthermore, since such programs are designed specifically for the purpose, they are quite intuitive and come with self-explanatory options and buttons.
+
+There is a plethora of apps available on the App Store that can help you get the job done, and most of them come with their free tutorials to teach **how to blur photos on iPhone**. One such program is Snapseed that offers an easy way to pick the main subject in the image, and blur all the background objects behind it. The process of blurring the picture with Snapseed is given below:
+
+**Step 1: Add the Target Photo to Snapseed**
+
+After [installing Snapseed from the App Store](https://apps.apple.com/us/app/snapseed/id439438619), launch the program, and tap anywhere on the main screen. On the accessibility allowance box, tap **Select Photos**, tap to select the target photo from your iPhone, and tap **Done** from the top-right corner. Next, tap anywhere on the screen to import the selected picture to Snapseed.
+
+![open photo to blur snapseed](https://images.wondershare.com/filmora/article-images/open-photo-to-blur-snapseed.jpg)
+
+**Step 2: Pick the Blur Tool**
+
+Tap **TOOLS** from the bottom of the interface, and from the options available in the box that pops up, tap **Lens Blur**.
+
+![pick blur tool snapseed](https://images.wondershare.com/filmora/article-images/pick-blur-tool-snapseed.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Step 3: Adjust the Blur Shape and Size**
+
+Tap the **Shape** icon from the bottom to switch between the **Linear** and **Elliptical** blur shapes. Tap the Blue dot at the center of the image, and drag it to the main subject in the photo. Next, use two fingers to drag inwards or outwards on the screen to decrease or increase the effective area respectively.
+
+**Step 4: Blur the Photo and Export**
+
+From the top, ensure that the **Blur Strength** option is selected, tap anywhere on the screen, and drag to the right to increase the intensity of the blurriness. Optionally, you can tap the Effect Types icon from the bottom, and tap to choose **Vignette Strength** from the box that comes up.
+
+![snapseed blur photo background](https://images.wondershare.com/filmora/article-images/snapseed-blur-photo-background.jpg)
+
+Then, as earlier, drag your finger to the right or left anywhere on the screen to increase or decrease the intensity of the effect respectively. Once done, tap the **OK** button (with the tick mark) from the bottom-right corner. Back on the main screen, tap **EXPORT** from the bottom-right, you tap your preferred option for exporting.
+
+![save blurred photo snapseed](https://images.wondershare.com/filmora/article-images/save-blurred-photo-snapseed.jpg)
+
+**Conclusion**
+
+Blurring the background in a photo ensures that the main subject remains in the focus, and all the other unimportant objects don’t steal the limelight. If you are using iPhone 7 Plus or above models, the background of the photos can be blurred at the time of capturing. Furthermore, the built-in Photos app in iPhones also come with the Vignette effect that enables you to do the job with ease. However, if you want precision and more control over the images while blurring, you can use an efficient third-party tool like Snapseed that also has its own set of tutorials to teach **how to blur a picture on iPhone**.
+
+02 [Take a Photo with a Blurred Background](#part2)
+
+03 [Add Vignette Effect to Photo to Blur the Background](#part3)
+
+04 [Blur the Background of Photos on iPhone with Apps](#part4)
+
+## Part 1: How to Blur the Photo Background with Portrait Mode on iPhone
+
+Portrait mode in the Camera app is available on iPhone 7 Plus and above models. However, if you are using iPhone SE 2020 or iPhone XR, you can blur the background of the images only with the people as the main subject.
+
+You can learn **how to blur an image on iPhone** using Portrait mode by following the instructions given below:
+
+**Step 1: Launch the Camera App**
+
+Grab your iPhone (iPhone 13 Pro Max is used here for illustration), and tab the **Camera** icon from the Home screen to launch the app.
+
+**Step 2: Get to the Portrait Mode and Adjust the Depth**
+
+Swipe-drag the modes present above the **Shutter** button to switch to the **PORTRAIT** option, and tap the main subject on the screen that you want to capture the image of. Next, tap the **f** (**Depth**) icon from the top-right corner, and drag the **Depth** slider to the left to increase the intensity of the blur effect of the background.
+
+![iphone portrait mode blur background](https://images.wondershare.com/filmora/article-images/iphone-portrait-mode-blur-background.jpg)
+
+**Step 3: Capture and Access the Photo**
+
+Tap the **Capture** icon from the bottom-center to capture the image. To access, you can either tap the **Preview** icon from the bottom-left corner, or get to the **Photos** app from the Home screen, go to **Albums**, and access the captured photo from the **Recents** album.
+
+![blur photo background iphone portrait mode](https://images.wondershare.com/filmora/article-images/blur-photo-background-iphone-portrait-mode.jpg)
+
+## Part 2: Take a Photo with a Blurred Background on Older iPhones by Getting Closer to the Subject
+
+If you are using an older model of iPhone that doesn’t have ‘Portrait’ mode, you can still capture the images with the blurred background by getting closer to the subject, and enabling ‘Auto Focus’ before tapping the ‘Capture’ button. You can learn how to do this by following the steps given below:
+
+**Step 1: Get to the Camera App**
+
+Use the method explained above to launch the **Camera** app on your iPhone. Because it’s an old model that doesn’t have Portrait mode, you can stay in the **PHOTO** mode.
+
+**Step 2: Turn on Auto Focus**
+
+Tap and hold the main subject on the screen until the **AE/AF Lock** message shows up at the top to confirm that the **Auto Focus** feature has been turned on.
+
+![iphone auto focus blur photo background](https://images.wondershare.com/filmora/article-images/iphone-auto-focus-blur-photo-background.jpg)
+
+**Step 3: Capture and Access the Image**
+
+Get closer to the subject. Ensure that the background around the main subject gets blurry and you move forward. Tap the **Capture** icon once you are close enough to get the desired level of blurriness in the background. Now, use the method explained above to access the captured photo.
+
+## Part 3: Adding Vignette Effect to Photo to Blur the Background on iPhone
+
+The built-in Photos app comes with the Vignette effect that can be applied to the image at the time of editing. However, to get this done, it is recommended that the main subject should be at the center so the background looks unimportant. You can follow the steps given below to learn **how to blur a picture on iPhone** with the Vignette effect:
+
+**Step 1: Get to the Photo’s Edit Mode**
+
+Launch the **Photos** app on your iPhone, go to the album with the target photo, and tap to open the target photo. Next, make sure that the picture is not open in the full-screen mode, and tap **Edit** from the top-right corner to get to the **Edit** mode.
+
+**Step 2: Apply and Adjust the Vignette Effect**
+
+Tap the Effects icon from the bottom, swipe left to horizontally scroll through the available effects to get to **VIGNETTE**, and use the slider under it to manage the intensity to **blur picture iPhone** has.
+
+![blur picture on iphone with vignette effect](https://images.wondershare.com/filmora/article-images/blur-picture-on-iphone-with-vignette-effect.jpg)
+
+**Step 3: Save and Access the Photo**
+
+Tap **Done** from the bottom-right corner to save the changes and to exit the **Edit** mode. Continue using the image as and/or where needed.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 4: Blur the Background of Photos on iPhone with Apps
+
+You may want to use a third-party app to apply effects to the photos because they offer several advanced features that the iPhone’s built-in Photos app doesn’t. Furthermore, since such programs are designed specifically for the purpose, they are quite intuitive and come with self-explanatory options and buttons.
+
+There is a plethora of apps available on the App Store that can help you get the job done, and most of them come with their free tutorials to teach **how to blur photos on iPhone**. One such program is Snapseed that offers an easy way to pick the main subject in the image, and blur all the background objects behind it. The process of blurring the picture with Snapseed is given below:
+
+**Step 1: Add the Target Photo to Snapseed**
+
+After [installing Snapseed from the App Store](https://apps.apple.com/us/app/snapseed/id439438619), launch the program, and tap anywhere on the main screen. On the accessibility allowance box, tap **Select Photos**, tap to select the target photo from your iPhone, and tap **Done** from the top-right corner. Next, tap anywhere on the screen to import the selected picture to Snapseed.
+
+![open photo to blur snapseed](https://images.wondershare.com/filmora/article-images/open-photo-to-blur-snapseed.jpg)
+
+**Step 2: Pick the Blur Tool**
+
+Tap **TOOLS** from the bottom of the interface, and from the options available in the box that pops up, tap **Lens Blur**.
+
+![pick blur tool snapseed](https://images.wondershare.com/filmora/article-images/pick-blur-tool-snapseed.jpg)
+
+**Step 3: Adjust the Blur Shape and Size**
+
+Tap the **Shape** icon from the bottom to switch between the **Linear** and **Elliptical** blur shapes. Tap the Blue dot at the center of the image, and drag it to the main subject in the photo. Next, use two fingers to drag inwards or outwards on the screen to decrease or increase the effective area respectively.
+
+**Step 4: Blur the Photo and Export**
+
+From the top, ensure that the **Blur Strength** option is selected, tap anywhere on the screen, and drag to the right to increase the intensity of the blurriness. Optionally, you can tap the Effect Types icon from the bottom, and tap to choose **Vignette Strength** from the box that comes up.
+
+![snapseed blur photo background](https://images.wondershare.com/filmora/article-images/snapseed-blur-photo-background.jpg)
+
+Then, as earlier, drag your finger to the right or left anywhere on the screen to increase or decrease the intensity of the effect respectively. Once done, tap the **OK** button (with the tick mark) from the bottom-right corner. Back on the main screen, tap **EXPORT** from the bottom-right, you tap your preferred option for exporting.
+
+![save blurred photo snapseed](https://images.wondershare.com/filmora/article-images/save-blurred-photo-snapseed.jpg)
+
+**Conclusion**
+
+Blurring the background in a photo ensures that the main subject remains in the focus, and all the other unimportant objects don’t steal the limelight. If you are using iPhone 7 Plus or above models, the background of the photos can be blurred at the time of capturing. Furthermore, the built-in Photos app in iPhones also come with the Vignette effect that enables you to do the job with ease. However, if you want precision and more control over the images while blurring, you can use an efficient third-party tool like Snapseed that also has its own set of tutorials to teach **how to blur a picture on iPhone**.
+
+02 [Take a Photo with a Blurred Background](#part2)
+
+03 [Add Vignette Effect to Photo to Blur the Background](#part3)
+
+04 [Blur the Background of Photos on iPhone with Apps](#part4)
+
+## Part 1: How to Blur the Photo Background with Portrait Mode on iPhone
+
+Portrait mode in the Camera app is available on iPhone 7 Plus and above models. However, if you are using iPhone SE 2020 or iPhone XR, you can blur the background of the images only with the people as the main subject.
+
+You can learn **how to blur an image on iPhone** using Portrait mode by following the instructions given below:
+
+**Step 1: Launch the Camera App**
+
+Grab your iPhone (iPhone 13 Pro Max is used here for illustration), and tab the **Camera** icon from the Home screen to launch the app.
+
+**Step 2: Get to the Portrait Mode and Adjust the Depth**
+
+Swipe-drag the modes present above the **Shutter** button to switch to the **PORTRAIT** option, and tap the main subject on the screen that you want to capture the image of. Next, tap the **f** (**Depth**) icon from the top-right corner, and drag the **Depth** slider to the left to increase the intensity of the blur effect of the background.
+
+![iphone portrait mode blur background](https://images.wondershare.com/filmora/article-images/iphone-portrait-mode-blur-background.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Step 3: Capture and Access the Photo**
+
+Tap the **Capture** icon from the bottom-center to capture the image. To access, you can either tap the **Preview** icon from the bottom-left corner, or get to the **Photos** app from the Home screen, go to **Albums**, and access the captured photo from the **Recents** album.
+
+![blur photo background iphone portrait mode](https://images.wondershare.com/filmora/article-images/blur-photo-background-iphone-portrait-mode.jpg)
+
+## Part 2: Take a Photo with a Blurred Background on Older iPhones by Getting Closer to the Subject
+
+If you are using an older model of iPhone that doesn’t have ‘Portrait’ mode, you can still capture the images with the blurred background by getting closer to the subject, and enabling ‘Auto Focus’ before tapping the ‘Capture’ button. You can learn how to do this by following the steps given below:
+
+**Step 1: Get to the Camera App**
+
+Use the method explained above to launch the **Camera** app on your iPhone. Because it’s an old model that doesn’t have Portrait mode, you can stay in the **PHOTO** mode.
+
+**Step 2: Turn on Auto Focus**
+
+Tap and hold the main subject on the screen until the **AE/AF Lock** message shows up at the top to confirm that the **Auto Focus** feature has been turned on.
+
+![iphone auto focus blur photo background](https://images.wondershare.com/filmora/article-images/iphone-auto-focus-blur-photo-background.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Step 3: Capture and Access the Image**
+
+Get closer to the subject. Ensure that the background around the main subject gets blurry and you move forward. Tap the **Capture** icon once you are close enough to get the desired level of blurriness in the background. Now, use the method explained above to access the captured photo.
 
 ## Part 3: Adding Vignette Effect to Photo to Blur the Background on iPhone
 
@@ -130,6 +377,13 @@ From the top, ensure that the **Blur Strength** option is selected, tap anywhere
 Then, as earlier, drag your finger to the right or left anywhere on the screen to increase or decrease the intensity of the effect respectively. Once done, tap the **OK** button (with the tick mark) from the bottom-right corner. Back on the main screen, tap **EXPORT** from the bottom-right, you tap your preferred option for exporting.
 
 ![save blurred photo snapseed](https://images.wondershare.com/filmora/article-images/save-blurred-photo-snapseed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Conclusion**
 
@@ -232,253 +486,11 @@ Then, as earlier, drag your finger to the right or left anywhere on the screen t
 ![save blurred photo snapseed](https://images.wondershare.com/filmora/article-images/save-blurred-photo-snapseed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-**Conclusion**
-
-Blurring the background in a photo ensures that the main subject remains in the focus, and all the other unimportant objects don’t steal the limelight. If you are using iPhone 7 Plus or above models, the background of the photos can be blurred at the time of capturing. Furthermore, the built-in Photos app in iPhones also come with the Vignette effect that enables you to do the job with ease. However, if you want precision and more control over the images while blurring, you can use an efficient third-party tool like Snapseed that also has its own set of tutorials to teach **how to blur a picture on iPhone**.
-
-02 [Take a Photo with a Blurred Background](#part2)
-
-03 [Add Vignette Effect to Photo to Blur the Background](#part3)
-
-04 [Blur the Background of Photos on iPhone with Apps](#part4)
-
-## Part 1: How to Blur the Photo Background with Portrait Mode on iPhone
-
-Portrait mode in the Camera app is available on iPhone 7 Plus and above models. However, if you are using iPhone SE 2020 or iPhone XR, you can blur the background of the images only with the people as the main subject.
-
-You can learn **how to blur an image on iPhone** using Portrait mode by following the instructions given below:
-
-**Step 1: Launch the Camera App**
-
-Grab your iPhone (iPhone 13 Pro Max is used here for illustration), and tab the **Camera** icon from the Home screen to launch the app.
-
-**Step 2: Get to the Portrait Mode and Adjust the Depth**
-
-Swipe-drag the modes present above the **Shutter** button to switch to the **PORTRAIT** option, and tap the main subject on the screen that you want to capture the image of. Next, tap the **f** (**Depth**) icon from the top-right corner, and drag the **Depth** slider to the left to increase the intensity of the blur effect of the background.
-
-![iphone portrait mode blur background](https://images.wondershare.com/filmora/article-images/iphone-portrait-mode-blur-background.jpg)
-
-**Step 3: Capture and Access the Photo**
-
-Tap the **Capture** icon from the bottom-center to capture the image. To access, you can either tap the **Preview** icon from the bottom-left corner, or get to the **Photos** app from the Home screen, go to **Albums**, and access the captured photo from the **Recents** album.
-
-![blur photo background iphone portrait mode](https://images.wondershare.com/filmora/article-images/blur-photo-background-iphone-portrait-mode.jpg)
-
-## Part 2: Take a Photo with a Blurred Background on Older iPhones by Getting Closer to the Subject
-
-If you are using an older model of iPhone that doesn’t have ‘Portrait’ mode, you can still capture the images with the blurred background by getting closer to the subject, and enabling ‘Auto Focus’ before tapping the ‘Capture’ button. You can learn how to do this by following the steps given below:
-
-**Step 1: Get to the Camera App**
-
-Use the method explained above to launch the **Camera** app on your iPhone. Because it’s an old model that doesn’t have Portrait mode, you can stay in the **PHOTO** mode.
-
-**Step 2: Turn on Auto Focus**
-
-Tap and hold the main subject on the screen until the **AE/AF Lock** message shows up at the top to confirm that the **Auto Focus** feature has been turned on.
-
-![iphone auto focus blur photo background](https://images.wondershare.com/filmora/article-images/iphone-auto-focus-blur-photo-background.jpg)
-
-**Step 3: Capture and Access the Image**
-
-Get closer to the subject. Ensure that the background around the main subject gets blurry and you move forward. Tap the **Capture** icon once you are close enough to get the desired level of blurriness in the background. Now, use the method explained above to access the captured photo.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Part 3: Adding Vignette Effect to Photo to Blur the Background on iPhone
-
-The built-in Photos app comes with the Vignette effect that can be applied to the image at the time of editing. However, to get this done, it is recommended that the main subject should be at the center so the background looks unimportant. You can follow the steps given below to learn **how to blur a picture on iPhone** with the Vignette effect:
-
-**Step 1: Get to the Photo’s Edit Mode**
-
-Launch the **Photos** app on your iPhone, go to the album with the target photo, and tap to open the target photo. Next, make sure that the picture is not open in the full-screen mode, and tap **Edit** from the top-right corner to get to the **Edit** mode.
-
-**Step 2: Apply and Adjust the Vignette Effect**
-
-Tap the Effects icon from the bottom, swipe left to horizontally scroll through the available effects to get to **VIGNETTE**, and use the slider under it to manage the intensity to **blur picture iPhone** has.
-
-![blur picture on iphone with vignette effect](https://images.wondershare.com/filmora/article-images/blur-picture-on-iphone-with-vignette-effect.jpg)
-
-**Step 3: Save and Access the Photo**
-
-Tap **Done** from the bottom-right corner to save the changes and to exit the **Edit** mode. Continue using the image as and/or where needed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Part 4: Blur the Background of Photos on iPhone with Apps
-
-You may want to use a third-party app to apply effects to the photos because they offer several advanced features that the iPhone’s built-in Photos app doesn’t. Furthermore, since such programs are designed specifically for the purpose, they are quite intuitive and come with self-explanatory options and buttons.
-
-There is a plethora of apps available on the App Store that can help you get the job done, and most of them come with their free tutorials to teach **how to blur photos on iPhone**. One such program is Snapseed that offers an easy way to pick the main subject in the image, and blur all the background objects behind it. The process of blurring the picture with Snapseed is given below:
-
-**Step 1: Add the Target Photo to Snapseed**
-
-After [installing Snapseed from the App Store](https://apps.apple.com/us/app/snapseed/id439438619), launch the program, and tap anywhere on the main screen. On the accessibility allowance box, tap **Select Photos**, tap to select the target photo from your iPhone, and tap **Done** from the top-right corner. Next, tap anywhere on the screen to import the selected picture to Snapseed.
-
-![open photo to blur snapseed](https://images.wondershare.com/filmora/article-images/open-photo-to-blur-snapseed.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-**Step 2: Pick the Blur Tool**
-
-Tap **TOOLS** from the bottom of the interface, and from the options available in the box that pops up, tap **Lens Blur**.
-
-![pick blur tool snapseed](https://images.wondershare.com/filmora/article-images/pick-blur-tool-snapseed.jpg)
-
-**Step 3: Adjust the Blur Shape and Size**
-
-Tap the **Shape** icon from the bottom to switch between the **Linear** and **Elliptical** blur shapes. Tap the Blue dot at the center of the image, and drag it to the main subject in the photo. Next, use two fingers to drag inwards or outwards on the screen to decrease or increase the effective area respectively.
-
-**Step 4: Blur the Photo and Export**
-
-From the top, ensure that the **Blur Strength** option is selected, tap anywhere on the screen, and drag to the right to increase the intensity of the blurriness. Optionally, you can tap the Effect Types icon from the bottom, and tap to choose **Vignette Strength** from the box that comes up.
-
-![snapseed blur photo background](https://images.wondershare.com/filmora/article-images/snapseed-blur-photo-background.jpg)
-
-Then, as earlier, drag your finger to the right or left anywhere on the screen to increase or decrease the intensity of the effect respectively. Once done, tap the **OK** button (with the tick mark) from the bottom-right corner. Back on the main screen, tap **EXPORT** from the bottom-right, you tap your preferred option for exporting.
-
-![save blurred photo snapseed](https://images.wondershare.com/filmora/article-images/save-blurred-photo-snapseed.jpg)
-
-**Conclusion**
-
-Blurring the background in a photo ensures that the main subject remains in the focus, and all the other unimportant objects don’t steal the limelight. If you are using iPhone 7 Plus or above models, the background of the photos can be blurred at the time of capturing. Furthermore, the built-in Photos app in iPhones also come with the Vignette effect that enables you to do the job with ease. However, if you want precision and more control over the images while blurring, you can use an efficient third-party tool like Snapseed that also has its own set of tutorials to teach **how to blur a picture on iPhone**.
-
-02 [Take a Photo with a Blurred Background](#part2)
-
-03 [Add Vignette Effect to Photo to Blur the Background](#part3)
-
-04 [Blur the Background of Photos on iPhone with Apps](#part4)
-
-## Part 1: How to Blur the Photo Background with Portrait Mode on iPhone
-
-Portrait mode in the Camera app is available on iPhone 7 Plus and above models. However, if you are using iPhone SE 2020 or iPhone XR, you can blur the background of the images only with the people as the main subject.
-
-You can learn **how to blur an image on iPhone** using Portrait mode by following the instructions given below:
-
-**Step 1: Launch the Camera App**
-
-Grab your iPhone (iPhone 13 Pro Max is used here for illustration), and tab the **Camera** icon from the Home screen to launch the app.
-
-**Step 2: Get to the Portrait Mode and Adjust the Depth**
-
-Swipe-drag the modes present above the **Shutter** button to switch to the **PORTRAIT** option, and tap the main subject on the screen that you want to capture the image of. Next, tap the **f** (**Depth**) icon from the top-right corner, and drag the **Depth** slider to the left to increase the intensity of the blur effect of the background.
-
-![iphone portrait mode blur background](https://images.wondershare.com/filmora/article-images/iphone-portrait-mode-blur-background.jpg)
-
-**Step 3: Capture and Access the Photo**
-
-Tap the **Capture** icon from the bottom-center to capture the image. To access, you can either tap the **Preview** icon from the bottom-left corner, or get to the **Photos** app from the Home screen, go to **Albums**, and access the captured photo from the **Recents** album.
-
-![blur photo background iphone portrait mode](https://images.wondershare.com/filmora/article-images/blur-photo-background-iphone-portrait-mode.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Part 2: Take a Photo with a Blurred Background on Older iPhones by Getting Closer to the Subject
-
-If you are using an older model of iPhone that doesn’t have ‘Portrait’ mode, you can still capture the images with the blurred background by getting closer to the subject, and enabling ‘Auto Focus’ before tapping the ‘Capture’ button. You can learn how to do this by following the steps given below:
-
-**Step 1: Get to the Camera App**
-
-Use the method explained above to launch the **Camera** app on your iPhone. Because it’s an old model that doesn’t have Portrait mode, you can stay in the **PHOTO** mode.
-
-**Step 2: Turn on Auto Focus**
-
-Tap and hold the main subject on the screen until the **AE/AF Lock** message shows up at the top to confirm that the **Auto Focus** feature has been turned on.
-
-![iphone auto focus blur photo background](https://images.wondershare.com/filmora/article-images/iphone-auto-focus-blur-photo-background.jpg)
-
-**Step 3: Capture and Access the Image**
-
-Get closer to the subject. Ensure that the background around the main subject gets blurry and you move forward. Tap the **Capture** icon once you are close enough to get the desired level of blurriness in the background. Now, use the method explained above to access the captured photo.
-
-## Part 3: Adding Vignette Effect to Photo to Blur the Background on iPhone
-
-The built-in Photos app comes with the Vignette effect that can be applied to the image at the time of editing. However, to get this done, it is recommended that the main subject should be at the center so the background looks unimportant. You can follow the steps given below to learn **how to blur a picture on iPhone** with the Vignette effect:
-
-**Step 1: Get to the Photo’s Edit Mode**
-
-Launch the **Photos** app on your iPhone, go to the album with the target photo, and tap to open the target photo. Next, make sure that the picture is not open in the full-screen mode, and tap **Edit** from the top-right corner to get to the **Edit** mode.
-
-**Step 2: Apply and Adjust the Vignette Effect**
-
-Tap the Effects icon from the bottom, swipe left to horizontally scroll through the available effects to get to **VIGNETTE**, and use the slider under it to manage the intensity to **blur picture iPhone** has.
-
-![blur picture on iphone with vignette effect](https://images.wondershare.com/filmora/article-images/blur-picture-on-iphone-with-vignette-effect.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-**Step 3: Save and Access the Photo**
-
-Tap **Done** from the bottom-right corner to save the changes and to exit the **Edit** mode. Continue using the image as and/or where needed.
-
-## Part 4: Blur the Background of Photos on iPhone with Apps
-
-You may want to use a third-party app to apply effects to the photos because they offer several advanced features that the iPhone’s built-in Photos app doesn’t. Furthermore, since such programs are designed specifically for the purpose, they are quite intuitive and come with self-explanatory options and buttons.
-
-There is a plethora of apps available on the App Store that can help you get the job done, and most of them come with their free tutorials to teach **how to blur photos on iPhone**. One such program is Snapseed that offers an easy way to pick the main subject in the image, and blur all the background objects behind it. The process of blurring the picture with Snapseed is given below:
-
-**Step 1: Add the Target Photo to Snapseed**
-
-After [installing Snapseed from the App Store](https://apps.apple.com/us/app/snapseed/id439438619), launch the program, and tap anywhere on the main screen. On the accessibility allowance box, tap **Select Photos**, tap to select the target photo from your iPhone, and tap **Done** from the top-right corner. Next, tap anywhere on the screen to import the selected picture to Snapseed.
-
-![open photo to blur snapseed](https://images.wondershare.com/filmora/article-images/open-photo-to-blur-snapseed.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-**Step 2: Pick the Blur Tool**
-
-Tap **TOOLS** from the bottom of the interface, and from the options available in the box that pops up, tap **Lens Blur**.
-
-![pick blur tool snapseed](https://images.wondershare.com/filmora/article-images/pick-blur-tool-snapseed.jpg)
-
-**Step 3: Adjust the Blur Shape and Size**
-
-Tap the **Shape** icon from the bottom to switch between the **Linear** and **Elliptical** blur shapes. Tap the Blue dot at the center of the image, and drag it to the main subject in the photo. Next, use two fingers to drag inwards or outwards on the screen to decrease or increase the effective area respectively.
-
-**Step 4: Blur the Photo and Export**
-
-From the top, ensure that the **Blur Strength** option is selected, tap anywhere on the screen, and drag to the right to increase the intensity of the blurriness. Optionally, you can tap the Effect Types icon from the bottom, and tap to choose **Vignette Strength** from the box that comes up.
-
-![snapseed blur photo background](https://images.wondershare.com/filmora/article-images/snapseed-blur-photo-background.jpg)
-
-Then, as earlier, drag your finger to the right or left anywhere on the screen to increase or decrease the intensity of the effect respectively. Once done, tap the **OK** button (with the tick mark) from the bottom-right corner. Back on the main screen, tap **EXPORT** from the bottom-right, you tap your preferred option for exporting.
-
-![save blurred photo snapseed](https://images.wondershare.com/filmora/article-images/save-blurred-photo-snapseed.jpg)
 
 **Conclusion**
 
@@ -508,24 +520,24 @@ Blurring the background in a photo ensures that the main subject remains in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-streamlining-your-youtube-music-journey/"><u>[New] In 2024, Streamlining Your YouTube Music Journey</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/eapfrogging-into-digital-marketing-establishing-a-yt-channel-on-mobile-for-2024/"><u>[New] Leapfrogging Into Digital Marketing Establishing a YT Channel on Mobile for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-digital-content-in-pedagogic-contexts/"><u>[New] Navigating Digital Content in Pedagogic Contexts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ride-safely-leading-helmet-cams-reviewed-for-motorcycling/"><u>[Updated] 2024 Approved Ride Safely Leading Helmet Cams Reviewed for Motorcycling</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-lighten-up-the-internet-craft-memes-with-kapwing/"><u>[Updated] Lighten Up the Internet Craft Memes With Kapwing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pixel-perfection-portfolio-best-animation-transformation-tools/"><u>[Updated] Pixel Perfection Portfolio Best Animation Transformation Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mac-masters-choice-top-10-incredible-4k-displays/"><u>2024 Approved Mac Master's Choice Top 10 Incredible 4K Displays</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pocketful-skies-affordable-large-file-allocator/"><u>2024 Approved Pocketful Skies - Affordable Large File Allocator</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-professional-picks-top-gimbals-for-drones/"><u>2024 Approved Professional Picks Top Gimbals for Drones</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-poco-m6-pro-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Poco M6 Pro 5G Lock Screen Password</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/how-to-send-a-snap-from-memoriescamera-roll-on-snapchat-for-2024/"><u>How to Send a Snap From Memories/Camera Roll on Snapchat for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/identifying-the-cause-of-random-device-shutdowns-troubleshooting-steps-inside-out/"><u>Identifying the Cause of Random Device Shutdowns: Troubleshooting Steps Inside Out</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reawakening-windows-photo-viewer-in-windows-10-with-ease/"><u>In 2024, Reawakening Windows Photo Viewer in Windows 10 with Ease</u></a></li>
-<li><a href="https://extra-support.techidaily.com/iphones-premier-videography-tools-for-2024/"><u>IPhone's Premier Videography Tools for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nubia-red-magic-8s-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nubia Red Magic 8S ProFRP Lock</u></a></li>
-<li><a href="https://extra-support.techidaily.com/is-inshot-superior-detailed-app-review-unveiled-for-2024/"><u>Is InShot Superior? Detailed App Review Unveiled for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tango-app-review-top-choice-for-costless-text-voice-and-video-chatting/"><u>Tango App Review: Top Choice for Costless Text, Voice, and Video Chatting</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/trouble-connecting-to-psn-heres-how-to-tell-if-its-a-server-outage-or-your-internet/"><u>Trouble Connecting to PSN? Here's How to Tell if It's a Server Outage or Your Internet</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-resolving-football-manager-2e21-stability-problems-for-pc-users/"><u>Ultimate Troubleshooting Guide: Resolving Football Manager 2E21 Stability Problems for PC Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/os-focused-techniques-downloading-and-saving-youtube-video/"><u>[New] IOS-Focused Techniques Downloading and Saving YouTube Video</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-deep-dive-into-videomovavi-11s-features-and-performance-for-2024/"><u>[Updated] Deep Dive Into VideoMovavi 11'S Features & Performance for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-jumpstarting-your-marketing-the-essentials-of-telegram-advertising/"><u>[Updated] Jumpstarting Your Marketing The Essentials of Telegram Advertising</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-overcoming-compression-artifacts-on-youtube-videos/"><u>[Updated] Overcoming Compression Artifacts on YouTube Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-your-video-narrative-an-ultimate-guide-to-adding-chapters-on-youtube/"><u>[Updated] Perfect Your Video Narrative An Ultimate Guide to Adding Chapters on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-polishing-zoom-picture-quality-simple-solutions/"><u>[Updated] Polishing Zoom Picture Quality Simple Solutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-audios-essential-guide-to-top-10-free-luts/"><u>[Updated] Pro Audio's Essential Guide to Top 10 Free LUTs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-guide-speech-to-text-feature-in-microsoft-word/"><u>2024 Approved Quick Guide Speech-to-Text Feature in Microsoft Word</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-srt-creation-the-ultimate-xmlssattml-playbook/"><u>2024 Approved Seamless SRT Creation The Ultimate XML/SSA/TTML Playbook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-innovators-clash-understanding-the-differences-in-structure-and-functionality-between-gpt-and-bert/"><u>AI Innovators Clash: Understanding the Differences in Structure and Functionality Between GPT and BERT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-correcting-microphone-failure-during-google-meets-on-windows-1110-computers/"><u>Expert Advice: Correcting Microphone Failure During Google Meets on Windows 11/10 Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-correct-hp-officejet-pro-6978s-driver-issues-quickly/"><u>Guide to Correct HP OfficeJet Pro 6978'S Driver Issues Quickly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-detailed-tutorial-on-screen-capturing-in-online-meetings-google/"><u>In 2024, Detailed Tutorial on Screen Capturing in Online Meetings (Google)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reimagined-analysis-new-developments-in-sonys-s6500-bdhd/"><u>In 2024, Reimagined Analysis New Developments in Sony's S6500 BD/HD</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-resolving-skewed-online-video-quality/"><u>In 2024, Resolving Skewed Online Video Quality</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-file-management-a-step-by-step-tutorial-for-force-removing-directories-in-windows-11-using-revouninstaller/"><u>Mastering File Management: A Step-by-Step Tutorial for Force Removing Directories in Windows 11 Using RevoUninstaller</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-for-removing-microsofts-copilot-from-your-windows-11-pc/"><u>The Ultimate Tutorial for Removing Microsoft's Copilot From Your Windows 11 PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-asus-rog-phone-7-ultimate-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Asus ROG Phone 7 Ultimate IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/virtual-broadcast-mastery-with-manycam-transform-your-live-streams-into-professional-productions/"><u>Virtual Broadcast Mastery with ManyCam: Transform Your Live Streams Into Professional Productions</u></a></li>
 </ul></div>
 

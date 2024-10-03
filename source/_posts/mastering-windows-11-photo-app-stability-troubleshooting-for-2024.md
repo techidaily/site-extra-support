@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11 Photo App Stability Troubleshooting for 2024"
-date: 2024-07-30T06:26:32.338Z
-updated: 2024-07-31T06:26:32.338Z
+date: 2024-09-30T16:35:34.331Z
+updated: 2024-10-02T17:30:32.106Z
 tags: 
   - screen-recording
   - ai video
@@ -20,18 +20,12 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 
 # How to Solve Windows 10 Photos App Crashes Effectively \[2024\]
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Photos represent the vibrant memories that we have so fondly spent with our loved ones or capture our achievements and milestones in life. Revisiting them later brings everything alive in front of you. But, when the Windows 10 Photos App crashes, how could you enjoy your beautiful photos? We know fixing the issue is not an easy job. But we have got you covered. If, in any case that, you undergo such crashing issues with Windows 10 Photos App, we are here to lead you through.
@@ -46,10 +40,14 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 **You may also like:** [How to Solve Windows 10 Photos App Crashes Effectively >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to fix Windows 10 Photos app crashes
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
 
@@ -60,9 +58,6 @@ Here is how to troubleshoot –
    1. Press the ‘Windows’ key + ‘X’ for launching the ‘Control Panel. Alternatively, type ‘Control Panel’ in the search box.
    2. Pick ‘Troubleshooting’ and hit it. Tap on ‘View All’ from the top-left panel of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
@@ -113,20 +108,34 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -134,12 +143,33 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-award-winning-screenplays-for-each-genre-division/"><u>[New] In 2024, Award-Winning Screenplays for Each Genre Division</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-journey-to-aesthetic-excellence-fusing-images-masterfully/"><u>[New] Journey to Aesthetic Excellence Fusing Images Masterfully</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-overloaded-tiktok-saves-a-guide-to-editing-and-streamlining/"><u>[New] Mastering Overloaded TikTok Saves A Guide to Editing and Streamlining</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-snapedit-101-simple-steps-to-stunning-photos/"><u>[New] Snapedit 101 Simple Steps to Stunning Photos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-hitting-a-pixel-snag-a6400s-video-problems/"><u>[Updated] In 2024, Hitting a Pixel Snag A6400's Video Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-larger-print-formats-same-sharpness-levels-for-2024/"><u>[Updated] Larger Print Formats, Same Sharpness Levels for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instant-insight-method-for-punctuation-of-timelines-in-images/"><u>2024 Approved Instant Insight Method for Punctuation of Timelines in Images</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-securely-downloading-vlc-media-player-for-free-on-macos/"><u>2024 Approved Securely Downloading VLC Media Player for Free on macOS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/effortless-capture-procedure-guiding-you-through-macos-screen-record-for-2024/"><u>Effortless Capture Procedure Guiding You Through macOS Screen Record for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-contacts-from-zte-nubia-z60-ultra-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from ZTE Nubia Z60 Ultra To Phone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-jokecrafters-generate-smiles-app/"><u>In 2024, JokeCrafters Generate Smiles (App)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-keeping-it-real-in-the-rat-race-of-retweets-and-likes/"><u>In 2024, Keeping It Real in the Rat Race of Retweets and Likes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-close-up-filmmaking-tips-for-a-standout-videography-career/"><u>In 2024, Mastering Close-Up Filmmaking Tips for a Standout Videography Career</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimizing-playback-speed-with-professional-tactics/"><u>In 2024, Optimizing Playback Speed with Professional Tactics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-time-for-podcast-debuts/"><u>In 2024, Prime Time for Podcast Debuts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prospects-and-pitfalls-of-the-latest-in-photography-by-samsung-2023/"><u>In 2024, Prospects & Pitfalls of the Latest in Photography by Samsung, 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-tip-crafting-perfect-insta-collages/"><u>In 2024, Quick Tip Crafting Perfect Insta Collages</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-speedy-way-to-download-your-wacoms-essential-drivers-today/"><u>The Speedy Way to Download Your Wacom's Essential Drivers Today</u></a></li>
+</ul></div>
 

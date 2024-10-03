@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating and Utilizing Preview for Mac Efficiently"
-date: 2024-09-23T16:38:53.968Z
-updated: 2024-09-27T17:34:23.394Z
+date: 2024-09-30T20:59:17.076Z
+updated: 2024-10-02T17:26:12.331Z
 tags: 
   - screen-recording
   - ai video
@@ -36,13 +36,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -57,13 +50,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -77,6 +63,19 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -94,6 +93,13 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -105,19 +111,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -151,13 +144,6 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -174,6 +160,13 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -185,6 +178,13 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -235,17 +235,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-examining-the-usefulness-of-instagrams-selfie-validation/"><u>[Updated] 2024 Approved Examining the Usefulness of Instagram's Selfie Validation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-high-dynamic-range-with-image-curving/"><u>[Updated] Mastering High Dynamic Range with Image Curving</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-video-creation-on-windows-10-a-step-by-step-guide/"><u>2024 Approved Mastering Video Creation on Windows 10 A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-your-audio-file-for-apples-review-boards/"><u>2024 Approved Perfecting Your Audio File for Apple’s Review Boards</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-x50-gt-phone-by-drfone-android/"><u>How to Reset a Locked Honor X50 GT Phone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-smiles-in-screens-make-with-kapwing/"><u>In 2024, Smiles in Screens Make with Kapwing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/insta-to-tik-flow-guidebook-for-2024/"><u>Insta to Tik Flow Guidebook for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/keywords-that-catapult-hashtag-hacks-in-gameplay-videos-for-2024/"><u>Keywords that Catapult Hashtag Hacks in Gameplay Videos for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/izing-youtube-shorts-earnings-essentials-and-profit-prospects/"><u>Maximizing Youtube Shorts Earnings Essentials and Profit Prospects</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-true-cost-of-games-why-owning-beats-pay-per-play/"><u>The True Cost of Games: Why Owning Beats Pay-Per-Play</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-12plus-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme 12+ 5G Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-online-play-in-depth-guide-to-using-kinemaster-and-its-rivals/"><u>[New] Mastering Online Play In-Depth Guide to Using KineMaster and Its Rivals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionize-video-production-via-xp-installation/"><u>[New] Revolutionize Video Production via XP Installation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-selecting-from-dji-action-gopro-max-360-insta360-x3/"><u>[New] Selecting From DJI Action, GoPro Max 360, Insta360 X3</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-saving-time-avoiding-edgenuity-lessons-without-guilt/"><u>[Updated] Saving Time Avoiding Edgenuity Lessons Without Guilt</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-launch-any-video-projects-with-free-kits/"><u>2024 Approved Launch Any Video Projects with Free Kits</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-buys-champion-for-clear-channels-inside-unveiling-our-in-depth-analysis-of-the-onebyone-indoor-amplified-antenna/"><u>Best Buy's Champion for Clear Channels Inside: Unveiling Our In-Depth Analysis of the Onebyone Indoor Amplified Antenna</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cambiar-de-codificacion-de-video-h265-a-h264-sin-costo-o-perdida-en-calidad/"><u>Cambiar De Codificación De Video H.265 A H.264 Sin Costo O Pérdida en Calidad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-gratuita-da-f4v-a-wmv-online-movavi/"><u>Conversione Gratuita Da F4V a WMV Online - Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-y100t-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo Y100t? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-paragon-of-plot-design-in-cinemas-segmented-landscape/"><u>In 2024, Paragon of Plot Design in Cinema's Segmented Landscape</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-of-the-trade-in-sourcing-professional-filmmakers/"><u>In 2024, Secrets of the Trade in Sourcing Professional Filmmakers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-the-next-gen-vr-experience-sonys-psvr-2-info-pricing-details-release-schedule-and-hardware-specs-revealed/"><u>Inside the Next-Gen VR Experience - Sony's PSVR 2 Info: Pricing Details, Release Schedule, and Hardware Specs Revealed!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-your-subtitles-with-top-10-free-converter-websites-for-2024/"><u>Master Your Subtitles with Top 10 Free Converter Websites for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-windows-11-a-practical-reference-for-2024/"><u>Navigating Windows 11 A Practical Reference for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-f34-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F34 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/skip-past-fb-video-ads-effectively/"><u>Skip Past FB Video Ads Effectively</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-system-now-get-the-latest-intel-iris-540-graphics-drivers-instantly/"><u>Update Your System Now! Get the Latest Intel Iris 540 Graphics Drivers Instantly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-13-pro-max-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone 13 Pro Max? How to Fix</u></a></li>
 </ul></div>
 

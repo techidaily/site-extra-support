@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare PC Troubleshooting Guide: Ensuring Smooth Gameplay"
-date: 2024-09-22T16:53:26.760Z
-updated: 2024-09-27T17:47:24.600Z
+date: 2024-09-29T17:46:23.455Z
+updated: 2024-10-02T18:18:56.007Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Allow your game through Windows Firewall
 
  When a program fails to load properly, chances are your firewall is blocking it, even though the program you’re starting is legitimate and doesn’t do harm to your system. To ensure your game has access to your connection, take the steps as follows.
@@ -43,13 +50,20 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
@@ -80,16 +94,10 @@ If this doesn’t do the trick, try the next fix below.
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
@@ -97,13 +105,6 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
  When you’re done, launch your game. If your problem persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Repair corrupted game files
 
@@ -126,13 +127,6 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-properties-steam.png)
 2. Choose the **LOCAL FILES**  tab. Then click on the **Verify integrity of game files…**  button.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
@@ -140,15 +134,28 @@ If this doesn’t do the trick, try the next fix below.
  Once the verification process is complete, close the window and check if it solves your problem. If your game still fails to launch properly, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update your graphics driver
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to update your graphics driver
 
@@ -185,13 +192,6 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
@@ -199,6 +199,19 @@ If this doesn’t do the trick, try the next fix below.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Run a full system scan
 
@@ -211,13 +224,6 @@ If this doesn’t do the trick, try the next fix below.
 3. If it detects any issues on your PC, click**Start Repair** to let it start the repairing process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the repair, try to launch Modern Warfare II and you should be able to enjoy your game to the fullest without much unexpected interruptions.
 
@@ -240,22 +246,18 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-earnings-escalate-500-subscriber-marker-achieved/"><u>[New] 2024 Approved Earnings Escalate 500-Subscriber Marker Achieved</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-most-popular-oculus-rift-experiences-for-gamers/"><u>[New] Most Popular Oculus Rift Experiences for Gamers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-simplify-complex-designs-by-mastering-figmas-backdrop-cleansing/"><u>[New] Simplify Complex Designs by Mastering Figma's Backdrop Cleansing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-has-your-back-shorts-now-showing-up/"><u>[New] YouTube Has Your Back - Shorts Now Showing Up</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-break-free-from-youtube-top-5-innovative-video-editing-tools/"><u>[Updated] Break Free From Youtube Top 5 Innovative Video Editing Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-the-edge-professional-cameras-that-rotate-full-circle-2023/"><u>[Updated] Leading the Edge Professional Cameras That Rotate Full Circle - 2023</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-multitasking-mastery-activities-while-embracing-soundtracks/"><u>[Updated] Multitasking Mastery Activities While Embracing Soundtracks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-must-visit-websites-for-obtaining-desired-youtube-ringtones/"><u>[Updated] Must-Visit Websites for Obtaining Desired YouTube Ringtones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-steps-to-enhance-your-ability-as-an-effective-interviewer/"><u>[Updated] Steps to Enhance Your Ability as an Effective Interviewer</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2000-stellar-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2000 | Stellar</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-inside-the-drone-an-in-depth-review-of-dji-phantom-3-pro/"><u>In 2024, Inside the Drone An In-Depth Review of DJI Phantom 3 Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-legendary-lens-showdown-sj6-vs-the-four-k-visionaries-of-xiaomi/"><u>In 2024, Legendary Lens Showdown SJ6 Vs. The Four-K Visionaries of Xiaomi</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-metaverse-explorers-best-virtual-reality-list/"><u>In 2024, Metaverse Explorers Best Virtual Reality List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reimagining-your-images-effective-uses-of-the-background-eraser-in-adobe-photoshop/"><u>In 2024, Reimagining Your Images Effective Uses of the Background Eraser in Adobe Photoshop</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-roblox-launch-problems-top-5-solutions-for-getting-the-game-up/"><u>Mastering Roblox Launch Problems: Top 5 Solutions for Getting the Game Up</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-revitalizing-your-intel-hd-graphics-5500-with-the-latest-drivers/"><u>Ultimate Guide: Revitalizing Your Intel HD Graphics 5500 with the Latest Drivers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-from-picture-to-paragraph-text-on-windows-and-mac-photos/"><u>[New] In 2024, From Picture to Paragraph Text on Windows & Mac Photos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-change-your-voice-on-instagram/"><u>[New] In 2024, How to Change Your Voice on Instagram?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-in-depth-look-at-videorecorderpros-features-and-review/"><u>[New] In 2024, In-Depth Look at VideoRecorderPro's Features & Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-channeling-twitter-vids-seamlessly-to-snapchat-for-2024/"><u>[Updated] Channeling Twitter Vids Seamlessly to Snapchat for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-complete-kinetic-review-2023/"><u>[Updated] Complete Kinetic Review 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-free-converters-ranking-the-10-for-jpg-to-gif-changeover/"><u>2024 Approved Leading Free Converters Ranking the 10 for JPG to GIF Changeover</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-mastering-video-editing-tools-like-movie-maker-w11-for-2024/"><u>A Comprehensive Guide to Mastering Video Editing Tools Like Movie Maker W11 for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/client-reviews-the-heart-of-modern-marketing-strategies/"><u>Client Reviews The Heart of Modern Marketing Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precise-guide-to-navigating-adobe-cloud-then-comparing-other-methods/"><u>In 2024, Precise Guide to Navigating Adobe Cloud, Then Comparing Other Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-refining-your-tiktok-profile-age-with-ease/"><u>In 2024, Refining Your TikTok Profile Age with Ease</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lifting-legends-top-10-super-strong-drones-for-2024/"><u>Lifting Legends Top 10 Super-Strong Drones for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-my-mc-lan-connection-issues/"><u>Troubleshooting Guide: Fixing My MC LAN Connection Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-the-causes-behind-usb-attachment-failure-in-virtualbox/"><u>Unraveling the Causes Behind 'USB Attachment Failure' In VirtualBox</u></a></li>
 </ul></div>
 

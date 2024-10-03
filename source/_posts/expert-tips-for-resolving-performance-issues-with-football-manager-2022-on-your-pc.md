@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Performance Issues with Football Manager 2022 on Your PC
-date: 2024-09-21T18:10:51.231Z
-updated: 2024-09-27T16:06:33.722Z
+date: 2024-09-25T23:22:14.724Z
+updated: 2024-10-02T22:49:33.420Z
 tags:
   - win11
   - win10
@@ -43,10 +43,16 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
@@ -57,13 +63,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Verify the integrity of game files
 
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
@@ -72,22 +71,23 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
@@ -105,6 +105,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -119,6 +126,13 @@ If this method doesn’t help, go ahead with the next fix below.
 
 So does the crash go away now? If not, there is the last fix to try.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -129,13 +143,6 @@ So does the crash go away now? If not, there is the last fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
@@ -169,16 +176,20 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-fast-and-flawless-screen-shots-for-chromebookers-for-2024/"><u>[New] Fast and Flawless Screen Shots for Chromebookers for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-get-acquainted-a-quick-guide-to-windows-11-basics/"><u>[New] Get Acquainted A Quick Guide to Windows 11 Basics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premier-listing-sierras-best-video-maker-apps/"><u>[New] Premier Listing Sierra's Best Video Maker Apps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exclusive-list-of-affordable-video-conferencing-apps-a-business-and-education-edition/"><u>[Updated] 2024 Approved Exclusive List of Affordable Video Conferencing Apps A Business & Education Edition</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-oneplus-11-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My OnePlus 11 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-guide-to-creating-gentle-sound-cuts-and-fades-with-pp/"><u>In 2024, A Guide to Creating Gentle Sound Cuts and Fades with PP</u></a></li>
-<li><a href="https://extra-support.techidaily.com/instructions-windows-movie-maker-version-6-installation-for-2024/"><u>Instructions Windows Movie Maker Version 6 Installation for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/iphones-quintet-of-premier-podcast-tools-for-2024/"><u>IPhone's Quintet of Premier Podcast Tools for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-apps-17-ways-to-remove-picture-frames-for-2024/"><u>Leading Apps 17 Ways to Remove Picture Frames for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-artificial-intelligence-applications-enhancing-content-creators-efficiency/"><u>Top 8 Artificial Intelligence Applications Enhancing Content Creator's Efficiency</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-xiaomi-redmi-note-13-proplus-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Xiaomi Redmi Note 13 Pro+ 5G FRP Bypass</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/xplore-popular-youtube-comment-sections/"><u>[New] Explore Popular YouTube Comment Sections</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-harnessing-the-power-of-stories-in-fb-networks/"><u>[New] Harnessing the Power of Stories in FB Networks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smart-snip-skills-advanced-tips-for-iphone-photo-cropping/"><u>[New] Smart Snip Skills Advanced Tips for iPhone Photo Cropping</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-hilarityhub-online-tool-for-funny-image-crafting/"><u>[Updated] 2024 Approved HilarityHub Online Tool for Funny Image Crafting</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-bandicam-reviewed-the-latest-tech-enhancements-and-tips-for-2024/"><u>[Updated] Bandicam Reviewed The Latest Tech Enhancements and Tips for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stepwise-blueprint-converting-everyday-gifs-to-sticker-status-in-discord-and-other-chat-apps/"><u>[Updated] Stepwise Blueprint Converting Everyday GIFs to Sticker Status in Discord & Other Chat Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-metaverse-meets-omniverse-a-comparative-guide/"><u>2024 Approved Metaverse Meets Omniverse A Comparative Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-cost-memes-made-simple-our-meme-kit/"><u>2024 Approved No-Cost Memes Made Simple Our Meme Kit</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-optimal-recording-practices-for-remote-work-conferences/"><u>2024 Approved Optimal Recording Practices for Remote Work Conferences</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbeyys-kristin-wagener-earns-prestigious-crn-women-of-the-channel-award-2019-edition-official-announcement/"><u>ABBEYY's Kristin Wagener Earns Prestigious CRN Women of the Channel Award, 2019 Edition - Official Announcement</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-nearby-areas-for-an-immersive-roblox-experience-for-2024/"><u>Navigating Nearby Areas for an Immersive Roblox Experience for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-video-footage-shape-size-and-more-for-2024/"><u>New Transform Your Video Footage Shape, Size, and More for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photographers-aid-free-mobile-photography-boost-for-2024/"><u>Photographer's Aid - Free, Mobile Photography Boost for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/trending-image-memes-unveiling-the-real-story/"><u>Trending Image Memes Unveiling the Real Story</u></a></li>
 </ul></div>
 

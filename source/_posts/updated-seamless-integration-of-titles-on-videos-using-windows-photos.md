@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seamless Integration of Titles on Videos Using Windows Photos"
-date: 2024-08-17T21:41:33.306Z
-updated: 2024-08-18T21:41:33.306Z
+date: 2024-09-27T23:14:21.281Z
+updated: 2024-10-02T22:09:35.243Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,13 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -62,11 +69,25 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
 
@@ -75,29 +96,23 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -105,3 +120,20 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-anon-fb-live-watchers-group/"><u>[New] In 2024, Anon FB Live Watchers Group</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-cameras-showdown-gopro-max-vs-hero-11-comparison/"><u>[New] Pro Cameras Showdown GoPro Max VS Hero 11 Comparison</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flixfortress-over-a-hundred-channels-of-fortitude/"><u>[Updated] 2024 Approved FlixFortress Over a Hundred Channels of Fortitude</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-shorts-profitability-secrets/"><u>[Updated] Youtube Shorts Profitability Secrets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-film-editing-final-cut-pro-101/"><u>2024 Approved Perfecting Film Editing Final Cut Pro 101</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-securing-success-in-win11-conferences-via-zoom/"><u>2024 Approved Securing Success in Win11 Conferences via Zoom</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/crafted-for-perfection-comprehensive-review-of-what-google-pixel-3-achieves/"><u>Crafted for Perfection: Comprehensive Review of What Google Pixel 3 Achieves</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigate-a-sea-of-tiktok-saves-with-proper-editing-know-how-for-2024/"><u>Navigate a Sea of TikTok Saves with Proper Editing Know-How for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-guide-how-to-attract-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>New Guide How to Attract More NFL Viewers for Your Sports Live Streaming Channel</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-process-for-clearing-backdrops-using-picsart-for-2024/"><u>Step-By-Step Process for Clearing Backdrops Using Picsart for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/strategies-for-clearer-picture-on-distorted-youtube-videos/"><u>Strategies for Clearer Picture on Distorted YouTube Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/1716465732616-unlimited-christmas-classics-9-films-available-for-no-charge/"><u>Unlimited Christmas Classics 9 Films Available for No Charge!</u></a></li>
+</ul></div>
+

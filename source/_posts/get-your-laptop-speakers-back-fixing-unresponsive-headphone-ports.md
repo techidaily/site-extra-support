@@ -1,7 +1,7 @@
 ---
 title: "Get Your Laptop Speakers Back: Fixing Unresponsive Headphone Ports"
-date: 2024-09-26T17:37:14.588Z
-updated: 2024-09-27T18:12:56.634Z
+date: 2024-09-30T22:31:27.132Z
+updated: 2024-10-02T23:25:43.272Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ Before you start, make sure your headset is working properly.
 4. [**Update your Windows system**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Enable Enhance audio
 
  If you have sound issues or can’t bear an awful sound that goes through your headset, this simple trick may help. We don’t know the mechanism behind the trick yet, but many users have proved it’s a working fix.
@@ -48,10 +41,10 @@ Before you start, make sure your headset is working properly.
 4. Check your PC sound, it should be back to normal.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this trick doesn’t work for you, please move to the next fix.
@@ -72,13 +65,6 @@ If this trick doesn’t work for you, please move to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If this fix doesn’t help, move to the next fix.
@@ -91,38 +77,47 @@ If this fix doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound3.jpg)
 2. Expand**Sound, video and game controllers** . Find**Realtek audio** and right-click on it. Choose**Update driver** .  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound4.jpg)
 3. Click**Browse my computer for drivers** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound5.jpg)
 4. Click**Let me pick from a list of available drivers on my computer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound6.jpg)
 5. Check**Show compatible hardware** . Then click**High Definition Audio Device** \>**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound7.jpg)
 6. Click**Yes** in the pop-up window.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound8.jpg)
 7. Restart your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Check the sound on your PC.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your Windows system
 
@@ -132,14 +127,15 @@ If this fix doesn’t help, move to the next fix.
 2. Click**Windows Update** \>**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/sound9.jpg)
 3. Windows will check the latest available updates for you. If you have available updates, Windows 11 will download and install them automatically.
-4. After the whole process, restart your PC and check the effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. After the whole process, restart your PC and check the effect.
 
 ## Fix 5: Repair system files
 
@@ -152,17 +148,25 @@ If this fix doesn’t help, move to the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -184,19 +188,22 @@ If this fix doesn’t help, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-preserve-tweets-as-visual-delights-with-iosandroid-steps/"><u>[New] Preserve Tweets as Visual Delights with iOS/Android Steps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-startups-secret-weapon-kit-must-have-items-that-set-you-apart-for-2024/"><u>[New] The Startup's Secret Weapon Kit Must-Have Items That Set You Apart for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-vr-travel-a-step-by-step-guide/"><u>[Updated] Mastering VR Travel A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfect-mp4-with-srt-addition-your-complete-2024-handbook/"><u>[Updated] Perfect MP4 with SRT Addition – Your Complete 2024 Handbook</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-speech-file-extract-and-critical-assessment/"><u>[Updated] Speech File Extract & Critical Assessment</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revamping-videography-the-story-of-nikon-1j5s-4k-achievement/"><u>2024 Approved Revamping Videography The Story of Nikon 1J5’s 4K Achievement</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-pova-5-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Pova 5 Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-select-websites-propelling-youtube-media/"><u>In 2024, Select Websites Propelling YouTube Media</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/latest-idevice-screenshots-capture-hacks/"><u>Latest iDevice Screenshots Capture Hacks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pushing-the-limits-with-text-warping-effects-for-2024/"><u>Pushing the Limits with Text Warping Effects for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-error-503-a-guide-to-restoring-your-sites-availability/"><u>Troubleshooting Error 503: A Guide to Restoring Your Site's Availability</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-c02-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia C02 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-revolutionary-foldable-iphone-sneak-peek-at-expected-pricing-release-momentum-and-advanced-specifications-with-insider-rumors/"><u>Upcoming Revolutionary Foldable iPhone: Sneak Peek at Expected Pricing, Release Momentum & Advanced Specifications with Insider Rumors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-inside-the-world-of-toolwiz-an-in-depth-software-review/"><u>[New] Inside the World of Toolwiz An In-Depth Software Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-powerpoints-voice-recognition-feature/"><u>[New] Mastering PowerPoint's Voice Recognition Feature</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-music-meets-video-three-inexpensive-iphone-tips-for-enhanced-clips/"><u>[New] Music Meets Video Three Inexpensive iPhone Tips for Enhanced Clips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-bypassing-youtubes-copyright-strike-legal-strategies-and-precautions/"><u>[Updated] In 2024, Bypassing YouTube's Copyright Strike Legal Strategies and Precautions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professionals-playbook-merging-srt-captions-into-mp4/"><u>[Updated] Professional's Playbook Merging SRT Captions Into MP4</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigate-age-confirmation-swiftly-on-tiktok/"><u>2024 Approved Navigate Age Confirmation Swiftly on TikTok</u></a></li>
+<li><a href="https://win-help.techidaily.com/easy-steps-to-set-up-and-organize-windows-user-profiles-for-household-use-tips-from-zdnet/"><u>Easy Steps to Set Up & Organize Windows User Profiles for Household Use - Tips From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-90-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor 90 Pro Phone Screen?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-resolve-origin-application-failures-on-windows-versions-10-and-11/"><u>How to Resolve Origin Application Failures on Windows Versions 10 & 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y17s-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y17s to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-low-cost-high-quality-4k-capture-devices/"><u>In 2024, Low-Cost, High-Quality 4K Capture Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-views-on-tiktok-unboxing-content/"><u>In 2024, Maximizing Views on TikTok Unboxing Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-10-cameras-for-smooth-cinematic-captures-for-2024/"><u>Leading 10 Cameras for Smooth Cinematic Captures for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-x-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone X to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-port-reset-failed-on-windows-11-when-connected-to-an-unknown-usb-device/"><u>Step-by-Step Fix for 'Port Reset Failed' On Windows 11 When Connected to an Unknown USB Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-a1x-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo A1x 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-you-can-try-final-cut-pro-for-90-days-absolutely-free-final-cut-pros-latest-version-is-available-for-a-free-trial-learn-everything-about-it-right-he/"><u>Updated You Can Try Final Cut Pro for 90 Days Absolutely Free. Final Cut Pros Latest Version Is Available for a Free Trial. Learn Everything About It Right Here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Personal Exploration of 3D Printing in '3DR' For 2024"
-date: 2024-08-17T21:42:05.760Z
-updated: 2024-08-18T21:42:05.760Z
+date: 2024-09-25T22:13:30.700Z
+updated: 2024-10-02T22:30:55.511Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Review
 
 #### 1\. Basic Specs Info
@@ -67,6 +74,19 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
 
  People call 3DR Solo one of the most impressive drone with minimal complexities in design. It is the best product for cinematographic needs and you could easily imagine it hovering on the top to capture scenes for Hollywood movies. You will find a 5200mAh battery on top portion of this drone, located near power button. It appears little heavier with the gimbal, camera and battery installation, the overall weight goes up to 3.35 pounds. Note that, you need to get your drone registered with FAA to organise its flights because the weight goes above 0.5 pounds limit. You will find indicating LEDs on this device that keep on indicating full status during its flights and they can be observed in day light too. Users need to connect this device with a smartphone or iOS device to avail full control as well as to get live preview of shoots.
@@ -83,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
 
 #### 6\. Camera
@@ -97,13 +124,18 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,6 +143,20 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-techniques-to-prevent-dropouts-in-obs-studio/"><u>[New] In 2024, Techniques to Prevent Dropouts in OBS Studio</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-using-snapchat-for-past-photos-from-memory/"><u>[Updated] In 2024, Using Snapchat for Past Photos From Memory</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-20plus-creative-photo-collage-ideas-to-light-up-your-life/"><u>2024 Approved 20+ Creative Photo Collage Ideas to Light Up Your Life</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionary-ios-gaming-apples-best-vr-apps/"><u>2024 Approved Revolutionary iOS Gaming Apple's Best VR Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boost-your-gameplay-ultimate-guide-to-eliminate-fallout-eb-lags/"><u>Boost Your Gameplay - Ultimate Guide to Eliminate Fallout Eb Lags</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-x100-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo X100 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-equipment-list-for-adventure-documentaries/"><u>In 2024, Pro Equipment List for Adventure Documentaries</u></a></li>
+<li><a href="https://extra-support.techidaily.com/macs-finest-choices-for-mkv-file-handling-for-2024/"><u>Mac's Finest Choices for MKV File Handling for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinterest-vid-lifting-the-top-free-online-tools-list-for-2024/"><u>Pinterest Vid Lifting The Top Free, Online Tools List for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-gear-for-tempo-tinkering-in-stories/"><u>The Ultimate Gear for Tempo Tinkering in Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-essential-kindle-applications-enhance-your-reading-experience/"><u>Top 10 Essential Kindle Applications: Enhance Your Reading Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-these-essential-vector-editors-for-2024/"><u>Unleash Creativity with These Essential Vector Editors for 2024</u></a></li>
+</ul></div>
+

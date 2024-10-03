@@ -1,7 +1,7 @@
 ---
 title: "Sketch Whimsical Graphics on Giphy for 2024"
-date: 2024-09-23T16:00:45.571Z
-updated: 2024-09-27T16:32:00.526Z
+date: 2024-09-26T22:28:09.159Z
+updated: 2024-10-02T19:26:45.999Z
 tags: 
   - screen-recording
   - ai video
@@ -43,10 +43,10 @@ Step3 If you wish to upload a video from a URL, you may do so. After you've subm
 Step4 Set the sliders to the length that you choose for your GIF. Recall that shorter is always better! Click Upload Now to continue. The next page gives you the choice of adding tags, making your GIF private, adding a source URL, or adding it to a collection.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. Alternative Way to Make Meme Video
@@ -75,28 +75,29 @@ The video file must then be included in the timeline. Another option is to play 
 
 ![include music and subtitles](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Edit the Meme
 
 If you want to add additional text to your meme, use the features-list menu bar. Additionally, you may use the drop-down menu to move and resize the caption box using the drop-down menu.
 
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5 Publish or Save Your Meme
 
 Just done with it! you may now start creating as many memes as you wish. A meme has to be circulated extensively online in order to be seen and, presumably, liked. Thus, you need to distribute it across all platforms. You may now click the "Export" button to instantly upload your video meme to Vimeo or YouTube. Save your final meme and upload it right away to your email, Facebook, Twitter, etc. to share it with coworkers or friends.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -114,19 +115,6 @@ To start a new meme project, open the Filmora video meme creator and choose "New
 
 ![import files to filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3 Include Music and Subtitles
 
 The video file must then be included in the timeline. Another option is to play well-known music in the background. You may do this by dragging and dropping the music file into the program's timeline's audio track. For the subtitles for your Meme, refer to the "Title" option, you may choose the text style you wish to use. Enter the text, then alter the caption's typeface, color, and size.
@@ -139,16 +127,16 @@ If you want to add additional text to your meme, use the features-list menu bar.
 
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5 Publish or Save Your Meme
 
 Just done with it! you may now start creating as many memes as you wish. A meme has to be circulated extensively online in order to be seen and, presumably, liked. Thus, you need to distribute it across all platforms. You may now click the "Export" button to instantly upload your video meme to Vimeo or YouTube. Save your final meme and upload it right away to your email, Facebook, Twitter, etc. to share it with coworkers or friends.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -178,18 +166,22 @@ Additionally, Giphy offers a Giphy Cam software that enables users to create cus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unlocking-your-creative-potential-without-spending/"><u>[New] 2024 Approved Unlocking Your Creative Potential Without Spending</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-exploring-screenflow-features-a-mac-developers-perspective/"><u>[New] Exploring ScreenFlow Features – A Mac Developer's Perspective</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pinterest-vids-at-a-seconds-notice-free-online-downloader-top-5/"><u>[New] Pinterest Vids at a Second's Notice – Free Online Downloader Top 5</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-inside-the-innovative-world-of-kinemaster-your-android-game-companion/"><u>[Updated] Inside the Innovative World of KineMaster - Your Android Game Companion</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-lightning-fast-windowed-photo-reader-for-win11/"><u>2024 Approved Lightning-Fast Windowed Photo Reader for Win11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-melodic-freedom-fbs-music-library/"><u>2024 Approved Melodic Freedom FB's Music Library</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-timecodes-and-text-in-srt-with-macos/"><u>2024 Approved Navigating Timecodes and Text in SRT with macOS</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-where-can-i-find-crowd-cheering-effect/"><u>2024 Approved Where Can I Find Crowd Cheering Effect?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-secure-windows-strategies-when-bitlocker-fails/"><u>5 Secure Windows Strategies When Bitlocker Fails</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-social-media-melody-ownership-laws/"><u>In 2024, Social Media Melody Ownership Laws</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-social-synergy-from-insta-to-the-world-of-tiktok/"><u>In 2024, Social Synergy From Insta to the World of TikTok</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-add-ons-begin-your-journey-through-the-sign-up-procedure/"><u>Mastering ChatGPT Add-Ons - Begin Your Journey Through the Sign Up Procedure</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-quality-movie-maker-turn-everyday-video-clips-into-a-high-quality-movie/"><u>Updated 2024 Approved Quality Movie Maker Turn Everyday Video Clips Into a High Quality Movie</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-learn-to-record-your-xbox-games-with-ease/"><u>[New] 2024 Approved Learn to Record Your Xbox Games with Ease</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716069562207-new-in-2024-immerse-in-pc-game-moments-capture-perfectly/"><u>[New] In 2024, Immerse in PC Game Moments - Capture Perfectly!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-moving-data-quick-techniques-to-send-files-to-your-computer/"><u>[New] Moving Data Quick Techniques to Send Files to Your Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-picart-secrets-to-pristine-picture-perfection/"><u>[New] PicArt Secrets to Pristine Picture Perfection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-recap-how-to-locate-youtube-comments-post-upload/"><u>[Updated] Quick Recap How to Locate YouTube Comments Post-Upload</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-latest-leap-in-tech-samsungs-ultrablade-k850-update/"><u>2024 Approved Latest Leap in Tech - Samsung's UltraBlade K850 Update</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-magix-vision-enhancement-a-detailed-review/"><u>2024 Approved MAGIX Vision Enhancement A Detailed Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-note-30-vip-by-drfone-android-unlock-android-unlock/"><u>How to unlock Infinix Note 30 VIP</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-8-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 8 Without Previous Owner?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-precision-editing-at-your-fingertips-canvas-boundary-eradication/"><u>In 2024, Precision Editing at Your Fingertips Canva's Boundary Eradication</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-picks-top-macpc-bd-players-and-codecs/"><u>In 2024, Premium Picks Top Mac/PC BD Players and Codecs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-the-magic-box-how-does-vr-function-in-2024/"><u>Inside the Magic Box How Does VR Function, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/preventing-disorientation-in-virtual-environments-for-2024/"><u>Preventing Disorientation in Virtual Environments for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-eliminating-chromium-flicker-issues-on-window-operating-systems-updated/"><u>Step-by-Step Tutorial: Eliminating Chromium Flicker Issues on Window Operating Systems (Updated )</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-how-to-for-extracting-youtube-srt-files-for-2024/"><u>The Essential How-To for Extracting YouTube SRT Files for 2024</u></a></li>
 </ul></div>
 

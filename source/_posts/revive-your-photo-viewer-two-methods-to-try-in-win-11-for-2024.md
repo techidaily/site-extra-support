@@ -1,7 +1,7 @@
 ---
 title: "\"Revive Your Photo Viewer  Two Methods to Try in Win 11 for 2024\""
-date: 2024-09-20T16:27:49.215Z
-updated: 2024-09-27T17:56:46.072Z
+date: 2024-09-28T17:30:15.287Z
+updated: 2024-10-02T23:01:03.723Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,19 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -65,15 +78,28 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
@@ -91,22 +117,15 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -115,13 +134,6 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -138,16 +150,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-master-zoom-recording-with-essential-gear-for-2024/"><u>[New] Master Zoom Recording with Essential Gear for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-no-payment-necessary-download-farewell-soundtracks/"><u>[New] No Payment Necessary Download Farewell Soundtracks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-key-methods-to-change-music-speedplay-on-spotify/"><u>[Updated] Key Methods to Change Music Speedplay on Spotify</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-intersection-of-youtube-and-fb-video-posts/"><u>[Updated] Navigating the Intersection of YouTube and FB Video Posts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-strategy-supreme-the-top-7-battlefield-commanders/"><u>[Updated] Strategy Supreme The Top 7 Battlefield Commanders</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-5-best-monitors-for-ps5/"><u>[Updated] Top 5 Best Monitors for Ps5</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seeking-the-perfect-match-for-samsung-gear-360-find-it-here/"><u>2024 Approved Seeking the Perfect Match for Samsung Gear 360 - Find It Here</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-share-laughter-easily-use-kapwing-to-make-memes/"><u>2024 Approved Share Laughter Easily - Use Kapwing to Make Memes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/essential-guide-to-using-a-mac-youtube-downloader-fixing-common-issues-and-learning-effective-techniques/"><u>Essential Guide to Using a Mac YouTube Downloader: Fixing Common Issues and Learning Effective Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimal-gpu-choices-4k-editing-and-rendering/"><u>In 2024, Optimal GPU Choices 4K Editing & Rendering</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mememirth-your-joy-jolt-app-for-2024/"><u>MemeMirth Your Joy Jolt App for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ailoring-trending-topics-to-endings/"><u>[New] Tailoring Trending Topics to Endings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-audiences-on-the-rise-gauge-for-2024/"><u>[Updated] Audiences on the Rise Gauge for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-game-on-android-a-deep-dive-into-kinemaster-features-for-2024/"><u>[Updated] Game On Android A Deep Dive Into KineMaster Features for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-realizing-unnoticeable-connections-in-snapcircle/"><u>[Updated] In 2024, Realizing Unnoticeable Connections in SnapCircle</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-world-of-ifunny-memes/"><u>2024 Approved Navigating the World of iFunny Memes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-6-top-rated-free-video-editing-tools-for-mkv-files-on-pc-and-mac/"><u>Best 6 Top-Rated Free Video Editing Tools for MKV Files on PC & Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-moviemakerpro-insights-full-analysis/"><u>In 2024, MovieMakerPro Insights – Full Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-maze-of-srt-to-xml-ssa-ttml-conversions/"><u>In 2024, Navigating the Maze of SRT-to-XML, SSA, TTML Conversions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sci-fis-new-horizons-a-list-of-cinematic-journeys-in-the-metaverse/"><u>In 2024, Sci-Fi's New Horizons A List of Cinematic Journeys in the Metaverse</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-technique-inserting-a-direct-url-into-tiktok-bio/"><u>In 2024, Seamless Technique Inserting a Direct URL Into TikTok Bio</u></a></li>
+<li><a href="https://discover-best.techidaily.com/merging-footage-seamlessly-a-comprehensive-guide-using-avidemux-and-alternatives/"><u>Merging Footage Seamlessly: A Comprehensive Guide Using Avidemux & Alternatives</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-the-worldwide-learning-family-now-grows-to-70-million/"><u>Mondly: The Worldwide Learning Family Now Grows to 70 Million</u></a></li>
+<li><a href="https://video-capture.techidaily.com/privacy-protection-in-videos-a-guide-to-obscuring/"><u>Privacy Protection in Videos A Guide to Obscuring</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-tips-for-pinning-live-chats-on-your-instagram-profile/"><u>Top Tips for Pinning Live Chats on Your Instagram Profile</u></a></li>
 </ul></div>
 

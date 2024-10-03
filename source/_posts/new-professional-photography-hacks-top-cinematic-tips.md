@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional Photography Hacks  Top Cinematic Tips\""
-date: 2024-09-23T16:41:00.164Z
-updated: 2024-09-27T16:43:24.494Z
+date: 2024-09-25T16:03:14.921Z
+updated: 2024-10-02T18:31:10.406Z
 tags: 
   - screen-recording
   - ai video
@@ -36,29 +36,9 @@ Step 1 Attach your phone to the side of a door using duct tape or any strong tap
 
 Step 2 Now open and close the door to get smooth camera movement.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tip 2\. DIY Light Focus and Control
 
 Shaping light is a crucial component of filmmaking, requiring command over creating and guiding shadows. You need to focus the light on the subjects rather than the background. Use the following methods to focus light on the point of interest.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### DIY LED Panel
 
@@ -118,6 +98,20 @@ Here is a GIF attached for a better understanding of the steps.
 
 ![diy black wrap](https://images.wondershare.com/filmora/article-images/2022/12/diy-black-wrap.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### DIY Light Reflector
 
 A reflector is a piece of glass or any reflective surface that can redirect light to a specific spot. For example, use aluminum foil to make a Light Reflector at your home.
@@ -137,22 +131,15 @@ There is a GIF attached below to understand the steps visually.
 ![diy light reflector](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-reflector.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tip 3\. DIY Light Diffuser
 
 In professional productions, light diffusers are frequently used to soften, level out the lighting, and lessen the harshness of shadows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Diffuse Lights With a Desk Mat
 
@@ -171,6 +158,20 @@ Step 3 Use this diffuser to reduce the intensity of light.
 For a better understanding of the steps, watch the GIF attached below.
 
 ![diy light diffuser](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-diffuser.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tip 4\. Reveal Movement and 180° Presentation
 
@@ -195,17 +196,10 @@ Here is a video showing how to record reveal movement.
 ![reveal movement](https://images.wondershare.com/filmora/article-images/2022/12/reveal-movement.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 180° Presentation Movement
@@ -226,6 +220,13 @@ A sample video attached below shows how to record 180 presentation movements.
 
 ![180 presentation movement](https://images.wondershare.com/filmora/article-images/2022/12/180-presentation-movement.gif)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tip 5\. Create a Barrel Roll Shot
 
 A barrel roll shot is one of the most advanced and creative camera movements. A gimbal is required to produce a Barrel roll shot. But you can use a power drill and your phone to record this Movement.
@@ -245,13 +246,6 @@ Step 4 Turn on the power drill at low speed and record the barrel roll shot.
 The video attached below will help you to understand these steps.
 
 ![barrel roll shot](https://images.wondershare.com/filmora/article-images/2022/12/barrel-roll-shot.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -289,21 +283,18 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-navigating-nearby-nuances-in-your-minecraft-realm/"><u>[New] Navigating Nearby Nuances in Your Minecraft Realm</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pro-tips-chromebooks-finest-pencil-based-software/"><u>[New] Pro Tips Chromebook's Finest Pencil-Based Software</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlock-your-facebook-cache-securely-download-messages-and-vids/"><u>[Updated] 2024 Approved Unlock Your Facebook Cache Securely Download Messages & Vids</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pinnacle-performance-the-best-8k-camera-technology/"><u>[Updated] Pinnacle Performance The Best 8K Camera Technology</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-playlist-pilgrimage-seamless-music-service-journeying/"><u>[Updated] Playlist Pilgrimage Seamless Music Service Journeying</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-transform-your-instagram-strategy-with-precision-metrics-monitoring-tools/"><u>[Updated] Transform Your Instagram Strategy with Precision Metrics Monitoring Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unraveling-the-apple-podcast-app-submission-system-for-2024/"><u>[Updated] Unraveling the Apple Podcast App Submission System for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-intro-to-graphic-motion-artistry-and-usage/"><u>2024 Approved Intro to Graphic Motion Artistry and Usage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-assortment-premier-webcam-stabilizers/"><u>2024 Approved Optimal Assortment Premier Webcam Stabilizers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-microsoft-surface-ergonomic-keyboards-premium-features/"><u>Comprehensive Evaluation of the Microsoft Surface Ergonomic Keyboard's Premium Features</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/event-tracing-fatal-error-windows-11-solved/"><u>Event Tracing Fatal Error Windows 11 [SOLVED]</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-effortlessly-replay-videos-on-iphone/"><u>In 2024, Effortlessly Replay Videos on iPhone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-xs-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone XS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/optimize-your-msi-b350-tomahawk-experience-with-latest-driver-downloads-supports-windows-versions-710/"><u>Optimize Your MSI B350 Tomahawk Experience with Latest Driver Downloads - Supports WINDOWS VERSIONS 7/10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-listing-high-performing-15-camcorders-for-2024/"><u>Premium Listing High-Performing 15 Camcorders for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instabeats-blending-music-and-visuals-tactfully/"><u>[New] InstaBeats Blending Music & Visuals Tactfully</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-clearer-photos-unveiling-the-top-10-web-edits/"><u>[Updated] Master Clearer Photos Unveiling the Top 10 Web Edits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-shopping-for-tailored-gift-boxes-heres-who-to-hit/"><u>[Updated] Shopping for Tailored Gift Boxes? Here's Who to Hit</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-streamline-your-media-with-top-8-convertors-1-8/"><u>2024 Approved Streamline Your Media with Top 8 Convertors #1-8</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhanced-performance-the-latest-thunderbolt-3-docking-solution-for-your-lenovo-thinkpad/"><u>Enhanced Performance: The Latest Thunderbolt 3 Docking Solution for Your Lenovo ThinkPad</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-video-storytelling-adding-narration-step-by-step/"><u>In 2024, Mastering Video Storytelling Adding Narration Step-by-Step</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-8-tripod-picks-for-exceptional-4k-footage/"><u>In 2024, Prime 8 Tripod Picks for Exceptional 4K Footage</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigate-the-digital-landscape-effective-use-of-screen-sharing-on-skype-at-home/"><u>Navigate the Digital Landscape Effective Use of Screen Sharing on Skype at Home</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-premiere-practices-implementing-inout-effects-for-2024/"><u>Professional Premiere Practices Implementing In/Out Effects for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/puzzle-solving-windows-10-elan-pad-glitches/"><u>Puzzle-Solving: Windows 10 Elan Pad Glitches</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-8-no-cost-optical-drive-programs-compatible-with-windows-10-8-7-and-macos/"><u>Top 8 No-Cost Optical Drive Programs Compatible with Windows 10, 8, 7 & macOS</u></a></li>
 </ul></div>
 

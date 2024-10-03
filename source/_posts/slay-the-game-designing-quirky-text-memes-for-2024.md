@@ -1,7 +1,7 @@
 ---
 title: "\"Slay the Game  Designing Quirky Text Memes for 2024\""
-date: 2024-08-17T21:40:00.503Z
-updated: 2024-08-18T21:40:00.503Z
+date: 2024-09-30T18:43:36.162Z
+updated: 2024-10-02T17:16:52.565Z
 tags: 
   - screen-recording
   - ai video
@@ -58,9 +58,23 @@ Step2 Go File> Import Media and click on Import Media Files option if you want t
 
 ![download filmora on computer](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to start from scratch, select a video template from Stock Media> Pexels> Videos or Stock Media> Pixabay> Videos. Instead of videos, you can select photos as well for the meme background. You can select templates that have texts and titles and you can edit them as per your preference.
 
 ![pexels video filmora](https://images.wondershare.com/filmora/article-images/2022/07/pexels-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Go to Stock Media> GIPHY to bring in any trending meme. Drag and drop your selected GIF on the Timeline.
 
@@ -74,6 +88,13 @@ Step5 Drag and place the text in any desired place on the video From the Viewer.
 
 ![add meme template filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-meme-template-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once you have completed, click on Export button to save the video in any file format.
 
 ## Part 3\. How to Make a Meme Text on Mobile
@@ -84,23 +105,21 @@ Step1 Visit Play Store(Android) or App Store(iPhone) and search for Mematic and 
 
 ![mematic meme maker iphone](https://images.wondershare.com/filmora/article-images/2022/07/mematic-meme-maker-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 Step2 Select a style as per your requirements to get started.
 
 ![mematic meme style](https://images.wondershare.com/filmora/article-images/2022/07/mematic-meme-style.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step3 You need to select a background here and you can tap on Photos option to insert a photo from your phone gallery to use it as a background to your text meme. You can choose the background from a popular meme by tapping on Memes option.
 
 ![select a background mematic](https://images.wondershare.com/filmora/article-images/2022/07/select-a-background-mematic.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 Step4 Tap on any meme to use as the background and tap on Continue button.
 
 ![edit selected meme mematic](https://images.wondershare.com/filmora/article-images/2022/07/edit-selected-meme-mematic.jpg)
@@ -109,12 +128,6 @@ Step5 Tap on the text parts to change the default texts. You can tap on them and
 
 ![export meme from mematic iphone](https://images.wondershare.com/filmora/article-images/2022/07/export-meme-from-mematic-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 Generating text memes on your device is no more an issue if you have no prior experience in creating memes. We have provided you with the best online text meme maker as well as suggested the best mobile app to create text memes instantly. If you want to create a meme video with texts, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for Windows and Mac users.
@@ -128,8 +141,12 @@ Step2 Go File> Import Media and click on Import Media Files option if you want t
 ![download filmora on computer](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 If you want to start from scratch, select a video template from Stock Media> Pexels> Videos or Stock Media> Pixabay> Videos. Instead of videos, you can select photos as well for the meme background. You can select templates that have texts and titles and you can edit them as per your preference.
 
 ![pexels video filmora](https://images.wondershare.com/filmora/article-images/2022/07/pexels-video-filmora.jpg)
@@ -138,18 +155,6 @@ Step3 Go to Stock Media> GIPHY to bring in any trending meme. Drag and drop your
 
 ![stock media giphy filmora](https://images.wondershare.com/filmora/article-images/2022/07/stock-media-giphy-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4 Add meme titles to your video, head over to Titles> Social Media. There are other categories as well you can check out. Select any desired title template and drop it on the Timeline. You can select any element of the title templates from the Viewer to adjust or delete as you think fit.
 
 ![choose title templates filmora](https://images.wondershare.com/filmora/article-images/2022/07/choose-title-templates-filmora.jpg)
@@ -158,14 +163,8 @@ Step5 Drag and place the text in any desired place on the video From the Viewer.
 
 ![add meme template filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-meme-template-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Once you have completed, click on Export button to save the video in any file format.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3\. How to Make a Meme Text on Mobile
 
 If you are a smartphone user and you are looking for a meme text generator app, we suggest you install Mematic to create amazing text memes instantly. Mematic is available for Android users as Meme Generator – Mematic and for iPhone users as Mematic - The Meme Maker. You can get to create text memes of different sizes of your requirements. You can select from meme templates and add texts as per the layout you select from your text memes. Here are the steps how to create text memes with Mematic in a few steps.
@@ -178,13 +177,34 @@ Step2 Select a style as per your requirements to get started.
 
 ![mematic meme style](https://images.wondershare.com/filmora/article-images/2022/07/mematic-meme-style.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 You need to select a background here and you can tap on Photos option to insert a photo from your phone gallery to use it as a background to your text meme. You can choose the background from a popular meme by tapping on Memes option.
 
 ![select a background mematic](https://images.wondershare.com/filmora/article-images/2022/07/select-a-background-mematic.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Tap on any meme to use as the background and tap on Continue button.
 
 ![edit selected meme mematic](https://images.wondershare.com/filmora/article-images/2022/07/edit-selected-meme-mematic.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Tap on the text parts to change the default texts. You can tap on them and change the text style as well. Finally, tap on Export option to save the meme.
 
@@ -216,4 +236,22 @@ Generating text memes on your device is no more an issue if you have no prior ex
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-10-best-free-photo-collage-apps-for-iphone/"><u>[New] 10 Best FREE Photo Collage Apps for iPhone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-tailored-free-offer-unlock-our-exclusive-youtube-banner-pack/"><u>[New] 2024 Approved Tailored Free Offer - Unlock Our Exclusive YouTube Banner Pack</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-optimal-ppt-presentation-capture-methods/"><u>[New] In 2024, Optimal PPT Presentation Capture Methods</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-painless-audio-progression-the-unobtrusive-way/"><u>[New] In 2024, Painless Audio Progression The Unobtrusive Way</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-instagrams-best-practices-for-video-posts-for-2024/"><u>[New] Instagram's Best Practices for Video Posts for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-instant-impact-applying-motion-blur-to-ai-artwork/"><u>[Updated] 2024 Approved Instant Impact Applying Motion Blur to AI Artwork</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimizing-colors-in-films-via-luts/"><u>[Updated] Optimizing Colors in Films via Luts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-top-apps-and-software-for-making-videos-from-photos/"><u>[Updated] Top Apps and Software for Making Videos From Photos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-demystifying-chromecast-for-effortless-broadcasting/"><u>2024 Approved Demystifying Chromecast for Effortless Broadcasting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterclass-in-adding-srt-overlay-on-mp4-file-playback/"><u>2024 Approved Masterclass in Adding SRT Overlay on MP4 File Playback</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-itel-a60s-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Itel A60s for Free? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/is-inshot-outshining-others-in-editing-features-in-2024/"><u>Is InShot Outshining Others in Editing Features, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-review-prime-drone-gimbals-for-2024/"><u>Professional Review Prime Drone Gimbals for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/shining-a-light-top-photo-illumination-hacks-for-2024/"><u>Shining a Light Top Photo Illumination Hacks for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-android-lockscreen-into-an-iphone-inspired-display/"><u>Transform Your Android Lockscreen Into an iPhone-Inspired Display</u></a></li>
+</ul></div>
 

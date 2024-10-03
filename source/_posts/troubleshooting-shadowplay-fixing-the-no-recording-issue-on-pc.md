@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Shadowplay: Fixing the No-Recording Issue on PC"
-date: 2024-09-21T17:31:42.401Z
-updated: 2024-09-27T17:00:59.494Z
+date: 2024-09-27T19:05:22.824Z
+updated: 2024-10-02T23:04:37.911Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1:**Meet the minimum system requirements**
 
 **The minimum system requirements** are a listing of what hardware devices are required to operate your game properly.
@@ -56,27 +49,27 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Check your **operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-131.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
@@ -106,16 +99,16 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Restart Oxygen Not Included from Steam.
 
 Hope the game runs smoothly now. If it’s not, check the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4:**Run the game in compatibility mode**
 
@@ -125,6 +118,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
@@ -132,13 +132,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **3)** Right-click**OxygenNotIncluded.exe** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-282.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -177,13 +170,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
  If you’re given a password to unlock the appropriate branch, type the password in the box next to**CHECK CODE** , click**CHECK CODE** and your branch will now be in the dropdown menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-288.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Click the**Local Files tab,** then click**VERIFY INTEGRITY OF GAME FILES** . ( Your game will be updated to the new branch, then.)
 
@@ -245,16 +231,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -269,13 +249,34 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-575.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Restart your computer.
 
  If Oxygen Not Included crashing still happens after the update, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall the game
 
@@ -292,13 +293,6 @@ OR
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Highlight the **Oxygen Not Included folder** , and then press the **Del** key on your keyboard to delete the folder.
 
@@ -329,20 +323,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rom-video-to-music-youtube-to-mp3-on-macos/"><u>[New] From Video to Music YouTube to MP3 on MacOS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-movie-magic-for-editing-select-excerpts-handpicked/"><u>[New] Movie Magic for Editing Select Excerpts Handpicked</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/etting-the-standard-for-online-video-presentations-yt-thumbnail-sizing-for-2024/"><u>[New] Setting the Standard for Online Video Presentations – YT Thumbnail Sizing for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-snapshots-of-progress-windows-10s-new-features/"><u>[New] Snapshots of Progress Windows 10'S New Features</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unhindered-video-capture-app/"><u>[Updated] In 2024, Unhindered Video Capture App</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-masterful-sound-note-taking-a-roadmap-to-excellence/"><u>[Updated] Masterful Sound Note-Taking A Roadmap to Excellence</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfect-your-iphones-selfie-experience-the-10-finest-free-apps/"><u>[Updated] Perfect Your iPhone’s Selfie Experience The 10 Finest Free Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-seamless-spinning-and-stitching-an-android-videographers-handbook/"><u>[Updated] Seamless Spinning & Stitching An Android Videographer's Handbook</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-music-for-imovie/"><u>2024 Approved Music for iMovie</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-hd-disruptions-clear-screening-challenges-in-fir-safari-chrome/"><u>2024 Approved Navigating HD Disruptions Clear Screening Challenges in Fir, Safari, Chrome</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/equipped-with-smart-tracking-features-via-cookieassist/"><u>Equipped with Smart Tracking Features via CookieAssist</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-novice-film-capture-scrutiny-report/"><u>In 2024, Novice Film Capture Scrutiny Report</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-factory-reset-process-for-ios-devices-iphone-ipad/"><u>Mastering the Factory Reset Process for iOS Devices (iPhone, iPad)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/uniting-windows-and-mac-users-with-skype-groups-for-2024/"><u>Uniting Windows & Mac Users with Skype Groups for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-luminance-hdr-review-is-this-a-good-choice-to-create-hdr/"><u>[New] Luminance HDR Review Is This a Good Choice to Create HDR</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-computing-solutions-on-desktops/"><u>[New] Premium Computing Solutions on Desktops</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-safaris-picture-in-picture-feature-usage-guide/"><u>[New] Safari's Picture-in-Picture Feature Usage Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unilateral-earbud-error-how-to-rectify/"><u>[New] Unilateral Earbud Error How to Rectify</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-exploring-the-influence-of-luts-on-digital-imagery-quality/"><u>[Updated] Exploring the Influence of LUTs on Digital Imagery Quality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-prime-zero-price-point-video-capturer/"><u>[Updated] In 2024, Prime Zero-Price Point Video Capturer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-innovative-ways-to-remove-ssgnature-backdrops-fast/"><u>2024 Approved Innovative Ways to Remove Ssgnature Backdrops Fast</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-intense-close-ups-in-minecraft-five-simple-steps/"><u>2024 Approved Intense Close-Ups in Minecraft Five Simple Steps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-laughs-lab-innovator/"><u>2024 Approved Laughs Lab Innovator</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-spark-20-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Spark 20 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-80-pro-straight-screen-edition-phone-without-pin-by-drfone-android/"><u>How to Unlock Honor 80 Pro Straight Screen Edition Phone without PIN</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-pushing-boundaries-for-fb-video-performance/"><u>In 2024, Pushing Boundaries for FB Video Performance</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-spots-for-stunning-3d-metallic-type-creations-for-2024/"><u>Leading Spots for Stunning 3D Metallic Type Creations for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-fast-play-videos-in-ppt-sessions-for-2024/"><u>Mastering Fast-Play Videos in PPT Sessions for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-hp-officejet-5740-printer-drivers-installed-in-a-flash/"><u>Quick Download: HP OfficeJet 5740 Printer Drivers Installed in a Flash</u></a></li>
+<li><a href="https://extra-support.techidaily.com/radiant-contrast-synchronizer-for-2024/"><u>Radiant Contrast Synchronizer for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tailored-ending-scenes-get-em-for-free/"><u>Tailored Ending Scenes - Get 'Em for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862783431-unleash-the-ultimate-gaming-experience-incredible-value-of-innocns-high-definition-27-240hz-ips-monitor-for-199/"><u>Unleash the Ultimate Gaming Experience: Incredible Value of Innocn's High-Definition 27 240Hz IPS Monitor for $199!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlock-slides-potential-embedding-video-from-youtube-for-2024/"><u>Unlock Slides' Potential Embedding Video From YouTube for 2024</u></a></li>
 </ul></div>
 

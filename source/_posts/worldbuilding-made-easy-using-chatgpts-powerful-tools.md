@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2024-09-20T16:52:07.091Z
-updated: 2024-09-27T16:33:21.058Z
+date: 2024-10-01T18:38:38.078Z
+updated: 2024-10-02T22:32:53.927Z
 tags:
   - chatgpt
   - open-ai
@@ -41,16 +41,16 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -62,16 +62,16 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -86,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
@@ -120,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
  Fortunately for comedians everywhere and the human race at large, none of the models were capable of generating an original joke.
@@ -131,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
 You read it here first, folks.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -162,24 +162,24 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-transforming-raw-footage-into-youtube-gold-via-sony-vegas/"><u>[New] 2024 Approved Transforming Raw Footage Into YouTube Gold via Sony Vegas</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sculpting-textures-creating-realistic-3d-effects-in-illustrator/"><u>[New] Sculpting Textures Creating Realistic 3D Effects in Illustrator</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-up-your-iphones-selfie-game-with-these-best-free-app-tools/"><u>[New] Step-Up Your iPhone's Selfie Game with These Best Free App Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultimate-scene-seizing-exploration/"><u>[Updated] 2024 Approved Ultimate Scene Seizing Exploration</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-boosting-game-speed-optimizing-minecrafts-ram-usage-for-2024/"><u>[Updated] Boosting Game Speed Optimizing Minecraft's RAM Usage for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leveraging-communication-to-enhance-interview-success/"><u>[Updated] Leveraging Communication to Enhance Interview Success</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfected-frames-select-software-and-websites-of-the-year-2023/"><u>2024 Approved Perfected Frames Select Software & Websites of the Year, 2023</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-space-and-system-the-ultimate-preparation-guide/"><u>2024 Approved Perfecting Space & System The Ultimate Preparation Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ankers-affordable-life-q30-hearing-aid-with-active-noise-control/"><u>Anker's Affordable Life Q30 Hearing Aid with Active Noise Control</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beginners-overview-of-animation-trends-for-2024/"><u>Beginner's Overview of Animation Trends for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bilingualism-and-esl-teaching-methods/"><u>Bilingualism and ESL Teaching Methods</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-to-downloading-and-installing-wacom-intuos-3-drivers-on-your-pc-seamless-work-integration/"><u>Guide to Downloading & Installing Wacom Intuos 3 Drivers on Your PC - Seamless Work Integration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-iphones-shutter-speed-for-motion-blurs-for-2024/"><u>Harness the Power of iPhone’s Shutter Speed for Motion Blurs for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-a-comprehensive-look-at-djis-quadcopter-standard-flight/"><u>In 2024, A Comprehensive Look at DJI's Quadcopter Standard Flight</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-video-on-twitter-top-converter-picks/"><u>In 2024, Mastering Video on Twitter Top Converter Picks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-picks-best-windows-phone-video-players-list/"><u>In 2024, Prime Picks Best Windows Phone Video Players List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pushing-boundaries-a-roundup-of-the-best-nft-generators-available/"><u>In 2024, Pushing Boundaries A Roundup of the Best NFT Generators Available</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-shooting-the-best-sports-moments-iphone-burst-mode/"><u>In 2024, Shooting the Best Sports Moments IPhone Burst Mode</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unlock-your-potential-with-outstanding-instagram-visuals/"><u>In 2024, Unlock Your Potential with Outstanding Instagram Visuals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-double-down-on-your-youtube-success-in-a-month/"><u>[New] 2024 Approved How to Double Down on Your YouTube Success in a Month</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-experts-to-follow-on-igtv/"><u>[Updated] 2024 Approved Experts to Follow on IGTV</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-fix-common-instagram-video-errors/"><u>[Updated] 2024 Approved How to Fix Common Instagram Video Errors</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-future-of-fb-ads-predictions/"><u>[Updated] In 2024, Future of FB Ads Predictions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-premier-screenshots-software-for-linux-users/"><u>[Updated] In 2024, Premier Screenshots Software for Linux Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-quick-hacks-how-to-flip-your-snapchat-videos/"><u>[Updated] In 2024, Quick Hacks How to Flip Your Snapchat Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimizing-viewers-engagement-through-youtube-music-use-in-videos/"><u>[Updated] Optimizing Viewers' Engagement Through YouTube Music Use in Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professional-strategies-for-editing-full-spherical-video-in-premiere/"><u>[Updated] Professional Strategies for Editing Full Spherical Video in Premiere</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-seize-high-def-online-videos-a-facebook-strategy-for-2024/"><u>[Updated] Seize High-Def Online Videos A Facebook Strategy for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-viewport-adjustment-iphones-zooming-guide/"><u>2024 Approved Optimal Viewport Adjustment IPhone's Zooming Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-present-trends-in-drone-technology-for-the-future/"><u>2024 Approved Present Trends in Drone Technology for the Future</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-frame-rate-enhancing-laggard-motion/"><u>2024 Approved Prime Frame Rate Enhancing Laggard Motion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-of-successful-unboxing-reels-a-compreenasium-guide/"><u>In 2024, Secrets of Successful Unboxing Reels A Compreenasium Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-canon-mg2800-series-drivers-for-windows-operating-systems-windows-10-8-7/"><u>Latest Canon MG2800 Series Drivers for Windows Operating Systems (Windows 10, 8, 7)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leap-into-efficiency-with-quick-srt-to-txt-2023-guide-for-2024/"><u>Leap Into Efficiency with Quick SRT to TXT 2023 Guide for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/learn-to-wipe-your-iphones-memory-by-yourself/"><u>Learn to Wipe Your iPhone's Memory by Yourself</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mirthful-melodies-where-to-find-hilarious-tunes-for-2024/"><u>Mirthful Melodies Where to Find Hilarious Tunes for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/nature-of-the-cosmos-select-sky-photography-websites-for-2024/"><u>Nature of the Cosmos Select Sky Photography Websites for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-discrete-audio-erosion-in-audacity-for-2024/"><u>The Art of Discrete Audio Erosion in Audacity for 2024</u></a></li>
 </ul></div>
 

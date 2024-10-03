@@ -1,7 +1,7 @@
 ---
 title: "\"Stills Extraction Procedure  Windows 11 Photos Guide for 2024\""
-date: 2024-09-26T18:11:15.167Z
-updated: 2024-09-27T17:43:59.443Z
+date: 2024-09-29T17:14:14.935Z
+updated: 2024-10-02T23:23:44.640Z
 tags: 
   - screen-recording
   - ai video
@@ -58,32 +58,39 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
 
 We are explaining the solutions here –
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
@@ -102,10 +109,10 @@ Here comes the guide –
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -113,13 +120,6 @@ Here comes the guide –
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -136,15 +136,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-validating-yourself-a-look-at-verified-insta-posts/"><u>[New] In 2024, Validating Yourself A Look at Verified Insta Posts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfect-hues-at-your-fingertips-the-essential-11-tutorial-list/"><u>[New] Perfect Hues at Your Fingertips The Essential 11 Tutorial List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-snowbound-sagas-2022-olympic-milestones/"><u>[New] Snowbound Sagas 2022 Olympic Milestones</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-accelerate-your-channel-growth-affordable-subscribers-available/"><u>[Updated] In 2024, Accelerate Your Channel Growth - Affordable Subscribers Available</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-clicks-to-creative-mosaics-with-google-imagery/"><u>2024 Approved Quick Clicks to Creative Mosaics with Google Imagery</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-creativity-full-scale-review-of-toolwizs-photography-app/"><u>2024 Approved Unleashing Creativity Full-Scale Review of Toolwiz's Photography App</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-y100a-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo Y100A</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-extensive-investigation-the-future-of-panorama-cams-with-samsung/"><u>In 2024, Extensive Investigation The Future of Panorama Cams with Samsung</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photography-revolution-toolwizs-2023-app-insights/"><u>In 2024, Photography Revolution Toolwiz's 2023 App Insights</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-honor-x9a-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Honor X9a Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-inside-look-obs-as-a-premier-screen-recorder/"><u>[New] 2024 Approved Inside Look OBS as a Premier Screen Recorder</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-leading-list-the-best-10-apps-for-live-racing-and-rugby-streaming-for-2024/"><u>[New] Leading List The Best 10 Apps for Live Racing & Rugby Streaming for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-digital-content-picking-between-podcasts-and-youtube/"><u>[New] Navigating Digital Content Picking Between Podcasts & YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimize-iphone-usage-how-to-manipulate-picture-in-picture-on-youtube/"><u>[New] Optimize iPhone Usage How to Manipulate Picture-in-Picture on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sound-signatures-curating-the-best-music-for-podcast-introductions/"><u>[New] Sound Signatures Curating the Best Music for Podcast Introductions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-media-the-finest-downloading-options/"><u>[Updated] 2024 Approved Mastering Instagram Media The Finest Downloading Options</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-naming-rules-and-guidelines-how-to-ensure-originality-in-streaming-for-2024/"><u>[Updated] Naming Rules and Guidelines How to Ensure Originality in Streaming for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-images-with-frames-best-sites-and-tools-of-2023-reviewed/"><u>[Updated] Perfect Images with Frames Best Sites and Tools of 2023 Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-srt-to-sub-masterful-conversion-methods-explored-for-2024/"><u>From SRT to SUB Masterful Conversion Methods Explored for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stories-the-bare-essentials-guide/"><u>In 2024, Stories The Bare Essentials Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-lenovo-thinkphone-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Lenovo ThinkPhone Phones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-explores-high-dynamic-range-photography-for-2024/"><u>IPhone Explores High Dynamic Range Photography for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/joining-images-harmoniously-on-your-pc-for-2024/"><u>Joining Images Harmoniously on Your PC for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-infinix-hot-30-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Infinix Hot 30 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-huawei-p60-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Huawei P60.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-y78-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo Y78 5G IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

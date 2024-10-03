@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Round the Houses  Full Rotation Photography\""
-date: 2024-09-23T17:41:19.486Z
-updated: 2024-09-27T18:23:14.197Z
+date: 2024-09-25T20:01:05.280Z
+updated: 2024-10-02T19:44:32.581Z
 tags: 
   - screen-recording
   - ai video
@@ -41,13 +41,20 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
  Both 3D and 360 degrees cameras can be used for creating virtual reality videos, but with the former, there will be need for additional processing in the form of stitching to bring the images together in the creation of the VR. However, the latter requires no stitching at all in the creation of VR videos or images due to its comprehensive nature.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About 3D or a Stereo Camera
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1.What is 3D Camera
 
@@ -59,16 +66,16 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
  There are other 3D camera configurations where the camera records an image, then the lens shifts slightly before another image is recorded, all happening within a fraction of a second, to result into two different views. Other 3D cameras on the other hand will use a stitching software to put together all the images to create a three dimensional image.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2. How Do 3D Cameras Work
 
 ![3D camera principal](https://images.wondershare.com/filmora/article-images/3d-camera-principle.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  <www.reddit.com>
 
@@ -88,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
  A 360-degree camera, also known as omnidirectional camera refers to a camera with a 360-degree field of view in horizontal plane or simply a camera with a visual field of view which can cover an entire sphere. 360-degree cameras are widely used in instances when the photographer needs to cover large visual fields such as when dealing with robotics or panoramic photography.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2. How Does 360-Degree Camera Work
 
  With the normal cameras, the field of view ranges from a few degrees to at most 180 degrees. It implies that the camera capture light falling into its focal point through a hemisphere. A 360-degree camera on the other hand captures light from all directions falling onto its focal point, thus effectively covering a full sphere. One important thing to note about 360-degree cameras is that in practice, they can only cover the full 360 degrees along the equator of the sphere and this is never the case with the top or the bottom of the sphere. Should it manage to capture the top and the bottom as well, then the light rays captured in the creation of the image will not intersect at one focal point.
@@ -102,10 +102,16 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -123,20 +129,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-lighting-setup-to-make-your-videos-stand-out/"><u>[New] Lighting Setup to Make Your Videos Stand Out</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-voice-modification-the-ultimate-guide-to-morphvox/"><u>[New] Mastering the Art of Voice Modification The Ultimate Guide to MorphVOX</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-professional-graphics-with-asus-pa32u-true-to-color/"><u>[New] Professional Graphics with ASUS PA32U True to Color</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-advanced-recording-software-outshining-fbx-methods/"><u>[Updated] 2024 Approved Advanced Recording Software Outshining FBX Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premier-pro-ultimate-2023-template-collection-free/"><u>[Updated] Premier Pro Ultimate 2023 Template Collection (FREE)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-to-gourmet-cookies-for-every-palate/"><u>[Updated] The Ultimate Guide to Gourmet Cookies for Every Palate</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-mobile-media-creation-tools-iphone-vs-android-review/"><u>2024 Approved Essential Mobile Media Creation Tools IPhone vs Android Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-iphones-quintet-of-best-podcast-aides/"><u>2024 Approved IPhone's Quintet of Best Podcast Aides</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/ideas-for-soundless-video-preservation/"><u>Ideas for Soundless Video Preservation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-sound-synthesis-inshots-audio-guide/"><u>In 2024, Seamless Sound Synthesis InShot's Audio Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578519923-learn-croatian-why-and-how-discover-the-7-key-advantages/"><u>Learn Croatian: Why and How – Discover the 7 Key Advantages!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximizing-value-from-youtube-comment-threads-for-2024/"><u>Maximizing Value From YouTube Comment Threads for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/simplify-your-multitasking-using-shortcut-keys-for-macs-screen-capture-for-2024/"><u>Simplify Your Multitasking Using Shortcut Keys for Mac's Screen Capture for 2024</u></a></li>
-<li><a href="https://win-docs.techidaily.com/streamline-publishing-workflows-with-flipbuilders-quick-office-linking-feature/"><u>Streamline Publishing Workflows with FlipBuilder's Quick Office Linking Feature!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-must-know-insights-prior-to-investing-in-an-unrestricted-smartphone/"><u>The Must-Know Insights Prior to Investing in an Unrestricted Smartphone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-chromebooks-and-hp-perfect-your-video-capture-for-2024/"><u>[New] Chromebooks and HP Perfect Your Video Capture for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-podcast-reviews-by-gpodcasts/"><u>[New] Premium Podcast Reviews by GPodcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rectify-poor-sound-quality-zoom-audio-fixes/"><u>[New] Rectify Poor Sound Quality Zoom Audio Fixes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-stabilizing-shots-best-4k-gimbals-reviewed/"><u>[New] Stabilizing Shots Best 4K Gimbals Reviewed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-insiders-edge-to-editing-your-look-back-story/"><u>[Updated] 2024 Approved The Insider's Edge to Editing Your Look Back Story</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-saving-your-iphone-7-display/"><u>[Updated] 2024 Approved The Ultimate Guide to Saving Your iPhone 7 Display</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masters-list-best-sierra-dvd-software/"><u>[Updated] Master's List Best Sierra DVD Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snapchat-highlight-101-usage-techniques/"><u>[Updated] Snapchat Highlight 101 Usage Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-guide-15-critical-repair-techniques-for-every-iphones/"><u>Comprehensive Guide: 15 Critical Repair Techniques for Every iPhones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a1-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo A1 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-radiant-registering-and-unregistering-rites/"><u>In 2024, Radiant Registering and Unregistering Rites</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-htc-u23-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from HTC U23 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picsweets-where-free-tiktok-bgs-and-beauty-meet-for-2024/"><u>PicSweets Where Free TikTok BGs and Beauty Meet for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/pull-the-crowd-tactics-for-viral-instagram-videos-for-2024/"><u>Pull the Crowd Tactics for Viral Instagram Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/render-dynamic-depth-on-digital-imagery-for-2024/"><u>Render Dynamic Depth on Digital Imagery for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-to-tackle-crashing-problems-in-diablo-iv-for-a-smooth-gaming-experience/"><u>Top Strategies to Tackle Crashing Problems in Diablo IV for a Smooth Gaming Experience</u></a></li>
 </ul></div>
 

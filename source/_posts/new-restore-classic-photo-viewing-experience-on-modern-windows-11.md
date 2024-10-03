@@ -1,7 +1,7 @@
 ---
 title: "[New] Restore Classic Photo Viewing Experience on Modern Windows 11"
-date: 2024-08-17T21:40:33.510Z
-updated: 2024-08-18T21:40:33.510Z
+date: 2024-09-30T17:53:47.074Z
+updated: 2024-10-02T23:07:38.710Z
 tags: 
   - screen-recording
   - ai video
@@ -65,13 +65,24 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2 to get Windows Photo Viewer back
 
 Here comes another way to restore Windows Photo Viewer on your computer. If your computer has been upgraded to Windows 10 from an older version, then Windows Photo Viewer might be lying around somewhere. You can retrieve it to view images.
@@ -86,20 +97,17 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Conclusion
 
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
@@ -107,20 +115,19 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -128,3 +135,22 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-affordable-4k-lens-and-recorders/"><u>[New] 2024 Approved Affordable 4K Lens & Recorders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-digital-recorder-hits-the-ultimate-list/"><u>[New] Digital Recorder Hits The Ultimate List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-undersea-video-7-easy-to-follow-techniques/"><u>[New] Mastering Undersea Video 7 Easy-to-Follow Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pros-5-virtual-helmets-a-drone-racers-choice/"><u>[New] Pro's 5 Virtual Helmets A Drone Racer's Choice</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-avoid-snappy-disappointments-streaking-wisdom/"><u>[Updated] In 2024, Avoid Snappy Disappointments Streaking Wisdom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-film-color-correction-with-luts/"><u>[Updated] Mastering Film Color Correction with Luts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-next-level-creativity-celebrating-top-6-nft-innovators/"><u>[Updated] Next-Level Creativity Celebrating Top 6 NFT Innovators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfecting-the-art-of-gif-to-sticker-transition-on-various-messaging-platforms/"><u>[Updated] Perfecting the Art of GIF to Sticker Transition on Various Messaging Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pulse-up-your-routine-20-most-empowering-workout-songs/"><u>[Updated] Pulse Up Your Routine 20 Most Empowering Workout Songs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-thrustmaster-t300-steering-wheel-software-for-windows-1011/"><u>Download Thrustmaster T300 Steering Wheel Software for Windows 10/11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-the-newest-amd-radeon-r5-drivers-on-your-windows-pc/"><u>How to Download and Install the Newest AMD Radeon R5 Drivers on Your Windows PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-mastering-the-art-of-seamless-inshot-edits/"><u>In 2024, Mastering the Art of Seamless Inshot Edits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/off-facebook-activity-expose-is-it-worth-the-scrutiny-in-2024/"><u>Off-Facebook Activity Exposé - Is It Worth The Scrutiny, In 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-motorola-edge-40-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Motorola Edge 40? Tips, Tricks and Helpful Advice</u></a></li>
+</ul></div>
+

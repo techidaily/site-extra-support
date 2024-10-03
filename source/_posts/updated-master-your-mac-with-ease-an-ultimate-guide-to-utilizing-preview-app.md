@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Master Your Mac with Ease  An Ultimate Guide to Utilizing Preview App\""
-date: 2024-08-17T21:41:39.010Z
-updated: 2024-08-18T21:41:39.010Z
+date: 2024-09-30T17:01:50.517Z
+updated: 2024-10-02T22:32:49.420Z
 tags: 
   - screen-recording
   - ai video
@@ -51,8 +51,12 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -84,8 +88,18 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -98,9 +112,6 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -117,9 +128,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -137,8 +145,12 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -156,8 +168,12 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -210,11 +226,25 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-jesters-junction-laughter-without-price-tags/"><u>[New] Jester’s Junction Laughter Without Price Tags</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-uploading-to-twitter-a-complete-video-walkthrough/"><u>[Updated] 2024 Approved Uploading to Twitter A Complete Video Walkthrough</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-detailed-handbook-for-optimizing-googles-ai-powered-text-conversion/"><u>[Updated] In 2024, Detailed Handbook for Optimizing Google's AI-Powered Text Conversion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-parrot-playfulness-explored-in-bebop-2/"><u>[Updated] Parrot Playfulness Explored in Bebop 2</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quickcapture-simplified-windows-screen-record/"><u>[Updated] QuickCapture Simplified Windows Screen Record</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-how-to-upload-media-to-twitter-without-copying-another-users-tweet/"><u>2024 Approved How To Upload Media to Twitter without Copying Another User's Tweet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-oneplus-open-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from OnePlus Open</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-visual-storytelling-with-clear-backdrops-in-figma/"><u>In 2024, Transform Your Visual Storytelling with Clear Backdrops in Figma</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-the-headset-the-mechanics-of-virtual-reality-for-2024/"><u>Inside the Headset The Mechanics of Virtual Reality for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/stand-out-in-the-crowd-logo-creation-for-podcasts-for-2024/"><u>Stand-Out in the Crowd Logo Creation for Podcasts for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-xfinity-vs-tivo-a-comprehensive-comparison-of-dvr-options-for-2024/"><u>Updated Xfinity vs TiVo A Comprehensive Comparison of DVR Options for 2024</u></a></li>
+</ul></div>
+
