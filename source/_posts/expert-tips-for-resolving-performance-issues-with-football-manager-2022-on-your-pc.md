@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Performance Issues with Football Manager 2022 on Your PC
-date: 2024-09-25T23:22:14.724Z
-updated: 2024-10-02T22:49:33.420Z
+date: 2024-10-05T20:27:11.934Z
+updated: 2024-10-07T21:24:09.370Z
 tags:
   - win11
   - win10
@@ -42,19 +42,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
@@ -71,24 +58,17 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
@@ -105,13 +85,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -121,16 +94,23 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
@@ -141,11 +121,25 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
@@ -176,20 +170,24 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/xplore-popular-youtube-comment-sections/"><u>[New] Explore Popular YouTube Comment Sections</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-harnessing-the-power-of-stories-in-fb-networks/"><u>[New] Harnessing the Power of Stories in FB Networks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-smart-snip-skills-advanced-tips-for-iphone-photo-cropping/"><u>[New] Smart Snip Skills Advanced Tips for iPhone Photo Cropping</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-hilarityhub-online-tool-for-funny-image-crafting/"><u>[Updated] 2024 Approved HilarityHub Online Tool for Funny Image Crafting</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-bandicam-reviewed-the-latest-tech-enhancements-and-tips-for-2024/"><u>[Updated] Bandicam Reviewed The Latest Tech Enhancements and Tips for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-stepwise-blueprint-converting-everyday-gifs-to-sticker-status-in-discord-and-other-chat-apps/"><u>[Updated] Stepwise Blueprint Converting Everyday GIFs to Sticker Status in Discord & Other Chat Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-metaverse-meets-omniverse-a-comparative-guide/"><u>2024 Approved Metaverse Meets Omniverse A Comparative Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-no-cost-memes-made-simple-our-meme-kit/"><u>2024 Approved No-Cost Memes Made Simple Our Meme Kit</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-optimal-recording-practices-for-remote-work-conferences/"><u>2024 Approved Optimal Recording Practices for Remote Work Conferences</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/abbeyys-kristin-wagener-earns-prestigious-crn-women-of-the-channel-award-2019-edition-official-announcement/"><u>ABBEYY's Kristin Wagener Earns Prestigious CRN Women of the Channel Award, 2019 Edition - Official Announcement</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-nearby-areas-for-an-immersive-roblox-experience-for-2024/"><u>Navigating Nearby Areas for an Immersive Roblox Experience for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-video-footage-shape-size-and-more-for-2024/"><u>New Transform Your Video Footage Shape, Size, and More for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photographers-aid-free-mobile-photography-boost-for-2024/"><u>Photographer's Aid - Free, Mobile Photography Boost for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/trending-image-memes-unveiling-the-real-story/"><u>Trending Image Memes Unveiling the Real Story</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-pushing-boundaries-exploring-iphone-xs-unique-lens-tech/"><u>[New] In 2024, Pushing Boundaries Exploring iPhone X's Unique Lens Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-precision-cutting-on-iphone-best-practices-and-apps/"><u>[New] Precision Cutting on iPhone Best Practices and Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-projecting-film-costs-for-your-music-video/"><u>[New] Projecting Film Costs for Your Music Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-from-snap-to-stunning-photo-editing-secrets/"><u>[Updated] In 2024, From Snap to Stunning Photo Editing Secrets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leveraging-iphone-features-for-gif-storage-and-entertainment/"><u>[Updated] Leveraging iPhone Features for GIF Storage & Entertainment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photos-and-instagram-effortless-integration/"><u>[Updated] Photos & Instagram Effortless Integration</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweet-trailblazers-the-trending-threads-showdown-for-2024/"><u>[Updated] Tweet Trailblazers The Trending Threads Showdown for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-transition-adopting-windows-11/"><u>2024 Approved Seamless Transition Adopting Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-secure-your-preference-with-these-9-leading-websites-offering-3d-typography/"><u>2024 Approved Secure Your Preference With These 9 Leading Websites Offering 3D Typography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-the-best-the-top-5-fpv-goggles-list/"><u>2024 Approved Selecting the Best The Top 5 FPV Goggles List</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/enhanced-marketing-insights-with-the-cookiebot-platform/"><u>Enhanced Marketing Insights with the Cookiebot Platform</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-new-horizons-video-resources-for-dynamic-learning-spaces/"><u>In 2024, Exploring New Horizons Video Resources for Dynamic Learning Spaces</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sifting-through-media-options-vlc-versus-mx/"><u>In 2024, Sifting Through Media Options VLC Versus MX</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-step-by-step-selection-of-top-10-no-cost-conference-software/"><u>In 2024, Step-By-Step Selection of Top 10 No-Cost Conference Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/launching-videos-efficiently-with-free-intros-for-2024/"><u>Launching Videos Efficiently with FREE Intros for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-downloading-and-setting-up-nvidias-3d-vision-on-your-pc/"><u>Step-by-Step: Downloading and Setting Up NVIDIA's 3D Vision on Your PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cs-to-triple-your-youtube-subscription-numbers/"><u>Tactics to Triple Your YouTube Subscription Numbers</u></a></li>
 </ul></div>
 

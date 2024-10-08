@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick DIY Filming Fixes  The Top 5 Hacks to Try Now\""
-date: 2024-10-01T18:24:02.126Z
-updated: 2024-10-02T23:07:29.933Z
+date: 2024-10-04T22:24:12.910Z
+updated: 2024-10-08T04:21:48.544Z
 tags: 
   - screen-recording
   - ai video
@@ -32,18 +32,18 @@ You can buy it from a nearby stationery store. Ensure the cardboard is not too b
 
 ![cardboard used for diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. A Black T-shirt
 
 For the black t-shirt, you can use an old t-shirt that you don't wear anymore. You can also find these shirts at your local thrift shop.
 
 ![black t-shirt for lighting control](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After managing all the required things, you must wrap and secure the t-shirt around the board. If the size of the t-shirt is larger than cardboard, tie the sleeves to secure the t-shirt. Or you can also use tape to secure the t-shirt and fasten it on the backside.
 
@@ -56,6 +56,20 @@ With this DIY flag, you can now easily give shape and block the light while film
 After filming the video, see the precise results before using the flag, when the light is dispersed everywhere, which makes a euphoric effect. While after using the flag, the light is only glimpsing the subject.
 
 ![results after using diy flag for lighting control](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Hack. DIY Black Wrap or Cinewrap
 
@@ -70,10 +84,10 @@ You can take any LED bulb present at our home. Ensure that the bulb size is mana
 ![lightbulb used for cinewrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Foil Paper
@@ -81,13 +95,6 @@ You can take any LED bulb present at our home. Ensure that the bulb size is mana
 The foil paper used to cover the lightbulb should be aluminum because foils usually absorb the light and get fired. In contrast, aluminum foil is resistant and doesn't produce too much heat.
 
 ![foil paper used in the black wrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now, all the tools are ready and waiting for further processing. For this, follow the processing step to make it work. To proceed further, you have to follow the below step-by-step process as shown:
 
@@ -114,20 +121,13 @@ You can observe that the light is only at the required place, with no dispersion
 ![results after using cinewrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After experimenting with light shaping and blocking hacks, we will move toward the light reflector hack!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Hack. DIY Light Reflector
 
@@ -136,10 +136,10 @@ A reflector is a spontaneous or specialized reflective surface that diverts the 
 ![light reflector used in a professional setup](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When applied to flat surfaces, the foil has a reflective surface. It makes it the best alternative to a professional reflector. To make your one, you will need
@@ -153,21 +153,19 @@ When applied to flat surfaces, the foil has a reflective surface. It makes it th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-transformation-editors-that-impress-for-2024/"><u>[New] Instagram Transformation Editors That Impress for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pristine-story-conception-in-eight-genre-divisions/"><u>[New] Pristine Story Conception in Eight Genre Divisions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-building-inspiring-lifestyle-content-for-viewers/"><u>[Updated] 2024 Approved Building Inspiring Lifestyle Content for Viewers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-shutter-excellence-roundup-top-6-incredible-4k-dslrs/"><u>[Updated] Shutter Excellence Roundup Top 6 Incredible 4K DSLRs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-joining-the-global-game-how-to-zoom-on-xbox-one/"><u>2024 Approved Joining the Global Game How to Zoom on Xbox One</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pixels-to-populations-best-windowsmac-software-conversion/"><u>2024 Approved Pixels to Populations Best Windows/Mac Software Conversion</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-the-problem-insights-into-teredos-eligibility-issues/"><u>Decoding the Problem: Insights Into Teredo's Eligibility Issues</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-tecno-spark-10c-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Tecno Spark 10C Phones? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-jovial-media-grabber-critique/"><u>In 2024, Jovial Media Grabber Critique</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-mastering-luts-premiere-pro-essentials/"><u>In 2024, Mastering LUTs Premiere Pro Essentials</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-audacity-crossfading-process/"><u>In 2024, Step-by-Step Audacity Crossfading Process</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mastering-the-art-of-auto-play-youtube-content-in-fb/"><u>Mastering the Art of Auto-Play YouTube Content in FB</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/sprache-und-kultur-alternative-deutschen-begrussungen-ohne-hallo/"><u>Sprache Und Kultur: Alternative Deutschen Begrüßungen Ohne 'Hallo'</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-windows-10-audio-capture-for-2024/"><u>Step-by-Step Windows 10 Audio Capture for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-obs-masterclass-for-successful-instagram-broadcasts/"><u>[New] 2024 Approved OBS Masterclass for Successful Instagram Broadcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-the-art-of-filming-at-home-top-5-efficient-tricks/"><u>[New] Master the Art of Filming at Home – Top 5 Efficient Tricks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-your-go-to-places-for-no-fee-gamers-music-online-for-2024/"><u>[New] Your Go-To Places for No-Fee Gamers' Music Online for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mute-instagrams-personalized-posts/"><u>[Updated] Mute Instagram's Personalized Posts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-the-world-of-fbs-virtual-video-landscape-for-2024/"><u>[Updated] Navigating the World of FB's Virtual Video Landscape for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prestigious-vr-movie-collection-to-watch/"><u>[Updated] Prestigious VR Movie Collection to Watch</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-securing-visuals-the-method-of-concealing-details/"><u>[Updated] Securing Visuals The Method of Concealing Details</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-navigating-youtube-comment-settings-tips-and-tricks/"><u>2024 Approved Navigating YouTube Comment Settings Tips and Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-silent-streamers-academy-learn-to-broadcast-on-ig-without-attention/"><u>2024 Approved Silent Streamers Academy Learn to Broadcast on IG without Attention</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-is-magic-call-voice-changer-app-working-get-alternatives-here/"><u>In 2024, Is Magic Call – Voice Changer App Working? Get Alternatives Here</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snapseed-essentials-conquering-image-enhancement/"><u>In 2024, Snapseed Essentials Conquering Image Enhancement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-microsoft-surface-laptop-4s-exceptional-quality/"><u>In-Depth Evaluation of Microsoft Surface Laptop 4'S Exceptional Quality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seamless-iphone-photography-during-video-for-2024/"><u>Seamless iPhone Photography During Video for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-the-future-of-gaming-an-in-depth-look-at-lg-27ud68/"><u>Unveiling the Future of Gaming An In-Depth Look at LG 27UD68</u></a></li>
 </ul></div>
 

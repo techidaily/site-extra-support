@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Nostalgic Shots  IPhone X Retro Photo Session\""
-date: 2024-09-27T17:37:59.917Z
-updated: 2024-10-02T18:47:00.021Z
+date: 2024-10-06T20:51:18.139Z
+updated: 2024-10-08T04:58:45.875Z
 tags: 
   - screen-recording
   - ai video
@@ -35,13 +35,6 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -52,6 +45,13 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image resource: 9to5mac
 
 Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn't allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don't point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn't perform great in low-light conditions.
@@ -61,6 +61,13 @@ Portrait mode enables you to set the timer, turn off the flash or apply photo fi
 The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn't have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.
 
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image resource: imore
 
@@ -89,10 +96,10 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
@@ -104,13 +111,6 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 **Compatible with:** iOS 8.0 or later
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
@@ -127,10 +127,10 @@ The plethora of blur options provided by the Defocus camera app is impressive. D
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -148,15 +148,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-creating-captivating-podcast-summaries/"><u>[New] Creating Captivating Podcast Summaries</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-video-exporting-youtube-content-directed-to-facebook-stream/"><u>[New] In 2024, Video Exporting YouTube Content Directed to Facebook Stream</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-shaky-shots-be-gone-secure-your-iphone-videos/"><u>[New] Shaky Shots Be Gone! Secure Your iPhone Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-altitude-with-djis-new-gadget/"><u>[Updated] Mastering Altitude with DJI's New Gadget</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-samsungs-visionary-leap-the-ubd-k850-ultrablade-2023/"><u>2024 Approved Samsung’s Visionary Leap - The UBD K850 UltraBlade 2023</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ace-your-gameplay-innovative-tvs-to-boost-your-xbox-series-x-adventure-for-2024/"><u>Ace Your Gameplay Innovative TVs to Boost Your Xbox Series X Adventure for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/cutting-edge-broadcasting-the-social-media-screen-share-for-2024/"><u>Cutting Edge Broadcasting The Social Media Screen Share for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-tecno-spark-10-4g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Tecno Spark 10 4G?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-portable-panorama-best-desktop-walls-for-your-laptop/"><u>In 2024, Portable Panorama Best Desktop Walls for Your Laptop</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elite-methods-to-broadcast-and-record-sporting-events-for-2024/"><u>[New] Elite Methods to Broadcast and Record Sporting Events for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-five-fantastic-iphones-for-podcast-fans-for-2024/"><u>[New] Five Fantastic iPhones for Podcast Fans for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-fostering-an-online-oasis-paving-the-way-for-a-prolific-youtube-presence/"><u>[New] In 2024, Fostering an Online Oasis Paving the Way for a Prolific Youtube Presence</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-m1-pro-vs-m1-max-a-detailed-comparison-of-apple-chipsets/"><u>[New] M1 Pro Vs. M1 Max A Detailed Comparison of Apple Chipsets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-peak-visionary-suite-feedback/"><u>[New] Peak Visionary Suite Feedback</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionize-playtime-unveiling-win11s-latest-titles/"><u>[New] Revolutionize Playtime Unveiling Win11's Latest Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-meme-magic-crafting-topical-laughs-for-every-scenario/"><u>[Updated] Meme Magic Crafting Topical Laughs for Every Scenario</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-top-secure-video-streaming-apps-1-to-8-2023-edition-for-2024/"><u>[Updated] Top Secure Video Streaming Apps #1 to #8, 2023 Edition for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-motorola-razr-40-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Motorola Razr 40 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-flight-with-top-5-hmds-for-drone-racing/"><u>In 2024, Mastering Flight with Top 5 HMDs for Drone Racing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-no-cost-creative-corner-finding-the-finest-tiktok-backgrounds/"><u>In 2024, No-Cost Creative Corner Finding the Finest TikTok Backgrounds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-metro-exodus-pc-upgrade-overcoming-the-frequent-game-crash-issues/"><u>Mastering Metro Exodus PC Upgrade: Overcoming the Frequent Game Crash Issues</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplified-path-to-perfect-video-clarity-for-2024/"><u>Simplified Path to Perfect Video Clarity for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016311062-solve-your-silent-pc-dilemma-fast-and-simple-fixes-for-a-quiet-machine/"><u>Solve Your Silent PC Dilemma: Fast and Simple Fixes for a Quiet Machine</u></a></li>
 </ul></div>
 

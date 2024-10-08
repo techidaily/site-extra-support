@@ -1,7 +1,7 @@
 ---
 title: "\"Inside the World of Toolwiz  An In-Depth Software Review for 2024\""
-date: 2024-07-30T06:24:23.269Z
-updated: 2024-07-31T06:24:23.269Z
+date: 2024-10-03T19:41:30.926Z
+updated: 2024-10-07T20:38:17.772Z
 tags: 
   - screen-recording
   - ai video
@@ -45,11 +45,25 @@ Tool wiz is one of the best photo editing applications for android and iOS users
 
 ![face swap in toolwiz](https://images.wondershare.com/filmora/article-images/2022/09/toolwiz-photos-review-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. How to use Toolwiz Photos Editor App to edit photos?
 
 **Import:** You can import pictures to this app by clicking the pro editing button on your left. Remember that you can only select one photo for editing at once. Except for it, this app has no restrictions on importing pictures.
 
 ![import photos in toolwiz](https://images.wondershare.com/filmora/article-images/2022/09/toolwiz-photos-review-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Basic features:** Using the scrolling menu at the bottom, you can use the basic editing features like cropping and, rotating, adding text and emojis in Toolwiz Photos. To use the cropping or rotating feature, you must click on the tools option available in this menu. Another menu will appear on your screen from which you can select the crop or rotate option, which one you want to use. Similarly, you must find and click the Text button in this menu to add text or emojis to your pictures. Again a new menu will appear on your screen from which you have to select the text or emoji option. Also, there are no restrictions on using these basic editing features in its free version. So you can use them easily even if you are a free user.
 
@@ -57,26 +71,21 @@ Tool wiz is one of the best photo editing applications for android and iOS users
 
 **Filters:** To apply this application's unique and beautiful filters to your photos, click on the filters option at the menu at your bottom. A menu including various types of filters this app offers, like prism art, fast filter, feeling tone, portrait, etc., will appear on your screen, from which you can select the one you want to use. This feature is also available in it for free.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add filters to photos in toolwiz](https://images.wondershare.com/filmora/article-images/2022/09/toolwiz-photos-review-4.jpg)
 
 **Export:** To export your edited pictures from this, you must click on the save button at the top right corner. Afterward, a menu will appear on your screen, asking you about the export quality and the image format. After adjusting these according to your requirements, you should have to click on the save or save and share button. Moreover, that's a good thing that there are no restrictions on its exporting option like in other apps.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![export photos from toolwiz](https://images.wondershare.com/filmora/article-images/2022/09/toolwiz-photos-review-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4\. Advantages and Disadvantages of Toolwiz Photos App
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### **Advantages:**
 
 **Friendly layout:**
@@ -101,6 +110,13 @@ Although most of the features in this app are for free, there are still a few th
 
 Also, if you use its free version, you must face its annoying ads while editing your photos. However, to become an ad-free user, you have to pay for it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5\. Other Toolwiz Photos App Alternatives
 
 However, Toolwiz is one of the best photo editors for your mobiles, but still, if you do not like it much and want to switch to another app like it, then you should look at some of its best alternatives below.
@@ -124,6 +140,13 @@ Cons
 * The application works very slowly in performing some functions.
 * Some best features are only available in its paid version.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Lensa
 
 Lensa is another alternative, using which you guys can do basic photo editing of your pictures effectively. Its interface is also straightforward to understand and use.
@@ -143,17 +166,10 @@ Cons
 * Have some paid features.
 * Take too much time to load.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Fotor
 
 Fotor can also be an alternative as it has some great features, as in Toolwiz. It is also an excellent choice to give your photos a new look.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![fotor app](https://images.wondershare.com/filmora/article-images/2022/09/toolwiz-photos-review-8.jpg)
 
 **Download:** You can download Fotor on [Android](https://play.google.com/store/apps/details?id=com.everimaging.photoeffectstudio&hl=en&gl=US)and [iOS](https://apps.apple.com/us/app/fotor-photo-editor-design/id440159265).
@@ -168,23 +184,8 @@ Cons
 
 * Some features require app purchase
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The conclusion of today's essay is that Toolwiz is your best choice if you want a sophisticated picture editor for your smartphone with a variety of capabilities. However, if you still wish to look for other apps for this purpose, Picsart, Lensa, and Fotor are some of the best options. We hope you all will find this article very informative and exciting. Thanks for reading it, guys![Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
@@ -198,8 +199,12 @@ Tool wiz is one of the best photo editing applications for android and iOS users
 **Price:** Like other photo editing applications, Toolwiz photo editor is also not a completely free application. Some features of it need to purchase. But still, you can use its free version to edit your photos normally. However, if you use its free version, you must face some very annoying ads. One perfect thing about this is that it depends upon you whether you want to put their watermark on your edited photos or not.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2\. Key features of Toolwiz Photos Editor App
 
 **Various photo filters:** Toolwiz photo editor provides its users with several exciting filters, which they can use in their photos to change their look entirely. Also, you can easily edit the color and style of your photos using its helpful tools. Probably it is the best feature to make fantastic posts on social media.
@@ -210,16 +215,10 @@ Tool wiz is one of the best photo editing applications for android and iOS users
 
 ![face swap in toolwiz](https://images.wondershare.com/filmora/article-images/2022/09/toolwiz-photos-review-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. How to use Toolwiz Photos Editor App to edit photos?
 
 **Import:** You can import pictures to this app by clicking the pro editing button on your left. Remember that you can only select one photo for editing at once. Except for it, this app has no restrictions on importing pictures.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![import photos in toolwiz](https://images.wondershare.com/filmora/article-images/2022/09/toolwiz-photos-review-2.jpg)
 
 **Basic features:** Using the scrolling menu at the bottom, you can use the basic editing features like cropping and, rotating, adding text and emojis in Toolwiz Photos. To use the cropping or rotating feature, you must click on the tools option available in this menu. Another menu will appear on your screen from which you can select the crop or rotate option, which one you want to use. Similarly, you must find and click the Text button in this menu to add text or emojis to your pictures. Again a new menu will appear on your screen from which you have to select the text or emoji option. Also, there are no restrictions on using these basic editing features in its free version. So you can use them easily even if you are a free user.
@@ -228,16 +227,17 @@ Tool wiz is one of the best photo editing applications for android and iOS users
 
 **Filters:** To apply this application's unique and beautiful filters to your photos, click on the filters option at the menu at your bottom. A menu including various types of filters this app offers, like prism art, fast filter, feeling tone, portrait, etc., will appear on your screen, from which you can select the one you want to use. This feature is also available in it for free.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add filters to photos in toolwiz](https://images.wondershare.com/filmora/article-images/2022/09/toolwiz-photos-review-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Export:** To export your edited pictures from this, you must click on the save button at the top right corner. Afterward, a menu will appear on your screen, asking you about the export quality and the image format. After adjusting these according to your requirements, you should have to click on the save or save and share button. Moreover, that's a good thing that there are no restrictions on its exporting option like in other apps.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![export photos from toolwiz](https://images.wondershare.com/filmora/article-images/2022/09/toolwiz-photos-review-5.jpg)
 
 ## Part 4\. Advantages and Disadvantages of Toolwiz Photos App
@@ -256,9 +256,6 @@ This application has all the advanced and latest features for photo editing that
 
 The best thing about the Toolwiz app is that they do not put any watermark on its exported photos like the other apps. However, if you want to put their watermark in your photo by yourself, then you can do it.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Disadvantages:**
 
 **Paid features:**
@@ -269,17 +266,10 @@ Although most of the features in this app are for free, there are still a few th
 
 Also, if you use its free version, you must face its annoying ads while editing your photos. However, to become an ad-free user, you have to pay for it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 5\. Other Toolwiz Photos App Alternatives
 
 However, Toolwiz is one of the best photo editors for your mobiles, but still, if you do not like it much and want to switch to another app like it, then you should look at some of its best alternatives below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### 1\. Picsart
 
 Picsart is one of the best alternatives to the Toolwiz photo editor. It has more advanced features and layout than it as well. So you can quickly edit your photos professionally using it like Toolwiz.
@@ -318,13 +308,17 @@ Cons
 * Have some paid features.
 * Take too much time to load.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Fotor
 
 Fotor can also be an alternative as it has some great features, as in Toolwiz. It is also an excellent choice to give your photos a new look.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fotor app](https://images.wondershare.com/filmora/article-images/2022/09/toolwiz-photos-review-8.jpg)
 
 **Download:** You can download Fotor on [Android](https://play.google.com/store/apps/details?id=com.everimaging.photoeffectstudio&hl=en&gl=US)and [iOS](https://apps.apple.com/us/app/fotor-photo-editor-design/id440159265).
@@ -339,9 +333,6 @@ Cons
 
 * Some features require app purchase
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 The conclusion of today's essay is that Toolwiz is your best choice if you want a sophisticated picture editor for your smartphone with a variety of capabilities. However, if you still wish to look for other apps for this purpose, Picsart, Lensa, and Fotor are some of the best options. We hope you all will find this article very informative and exciting. Thanks for reading it, guys![Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
@@ -370,6 +361,19 @@ The conclusion of today's essay is that Toolwiz is your best choice if you want 
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-achieve-higher-interactions-mastering-the-art-of-square-videos/"><u>[New] 2024 Approved Achieve Higher Interactions Mastering the Art of Square Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-advanced-mac-image-compiler-for-2024/"><u>[New] Advanced Mac Image Compiler for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-proven-methods-for-capturing-stunning-timelapse-videos-on-gopro/"><u>[New] Proven Methods for Capturing Stunning Timelapse Videos on GoPro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-recipe-for-success-video-styling-in-gastronomy/"><u>2024 Approved Recipe for Success Video Styling in Gastronomy</u></a></li>
+<li><a href="https://fox-access.techidaily.com/connect-and-play-xbox-one-zoom-guidebook/"><u>Connect and Play Xbox One Zoom Guidebook</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/microsoft-azure-unlocking-speech-to-text-potential-for-2024/"><u>Microsoft Azure Unlocking Speech-to-Text Potential for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gamers-tutorial-overcoming-super-persona-disruptions-for-smooth-playthroughs/"><u>PC Gamers' Tutorial: Overcoming Super Persona Disruptions for Smooth Playthroughs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photos-with-a-musical-edge-online-for-2024/"><u>Photos with a Musical Edge Online for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/removing-unneeded-podcast-advice-from-spotify-for-2024/"><u>Removing Unneeded Podcast Advice From Spotify for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/trouble-with-your-iphone-try-these-5-fixes-through-dedicated-firmware-update-mode/"><u>Trouble with Your iPhone? Try These 5 Fixes Through Dedicated Firmware Update Mode</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-new-levels-of-workplace-effectiveness-with-these-7-chatgpt-strategies/"><u>Unlock New Levels of Workplace Effectiveness with These 7 ChatGPT Strategies</u></a></li>
+</ul></div>
 

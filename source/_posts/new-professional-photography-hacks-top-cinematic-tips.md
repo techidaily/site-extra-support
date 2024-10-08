@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional Photography Hacks  Top Cinematic Tips\""
-date: 2024-09-25T16:03:14.921Z
-updated: 2024-10-02T18:31:10.406Z
+date: 2024-10-01T03:45:08.697Z
+updated: 2024-10-07T22:08:28.243Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,13 @@ Step 2 Now open and close the door to get smooth camera movement.
 
 Shaping light is a crucial component of filmmaking, requiring command over creating and guiding shadows. You need to focus the light on the subjects rather than the background. Use the following methods to focus light on the point of interest.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### DIY LED Panel
 
 You can create LED Panel at home to add light to a subject. Unfortunately, LED strips do not produce bright light when spread as a straight line. However, we can use cardboard and LED light strips to build a broader, more brilliant light. Follow the steps below to make DIY LED Panel.
@@ -57,6 +64,13 @@ Step 4 Plug in the LED strip and use this LED Panel for a broader light source.
 Alright! Let's check out how it looks in the video below.
 
 ![diy led panel](https://images.wondershare.com/filmora/article-images/2022/12/diy-led-panel.gif)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### DIY Light Flag
 
@@ -99,17 +113,10 @@ Here is a GIF attached for a better understanding of the steps.
 ![diy black wrap](https://images.wondershare.com/filmora/article-images/2022/12/diy-black-wrap.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### DIY Light Reflector
@@ -131,10 +138,23 @@ There is a GIF attached below to understand the steps visually.
 ![diy light reflector](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-reflector.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tip 3\. DIY Light Diffuser
@@ -160,22 +180,22 @@ For a better understanding of the steps, watch the GIF attached below.
 ![diy light diffuser](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-diffuser.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tip 4\. Reveal Movement and 180° Presentation
 
 The most commonly used cinematic movements are the reveal and 180° presentation movements. A gimbal is needed to record these movements.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Reveal Movement
 
@@ -195,13 +215,6 @@ Here is a video showing how to record reveal movement.
 
 ![reveal movement](https://images.wondershare.com/filmora/article-images/2022/12/reveal-movement.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 180° Presentation Movement
 
 This Movement gives the subject a general look and displays more details of the surroundings and the subject.
@@ -219,13 +232,6 @@ Step 3 Move slowly to the other side of the subject while recording.
 A sample video attached below shows how to record 180 presentation movements.
 
 ![180 presentation movement](https://images.wondershare.com/filmora/article-images/2022/12/180-presentation-movement.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tip 5\. Create a Barrel Roll Shot
 
@@ -283,18 +289,22 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-instabeats-blending-music-and-visuals-tactfully/"><u>[New] InstaBeats Blending Music & Visuals Tactfully</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-clearer-photos-unveiling-the-top-10-web-edits/"><u>[Updated] Master Clearer Photos Unveiling the Top 10 Web Edits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-shopping-for-tailored-gift-boxes-heres-who-to-hit/"><u>[Updated] Shopping for Tailored Gift Boxes? Here's Who to Hit</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-streamline-your-media-with-top-8-convertors-1-8/"><u>2024 Approved Streamline Your Media with Top 8 Convertors #1-8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhanced-performance-the-latest-thunderbolt-3-docking-solution-for-your-lenovo-thinkpad/"><u>Enhanced Performance: The Latest Thunderbolt 3 Docking Solution for Your Lenovo ThinkPad</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-video-storytelling-adding-narration-step-by-step/"><u>In 2024, Mastering Video Storytelling Adding Narration Step-by-Step</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-8-tripod-picks-for-exceptional-4k-footage/"><u>In 2024, Prime 8 Tripod Picks for Exceptional 4K Footage</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/navigate-the-digital-landscape-effective-use-of-screen-sharing-on-skype-at-home/"><u>Navigate the Digital Landscape Effective Use of Screen Sharing on Skype at Home</u></a></li>
-<li><a href="https://extra-support.techidaily.com/professional-premiere-practices-implementing-inout-effects-for-2024/"><u>Professional Premiere Practices Implementing In/Out Effects for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/puzzle-solving-windows-10-elan-pad-glitches/"><u>Puzzle-Solving: Windows 10 Elan Pad Glitches</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-8-no-cost-optical-drive-programs-compatible-with-windows-10-8-7-and-macos/"><u>Top 8 No-Cost Optical Drive Programs Compatible with Windows 10, 8, 7 & macOS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-screensnapper-prox-the-premier-pc-screen-recorder-by-apowersoft/"><u>[New] 2024 Approved ScreenSnapper ProX The Premier PC Screen Recorder by Apowersoft</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-exploring-8-top-tier-free-video-communication-tools-for-enterprises-for-2024/"><u>[New] Exploring 8 Top-Tier Free Video Communication Tools for Enterprises for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ideal-mac-sniping-software-here-are-5-picks/"><u>[Updated] 2024 Approved The Ideal Mac Sniping Software - Here Are 5 Picks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-maximize-impact-on-snapchat-with-these-15-strategies/"><u>[Updated] In 2024, Maximize Impact on Snapchat With These 15 Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-pubg-effective-techniques-for-altering-your-vocal-presence/"><u>[Updated] Mastering PUBG Effective Techniques for Altering Your Vocal Presence</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-cosmetics-confidentials-building-a-beauty-channel-on-youtube/"><u>2024 Approved Cosmetics Confidentials Building a Beauty Channel on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-audio-designers-for-iphone-ringtones/"><u>2024 Approved Leading Audio Designers for iPhone Ringtones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterclass-navigating-through-the-best-cricket-livestreams/"><u>2024 Approved Masterclass Navigating Through the Best Cricket Livestreams</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-11-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-essential-steps-for-embedding-facebook-streams-online/"><u>In 2024, Essential Steps for Embedding Facebook Streams Online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Teleport Your GPS Location On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-image-editing-in-depth-analysis-of-adobe-ps-background-removal-tool/"><u>In 2024, Mastering the Art of Image Editing In-Depth Analysis of Adobe PS Background Removal Tool</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sound-mastery-pro-tips-for-effective-audiovisual-blending-audacity/"><u>In 2024, Sound Mastery Pro Tips for Effective Audiovisual Blending (Audacity)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leap-into-editing-speedy-windows-photoshop-hacks-for-2024/"><u>Leap Into Editing Speedy Windows Photoshop Hacks for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-shake-reduction-companion-for-cams-for-2024/"><u>Quick Shake Reduction Companion for Cams for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speedy-fb-uploads-how-to-get-there-fastest-for-2024/"><u>Speedy FB Uploads How to Get There Fastest for 2024</u></a></li>
 </ul></div>
 

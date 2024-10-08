@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Light on Shadows  Techniques for Depth in Illustrator\""
-date: 2024-09-30T21:18:46.330Z
-updated: 2024-10-02T21:32:48.445Z
+date: 2024-10-04T23:13:15.689Z
+updated: 2024-10-07T23:18:09.373Z
 tags: 
   - screen-recording
   - ai video
@@ -40,22 +40,15 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
@@ -74,15 +67,22 @@ Step7 Click on the box icon on the right side of the screen and select **“Extr
 
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
 
 ![three d illustrator settings](https://images.wondershare.com/filmora/article-images/adobe-illustrator-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step9 Finally, it's time to export the image, and you're all done.
@@ -107,26 +107,26 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -148,10 +148,10 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
@@ -190,24 +190,18 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-masterclass-building-hype-with-solo-podcasts/"><u>[New] Masterclass Building Hype with Solo Podcasts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-navigating-through-post-production-color-nuances-for-2024/"><u>[New] Navigating Through Post-Production Color Nuances for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-productivity-boosters-while-binge-listening-to-podcasts/"><u>[New] Productivity Boosters While Binge-Listening to Podcasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-action-an-insight-into-sj-cam-s6/"><u>[Updated] Mastering Action An Insight Into SJ-CAM S6</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-optimize-productivity-with-mematic-app/"><u>[Updated] Optimize Productivity with Mematic App</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-iphone-multitasking-how-to-toggle-pip-on-youtube-app/"><u>2024 Approved Master iPhone Multitasking How to Toggle PIP on YouTube App</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-speed-easy-steps-to-create-top-notch-slow-motion-on-android/"><u>2024 Approved Mastering Speed Easy Steps to Create Top-Notch Slow Motion on Android</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-ranked-highest-audio-transformation-tools-including-magic/"><u>2024 Approved Ranked Highest Audio Transformation Tools, Including Magic</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-bland-to-grand-enhancing-lower-thirds-in-final-cut-pro-x/"><u>From Bland to Grand Enhancing Lower Thirds in Final Cut Pro X</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-13c-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi 13C Phones with/without a PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-12-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 12 Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-eliminate-haze-maintaining-pristine-gopro-sight/"><u>In 2024, Eliminate Haze Maintaining Pristine GoPro Sight</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimal-aerial-vehicles-your-next-purchase/"><u>In 2024, Optimal Aerial Vehicles Your Next Purchase</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-pinnacle-avi-player-mobile-and-desktop-excellence/"><u>In 2024, Pinnacle Avi Player Mobile & Desktop Excellence</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-pioneering-resources-leading-free-video-openers-guide/"><u>In 2024, Pioneering Resources Leading Free Video Openers Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/making-cash-with-zero-skills-check-out-these-13-ways-on-reddit-for-2024/"><u>Making Cash with Zero Skills? Check Out These 13 Ways on Reddit for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-image-changing-solutions-clipsmorph-elite-for-2024/"><u>Premier Image Changing Solutions ClipsMorph Elite for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/razer-gaming-accessory-overview-the-ultimate-wi-fi-solution-for-avid-players/"><u>Razer Gaming Accessory Overview: The Ultimate Wi-Fi Solution for Avid Players</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-the-logitech-g-pro-x-2-lightspeed-the-ultimate-review-for-gamers-perfection/"><u>Unveiling the Power of the Logitech G Pro X 2 Lightspeed: The Ultimate Review for Gamers' Perfection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-launching-effective-charity-challenges-and-contests-online/"><u>[New] Launching Effective Charity Challenges and Contests Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphone-techniques-crafting-striking-silhouettes/"><u>[Updated] IPhone Techniques Crafting Striking Silhouettes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-key-players-in-top-6-4k-youtube-to-mp3-conversion-software/"><u>2024 Approved Key Players in Top 6 4K YouTube-to-MP3 Conversion Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-macos-sierra-switching-back-to-os-x-el-capitan/"><u>2024 Approved MacOS Sierra Switching Back To OS X El Capitan</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-screen-only-silence-a6400-dilemma/"><u>2024 Approved No Screen, Only Silence A6400 Dilemma</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-and-update-the-driver-for-your-tp-link-ub400-wireless-bluetooth-adapter/"><u>How to Get and Update the Driver for Your TP-Link UB400 Wireless Bluetooth Adapter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-and-easy-apods-episodes-access-on-gadgets/"><u>In 2024, Quick and Easy APods Episodes Access on Gadgets</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-streamlined-mp4-creation-must-have-tools-on-mac/"><u>In 2024, Streamlined MP4 Creation Must-Have Tools on Mac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-tp-link-wireless-network-adapter-driver-for-windows-users-supports-win11-8-and-7/"><u>Latest TP-Link Wireless Network Adapter Driver for Windows Users: Supports Win11, 8 & #7</u></a></li>
+<li><a href="https://video-capture.techidaily.com/precision-in-video-calls-the-art-of-border-reduction-for-2024/"><u>Precision in Video Calls The Art of Border Reduction for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-your-pc-a-step-by-step-windows-11-reboot-guide/"><u>Reviving Your PC: A Step-by-Step Windows 11 Reboot Guide</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-zte-nubia-z60-ultra-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from ZTE Nubia Z60 Ultra</u></a></li>
 </ul></div>
 
