@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Skyward Saga with GoPro Karma  A Comprehensive Review\""
-date: 2024-10-03T20:07:00.172Z
-updated: 2024-10-07T19:20:03.155Z
+date: 2024-10-10T18:36:35.772Z
+updated: 2024-10-13T21:58:51.220Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Detailed review for GoPro Karma
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -110,10 +110,10 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -131,22 +131,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-leaders-list-of-gps-drones-with-precision-tracking/"><u>[New] Leader's List of GPS Drones with Precision Tracking</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-e-conference-headline-generator/"><u>[New] Leading E-Conference Headline Generator</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-road-to-flawless-screen-recording-with-recmeister/"><u>[Updated] In 2024, The Road to Flawless Screen Recording with Recmeister</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-macos-sierra-enhancement-guide-step-by-step-upgrades/"><u>[Updated] MacOS Sierra Enhancement Guide Step-by-Step Upgrades</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-craft-perfecting-podcast-trailer-production/"><u>2024 Approved Mastering the Craft Perfecting Podcast Trailer Production</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canadian-shoppers-alert-secure-your-ryzen-5-amoeba-official-listing-and-preorder-on-amazon-for-cad472/"><u>Canadian Shoppers Alert: Secure Your Ryzen 5 Amoeba - Official Listing & Preorder on Amazon for CAD$472</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-tecno-spark-10c-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Tecno Spark 10C</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-on-air-in-minutes-easy-steps-to-start-a-live-stream/"><u>In 2024, On Air in Minutes Easy Steps to Start a Live Stream</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimizing-podcast-visibility-via-instagram-channels/"><u>In 2024, Optimizing Podcast Visibility via Instagram Channels</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-intro-editors-for-device-applications-for-2024/"><u>Leading Intro Editors for Device Applications for 2024</u></a></li>
-<li><a href="https://solve-info.techidaily.com/mkvyoutube-youtubemkv/"><u>MKV形式でYouTube動画を安全にダウンロードする簡単方法 - YouTubeからMKVへの変換テクニック</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/must-haves-best-android-picture-adjusters-for-2024/"><u>Must-Haves Best Android Picture Adjusters for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimizing-your-mac-for-big-sur-release-for-2024/"><u>Optimizing Your Mac for Big Sur Release for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-to-resolve-flickering-and-wobbly-screen-problems-for-surface-tablets/"><u>Step-by-Step Fixes to Resolve Flickering and Wobbly Screen Problems for Surface Tablets</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-easy-way-to-install-new-or-updated-microsoft-drivers-on-your-pc-windows-7-10/"><u>The Easy Way to Install New or Updated Microsoft Drivers on Your PC (Windows 7-10)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-avi-and-m4v/"><u>オンラインで簡単! 無料変換: Movavi AVI & M4Vフォーマット間のシームレスな移行</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-master-the-meter-elevate-your-instagram-metrics-by-1kmnth/"><u>[New] Master the Meter Elevate Your Instagram Metrics by 1K/Mnth</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-slow-motion-magic-in-instagram-reels/"><u>[New] Unlocking Slow Motion Magic in Instagram Reels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-brand-discover-the-riches-in-our-gallery-of-50-free-youtube-banners/"><u>[Updated] 2024 Approved Elevate Your Brand - Discover the Riches in Our Gallery of 50 Free YouTube Banners</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-audio-exploration-top-gpodc-picks/"><u>[Updated] Premium Audio Exploration Top GPodC Picks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-love-ballad-bingo-must-haves-on-the-list-of-proposals/"><u>2024 Approved Love Ballad Bingo Must-Haves on the List of Proposals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-samsung-gear-vr-fun-the-top-5-list/"><u>2024 Approved Samsung Gear VR Fun - The Top 5 List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smart-solutions-for-gathering-visual-assets/"><u>2024 Approved Smart Solutions for Gathering Visual Assets</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/groundbreaking-photo-editor-photonshift-tech-for-2024/"><u>Groundbreaking Photo Editor PhotonShift Tech for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masters-of-illusion-top-vr-producers/"><u>In 2024, Masters of Illusion Top VR Producers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nikon-j5-sets-new-standards-in-4k-video-capture/"><u>In 2024, Nikon J5 Sets New Standards in 4K Video Capture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-solutions-transforming-images-into-videos/"><u>In 2024, Optimal Solutions Transforming Images Into Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximizing-visuals-a-step-by-step-guide-for-buying-a-4k-monitor-for-2024/"><u>Maximizing Visuals A Step-by-Step Guide for Buying a 4K Monitor for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/safeguard-your-pc-with-local-security-authority-restart-protection-feature/"><u>Safeguard Your PC with Local Security Authority – Restart Protection Feature</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/snapchat-success-top-ideas-for-memorable-snaps/"><u>Snapchat Success Top Ideas for Memorable Snaps</u></a></li>
 </ul></div>
 

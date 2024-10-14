@@ -1,7 +1,7 @@
 ---
 title: "\"Stills Extraction Procedure  Windows 11 Photos Guide for 2024\""
-date: 2024-10-02T04:18:44.946Z
-updated: 2024-10-07T21:45:42.174Z
+date: 2024-10-07T21:25:21.984Z
+updated: 2024-10-13T22:00:03.809Z
 tags: 
   - screen-recording
   - ai video
@@ -58,25 +58,46 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
 
 We are explaining the solutions here –
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
@@ -91,41 +112,14 @@ Here comes the guide –
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -142,24 +136,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-navigating-to-the-best-images-at-pexels/"><u>[New] Navigating to the Best Images at Pexels</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-capturing-adventures-a-close-look-at-panasonics-hx-a1/"><u>[Updated] 2024 Approved Capturing Adventures A Close Look at Panasonic's HX-A1</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-macrofocusadvance-magnify-and-resize-pristine-pics/"><u>[Updated] MacroFocusAdvance Magnify & Resize Pristine Pics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-finances-in-your-podcast-journey/"><u>[Updated] Navigating Finances in Your Podcast Journey</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-lg-ultrafine-4k-monitor-complete-review/"><u>2024 Approved LG UltraFine 4K Monitor Complete Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigate-effortlessly-inshots-role-in-video-crafting-on-devices/"><u>2024 Approved Navigate Effortlessly Inshot's Role in Video Crafting on Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-photoshops-secret-weapon-advanced-techniques-for-3d-lut-mastery/"><u>2024 Approved Photoshop's Secret Weapon Advanced Techniques for 3D Lut Mastery</u></a></li>
-<li><a href="https://extra-information.techidaily.com/aesthetic-ambience-selecting-premium-backgrounds-from-the-comfort-of-home-for-2024/"><u>Aesthetic Ambience Selecting Premium Backgrounds From the Comfort of Home for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/audio-visual-choreography-for-viral-content-for-2024/"><u>Audio-Visual Choreography for Viral Content for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-12plus-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Realme 12+ 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-15-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 15 Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-the-look-a-guide-to-haul-video-post-production/"><u>In 2024, Perfecting the Look A Guide to Haul Video Post-Production</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-soft-volume-tricks-lives-hidden-gems/"><u>In 2024, Soft Volume Tricks Live’s Hidden Gems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/inventory-a-multitude-of-video-recorders-for-2024/"><u>Inventory A Multitude of Video Recorders for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/playstation-portal-info-release-schedule-pricing-technical-specs-and-buying-options/"><u>PlayStation Portal Info – Release Schedule, Pricing, Technical Specs & Buying Options</u></a></li>
-<li><a href="https://win11.techidaily.com/proven-winning-techniques-for-ps1-gameplay-a-detailed-windows-and-duckstation-manual/"><u>Proven Winning Techniques for PS1 Gameplay: A Detailed Windows and Duckstation Manual</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-gaming-pcs-below-1k-a-buyers-guide/"><u>Top-Rated Gaming PCs Below $1K: A Buyer's Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-practices-integrating-timers-into-live-streaming-software/"><u>[New] 2024 Approved Best Practices Integrating Timers Into Live Streaming Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-screen-savvy-taking-screenshots-on-windows/"><u>[New] 2024 Approved Screen Savvy Taking Screenshots on Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-create-and-change-an-igtv-cover-photo-thumbnail/"><u>[Updated] In 2024, How to Create and Change an IGTV Cover Photo (Thumbnail)?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ps1-gaming-delighted-top-5-emulators-for-2024/"><u>[Updated] PS1 Gaming Delighted? Top 5 Emulators for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-clarity-perfecting-image-description-via-text-in-pcmac/"><u>2024 Approved Capturing Clarity Perfecting Image Description via Text in PC/Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionize-visual-content-leading-montage-tools-for-phones/"><u>2024 Approved Revolutionize Visual Content Leading Montage Tools for Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-masterclass-carving-out-your-digital-self/"><u>2024 Approved YouTube Masterclass Carving Out Your Digital Self</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-common-steam-errors-blocking-game-launch-on-win-11/"><u>How To Solve Common Steam Errors Blocking Game Launch on Win 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-iphone-lens-mastery-unleashing-creativity/"><u>In 2024, IPhone Lens Mastery - Unleashing Creativity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-learn-how-to-convert-audio-clips-into-written-text-with-microsoft-words-speech-recognition-features/"><u>In 2024, Learn How To Convert Audio Clips Into Written Text with Microsoft Word's Speech Recognition Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pivot-past-moments-an-android-video-reversal-tutorial/"><u>In 2024, Pivot Past Moments An Android Video Reversal Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-video-gear-pick-your-favorite-15-cams/"><u>In 2024, Premium Video Gear Pick Your Favorite #15 Cams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pushing-boundaries-with-dells-revolutionary-p2715q-monitor-review/"><u>In 2024, Pushing Boundaries with Dell's Revolutionary P2715Q Monitor Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-start-guide-to-engaging-with-ios-vr-content/"><u>In 2024, Quick Start Guide to Engaging with iOS VR Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-creating-breathtaking-tile-art/"><u>In 2024, Step-by-Step Guide to Creating Breathtaking Tile Art</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-step-by-step-guide-on-handling-minecraft-crash-with-exit-code-0/"><u>Resolved: Step-by-Step Guide on Handling Minecraft Crash with Exit Code -0</u></a></li>
 </ul></div>
 

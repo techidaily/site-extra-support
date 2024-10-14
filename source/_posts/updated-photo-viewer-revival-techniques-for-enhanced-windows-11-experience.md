@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photo Viewer Revival Techniques for Enhanced Windows 11 Experience"
-date: 2024-09-30T18:31:58.700Z
-updated: 2024-10-07T23:51:34.756Z
+date: 2024-10-06T22:08:31.917Z
+updated: 2024-10-13T20:35:20.712Z
 tags: 
   - screen-recording
   - ai video
@@ -65,16 +65,16 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -90,16 +90,16 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -108,19 +108,19 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -138,22 +138,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-vinyl-virtuoso-access-to-premium-dj-video-samples/"><u>[New] In 2024, Vinyl Virtuoso Access to Premium DJ Video Samples</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/avigate-youtubes-studio-editor-to-master-videography/"><u>[New] Navigate YouTube's Studio Editor to Master Videography</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pinnacle-photo-narrative-assembly-platform/"><u>[New] Pinnacle Photo Narrative Assembly Platform</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-skill-up-on-the-fly-with-top-10-freeware-art-apps-for-mac/"><u>[New] Skill Up on the Fly with Top 10 Freeware Art Apps for Mac</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-fast-forward-freedom-in-snapchat-a-noobs-handbook/"><u>[Updated] Fast-Forward Freedom in Snapchat A Noob’s Handbook</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-new-face-of-collaboration-video-events-post-vidcon/"><u>[Updated] In 2024, The New Face of Collaboration Video Events Post-VidCon</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instantaneous-infiltration-of-lost-reddit-threads/"><u>[Updated] Instantaneous Infiltration of Lost Reddit Threads</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-next-gen-thrills-with-intova-x-action-tech/"><u>2024 Approved Next-Gen Thrills with Intova X Action Tech</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smooth-transition-optimal-8-sub-to-srt-modules/"><u>2024 Approved Smooth Transition Optimal 8 Sub to SRT Modules</u></a></li>
-<li><a href="https://win11.techidaily.com/effortlessly-enable-and-customize-window-sandbox/"><u>Effortlessly Enable and Customize Window Sandbox</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/find-your-new-home-10-must-visit-apartment-searching-sites/"><u>Find Your New Home: 10 Must-Visit Apartment-Searching Sites</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reverse-call-quality-declines-on-zoom-platforms/"><u>In 2024, Reverse Call Quality Declines on Zoom Platforms</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlock-social-media-secrets-with-instagram-insights/"><u>In 2024, Unlock Social Media Secrets with Instagram Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/quick-guide-backing-up-your-ipad-on-a-mac-achieve-it-in-just-17-seconds/"><u>Quick Guide: Backing Up Your iPad on a Mac - Achieve It in Just 17 Seconds!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/savvy-photographers-guide-to-pristine-cloud-space-cost-free-and-paid-choices-for-2024/"><u>Savvy Photographers' Guide to Pristine Cloud Space Cost-Free & Paid Choices for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/soundscape-shifting-made-easy-unveiling-the-best-free-vocal-transformers-for-2024/"><u>Soundscape Shifting Made Easy Unveiling the Best Free Vocal Transformers for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-techniques-to-alter-your-passport-image-background/"><u>Top Techniques to Alter Your Passport Image Background</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-best-practices-for-video-thumbnail-creation-in-the-digital-age/"><u>[New] Best Practices for Video Thumbnail Creation in the Digital Age</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-obs-chronology-control-building-a-personalized-countdown/"><u>[New] Obs Chronology Control Building a Personalized Countdown</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-advanced-animators-toolkit-samples-for-2024/"><u>[Updated] Advanced Animator's Toolkit Samples for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-interactive-visual-exchange-android-iphone/"><u>2024 Approved Interactive Visual Exchange Android-iPhone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-leading-downloader-software-facebooks-top-choices-5/"><u>2024 Approved Leading Downloader Software Facebook's Top Choices #5</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-your-experience-with-key-iphone-x-hacks/"><u>2024 Approved Maximize Your Experience with Key iPhone X Hacks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-data-recorder-for-sony-a7c-model/"><u>2024 Approved Optimal Data Recorder for Sony A7C Model</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-guide-to-capturing-timelapses-with-gopro-hero5/"><u>2024 Approved Quick Guide to Capturing Timelapses with GoPro Hero5</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-samsung-galaxy-fit-a-first-rate-wearable-for-workouts-and-daily-movement/"><u>Evaluating the Samsung Galaxy Fit: A First-Rate Wearable for Workouts and Daily Movement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pushing-creative-boundaries-with-these-top-7-film-color-techniques/"><u>In 2024, Pushing Creative Boundaries with These Top 7 Film Color Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stardom-awaits-navigate-through-these-9-instagram-insights/"><u>In 2024, Stardom Awaits! Navigate Through These 9 Instagram Insights</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/seamlessly-convert-your-tiff-files-to-png-without-cost-quick-and-effective-solutions/"><u>Seamlessly Convert Your TIFF Files to PNG Without Cost - Quick and Effective Solutions</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-civi-3-disney-100th-anniversary-edition-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Civi 3 Disney 100th Anniversary Edition Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-3-methods-to-install-the-av1-codec-extension-on-windows-10-and-11-latest-guide/"><u>Top 3 Methods to Install the AV1 Codec Extension on Windows 10 and 11 - Latest Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-dts-virtual-x-technology/"><u>Unveiling the Secrets of DTS Virtual X Technology</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating and Utilizing Preview for Mac Efficiently"
-date: 2024-09-30T22:09:53.101Z
-updated: 2024-10-07T18:12:04.581Z
+date: 2024-10-07T17:26:33.391Z
+updated: 2024-10-13T16:35:49.491Z
 tags: 
   - screen-recording
   - ai video
@@ -64,13 +64,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -88,16 +81,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
@@ -128,6 +115,19 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -145,10 +145,10 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -178,13 +178,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -220,6 +213,13 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -235,18 +235,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-maximizing-your-sightline-in-roblox-playground/"><u>[New] 2024 Approved Maximizing Your Sightline in Roblox Playground</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-rgb-basics-and-their-evolution-into-srgb-format/"><u>[New] Rgb Basics and Their Evolution Into Srgb Format</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-understanding-your-new-reality-on-instagram/"><u>[New] Understanding Your New Reality on Instagram</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-4-effective-ways-to-captivate-ig-audiences-with-loop-videos/"><u>[Updated] 4 Effective Ways to Captivate IG Audiences with Loop Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-lullabies-of-relaxation-prime-asmr-talents/"><u>[Updated] Lullabies of Relaxation Prime ASMR Talents</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-spinning-stories-across-a-whole-cone/"><u>[Updated] Spinning Stories Across a Whole Cone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-method-for-selecting-tiktok-screenshots/"><u>[Updated] Step-by-Step Method for Selecting TikTok Screenshots</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-12-best-html5-video-players-you-should-know/"><u>2024 Approved 12 Best Html5 Video Players You Should Know</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-laughlens-pictorial-humor-studio/"><u>2024 Approved LaughLens Pictorial Humor Studio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-rethinking-wirecast-choices/"><u>2024 Approved Rethinking WireCast Choices</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>A Step-by-Step Breakdown Creating Your Best YT Shorts</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-x-flip-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo X Flip Safely | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigate-to-new-horizinas-top-win11-gaming-delights-for-2024/"><u>Navigate to New Horizinas Top Win11 Gaming Delights for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-ultimate-list-best-8-free-open-source-enterprise-callers/"><u>[New] 2024 Approved The Ultimate List Best 8 Free, Open Source Enterprise Callers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-make-a-video-best-fits-snapchat-size-on-mac/"><u>[New] How to Make a Video Best Fits Snapchat Size on Mac?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-scrutinizing-the-new-parrot-ar-drone-edition/"><u>[Updated] 2024 Approved Scrutinizing the New Parrot AR Drone Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-screencast-creators-handbook/"><u>[Updated] 2024 Approved The Screencast Creator's Handbook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-seminar-script-synthesizer/"><u>2024 Approved Master Seminar Script Synthesizer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photoshops-quick-path-to-contoured-images/"><u>2024 Approved Photoshop's Quick Path to Contoured Images</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smart-shopping-for-data-stores-the-lowdown-on-price/"><u>2024 Approved Smart Shopping for Data Stores The Lowdown on Price</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed/"><u>2024 Approved Sony's Masterpiece in Motion Graphics Xperia XZ Premium Unboxed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-startup-steps-for-stream-money-in-periscope/"><u>2024 Approved Startup Steps for Stream Money in Periscope</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stream-undoing-masterclass-twenty-one-tactics-to-learn-and-use/"><u>2024 Approved Stream Undoing Masterclass Twenty-One Tactics to Learn and Use</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterclass-review-top-tier-professional-cameras-spin-full-circle-2023/"><u>In 2024, Masterclass Review Top-Tier Professional Cameras Spin Full Circle - 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reel-of-excellence-ice-artistry-in-22-summary/"><u>In 2024, Reel of Excellence - Ice Artistry in '22 Summary</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-samsung-bd-j5900-overhaul-whats-new/"><u>In 2024, Samsung BD-J5900 Overhaul What's New ?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-securely-accessing-insta-stories-anon-pcandroidios-guide/"><u>In 2024, Securely Accessing Insta Stories Anon PC/Android/iOS Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/laughter-lab-free-comic-creation-at-the-gateway-for-2024/"><u>Laughter Lab Free Comic Creation at the Gateway for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-lg-partnerships-key-information-revealed/"><u>Mastering Your LG Partnerships: Key Information Revealed</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/nzxts-game-changing-monthly-offers-immerse-in-high-quality-gaming-with-core-i5-and-rtx-4060-pc-for-59-or-unleash-ultimate-power-wcore-i7-plus-rtx-4070-ti-pa116/"><u>NZXT's Game-Changing Monthly Offers: Immerse in High-Quality Gaming with Core I5 & RTX 4060 PC for $59 or Unleash Ultimate Power W/Core I7 + RTX 4070 Ti Package at an Extraordinary Price of $169</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-converting-mkv-videos-for-seamless-webm-playback/"><u>Step-by-Step Guide: Converting MKV Videos for Seamless WebM Playback</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming iPhone Lens Focus Discrepancies"
-date: 2024-10-03T23:18:35.834Z
-updated: 2024-10-07T22:47:46.819Z
+date: 2024-10-09T18:58:15.405Z
+updated: 2024-10-13T23:32:55.054Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 
 ![auto focus](https://images.wondershare.com/filmora/auto-focus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part2: Lock AE/AF
 
  As in the above tip, we explained to tap on the srceen where you wish to set the focus. However, sometimes, single tapping on the srceen isn’t sufficient. This is because if any kind of movement happens in the scene or if you move, the camera will start re-adjusting its focus which obviously you don’t want. If you seriously want to take a better picture, make sure to lock the focus on the subject in the scene. This can be done by enabling AE/AF feature and doing this will keep the focus on the subject even if anything moves in the scene. To do this, just tap and hold on the subject for a few seconds until you get to see a yellow box at the top of the srceen saying “AE/AF LOCK”. Once you notice, you can release your fingers and start having fun with picture capturing moment.
@@ -47,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 ![auto focus](https://images.wondershare.com/filmora/ae-lock.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part3: Stand too close is not good
@@ -60,10 +67,23 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 ![stand too close](https://images.wondershare.com/filmora/close.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part4: Upgrade iOS
@@ -78,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 
 ![turn off iphone](https://images.wondershare.com/filmora/turn-off-iphone-ios.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final Verdict
 
  When owning an electronic gadget, many unpredictable issues can occur and you get stuck with any of those without getting any notice. And this is quite disturbing when you find your iPhone camera is not focusing and you are unable to capture the quality picture. The situation can be more frustrating when you are fond of photography. We provided some easy to perform solutions above and hope they were useful to you. However, if unfortunately nothing worked and you are still there, we would suggest you to replace your device to the new one.
@@ -92,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
  Images come from the Internet
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -115,24 +121,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-conduct-cost-effective-seminars-using-youtube/"><u>[New] 2024 Approved Conduct Cost-Effective Seminars Using YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quick-and-easy-the-top-ten-for-youtube-mpeg-transformation/"><u>[New] Quick and Easy The Top Ten for YouTube MPEG Transformation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-effortless-broadcast-blending-a-guide-to-obspluszoom/"><u>[Updated] 2024 Approved Effortless Broadcast Blending A Guide to OBS+Zoom</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leap-forward-in-editing-embrace-xp-movie-maker/"><u>[Updated] Leap Forward in Editing Embrace XP Movie Maker</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-optimal-performance-drives-top-10-srt-enhancements-for-pc-and-mac/"><u>[Updated] Optimal Performance Drives Top 10 SRT Enhancements for PC and Mac</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-secrets-to-dominating-your-social-networks-featured-pages/"><u>[Updated] Secrets to Dominating Your Social Network's Featured Pages</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-secure-and-simple-photovideo-sharing-with-ios/"><u>[Updated] Secure and Simple Photo/Video Sharing with IOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-unexpected-failures-of-in-car-radio-systems/"><u>Dealing with Unexpected Failures of In-Car Radio Systems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pushing-visual-limits-in-depth-analysis-of-video-enhancer-22/"><u>In 2024, Pushing Visual Limits In-Depth Analysis of Video Enhancer 2.2</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-renewed-set-of-interview-starters-for-attractive-listenership/"><u>In 2024, Renewed Set of Interview Starters for Attractive Listenership</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavirmvbmpeg/"><u>Movaviで簡単な無料オンラインRMVBファイルMPEGへの変換</u></a></li>
-<li><a href="https://extra-support.techidaily.com/portable-battery-packs-to-keep-recording-longer-for-2024/"><u>Portable Battery Packs to Keep Recording Longer for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/precision-and-panache-creating-perfect-crossfades-for-2024/"><u>Precision and Panache Creating Perfect Crossfades for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pro-photographers-choices-ranking-the-top-6-4k-dslrs-for-2024/"><u>Pro Photographers’ Choices Ranking the Top 6 4K DSLRs for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-infinix-zero-30-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Infinix Zero 30 5G</u></a></li>
-<li><a href="https://extra-information.techidaily.com/smooth-shooting-clear-screens-top-10-devices-for-exceptional-video-quality/"><u>Smooth Shooting, Clear Screens Top 10 Devices for Exceptional Video Quality</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-quality-hardware-with-toms-reviews/"><u>The Ultimate Guide to Quality Hardware with Tom's Reviews</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-11-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme 11 Pro Phone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transforming-speeches-learn-no-cost-audio-effect-techniques-here-for-2024/"><u>Transforming Speeches Learn No-Cost Audio Effect Techniques Here for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-techniques-to-create-compelling-vlogger-dialogue-plans/"><u>[New] 2024 Approved Techniques to Create Compelling Vlogger Dialogue Plans</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instant-identity-protection-blur-image-edges/"><u>[New] Instant Identity Protection Blur Image Edges</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-subreddit-landscape-a-step-by-step-approach/"><u>[New] Navigating the Subreddit Landscape A Step-by-Step Approach</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-track-your-traffic-the-straightforward-strategy-for-scrutinizing-youtube-earnings/"><u>[Updated] 2024 Approved Track Your Traffic The Straightforward Strategy for Scrutinizing YouTube Earnings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-views-optimal-youtube-thumbnails-for-2024/"><u>[Updated] Maximizing Views Optimal YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-responding-right-a-comprehensive-guide-to-discord-communication/"><u>[Updated] Responding Right A Comprehensive Guide to Discord Communication</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-watch-list-to-download-youtube-playlist-in-minutes/"><u>2024 Approved From Watch List to Download YouTube Playlist in Minutes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-magic-6-by-drfone-android-unlock-android-unlock/"><u>Device unlock Honor Magic 6</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lullabies-on-a-screen-analysis-of-story-tapes-for-sleep/"><u>In 2024, Lullabies on a Screen Analysis of Story Tapes for Sleep</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinpointing-key-versions-of-microsofts-movie-maker/"><u>In 2024, Pinpointing Key Versions of Microsoft's Movie Maker</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-radial-effects-step-by-step-guide-for-photoshop-experts/"><u>In 2024, Professional Radial Effects Step-by-Step Guide for Photoshop Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-canon-mx870-into-win-oss-earlier-than-11/"><u>Integrate Canon MX870 Into Win OSs Earlier than 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/journey-into-the-realm-of-time-lapses-expert-tips-for-hero-10-for-2024/"><u>Journey Into the Realm of Time Lapses Expert Tips for Hero 10 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimizing-footage-variety-in-your-video-production-for-2024/"><u>Optimizing Footage Variety in Your Video Production for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-14s-charging-concerns-a-comprehensive-guide/"><u>Overcoming iPhone 14'S Charging Concerns: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/space-requirements-for-hd-video-on-64gb-for-2024/"><u>Space Requirements for HD Video on 64GB for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/steady-shot-enhancer-for-traveling-filmmakers-for-2024/"><u>Steady Shot Enhancer for Traveling Filmmakers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-9-methods-for-altering-windows-sound-settings/"><u>Unlock 9 Methods for Altering Windows Sound Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173536654-unveil-the-extraordinary-with-big-box-cabinetry/"><u>Unveil the Extraordinary with Big Box Cabinetry!</u></a></li>
 </ul></div>
 

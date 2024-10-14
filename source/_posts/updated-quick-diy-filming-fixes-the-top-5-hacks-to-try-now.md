@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick DIY Filming Fixes  The Top 5 Hacks to Try Now\""
-date: 2024-10-04T22:24:12.910Z
-updated: 2024-10-08T04:21:48.544Z
+date: 2024-10-11T19:47:28.156Z
+updated: 2024-10-13T21:25:42.318Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,17 @@ You can buy it from a nearby stationery store. Ensure the cardboard is not too b
 ![cardboard used for diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. A Black T-shirt
@@ -57,25 +64,18 @@ After filming the video, see the precise results before using the flag, when the
 
 ![results after using diy flag for lighting control](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Hack. DIY Black Wrap or Cinewrap
 
 The black wrap is used in professional studios and set up to block and shape light. You can block light by directly giving shape to LED lightbulbs. The black wrap is made mainly of aluminum, so it's easy to provide forms for different lights.
 
 The aluminum foils used in households have the same characteristics as a black wrap, so that you can use it as an alternative. Look at the following requirement to make it! To make a black wrap, you need two household tools. There is no need to get pricey things from the market. For this, follow the below outlines of the tools!
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. A Light Bulb
 
@@ -84,10 +84,10 @@ You can take any LED bulb present at our home. Ensure that the bulb size is mana
 ![lightbulb used for cinewrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Foil Paper
@@ -121,26 +121,26 @@ You can observe that the light is only at the required place, with no dispersion
 ![results after using cinewrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After experimenting with light shaping and blocking hacks, we will move toward the light reflector hack!
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Hack. DIY Light Reflector
 
 A reflector is a spontaneous or specialized reflective surface that diverts the light to our subject or object. Professional filming setups usually use a large reflector to get a glowing effect on a subject or even more than two.
 
 ![light reflector used in a professional setup](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When applied to flat surfaces, the foil has a reflective surface. It makes it the best alternative to a professional reflector. To make your one, you will need
 
@@ -153,19 +153,19 @@ When applied to flat surfaces, the foil has a reflective surface. It makes it th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-obs-masterclass-for-successful-instagram-broadcasts/"><u>[New] 2024 Approved OBS Masterclass for Successful Instagram Broadcasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-master-the-art-of-filming-at-home-top-5-efficient-tricks/"><u>[New] Master the Art of Filming at Home – Top 5 Efficient Tricks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-your-go-to-places-for-no-fee-gamers-music-online-for-2024/"><u>[New] Your Go-To Places for No-Fee Gamers' Music Online for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mute-instagrams-personalized-posts/"><u>[Updated] Mute Instagram's Personalized Posts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-the-world-of-fbs-virtual-video-landscape-for-2024/"><u>[Updated] Navigating the World of FB's Virtual Video Landscape for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prestigious-vr-movie-collection-to-watch/"><u>[Updated] Prestigious VR Movie Collection to Watch</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-securing-visuals-the-method-of-concealing-details/"><u>[Updated] Securing Visuals The Method of Concealing Details</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-navigating-youtube-comment-settings-tips-and-tricks/"><u>2024 Approved Navigating YouTube Comment Settings Tips and Tricks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-silent-streamers-academy-learn-to-broadcast-on-ig-without-attention/"><u>2024 Approved Silent Streamers Academy Learn to Broadcast on IG without Attention</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-is-magic-call-voice-changer-app-working-get-alternatives-here/"><u>In 2024, Is Magic Call – Voice Changer App Working? Get Alternatives Here</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-snapseed-essentials-conquering-image-enhancement/"><u>In 2024, Snapseed Essentials Conquering Image Enhancement</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-microsoft-surface-laptop-4s-exceptional-quality/"><u>In-Depth Evaluation of Microsoft Surface Laptop 4'S Exceptional Quality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seamless-iphone-photography-during-video-for-2024/"><u>Seamless iPhone Photography During Video for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unveiling-the-future-of-gaming-an-in-depth-look-at-lg-27ud68/"><u>Unveiling the Future of Gaming An In-Depth Look at LG 27UD68</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-best-buys-for-extreme-weather-shooting-top-7-edition/"><u>[New] Best Buys for Extreme Weather Shooting, Top 7 Edition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-breakdown-of-profit-earning-potential-from-each-youtube-sponsored-post/"><u>[New] In 2024, Breakdown of Profit Earning Potential From Each YouTube Sponsored Post?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplified-explanation-of-stories-art/"><u>[New] Simplified Explanation of Stories' Art</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-enjoy-high-quality-pc-audio-recording-install-x-recorder/"><u>[Updated] Enjoy High-Quality PC Audio Recording - Install X-Recorder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfecting-voice-broadcasts-on-apple-devices-the-pros-guide/"><u>[Updated] Perfecting Voice Broadcasts on Apple Devices - The Pro's Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smart-selections-17-apps-for-flawless-image-correction/"><u>[Updated] Smart Selections 17 Apps for Flawless Image Correction</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-low-cost-cloud-vaulting-for-massive-file-stashing/"><u>2024 Approved Low Cost Cloud Vaulting for Massive File Stashing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-gt-5-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme GT 5 online without jailbreak</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-narrative-nuance-a-guide-to-crafting-compelling-film-dialogues/"><u>In 2024, Narrative Nuance A Guide to Crafting Compelling Film Dialogues</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-twitter-visual-content-proportions/"><u>In 2024, Twitter Visual Content Proportions</u></a></li>
+<li><a href="https://facebook.techidaily.com/leveraging-facebook-groups-for-effective-surveys/"><u>Leveraging Facebook Groups for Effective Surveys</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-online-video-chats-connect-with-lifetime-skype-app-for-windows-users/"><u>Mastering Online Video Chats: Connect With Lifetime Skype App for Windows Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-mkv-software-pc-and-android-for-2024/"><u>Prime MKV Software PC & Android for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zen-5-processors-amd-brings-next-gen-performance-to-laptops-and-desktop-computers/"><u>Zen 5 Processors: AMD Brings Next-Gen Performance to Laptops and Desktop Computers</u></a></li>
 </ul></div>
 

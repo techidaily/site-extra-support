@@ -1,7 +1,7 @@
 ---
 title: "\"Revive Your Photo Viewer  Two Methods to Try in Win 11 for 2024\""
-date: 2024-10-05T05:53:01.515Z
-updated: 2024-10-07T23:22:48.402Z
+date: 2024-10-07T17:23:30.003Z
+updated: 2024-10-13T18:04:29.675Z
 tags: 
   - screen-recording
   - ai video
@@ -57,13 +57,6 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -71,6 +64,13 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 1**: Go to ‘Settings’ and open ‘Apps’. Click on ‘Default Apps’ and check ‘Photo Viewer’. The default photo viewer will be visible here.
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
@@ -91,22 +91,15 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -114,13 +107,20 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -138,18 +138,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-out-of-obscurity-reversing-tiktoks-stealth-ban-for-2024/"><u>[New] Out of Obscurity Reversing TikTok's Stealth Ban for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-review-for-parrot-ar-drone-20-elite-edition/"><u>[New] Review for Parrot AR Drone 2.0 Elite Edition</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-art-of-crafting-captivating-facebook-stories/"><u>[Updated] In 2024, The Art of Crafting Captivating Facebook Stories</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-soundscape-dilution-via-audacity-tools/"><u>[Updated] Navigating Soundscape Dilution via Audacity Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitters-videography-policy-including-aspect-ratios-is-crucial-for-2024/"><u>[Updated] Twitter's Videography Policy Including Aspect Ratios Is Crucial for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-omni-directional-vision-and-its-distinctive-features/"><u>2024 Approved Omni-Directional Vision and Its Distinctive Features</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/fluidite-visuelle-amelioree-par-intelligence-artificielle-fps-augmentes-et-transitions-dimage-imbriquees/"><u>Fluidité Visuelle Améliorée Par Intelligence Artificielle : FPS Augmentés Et Transitions D'Image Imbriquées</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-motion-capture-in-a-canon-lens/"><u>In 2024, Perfecting Motion Capture in a Canon Lens</u></a></li>
-<li><a href="https://extra-support.techidaily.com/inside-the-innovations-a-detailed-look-at-powerdirector-24-release-for-2024/"><u>Inside the Innovations A Detailed Look at PowerDirector '24 Release for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-media-timing-guidelines/"><u>Social Media Timing Guidelines</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-periscope-broadcasting-101-for-2024/"><u>Step-by-Step Periscope Broadcasting 101 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/untangle-video-troubles-overcome-error-code-224003-for-seamless-viewing/"><u>Untangle Video Troubles - Overcome Error Code 224003 for Seamless Viewing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-secrets-of-a-robust-yet-cost-effective-fintie-case-for-your-macbook-pro-13/"><u>Unveiling the Secrets of a Robust yet Cost-Effective Fintie Case for Your MacBook Pro 13</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-effortlessly-fast-forward-focus-in-video-content/"><u>[New] 2024 Approved Effortlessly Fast-Forward Focus in Video Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-from-standard-to-superior-adding-srt-to-mp4-videos/"><u>[New] From Standard to Superior Adding SRT to MP4 Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-dynamic-discussion-drivers-in-instagram-social-media-surveys/"><u>[Updated] In 2024, Dynamic Discussion Drivers in Instagram Social Media Surveys</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mobile-mastery-high-shots-with-your-smartphone/"><u>2024 Approved Mobile Mastery High Shots with Your Smartphone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pro-android-image-correction-apps/"><u>2024 Approved Pro Android Image Correction Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/efficient-methods-for-rectifying-the-msvcr100dll-file-is-missing-issue/"><u>Efficient Methods for Rectifying the Msvcr100.dll File Is Missing Issue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-wirelessnetwork-adapters-updated-driver-software-for-windows-operating-systems/"><u>HP Wireless/Network Adapters: Updated Driver Software for Windows Operating Systems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-explore-premium-free-online-tools-for-professional-video-tweaks/"><u>In 2024, Explore Premium Free Online Tools for Professional Video Tweaks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pilot-to-perfection-complete-review-of-dji-phantom-4/"><u>In 2024, Pilot to Perfection Complete Review of DJI Phantom 4</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-merge-apple-music-and-videos-together/"><u>In 2024, Seamless Merge Apple Music & Videos Together</u></a></li>
+<li><a href="https://extra-support.techidaily.com/picture-perfect-best-apps-for-framing-your-memories-for-2024/"><u>Picture Perfect Best Apps for Framing Your Memories for 2024</u></a></li>
 </ul></div>
 
