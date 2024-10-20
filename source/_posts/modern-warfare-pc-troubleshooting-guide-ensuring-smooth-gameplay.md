@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare PC Troubleshooting Guide: Ensuring Smooth Gameplay"
-date: 2024-10-08T19:06:26.988Z
-updated: 2024-10-14T00:39:01.697Z
+date: 2024-10-16T16:05:09.542Z
+updated: 2024-10-19T19:48:23.693Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Allow your game through Windows Firewall
@@ -47,30 +47,23 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
@@ -99,6 +92,13 @@ If this doesn’t do the trick, try the next fix below.
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
@@ -137,6 +137,13 @@ If this doesn’t do the trick, try the next fix below.
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to update your graphics driver
 
 * [Manually](https://tools.techidaily.com/drivereasy/download/)
@@ -153,20 +160,13 @@ If this doesn’t do the trick, try the next fix below.
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you find out the brand of your graphics card, visit the manufacturer’s website to get the most up-to-date driver. All you have to do is follow the on-screen instructions to download and install the driver for your system.
 
@@ -187,10 +187,10 @@ If this doesn’t do the trick, try the next fix below.
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
@@ -234,20 +234,19 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-skyward-savings-affordable-drones-below-a-hundred/"><u>[New] Skyward Savings Affordable Drones Below a Hundred$</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-10-digital-landscape-replacers-for-videos/"><u>[Updated] In 2024, Best 10 Digital Landscape Replacers for Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-interactive-learning-activities/"><u>[Updated] Interactive Learning Activities</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-jokesterjigsaw-toolkit/"><u>2024 Approved JokesterJigsaw Toolkit</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-luts-for-rich-color-grading-in-ar-apps/"><u>2024 Approved Leveraging LUTs for Rich Color Grading in AR Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/amazon-luna-experience-a-deep-dive-into-its-seamless-gaming-streams/"><u>Amazon Luna Experience - A Deep Dive Into Its Seamless Gaming Streams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/getting-your-microsoft-surface-pro-back-online-with-these-wi-fi-fix-tips/"><u>Getting Your Microsoft Surface Pro Back Online with These Wi-Fi Fix Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-lut-basics-for-enhanced-visual-effects-in-ae/"><u>In 2024, LUT Basics for Enhanced Visual Effects in AE</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photo-philosophers-guide-ios-and-android-writers-choice/"><u>In 2024, Photo Philosopher's Guide – iOS & Android Writers' Choice</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-gopro-editing-software-for-iosandroid-users/"><u>In 2024, Prime GoPro Editing Software for iOS/Android Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722979079241-seamless-wifi-driver-update-and-download-processes-on-windows-7-unveiled/"><u>Seamless WiFi Driver Update & Download Processes on Windows 7 Unveiled!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-comprehensive-breakdown-of-what-to-expect-on-amazon-prime-day/"><u>The Comprehensive Breakdown of What to Expect on Amazon Prime Day</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-how-to-record-your-desktop-and-microphone-simultaneeously-on-windows-10/"><u>Ultimate Guide: How to Record Your Desktop and Microphone Simultaneeously on Windows 10</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/are-the-laws-around-saving-youtube-videos-for-offline-use-for-2024/"><u>What Are the Laws Around Saving YouTube Videos for Offline Use for 2024</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-14-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 14 Pro Max? | Stellar</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-streamlining-your-360-video-process-for-social-media-platforms/"><u>[New] In 2024, Streamlining Your 360 Video Process for Social Media Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-game-on-in-reality-discover-the-top-5-samsung-vr-titles/"><u>[Updated] In 2024, Game On in Reality! Discover the Top 5 Samsung VR Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-creative-expression-adding-video-filters-in-zoom/"><u>[Updated] Mastering Creative Expression Adding Video Filters in Zoom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-protecting-beats-on-instagram/"><u>[Updated] Protecting Beats on Instagram</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-effortlessly-switch-from-m2ts-video-format-to-ipad-viewing-a-guide-to-4-proven-techniques/"><u>How to Effortlessly Switch From M2TS Video Format to iPad Viewing: A Guide to 4 Proven Techniques</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-social-media-marketing-a-step-by-step-guide/"><u>In 2024, Mastering Social Media Marketing A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-no-more-queasiness-in-vr-worlds/"><u>In 2024, No More Queasiness in VR Worlds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-filmmaking-kinemaster-transition-techniques/"><u>In 2024, Seamless Filmmaking Kinemaster Transition Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-nvidia-gtx-1650-super-drivers-installation-steps-for-windows-11-users/"><u>Latest NVIDIA GTX 1650 Super Drivers: Installation Steps for Windows 11 Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-mastery-best-features-of-manycam-virtual-camera-software/"><u>Live Streaming Mastery: Best Features of ManyCam - Virtual Camera Software</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-time-bending-techniques-in-final-cut-pro-x/"><u>New 2024 Approved Time-Bending Techniques in Final Cut Pro X</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-motorola-moto-e13-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Motorola Moto E13? Here is How | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-honor-play-40c-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Honor Play 40C Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

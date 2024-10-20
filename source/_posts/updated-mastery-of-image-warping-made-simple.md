@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastery of Image Warping Made Simple"
-date: 2024-07-30T06:08:10.785Z
-updated: 2024-07-31T06:08:10.785Z
+date: 2024-10-15T20:14:52.751Z
+updated: 2024-10-19T20:26:07.156Z
 tags: 
   - screen-recording
   - ai video
@@ -20,14 +20,8 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -54,30 +48,10 @@ Play around with the settings in the options bar. There are quite a few differen
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
 The **Bend Direction** option rotates the angle of the bend.
@@ -86,19 +60,20 @@ The **Bend Direction** option rotates the angle of the bend.
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -132,5 +107,22 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-sky-high-streamer-success-channel-growth-through-monetizing-every-device/"><u>[New] 2024 Approved Sky-High Streamer Success Channel Growth Through Monetizing Every Device</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-first-choice-top-15-videography-power-tools-for-2024/"><u>[New] First Choice Top 15 Videography Power Tools for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revel-in-these-14-enthralling-text-based-movements/"><u>[New] Revel in These 14 Enthralling Text-Based Movements</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mastering-media-your-step-by-step-video-tweet/"><u>[Updated] 2024 Approved Mastering Media Your Step-by-Step Video Tweet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-shoes-for-virtual-ground-leading-treadmill-insights/"><u>[Updated] Shoes for Virtual Ground Leading Treadmill Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simplify-lifes-complexities-with-expert-google-photos-guidance/"><u>[Updated] Simplify Life's Complexities with Expert Google Photos Guidance</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-chart-success-the-top-online-stock-portals/"><u>2024 Approved Chart Success The Top Online Stock Portals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-melodic-sharing-on-instagram-legalities/"><u>2024 Approved Melodic Sharing on Instagram Legalities</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/bybs-leading-quality-e430-led-swing-arm-light-examined-an-in-depth-review/"><u>BYB's Leading Quality E430 LED Swing Arm Light Examined: An In-Depth Review</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/create-stunning-flash-albums-with-instant-paging-free-flip-photo-converter-software/"><u>Create Stunning Flash Albums with Instant Paging - Free Flip Photo Converter Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/framed-fantasies-expert-recommendations-on-software-and-sites-for-2024/"><u>Framed Fantasies Expert Recommendations on Software & Sites for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stealth-sharpening-hiding-background-details/"><u>In 2024, Stealth Sharpening Hiding Background Details</u></a></li>
+<li><a href="https://extra-support.techidaily.com/safeguard-yourself-from-oculus-discomfort-for-2024/"><u>Safeguard Yourself From Oculus Discomfort for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/weaving-stories-in-cyberspace-mastering-interactive-text-based-gameplay-with-chatgpt/"><u>Weaving Stories in Cyberspace: Mastering Interactive Text-Based Gameplay with ChatGPT</u></a></li>
+</ul></div>
 

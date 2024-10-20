@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Photo Story Platinum - Best Photo Movie Story Maker | Wondershare\""
-date: 2024-07-30T06:06:02.935Z
-updated: 2024-07-31T06:06:02.935Z
+date: 2024-10-14T21:34:35.211Z
+updated: 2024-10-19T21:55:45.736Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,6 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Features of Photo Story Platinum
 
 * Easily create your show with photos, videos and music
@@ -43,11 +40,6 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 * Able to burn your photo story to DVD.
 * Directly share on YouTube, Facebook & virtually anywhere.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### How to Use Wondershare Photo Story Platinum for Windows and Mac
 
 #### Step 1\. Add photos and videos
@@ -77,176 +69,12 @@ The photo story maker provides sorts of methods for you. For example, if you wan
 
 ![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
-Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
-
-### Supported Output Formats by Web Converter
-
-* **DVD**: Standard DVD (D5 or D9)
-* **SD Video**: MPEG-1, MPEG-2, MP4, WMV, AVI, 3GP, MOV (QuickTime Movie), ASF, FLV, F4V, SWF
-* **HD Video**: HD MP4, HD AVI (MSMPEGV3, MJPEG Video, XVID), HD WMV (WMV3), HD MOV, HD MPG(MPEG-2 VIDEO)
-* **Video for devices**: iPod, iPhone, Apple TV, Sandisk Sansa, Microsoft Zune, Archos, Creative Zen, Sony Walkman, Blackberry, Nokia, Windows Mobile, Game Hardware
-
-Learn about the detailed [technical specifications](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) of Wondershare Photo Story Platinum for Windows.
-
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
-
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you can easily create your own DVD photo slideshow, video slideshow and more. It enables you to make the most of your photos and videos and preserve your [precious memory](https://tools.techidaily.com/wondershare/filmora/download/) with ease. Having high compatibility with hot devices and sites, you can directly publish your photo story on YouTube, or save it for playing on your iPad, iPhone and more.
-
-[Learn more about Wondershare Photo Story Platinum.](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-### Key Features of Photo Story Platinum
-
-* Easily create your show with photos, videos and music
-* 130+ 2D/3D transitions provided for personalizing your photo stories
-* Rich your own photo creation with built-in film effects
-* Able to burn your photo story to DVD.
-* Directly share on YouTube, Facebook & virtually anywhere.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
-### How to Use Wondershare Photo Story Platinum for Windows and Mac
-
-#### Step 1\. Add photos and videos
-
-After the installation of the program, you will see a window with two options: standard mode or advanced mode:
-
-* Standard mode: provides some ready-to-use movie styles which you can choose directly for your slideshow.
-* Advanced mode: provides more customization features which you can make your own stunning photo slideshow.
-
-After the mode selection, click the Add Files button to import your photos and videos.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
-
-#### Step 2\. Personalize your photo story
-
-Click the Personalize tab. Then you can add transitions, effects, background music and more t create your own gorgeous photo story.
-
-You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
-
-#### Step 3\. Publish your photo story
-
-After the customization of your photo story, click the Create tab and choose your way to save the photo story.
-
-The photo story maker provides sorts of methods for you. For example, if you want to burn your photo story to DVD, click Burn to DVD button. And if you want to share it on YouTube, choose Share to YouTube so that you can share it directly without open your YouTube page via browser.
-
-![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
-
-Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
-
-### Supported Output Formats by Web Converter
-
-* **DVD**: Standard DVD (D5 or D9)
-* **SD Video**: MPEG-1, MPEG-2, MP4, WMV, AVI, 3GP, MOV (QuickTime Movie), ASF, FLV, F4V, SWF
-* **HD Video**: HD MP4, HD AVI (MSMPEGV3, MJPEG Video, XVID), HD WMV (WMV3), HD MOV, HD MPG(MPEG-2 VIDEO)
-* **Video for devices**: iPod, iPhone, Apple TV, Sandisk Sansa, Microsoft Zune, Archos, Creative Zen, Sony Walkman, Blackberry, Nokia, Windows Mobile, Game Hardware
-
-Learn about the detailed [technical specifications](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) of Wondershare Photo Story Platinum for Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-Shanoon Cox
-
-Shanoon Cox is a writer and a lover of all things video.
-
-Follow @Shanoon Cox
-
-##### Shanoon Cox
-
- Mar 27, 2024• Proven solutions
-
-Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you can easily create your own DVD photo slideshow, video slideshow and more. It enables you to make the most of your photos and videos and preserve your [precious memory](https://tools.techidaily.com/wondershare/filmora/download/) with ease. Having high compatibility with hot devices and sites, you can directly publish your photo story on YouTube, or save it for playing on your iPad, iPhone and more.
-
-[Learn more about Wondershare Photo Story Platinum.](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/)
-
-[![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-### Key Features of Photo Story Platinum
-
-* Easily create your show with photos, videos and music
-* 130+ 2D/3D transitions provided for personalizing your photo stories
-* Rich your own photo creation with built-in film effects
-* Able to burn your photo story to DVD.
-* Directly share on YouTube, Facebook & virtually anywhere.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-### How to Use Wondershare Photo Story Platinum for Windows and Mac
-
-#### Step 1\. Add photos and videos
-
-After the installation of the program, you will see a window with two options: standard mode or advanced mode:
-
-* Standard mode: provides some ready-to-use movie styles which you can choose directly for your slideshow.
-* Advanced mode: provides more customization features which you can make your own stunning photo slideshow.
-
-After the mode selection, click the Add Files button to import your photos and videos.
-
-![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
-
-#### Step 2\. Personalize your photo story
-
-Click the Personalize tab. Then you can add transitions, effects, background music and more t create your own gorgeous photo story.
-
-You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
-
-![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
-
-#### Step 3\. Publish your photo story
-
-After the customization of your photo story, click the Create tab and choose your way to save the photo story.
-
-The photo story maker provides sorts of methods for you. For example, if you want to burn your photo story to DVD, click Burn to DVD button. And if you want to share it on YouTube, choose Share to YouTube so that you can share it directly without open your YouTube page via browser.
-
-![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
 Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
 
@@ -287,9 +115,6 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 * Able to burn your photo story to DVD.
 * Directly share on YouTube, Facebook & virtually anywhere.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Use Wondershare Photo Story Platinum for Windows and Mac
 
 #### Step 1\. Add photos and videos
@@ -309,10 +134,14 @@ Click the Personalize tab. Then you can add transitions, effects, background mus
 
 You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 3\. Publish your photo story
 
@@ -320,16 +149,23 @@ After the customization of your photo story, click the Create tab and choose you
 
 The photo story maker provides sorts of methods for you. For example, if you want to burn your photo story to DVD, click Burn to DVD button. And if you want to share it on YouTube, choose Share to YouTube so that you can share it directly without open your YouTube page via browser.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Supported Output Formats by Web Converter
 
 * **DVD**: Standard DVD (D5 or D9)
@@ -341,10 +177,184 @@ Learn about the detailed [technical specifications](https://tools.techidaily.com
 
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you can easily create your own DVD photo slideshow, video slideshow and more. It enables you to make the most of your photos and videos and preserve your [precious memory](https://tools.techidaily.com/wondershare/filmora/download/) with ease. Having high compatibility with hot devices and sites, you can directly publish your photo story on YouTube, or save it for playing on your iPad, iPhone and more.
+
+[Learn more about Wondershare Photo Story Platinum.](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/)
+
+[![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Key Features of Photo Story Platinum
+
+* Easily create your show with photos, videos and music
+* 130+ 2D/3D transitions provided for personalizing your photo stories
+* Rich your own photo creation with built-in film effects
+* Able to burn your photo story to DVD.
+* Directly share on YouTube, Facebook & virtually anywhere.
+
+### How to Use Wondershare Photo Story Platinum for Windows and Mac
+
+#### Step 1\. Add photos and videos
+
+After the installation of the program, you will see a window with two options: standard mode or advanced mode:
+
+* Standard mode: provides some ready-to-use movie styles which you can choose directly for your slideshow.
+* Advanced mode: provides more customization features which you can make your own stunning photo slideshow.
+
+After the mode selection, click the Add Files button to import your photos and videos.
+
+![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
+
+#### Step 2\. Personalize your photo story
+
+Click the Personalize tab. Then you can add transitions, effects, background music and more t create your own gorgeous photo story.
+
+You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
+
+![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
+
+#### Step 3\. Publish your photo story
+
+After the customization of your photo story, click the Create tab and choose your way to save the photo story.
+
+The photo story maker provides sorts of methods for you. For example, if you want to burn your photo story to DVD, click Burn to DVD button. And if you want to share it on YouTube, choose Share to YouTube so that you can share it directly without open your YouTube page via browser.
+
+![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
+
+### Supported Output Formats by Web Converter
+
+* **DVD**: Standard DVD (D5 or D9)
+* **SD Video**: MPEG-1, MPEG-2, MP4, WMV, AVI, 3GP, MOV (QuickTime Movie), ASF, FLV, F4V, SWF
+* **HD Video**: HD MP4, HD AVI (MSMPEGV3, MJPEG Video, XVID), HD WMV (WMV3), HD MOV, HD MPG(MPEG-2 VIDEO)
+* **Video for devices**: iPod, iPhone, Apple TV, Sandisk Sansa, Microsoft Zune, Archos, Creative Zen, Sony Walkman, Blackberry, Nokia, Windows Mobile, Game Hardware
+
+Learn about the detailed [technical specifications](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) of Wondershare Photo Story Platinum for Windows.
+
+[![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+Shanoon Cox
+
+Shanoon Cox is a writer and a lover of all things video.
+
+Follow @Shanoon Cox
+
+##### Shanoon Cox
+
+ Mar 27, 2024• Proven solutions
+
+Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you can easily create your own DVD photo slideshow, video slideshow and more. It enables you to make the most of your photos and videos and preserve your [precious memory](https://tools.techidaily.com/wondershare/filmora/download/) with ease. Having high compatibility with hot devices and sites, you can directly publish your photo story on YouTube, or save it for playing on your iPad, iPhone and more.
+
+[Learn more about Wondershare Photo Story Platinum.](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/)
+
+[![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
+
+### Key Features of Photo Story Platinum
+
+* Easily create your show with photos, videos and music
+* 130+ 2D/3D transitions provided for personalizing your photo stories
+* Rich your own photo creation with built-in film effects
+* Able to burn your photo story to DVD.
+* Directly share on YouTube, Facebook & virtually anywhere.
+
+### How to Use Wondershare Photo Story Platinum for Windows and Mac
+
+#### Step 1\. Add photos and videos
+
+After the installation of the program, you will see a window with two options: standard mode or advanced mode:
+
+* Standard mode: provides some ready-to-use movie styles which you can choose directly for your slideshow.
+* Advanced mode: provides more customization features which you can make your own stunning photo slideshow.
+
+After the mode selection, click the Add Files button to import your photos and videos.
+
+![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
+
+#### Step 2\. Personalize your photo story
+
+Click the Personalize tab. Then you can add transitions, effects, background music and more t create your own gorgeous photo story.
+
+You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
+
+![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+#### Step 3\. Publish your photo story
+
+After the customization of your photo story, click the Create tab and choose your way to save the photo story.
+
+The photo story maker provides sorts of methods for you. For example, if you want to burn your photo story to DVD, click Burn to DVD button. And if you want to share it on YouTube, choose Share to YouTube so that you can share it directly without open your YouTube page via browser.
+
+![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
+
+Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
+
+### Supported Output Formats by Web Converter
+
+* **DVD**: Standard DVD (D5 or D9)
+* **SD Video**: MPEG-1, MPEG-2, MP4, WMV, AVI, 3GP, MOV (QuickTime Movie), ASF, FLV, F4V, SWF
+* **HD Video**: HD MP4, HD AVI (MSMPEGV3, MJPEG Video, XVID), HD WMV (WMV3), HD MOV, HD MPG(MPEG-2 VIDEO)
+* **Video for devices**: iPod, iPhone, Apple TV, Sandisk Sansa, Microsoft Zune, Archos, Creative Zen, Sony Walkman, Blackberry, Nokia, Windows Mobile, Game Hardware
+
+Learn about the detailed [technical specifications](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) of Wondershare Photo Story Platinum for Windows.
+
+[![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -374,5 +384,20 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-broadcast-battle-which-platform-wins/"><u>[New] In 2024, Broadcast Battle Which Platform Wins?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-metaverse-enthusiasts-secret-to-simple-avatars/"><u>[New] Metaverse Enthusiasts' Secret to Simple Avatars</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revealed-top-10-powerful-fcp-plugin-tools/"><u>[New] Revealed Top 10 Powerful FCP Plugin Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-full-periscope-mastery/"><u>[New] Step-by-Step Guide to Full Periscope Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-power-of-luminance-in-hdr-landscapes/"><u>[New] Unveiling the Power of Luminance in HDR Landscapes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-future-of-drone-control-with-syma-x8c-for-2024/"><u>[Updated] The Future of Drone Control with Syma X8C for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-streaming-issues-can-you-tell-if-twitch-server-down-or-only-yours-facing-connectivity-problems/"><u>Decoding Streaming Issues: Can You Tell If Twitch Server Down or Only Yours Facing Connectivity Problems?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-the-future-of-personal-handiwork/"><u>GPT-4: The Future of Personal Handiwork</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-and-easy-collage-mastery-for-instant-sharing/"><u>In 2024, Quick and Easy Collage Mastery for Instant Sharing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-error-code-0x80072efd-effective-strategies-and-fixes/"><u>Overcoming Windows 11 Error Code 0X80072EFD: Effective Strategies and Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-source-for-brother-hl-l2360dw-drivers-download-now-and-ensure-optimal-performance/"><u>Secure Source for Brother HL-L2360DW Drivers: Download Now and Ensure Optimal Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-digital-destinations-for-text-overlays-for-2024/"><u>Ultimate Digital Destinations for Text Overlays for 2024</u></a></li>
+</ul></div>
 

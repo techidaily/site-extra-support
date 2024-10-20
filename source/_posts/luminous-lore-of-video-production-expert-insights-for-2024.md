@@ -1,7 +1,7 @@
 ---
 title: "\"Luminous Lore of Video Production  Expert Insights for 2024\""
-date: 2024-07-30T06:05:17.537Z
-updated: 2024-07-31T06:05:17.537Z
+date: 2024-10-16T18:22:25.830Z
+updated: 2024-10-19T19:56:30.972Z
 tags: 
   - screen-recording
   - ai video
@@ -46,9 +46,6 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -61,9 +58,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -76,16 +70,10 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -96,19 +84,20 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -142,5 +131,19 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mastery-in-music-selection-enhancing-video-packages/"><u>[New] 2024 Approved Mastery in Music Selection Enhancing Video Packages</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-apeak-recording-examined-quality-and-features-decoded/"><u>[New] Apeak Recording Examined Quality and Features Decoded</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/et-youtube-posters-at-zero-price-top-free-downloading-tool-for-2024/"><u>[New] Get YouTube Posters at Zero Price - Top Free Downloading Tool for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-leading-free-console-reproduction-devices/"><u>[New] In 2024, Leading Free Console Reproduction Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-proven-picks-for-high-quality-screenshot-tools-on-a-budget/"><u>[Updated] In 2024, Proven Picks for High-Quality Screenshot Tools on a Budget</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterful-techniques-for-perfect-time-lapse-videos-on-hero-10/"><u>[Updated] Masterful Techniques for Perfect Time-Lapse Videos on Hero 10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-success-with-tinder-profiles-check-out-these-hacks-now/"><u>[Updated] Quick Success with Tinder Profiles? Check Out These Hacks Now</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-google-meet-unlocked-a-free-in-depth-user-manual/"><u>2024 Approved Google Meet Unlocked A Free, In-Depth User Manual</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-streaming-smarter-storing-top-51-exclusive-android-mobile-video-trimming-software/"><u>2024 Approved Seamless Streaming, Smarter Storing Top 51 Exclusive Android Mobile Video Trimming Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-enjoying-authentic-cricket-games-in-real-time/"><u>In 2024, Secrets to Enjoying Authentic Cricket Games in Real-Time</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pushing-boundaries-exploring-iphone-xs-unique-lens-tech/"><u>Pushing Boundaries Exploring iPhone X's Unique Lens Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-macx-video-converter-pro-rapid-and-perfect-4k-hd-sd-transformations-for-all-devices/"><u>Ultimate Guide to MacX Video Converter Pro: Rapid and Perfect 4K, HD, SD Transformations for All Devices</u></a></li>
+</ul></div>
 

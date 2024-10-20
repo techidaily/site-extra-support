@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Guide  Adding Films to Your Windows 11 Portfolio\""
-date: 2024-07-30T06:05:06.171Z
-updated: 2024-07-31T06:05:06.171Z
+date: 2024-10-18T23:30:14.634Z
+updated: 2024-10-19T19:55:52.630Z
 tags: 
   - screen-recording
   - ai video
@@ -22,25 +22,16 @@ Microsoft's video editing tool, movie maker, which debuted 19 years ago, did not
 
 The corporation reportedly acquired the editing suite Clipchamp last year, and it is reportedly accessible as an "inbox" app for Windows 11\. It will therefore be pre-installed alongside other applications like Microsoft Family. In Windows 11, Clipchamp is intended to take the place of Windows Movie Maker as a video editing program. A recognizable user interface, including templates, project bins, timeline, and more, is provided by Clipchamp for **Windows movie maker 11**. Styles, stock media, transitions and. Filters are all included in the asset libraries that are supplied.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1\. Use Clipchamp Video Maker
 
 With the help of Clipchamp, anyone can easily create videos, even those without any prior editing skills. In Windows 10 and Windows 11, you may create videos using the new program Clipchamp. The editing program Clipchamp, which Microsoft purchased last year, is superior to earlier programs like Windows Movie Maker. For work, social networking, or to document significant occasions, you may use Clipchamp on Windows to produce intriguing new films. Let's check how to edit in Clipchamp **windows 11 movie maker.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![open clipchamp on windows 11](https://images.wondershare.com/filmora/article-images/2022/09/open-clipchamp-on-windows-11.jpg)
 
 ### **Add videos to the timeline**
 
 * Drag and drop the video from the library to the timeline. One can tap on the "+" button to add a file directly to the timeline, and tap on "Add" to all media files.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drag video to calipchamp editor](https://images.wondershare.com/filmora/article-images/2022/09/drag-video-to-calipchamp-editor.jpg)
 
 * After adding the videos to the timeline, you can start editing and viewing. Users can add numerous videos to the timeline and edit them.
@@ -48,6 +39,13 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 ### **Trim the video clip**
 
 * For trimming the unwanted parts, you can select the video on the timeline and drag their edges to cut the part.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Split the clips**
 
@@ -71,9 +69,6 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 
 * One can even add audio files to the video. You can drag the Audio from the computer to the library area. You can choose the audio file from the library.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add music windows 11 movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-music-windows-11-movie-maker.jpg)
 
 * After you have loaded the file, you can drag it to the timeline.
@@ -81,8 +76,12 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 * Tap on an audio file, and an option will appear. Tap on Audio and drag your slider to adjust the volume.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Add title**
 
 * To add the title to the video, you can tap on "Text" in the left menu.
@@ -91,26 +90,23 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 
 * Tap on the preferred titles from the sidebar using the drag and drop option to get the desired title to the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Export the video**
 
 * After you have finished your edits, you can save the file in MP4 and tap on the export option in the right corner of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2\. Edit Videos in Windows 11 with Photos App
 
 Windows has always offered methods for searching and displaying photos because it is a relatively flexible operating system. However, with Windows 11, Microsoft tried combining browsing, organizing, and viewing into a single program and some simple editing.
 
 The outcome, the innocently named "Photos" app, can be pretty confusing. You can do anything with your photographs and videos, thanks to the Photos experience. Compare, edit, view, construct albums and create movies with ease of your priceless memories. While keeping you involved in the experience, it displays all of the goods from that place and lets you navigate to other pictures.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Add the file
 
 * You can tap on the "ADD" option, select "From the PC" from the overlay menu, and choose the desired video from the storage drive.
@@ -120,10 +116,6 @@ The outcome, the innocently named "Photos" app, can be pretty confusing. You can
 
 * Tap on the "Add title card" option on your storyboard pane, which can result in adding some extra fame before selecting the video on the storyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Add color pallete
 
 * Choose the desired color from your color palette to change the background.
@@ -135,17 +127,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Then, click and hold your left mouse button and drag the pointer to adjust the clip.
 * After editing according to your preference, you can tap on the "Done" option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Add some filters
 
 * You can tap "Filters" on the storyboard pane, choose one, but tap on individual thumbnails on the sidebar.
 * After applying the preferred filter, tap on the "Done" button from the bottom section, and click on confirm and apply.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Export the video
 
 * After you are done with your edit, you can tap "Finish Video" on the top section of the window.
@@ -174,6 +160,19 @@ When you create a raw video, it contains several unwanted parts that need to be 
 
 ![trim and edit the unwanted parts](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 One can add numerous clips, but each clip will get placed after the previously added clip. To rearrange the files, you must drag clips according to your preference.
 
 ##### Step3Add some visual effects
@@ -189,6 +188,13 @@ You can get various templates in the software, which you can use for the video.
 One can utilize numerous software filters to add exciting colors to the clip. Drag the filter and drop it on the timeline. Sliding to the end of the filter can change the lasting of the filter.
 
 Once you finish your edits, you can easily save and publish them.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -204,19 +210,27 @@ In this article, you have learned about various video editors available on Windo
 
 Tap on "New Project" and enter the video editor. Register your product by tapping on the "Register" option. You can visit the "File" menu in the upper section, click "Project setting," and choose aspect ratio.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![click on create a video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step2Trim and edit the unwanted parts
 
 When you create a raw video, it contains several unwanted parts that need to be removed from the video. You must drag the video to the timeline from Media Tab to cut or trim the video parts.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![trim and edit the unwanted parts](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 One can add numerous clips, but each clip will get placed after the previously added clip. To rearrange the files, you must drag clips according to your preference.
 
@@ -226,6 +240,13 @@ You have now successfully removed the unnecessary parts from video clips. You wi
 
 ![tap on the text icon](https://images.wondershare.com/filmora/guide/select-boris-effect.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can get various templates in the software, which you can use for the video.
 
 ##### Step4Use the color correction
@@ -234,9 +255,6 @@ One can utilize numerous software filters to add exciting colors to the clip. Dr
 
 Once you finish your edits, you can easily save and publish them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 In this article, you have learned about various video editors available on Windows 11 and an alternative. You can choose your video editors according to your preference and comfortability. Each video editor has unique features, and everyone can deliver the best user results. Clipchamp is the superior alternative option for previous Windows movie makers and comes with lots of features. If you want professional video editing, you can choose Clipchamp or [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -267,5 +285,23 @@ In this article, you have learned about various video editors available on Windo
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-expert-insights-adjusting-tempo-for-optimal-snapchat-viewing/"><u>[New] 2024 Approved Expert Insights Adjusting Tempo for Optimal Snapchat Viewing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-marvelous-evaluation-and-replacement-insight/"><u>[New] Marvelous Evaluation & Replacement Insight</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-precision-video-resizing-utility/"><u>[New] Precision Video Resizing Utility</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-creators-ultimate-playlist-the-best-free-sound-sources/"><u>[Updated] 2024 Approved YouTube Creators' Ultimate Playlist The Best Free Sound Sources</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-avplayer-xpress-for-mobile-and-desktop-users/"><u>[Updated] Premium AVPlayer Xpress for Mobile & Desktop Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photo-fusion-at-home-and-online-synergy-guide/"><u>2024 Approved Photo Fusion at Home & Online Synergy Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/digital-filmmaking-recording-video-across-various-platforms-for-2024/"><u>Digital Filmmaking Recording Video Across Various Platforms for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/game-on-with-mastery-the-2023-review-of-kinemaster-for-android/"><u>Game On with Mastery The 2023 Review of KineMaster for Android</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-itel-p55-frp-by-drfone-android/"><u>How Can We Bypass Itel P55 FRP?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-google-pixel-8-screen-sharing-drfone-by-drfone-android/"><u>How To Do Google Pixel 8 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-preeminent-80s-effects-for-video-artistry/"><u>In 2024, Preeminent 80S Effects for Video Artistry</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-chrome-drawing-programs-the-ultimate-list/"><u>In 2024, Prime Chrome Drawing Programs The Ultimate List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-writing-compelling-vlog-dialogues/"><u>In 2024, Secrets to Writing Compelling Vlog Dialogues</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-picture-warping-techniques-with-various-apps-for-2024/"><u>Mastering Picture Warping Techniques with Various Apps for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-14-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 14</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unifying-media-mosaic-the-ultimate-tiktok-stitching-playbook-for-2024/"><u>Unifying Media Mosaic The Ultimate TikTok Stitching Playbook for 2024</u></a></li>
+</ul></div>
 

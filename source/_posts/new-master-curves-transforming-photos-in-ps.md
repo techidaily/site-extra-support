@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Master Curves  Transforming Photos in PS\""
-date: 2024-07-30T06:03:06.950Z
-updated: 2024-07-31T06:03:06.950Z
+date: 2024-10-12T22:37:28.448Z
+updated: 2024-10-19T20:15:01.556Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
 ## Simple Steps to Curve an Image in Photoshop
@@ -51,16 +48,10 @@ Play around with the settings in the options bar. There are quite a few differen
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
 The **Bend Direction** option rotates the angle of the bend.
@@ -69,24 +60,21 @@ The **Bend Direction** option rotates the angle of the bend.
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
@@ -119,5 +107,18 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-steps-to-secure-clear-image-collections/"><u>[New] Steps to Secure, Clear Image Collections</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-insider-guide-elevating-your-instagram-imagery/"><u>[Updated] In 2024, The Insider Guide Elevating Your Instagram Imagery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-low-cost-action-cameras-list-for-less-than-100-savings/"><u>[Updated] Low-Cost Action Cameras List for Less Than $100 Savings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-image-quality-a-guide-without-watermarks/"><u>2024 Approved Mastering Image Quality A Guide Without Watermarks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-virtual-conferencing-in-gmail-via-zoom-best-practices/"><u>2024 Approved Seamless Virtual Conferencing in Gmail via Zoom Best Practices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-mic-tests-achieving-crystal-clear-sound-in-minutes/"><u>Effortless Mic Tests: Achieving Crystal Clear Sound in Minutes!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-brain-teasers-general-knowledge/"><u>Elite Brain Teasers - General Knowledge</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nokia-g310-lock-screen-password-by-drfone-android/"><u>How To Change Nokia G310 Lock Screen Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-x6-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/lockdown-strategies-for-insider-content/"><u>Lockdown Strategies for Insider Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/momentum-in-motion-our-choice-of-top-10-film-titles-for-2024/"><u>Momentum in Motion Our Choice of Top 10 Film Titles for 2024</u></a></li>
+</ul></div>
 

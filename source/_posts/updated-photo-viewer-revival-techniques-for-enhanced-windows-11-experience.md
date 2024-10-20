@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photo Viewer Revival Techniques for Enhanced Windows 11 Experience"
-date: 2024-10-06T22:08:31.917Z
-updated: 2024-10-13T20:35:20.712Z
+date: 2024-10-15T20:23:06.281Z
+updated: 2024-10-19T17:13:00.496Z
 tags: 
   - screen-recording
   - ai video
@@ -70,10 +70,10 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
@@ -90,16 +90,23 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -107,20 +114,13 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -138,20 +138,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-best-practices-for-video-thumbnail-creation-in-the-digital-age/"><u>[New] Best Practices for Video Thumbnail Creation in the Digital Age</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-obs-chronology-control-building-a-personalized-countdown/"><u>[New] Obs Chronology Control Building a Personalized Countdown</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-advanced-animators-toolkit-samples-for-2024/"><u>[Updated] Advanced Animator's Toolkit Samples for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-interactive-visual-exchange-android-iphone/"><u>2024 Approved Interactive Visual Exchange Android-iPhone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-leading-downloader-software-facebooks-top-choices-5/"><u>2024 Approved Leading Downloader Software Facebook's Top Choices #5</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-your-experience-with-key-iphone-x-hacks/"><u>2024 Approved Maximize Your Experience with Key iPhone X Hacks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-data-recorder-for-sony-a7c-model/"><u>2024 Approved Optimal Data Recorder for Sony A7C Model</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-guide-to-capturing-timelapses-with-gopro-hero5/"><u>2024 Approved Quick Guide to Capturing Timelapses with GoPro Hero5</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-samsung-galaxy-fit-a-first-rate-wearable-for-workouts-and-daily-movement/"><u>Evaluating the Samsung Galaxy Fit: A First-Rate Wearable for Workouts and Daily Movement</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pushing-creative-boundaries-with-these-top-7-film-color-techniques/"><u>In 2024, Pushing Creative Boundaries with These Top 7 Film Color Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-stardom-awaits-navigate-through-these-9-instagram-insights/"><u>In 2024, Stardom Awaits! Navigate Through These 9 Instagram Insights</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/seamlessly-convert-your-tiff-files-to-png-without-cost-quick-and-effective-solutions/"><u>Seamlessly Convert Your TIFF Files to PNG Without Cost - Quick and Effective Solutions</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-civi-3-disney-100th-anniversary-edition-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Civi 3 Disney 100th Anniversary Edition Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-3-methods-to-install-the-av1-codec-extension-on-windows-10-and-11-latest-guide/"><u>Top 3 Methods to Install the AV1 Codec Extension on Windows 10 and 11 - Latest Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-of-dts-virtual-x-technology/"><u>Unveiling the Secrets of DTS Virtual X Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-advanced-card-selections-uhd-video-perfection/"><u>[New] 2024 Approved Advanced Card Selections UHD Video Perfection</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-crafting-compelling-content-weaving-text-into-os-imagery/"><u>[New] 2024 Approved Crafting Compelling Content Weaving Text Into OS Imagery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-orchestrating-overtures-for-optimal-movie-teasers/"><u>[New] Orchestrating Overtures for Optimal Movie Teasers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-screening-success-10-movies-that-energize-and-empower/"><u>[New] Screening Success 10 Movies That Energize & Empower</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-dynamic-time-lapse-capturing-the-world-in-motion-on-android/"><u>[Updated] Dynamic Time-Lapse Capturing the World in Motion on Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-nexus-of-networks-merging-instagram-and-tiktok/"><u>[Updated] Nexus of Networks Merging Instagram and TikTok</u></a></li>
+<li><a href="https://extra-information.techidaily.com/access-unlimited-ringtones-our-top-4-online-spots/"><u>Access Unlimited Ringtones Our Top 4 Online Spots</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024200d-on-windows-diagnosis-and-successful-repair-techniques/"><u>Error 0X8024200d on Windows: Diagnosis and Successful Repair Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/essential-tips-for-monitoring-facebook-live-streams-for-2024/"><u>Essential Tips for Monitoring Facebook Live Streams for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-y100-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo Y100 online without jailbreak</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-itel-a60-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Itel A60 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-lava-storm-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Lava Storm 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-measuring-video-storage-space-64128gb-hard-drive-analysis/"><u>In 2024, Measuring Video Storage Space - 64/128GB Hard Drive Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-methods-syncing-ios-images-and-movies-to-windows/"><u>In 2024, Quick Methods Syncing iOS Images & Movies to Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-screen-ready-images-opting-for-srgb/"><u>In 2024, Screen Ready Images Opting for Srgb</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-look-how-dell-p2715q-delivers-on-4k-quality-for-2024/"><u>Inside Look How Dell P2715Q Delivers on 4K Quality for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-your-notes-opt-for-mematic-for-2024/"><u>Master Your Notes - Opt for Mematic for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-color-change-pro-methods-uncovered-for-2024/"><u>Navigating Color Change Pro Methods Uncovered for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-comic-editor-app/"><u>Ultimate Comic Editor App</u></a></li>
 </ul></div>
 

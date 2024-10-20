@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Gradual Audio Reduction in Digital Studios"
-date: 2024-10-12T16:56:05.605Z
-updated: 2024-10-13T20:40:15.968Z
+date: 2024-10-13T23:20:59.652Z
+updated: 2024-10-19T16:00:02.306Z
 tags: 
   - screen-recording
   - ai video
@@ -42,13 +42,6 @@ After selecting that, there will be an addition of a new automation clip to the 
 
 Step4 Due to the automation clip, you will be able to do a smooth transition in and out of that song or audio. Now, you can create a suitable volume for fading your sound. If you want to create another new automation, then click on the right. After that click on the left and drag it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. FL Studio Alternative to Fade Audio
 
 If you have the latest version of FL i.e., FL Studio 20, then it will allow you for multiple recordings. For this, you just have to build a looped region and then tap on ‘Record’. Now it will create new tracks of its own when it reaches the end region of the loop.
@@ -63,6 +56,13 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
@@ -74,32 +74,26 @@ No matter which audio editing software, what matters is the learning outcome. Le
 ## Related FAQs of FL Studio Audio Editing
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -111,28 +105,29 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
 ## Related FAQs of FL Studio Audio Editing
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
 
@@ -141,13 +136,6 @@ If you want to fade out your audio in FL on your mobile phone, tap on the wavefo
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -177,20 +165,14 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-gain-unlimited-stock-videos-through-essential-4-youtube-sources-for-2024/"><u>[New] Gain Unlimited Stock Videos Through Essential 4 YouTube Sources for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-googles-proven-technique-for-accurate-speech-conversion-for-2024/"><u>[New] Google’s Proven Technique for Accurate Speech Conversion for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-perfect-your-content-instagram-reel-best-practices/"><u>[New] Perfect Your Content Instagram Reel Best Practices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instagram-video-quirk-unusual-vertical-display/"><u>[Updated] Instagram Video Quirk Unusual Vertical Display</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-social-network-crossroad-instagram-and-tiktok/"><u>[Updated] Navigating the Social Network Crossroad Instagram & TikTok</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-process-of-enlisting-videos-on-youtube-shelves/"><u>2024 Approved Navigating the Process of Enlisting Videos on YouTube Shelves</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-secrets-of-seamless-video-editing-using-windows-11-tools/"><u>2024 Approved Secrets of Seamless Video Editing Using Windows 11 Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-tips-for-vanquishing-dangerous-foes-in-monster-hunter-world-a-thorough-critique/"><u>Expert Tips for Vanquishing Dangerous Foes in Monster Hunter: World - A Thorough Critique</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-spectral-photography-takes-a-quantum-leap-with-blade-4k/"><u>In 2024, Spectral Photography Takes a Quantum Leap with Blade 4K</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-the-soundtrack-strategy-elevating-facebook-videos-with-music/"><u>In 2024, The Soundtrack Strategy Elevating Facebook Videos with Music</u></a></li>
-<li><a href="https://extra-support.techidaily.com/loop-mechanics-collection-for-2024/"><u>Loop Mechanics Collection for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/masterpieces-14-animated-textual-works/"><u>Masterpieces 14 Animated Textual Works</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-your-podcast-episodes-into-mp3-files-top-3-proven-methods/"><u>Transforming Your Podcast Episodes Into MP3 Files: Top 3 Proven Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-miracast-potential-a-complete-manual-for-windows-n-version-users/"><u>Unlocking Miracast Potential: A Complete Manual for Windows N-Version Users</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-overlay-wizardry-on-your-windows-desktop/"><u>[New] Overlay Wizardry on Your Windows Desktop</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-up-your-speaking-game-access-free-user-friendly-audio-alteration-tools/"><u>[New] Step Up Your Speaking Game - Access Free, User-Friendly Audio Alteration Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-strategies-to-thrive-on-reddit/"><u>[New] Step-by-Step Strategies to Thrive on Reddit</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-increasing-your-youtube-traffic-with-100kplus-view-goals-for-2024/"><u>[Updated] Increasing Your YouTube Traffic with 100K+ View Goals for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-profit-on-facebook-essential-insights-and-hacks-for-2024/"><u>[Updated] Mastering Profit on Facebook Essential Insights & Hacks for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-samsung-galaxy-m14-4g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Samsung Galaxy M14 4G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/audio-essentials-explained-unveiling-the-differences-between-ht-and-sr-receivers/"><u>Audio Essentials Explained: Unveiling the Differences Between HT and SR Receivers</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/convert-your-protected-dvds-with-macx-imkvmaker-create-encrypted-mkv-formats-seamlessly/"><u>Convert Your Protected DVDs with MacX iMKVmaker - Create Encrypted MKV Formats Seamlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-customization-changing-your-phones-tune-for-2024/"><u>IPhone Customization Changing Your Phone's Tune for 2024</u></a></li>
 </ul></div>
 

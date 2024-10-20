@@ -1,7 +1,7 @@
 ---
 title: "\"Revive Your Photo Viewer  Two Methods to Try in Win 11 for 2024\""
-date: 2024-10-07T17:23:30.003Z
-updated: 2024-10-13T18:04:29.675Z
+date: 2024-10-17T22:52:26.166Z
+updated: 2024-10-19T18:38:41.365Z
 tags: 
   - screen-recording
   - ai video
@@ -66,15 +66,28 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -91,15 +104,22 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -107,21 +127,7 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -138,16 +144,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-effortlessly-fast-forward-focus-in-video-content/"><u>[New] 2024 Approved Effortlessly Fast-Forward Focus in Video Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-from-standard-to-superior-adding-srt-to-mp4-videos/"><u>[New] From Standard to Superior Adding SRT to MP4 Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-dynamic-discussion-drivers-in-instagram-social-media-surveys/"><u>[Updated] In 2024, Dynamic Discussion Drivers in Instagram Social Media Surveys</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mobile-mastery-high-shots-with-your-smartphone/"><u>2024 Approved Mobile Mastery High Shots with Your Smartphone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pro-android-image-correction-apps/"><u>2024 Approved Pro Android Image Correction Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/efficient-methods-for-rectifying-the-msvcr100dll-file-is-missing-issue/"><u>Efficient Methods for Rectifying the Msvcr100.dll File Is Missing Issue</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-wirelessnetwork-adapters-updated-driver-software-for-windows-operating-systems/"><u>HP Wireless/Network Adapters: Updated Driver Software for Windows Operating Systems</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-explore-premium-free-online-tools-for-professional-video-tweaks/"><u>In 2024, Explore Premium Free Online Tools for Professional Video Tweaks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pilot-to-perfection-complete-review-of-dji-phantom-4/"><u>In 2024, Pilot to Perfection Complete Review of DJI Phantom 4</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-merge-apple-music-and-videos-together/"><u>In 2024, Seamless Merge Apple Music & Videos Together</u></a></li>
-<li><a href="https://extra-support.techidaily.com/picture-perfect-best-apps-for-framing-your-memories-for-2024/"><u>Picture Perfect Best Apps for Framing Your Memories for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-adventure-anthology-top-10-game-selection/"><u>[New] 2024 Approved The Ultimate Adventure Anthology – Top 10 Game Selection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-recorded-tones-the-iphone-voicemail-keeper/"><u>[New] Recorded Tones The iPhone Voicemail Keeper</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-selfie-showstoppers-adding-whimsy-with-the-cartoon-lens/"><u>[New] Selfie Showstoppers Adding Whimsy with the Cartoon Lens</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfecting-remote-conferences-with-focused-scopes/"><u>[Updated] Perfecting Remote Conferences with Focused Scopes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/conquer-ghost-touch-glitches-on-your-iphone-a-guide-to-10-fixes/"><u>Conquer Ghost Touch Glitches on Your iPhone: A Guide to 10 Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-access-the-high-level-command-prompt-in-w11-os/"><u>How to Access the High-Level Command Prompt in W11 OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-14-creative-text-animation-cases/"><u>In 2024, Leading 14 Creative Text Animation Cases</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-frame-rate-enhancing-laggard-motion/"><u>In 2024, Prime Frame Rate Enhancing Laggard Motion</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-image-marketing-dos-vs-donts-explained/"><u>In 2024, YouTube Image Marketing Dos vs Don'ts Explained</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-mastering-the-art-of-downloading-podcast-episodes-on-laptops-and-desktops/"><u>New In 2024, Mastering the Art of Downloading Podcast Episodes on Laptops and Desktops</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-shelldll-file-missing-issues-a-step-by-step-guide/"><u>Resolving 'Shell.dll' File Missing Issues: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

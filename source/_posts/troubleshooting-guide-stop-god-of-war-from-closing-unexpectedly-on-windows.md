@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Stop God of War From Closing Unexpectedly On Windows"
-date: 2024-10-12T21:43:33.808Z
-updated: 2024-10-13T23:27:28.808Z
+date: 2024-10-13T17:04:47.624Z
+updated: 2024-10-19T17:29:48.858Z
 tags:
   - win11
   - win10
@@ -34,23 +34,16 @@ In some cases, the culprit is NVIDA Streamer service, especially when it’s off
 
 3) See if your Shadowplay can record now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2: Reinstall NVIDIA Driver
 
 In some cases, GeForce Experience install programs that are not graphics driver on your PC. So you should reinstall NVIDIA display driver all over again. You can go to NVIDIA support website to search for and download the latest version of display driver available. Or you can update your video card driver via Device Manager or Windows Update. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9a8fa563d.png)3) Click the**Update**button next to the flagged NVIDIA device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b0348294.jpg)4) Restart your PC for the change to take effect. See if Shadowplay works well.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3: Upgrade GeForce Experience
 
@@ -59,10 +52,10 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c23613857ca.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Right-click NVIDIA GeForce Experience and click**Uninstall**. Follow the on-screen instructions to uninstall it.
@@ -70,10 +63,10 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c236ca3feba.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
@@ -83,6 +76,13 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 If desktop capture is disabled, Shadowplay won’t detect if you play the game full-screen. You can enable this feature for the recording to work again: 1) Open your Shadowplay. Click**Preference**. 2) Make sure the box for**Allow desktop capture**is ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c238e4810b3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
 
@@ -103,22 +103,24 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-revamp-iphone-photos-effective-red-eye-removal-for-free/"><u>[New] Revamp iPhone Photos Effective Red-Eye Removal for FREE</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-snapmaster-pro-advanced-ai-enhanced-editing/"><u>[New] SnapMaster Pro Advanced AI Enhanced Editing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instagram-stories-tempo-tactics-speeding-up-or-slowing-down/"><u>[Updated] Instagram Stories Tempo Tactics – Speeding Up or Slowing Down</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-reclaim-your-loss-with-these-top-10-iphone-x-hacks/"><u>[Updated] Reclaim Your Loss with These Top 10 iPhone X Hacks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-reviewing-the-unseen-facebooks-privacy-and-security-guide/"><u>[Updated] Reviewing the Unseen Facebook's Privacy and Security Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-step-by-step-for-adding-a-link-in-your-tiktok-bios-for-2024/"><u>[Updated] The Ultimate Step-by-Step for Adding a Link in Your TikTok Bios for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-v27e-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo V27e</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-easy-hdr-a-step-by-step-guide/"><u>2024 Approved Mastering Easy HDR A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-proven-techniques-in-the-art-of-srt-file-making/"><u>2024 Approved Proven Techniques in the Art of SRT File Making</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-top-10-tools-for-youtube-to-webm-conversion/"><u>2024 Approved Top 10 Tools for YouTube to WebM Conversion</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-tips-resolving-constant-crashes-in-valheim-pc-edition/"><u>Fixes and Tips: Resolving Constant Crashes in Valheim PC Edition</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/online-image-enhancement-with-audio-for-2024/"><u>Online Image Enhancement with Audio for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/secure-iphone-file-deletion-top-software-solutions-for-wiping-personal-information/"><u>Secure iPhone File Deletion: Top Software Solutions for Wiping Personal Information</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-controlling-windows-key-status/"><u>Understanding and Controlling Windows Key Status</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-11-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 11 lock with iCloud</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725285862811-windows-11/"><u>Windows 11 最新メディアプレイヤー選び - 評価入り無料安全版</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-vegas-pro-21-a-comprehenive-examination-for-gamblers-and-techies-alike/"><u>[New] In 2024, Vegas Pro '21 A Comprehenive Examination for Gamblers and Techies Alike</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-innovate-and-excel-at-fb-ads-unleash-the-potential-of-no-cost-tools/"><u>[New] Innovate & Excel at FB Ads – Unleash the Potential of No-Cost Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-economical-camera-options-best-deals-for-diy-vloggers/"><u>[Updated] In 2024, Economical Camera Options Best Deals for DIY Vloggers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-the-art-of-editing-on-sierra-with-1-5-tools/"><u>[Updated] Master the Art of Editing on Sierra with #1-#5 Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-digital-content-in-pedagogic-contexts/"><u>[Updated] Navigating Digital Content in Pedagogic Contexts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quantum-megadesk-pure-4k-multi-touch/"><u>[Updated] Quantum MegaDesk Pure 4K Multi-Touch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simple-method-for-great-insta-posts/"><u>[Updated] Simple Method for Great Insta Posts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-inside-story-stock-pictures-and-their-internet-fame/"><u>2024 Approved Inside Story Stock Pictures and Their Internet Fame</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhancing-work-efficiency-with-windows-11s-pomodoro-clock-benefits-and-limitations/"><u>Enhancing Work Efficiency with Windows 11'S Pomodoro Clock: Benefits & Limitations</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-clear-voice-capture-in-win-pcs/"><u>Ensuring Clear Voice Capture in Win PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-play-7t-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Play 7T Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-civi-3-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Civi 3 Phone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pulse-of-production-syncing-sound-in-w11-environments/"><u>In 2024, Pulse of Production Syncing Sound in W11 Environments</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rectify-poor-sound-quality-zoom-audio-fixes/"><u>In 2024, Rectify Poor Sound Quality Zoom Audio Fixes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-process-expert-techniques-for-chapter-integration-in-youtube/"><u>In 2024, Step-by-Step Process Expert Techniques for Chapter Integration in YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/no-spend-high-repeat-leading-apps-for-your-pinterest-vids-for-2024/"><u>No Spend, High Repeat! Leading Apps for Your Pinterest Vids for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/perfecting-live-steam-playback-a-step-by-step-approach-for-2024/"><u>Perfecting Live Steam Playback A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-5-budget-friendly-gaming-mice-under-100/"><u>Top 5 Budget-Friendly Gaming Mice (Under $100)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-restoring-game-sounds-in-fallout-4-for-windows-users/"><u>Ultimate Guide: Restoring Game Sounds in Fallout 4 for Windows Users</u></a></li>
 </ul></div>
 

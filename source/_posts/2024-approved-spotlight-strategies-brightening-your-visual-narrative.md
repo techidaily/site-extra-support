@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Spotlight Strategies  Brightening Your Visual Narrative\""
-date: 2024-07-30T06:07:41.779Z
-updated: 2024-07-31T06:07:41.779Z
+date: 2024-10-18T21:14:37.118Z
+updated: 2024-10-19T18:11:06.237Z
 tags: 
   - screen-recording
   - ai video
@@ -52,9 +52,6 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -69,23 +66,14 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -102,15 +90,15 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -143,5 +131,20 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-crucial-collections-8-innovative-products-to-boost-your-professional-edge-for-2024/"><u>[New] Crucial Collections 8 Innovative Products to Boost Your Professional Edge for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-ios-image-to-pdf-the-ultimate-guide-for-users/"><u>[New] Mastering IOS Image-to-PDF The Ultimate Guide for Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-mobile-apps-for-luts-for-2024/"><u>[New] Mastering Mobile Apps for LUTs for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photos-come-alive-with-accompanied-melodies/"><u>[New] Photos Come Alive with Accompanied Melodies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphoneandroids-top-sticker-adding-apps-the-essential-10-collection/"><u>[Updated] IPhone/Android's Top Sticker-Adding Apps The Essential 10 Collection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionary-video-recording-the-hottest-camcorders-2024/"><u>[Updated] Revolutionary Video Recording The Hottest Camcorders, 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-integration-12-stream-app-experience/"><u>[Updated] Seamless Integration 12 Stream App Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-of-recording-time-lapse-video-on-iphone/"><u>[Updated] Tips of Recording Time Lapse Video on iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-deep-dive-into-top-10-streaming-platforms-compared/"><u>In 2024, A Deep Dive Into Top 10 Streaming Platforms Compared</u></a></li>
+<li><a href="https://extra-support.techidaily.com/modern-warfare-pc-troubleshooting-guide-ensuring-smooth-gameplay/"><u>Modern Warfare PC Troubleshooting Guide: Ensuring Smooth Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-sound-in-lost-ark-here-are-the-solutions-you-need/"><u>No Sound in Lost Ark? Here Are the Solutions You Need</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uniting-zooms-power-with-facebook-live-streaming-for-2024/"><u>Uniting Zoom's Power with Facebook LIVE Streaming for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-discover-the-ultimate-video-editing-solution-for-windows-8-users/"><u>Updated 2024 Approved Discover the Ultimate Video Editing Solution for Windows 8 Users</u></a></li>
+</ul></div>
 

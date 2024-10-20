@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Listen, Log and Store  IPhone 2024 Call Recordings\""
-date: 2024-10-12T21:23:15.242Z
-updated: 2024-10-13T18:52:21.952Z
+date: 2024-10-15T20:40:42.373Z
+updated: 2024-10-19T19:21:19.908Z
 tags: 
   - screen-recording
   - ai video
@@ -30,28 +30,15 @@ Voicemail is a more convenient way to communicate with someone than text messagi
 
 ![voicemail](https://images.wondershare.com/filmora/article-images/2022/08/voicemail-recorder-on-iphone-2022-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. How to activate or deactivate voicemail on iPhone?
 
 If you want to activate or deactivate your voicemail on your iPhone due to its extra charges or any other reason, you can follow the following steps:
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Activate voicemail on iPhone:**
@@ -66,13 +53,6 @@ After determining your voice mailbox number, click on the **Settings > Phone > C
 
 ![call forwarding](https://images.wondershare.com/filmora/article-images/2022/08/voicemail-recorder-on-iphone-2022-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Deactivate voicemail on iPhone:**
 
 ##### Step1Call the #004#
@@ -81,24 +61,18 @@ Go back to your phone application and call **#004#** to deactivate your voicemai
 
 ![deactivate voicemail](https://images.wondershare.com/filmora/article-images/2022/08/voicemail-recorder-on-iphone-2022-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** If you want to activate your voicemail on your iPhone again, dial this number **004#** and make a call.
 
 ## Part 4\. How to change voicemail greeting on iPhone?
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 1\. Custom on iPhone
 
@@ -111,6 +85,19 @@ To change the default voicemail greeting to custom on iPhone, follow the followi
 5. When you finish recording it, tap on the save button.
 
 ![tap on the save button](https://images.wondershare.com/filmora/article-images/2022/08/voicemail-recorder-on-iphone-2022-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 2\. Use other apps
 
@@ -141,22 +128,16 @@ Google Voice is also the best way to change your voicemail greeting on iOS. You 
 
 ![record button](https://images.wondershare.com/filmora/article-images/2022/08/voicemail-recorder-on-iphone-2022-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. To select from the existing one, you can click on the more button, which looks like three vertical dots and is next to it, and then click on the Set as active button to save your changes.
 
 ![more button](https://images.wondershare.com/filmora/article-images/2022/08/voicemail-recorder-on-iphone-2022-8.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5\. How to check your voicemail on iPhone?
 
@@ -203,14 +184,20 @@ Most third-party screen recording programs work similarly to the built-in screen
 
 ![select the internal audio](https://images.wondershare.com/filmora/article-images/2022/08/voicemail-recorder-on-iphone-2022-13.jpg)
 
-## FAQs about voicemails on iPhone
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQs about voicemails on iPhone
 
 ### 1\. How to recover deleted voicemails?
 
@@ -265,27 +252,20 @@ Google Voice is also the best way to change your voicemail greeting on iOS. You 
 
 ![google voice](https://images.wondershare.com/filmora/article-images/2022/08/voicemail-recorder-on-iphone-2022-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. To record one, you can click on the record button and then the save button, then set it as an active one by clicking on the **Set as active**
 
 ![record button](https://images.wondershare.com/filmora/article-images/2022/08/voicemail-recorder-on-iphone-2022-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. To select from the existing one, you can click on the more button, which looks like three vertical dots and is next to it, and then click on the Set as active button to save your changes.
 
 ![more button](https://images.wondershare.com/filmora/article-images/2022/08/voicemail-recorder-on-iphone-2022-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5\. How to check your voicemail on iPhone?
 
@@ -307,6 +287,13 @@ If you want to record a voicemail that has vital information or should be rememb
 
 ![share option](https://images.wondershare.com/filmora/article-images/2022/08/voicemail-recorder-on-iphone-2022-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 7\. How to record your voicemail on iPhone?
 
 If you want to keep other visual information, you can choose to record voicemail on your iPhone by recording the screen. Let's begin discussing it below:
@@ -327,6 +314,13 @@ Most third-party screen recording programs work similarly to the built-in screen
 1. Download [iOS Screen Recorder](https://drfone.wondershare.com/isr/). And turn on the trust option to grant access.
 
 ![ios screen recorder](https://images.wondershare.com/filmora/article-images/2022/08/voicemail-recorder-on-iphone-2022-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Open the iOS Screen Recorder App and select the internal audio before you play any audio clip and record.
 
@@ -372,24 +366,24 @@ Voicemails are essential for all of us nowadays as they make our communication m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unlocking-the-potential-of-edu-vids-strategies-for-captivating-your-viewers-on-youtube/"><u>[New] 2024 Approved Unlocking the Potential of Edu-Vids Strategies for Captivating Your Viewers on YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-photo-editing-essentials-cut-out-unwanted-borders-smoothly-for-2024/"><u>[New] Photo Editing Essentials Cut Out Unwanted Borders Smoothly for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-vanish-3-battle-disguise-4-steps-up/"><u>[Updated] 2024 Approved Vanish 3 Battle Disguise 4 Steps Up</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-propel-your-youtube-presence-via-advanced-creator-studio-techniques-for-2024/"><u>[Updated] Propel Your Youtube Presence via Advanced Creator Studio Techniques for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-kinemaster-the-ultimate-guide-to-smooth-video-edits/"><u>2024 Approved Kinemaster The Ultimate Guide to Smooth Video Edits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leveraging-cg-central-luts-for-cinematic-color-enhancement/"><u>2024 Approved Leveraging CG Central LUTs for Cinematic Color Enhancement</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-microscopic-views-on-ms-teams-chat/"><u>2024 Approved Mastering Microscopic Views on MS Teams Chat</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-of-funny-photo-artistry/"><u>2024 Approved Pinnacle of Funny Photo Artistry</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-stabilization-solutions-for-iphoneandroiddslr/"><u>2024 Approved Premium Stabilization Solutions for iPhone/Android/DSLR</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfect-iphone-photos-quick-editing-hacks/"><u>In 2024, Perfect iPhone Photos Quick Editing Hacks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-picshot-your-go-to-tool-for-hassle-free-collage-crafting/"><u>In 2024, Picshot Your Go-To Tool for Hassle-Free Collage Crafting</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-webcam-selection-for-expert-recording/"><u>In 2024, Premium Webcam Selection for Expert Recording</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-step-by-step-guide-to-creating-viral-tiktok-videos-at-home/"><u>In 2024, Step-by-Step Guide to Creating Viral TikTok Videos at Home</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-safely-through-social-media-scams/"><u>Navigating Safely Through Social Media Scams</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-software-solutions-for-visual-storytelling-from-pictures-for-2024/"><u>Premium Software Solutions for Visual Storytelling From Pictures for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-definitive-list-leading-smartwatches-to-watch/"><u>The Definitive List: Leading Smartwatches to Watch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-explanation-of-blinking-led-colors-on-a-ps4-controller-what-each-color-represents/"><u>The Ultimate Explanation of Blinking LED Colors on a PS4 Controller – What Each Color Represents</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-realme-narzo-60-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Realme Narzo 60 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-5-essential-factors-to-evaluate-when-purchasing-your-next-set-of-stereo-speakers/"><u>Top 5 Essential Factors to Evaluate When Purchasing Your Next Set of Stereo Speakers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-3d-font-archives-online/"><u>[New] Premier 3D Font Archives Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-create-flawless-animation-movies/"><u>[New] Step-by-Step Guide to Create Flawless Animation Movies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-flair-filled-images-top-10-screenshot-sticker-addons-on-iphonesandroids/"><u>[Updated] Flair-Filled Images – Top 10 Screenshot Sticker Addons on iPhones/Androids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gourmet-visuals-in-motion-food-shot-tips-and-tricks/"><u>[Updated] Gourmet Visuals in Motion Food Shot Tips & Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-jumpstart-your-social-media-success-instagrams-top-9-hacks/"><u>[Updated] Jumpstart Your Social Media Success Instagram's Top 9 Hacks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-elevating-the-profile-game-top-strategies-for-compelling-social-media-profiles/"><u>2024 Approved Elevating the Profile Game Top Strategies for Compelling Social Media Profiles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-kinemasters-dominance-in-the-android-gaming-arena-reviewed/"><u>2024 Approved KineMaster's Dominance in the Android Gaming Arena Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-premier-guidance-leading-ringtone-artisans-iphone/"><u>2024 Approved Premier Guidance Leading Ringtone Artisans iPhone</u></a></li>
+<li><a href="https://facebook.techidaily.com/cultivating-community-conduct-tapping-into-the-latest-tools-for-group-oversight-on-facebook/"><u>Cultivating Community Conduct: Tapping Into the Latest Tools for Group Oversight on Facebook</u></a></li>
+<li><a href="https://win-blog.techidaily.com/heart-of-iron-iv-stability-fixing-frequent-breakdowns-and-bugs/"><u>Heart of Iron IV Stability: Fixing Frequent Breakdowns and Bugs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-zero-30-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Zero 30 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inventory-guide-to-videography-devices/"><u>In 2024, Inventory Guide to Videography Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-motorola-moto-g84-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Motorola Moto G84 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-presentation-with-personalized-typography-in-ae-projects-for-2024/"><u>Perfect Presentation with Personalized Typography in AE Projects for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-shadows-and-highlights-with-iphone-lighting-tips-for-2024/"><u>Perfect Shadows & Highlights with IPhone Lighting Tips for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-mkv-viewer-windows-android-apps-for-2024/"><u>Prime MKV Viewer Windows, Android Apps for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pro-level-techniques-to-upgrade-your-iphone-photo-game-for-2024/"><u>Pro-Level Techniques to Upgrade Your iPhone Photo Game for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/resonance-and-rhythm-guide-to-downloading-vintage-ringtones-for-2024/"><u>Resonance and Rhythm Guide to Downloading Vintage Ringtones for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-moving-your-entire-whatsapp-conversations-from-ios-to-android-devices/"><u>Step-by-Step Guide: Moving Your Entire WhatsApp Conversations From iOS to Android Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Phantom Replay Masterclass"
-date: 2024-10-06T22:30:56.064Z
-updated: 2024-10-13T22:52:40.248Z
+date: 2024-10-13T16:13:30.099Z
+updated: 2024-10-19T22:08:34.086Z
 tags: 
   - screen-recording
   - ai video
@@ -116,13 +116,6 @@ Filmora provides several titles, effects, and transitions. You can add them acco
 
 ![add title and effects to video filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-title-and-effects-to-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5 Export to your desktop
 
 When you want to save your video or share it on social media just click on the export button. It will provide you with different features like you can export your video on a desktop or where ever you want. You can export it in HD form.
@@ -130,10 +123,10 @@ When you want to save your video or share it on social media just click on the e
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -165,23 +158,16 @@ The camera will then capture the movement in slow motion, allowing you to see th
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
+<span id="1374820">
 					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why do we need a phantom slow-motion camera?
@@ -191,6 +177,19 @@ There are many reasons why someone might want or need to use a phantom slow-moti
 Phantom cameras are the newest type of camera on the market that can capture slow-motion footage at an incredibly high speed. These cameras can record up to 2.5 million frames per second, which is significantly higher than any other type of camera. No matter what the reason, phantom slow-motion cameras are an essential tool for anyone who needs to capture fast-moving objects.
 
 One of the most popular ways to use a phantom slow-motion camera is to capture beautiful slow-motion footage of nature. This can be done by setting up the camera in a location where there is a lot of natural movement. The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to create a time-lapse video on a phantom slow-motion camera
 
@@ -206,10 +205,10 @@ Once you have all of the necessary equipment, you will need to set up your camer
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to edit time-lapse video on a computer
@@ -242,18 +241,24 @@ You can easily install Filmora for free, after installing click on it three opti
 
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2 Add some media to edit
 
 After creating a new project, there is an option to add media you can your the video which you want to edit.
 
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step3 Drop the media to timeline
 
@@ -261,24 +266,31 @@ Drag and drop your videos on the timeline to start the editing. Once you placed 
 
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step4 Add titles, effects, and transitions to your video
 
 Filmora provides several titles, effects, and transitions. You can add them according to your needs. If you want to make a time-lapse video then you can copy your video and paste it on the end of the first video, so that you can make a time-lapse video. But if you add the dissolve transition between them then your video will become so smooth.
 
 ![add title and effects to video filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-title-and-effects-to-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5 Export to your desktop
 
 When you want to save your video or share it on social media just click on the export button. It will provide you with different features like you can export your video on a desktop or where ever you want. You can export it in HD form.
 
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -314,18 +326,14 @@ As filmmakers and video lovers, we have come up with some solid examples of time
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-masterclasses-on-procuring-photo-and-video-borders/"><u>[New] In 2024, Masterclasses on Procuring Photo & Video Borders</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leap-into-efficiency-with-quick-srt-to-txt-2023-guide/"><u>[New] Leap Into Efficiency with Quick SRT to TXT 2023 Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-elite-canon-time-lapse-cinematic/"><u>[New] Perfecting Elite Canon Time-Lapse Cinematic</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-inside-vitas-advanced-video-editing-tools-full-review-and-expert-tutorial-2024/"><u>[Updated] Inside Vita's Advanced Video Editing Tools Full Review & Expert Tutorial 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revolutionize-your-creation-process-canvas-secret-edits/"><u>[Updated] Revolutionize Your Creation Process Canva's Secret Edits</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-final-cut-pros-essential-toolkit-the-top-10-plugin-list/"><u>2024 Approved Final Cut Pro's Essential Toolkit The Top 10 Plugin List</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-syncing-images-android-iphone-file-transfer-guide/"><u>2024 Approved Syncing Images Android-iPhone File Transfer Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/best-time-lapse-tools-and-techniques-no5/"><u>Best Time-Lapse Tools & Techniques - No.5</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-integration-of-google-photos-in-daily-use/"><u>In 2024, Seamless Integration of Google Photos in Daily Use</u></a></li>
-<li><a href="https://extra-support.techidaily.com/next-moment-examination-alternate-strategies-for-2024/"><u>Next Moment Examination Alternate Strategies for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solve-csgo-lag-and-improve-ping-performance-on-your-gaming-rig/"><u>Solve CS:GO Lag & Improve Ping Performance on Your Gaming Rig</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-11-pro-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 11 Pro?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterclass-in-drones-exploring-the-q500-typhoon/"><u>[New] Masterclass in Drones Exploring the Q500 Typhoon</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-concealed-identities-quick-tips-for-face-obscuration-in-images/"><u>[Updated] Concealed Identities Quick Tips for Face-Obscuration in Images</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-amplify-your-sounds-mac-studio-guide/"><u>2024 Approved Amplify Your Sounds Mac Studio Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mobility-boosted-video-stability-device/"><u>2024 Approved Mobility Boosted Video Stability Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-templates-for-panzoid-introduction/"><u>2024 Approved Premium Templates for Panzoid Introduction</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-the-spoken-word-writing-compelling-narratives-for-2024/"><u>Crafting the Spoken Word Writing Compelling Narratives for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-mir4-from-crashing-and-keep-your-pc-running-flawlessly/"><u>How to Stop MIR4 From Crashing and Keep Your PC Running Flawlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instantaneous-ease-in-podcast-broadcasts-for-2024/"><u>Instantaneous Ease in Podcast Broadcasts for 2024</u></a></li>
+<li><a href="https://win-online.techidaily.com/problem-beim-offnen-von-bildern-in-photoshop-gelost-wiederherstellungsanleitung/"><u>Problem Beim Öffnen Von Bildern in Photoshop Gelöst: Wiederherstellungsanleitung.</u></a></li>
 </ul></div>
 
