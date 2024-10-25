@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal Typographic Animations Compiled"
-date: 2024-10-04T05:30:44.405Z
-updated: 2024-10-08T06:25:30.990Z
+date: 2024-10-18T16:38:49.592Z
+updated: 2024-10-25T17:42:37.145Z
 tags: 
   - screen-recording
   - ai video
@@ -34,18 +34,18 @@ You get 110 animated elements that you can apply to the text in your video. The 
 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Dynamic Text Animations
 
 There is always a high demand for dynamic text animations in After Effects. This pack focuses on three types of animations namely bounce, kinetic and overshoot. You get 50 presets, 20 title scenes as well as 10 different typography scenes. You can animate texts, titles, as well as characters. You can even adjust the properties to match your video content as per your requirements. In fact, there are advanced controls available for further customization.
 
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Squash & Stretch Preset
 
@@ -54,10 +54,10 @@ If you want to add texts and titles in your video that looks like the games mean
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. CounterPro Preset
@@ -65,20 +65,6 @@ If you want to add texts and titles in your video that looks like the games mean
 In this pack, you will find unique text effects, and you can animate text with keyframe. You can animate numbers as well as characters, and it is mostly used to animate numbers to show counting. You can change different parameters of the animations and effects as per your preference. Furthermore, you can use it as a timer on your video to countdown. There are different styles available to apply to your texts and numbers.
 
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Text Library
 
@@ -93,10 +79,17 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Text Animation Lower Third
@@ -104,6 +97,13 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 You get eleven styles of elements in the pack, and you can customize the designs to get into any size as per your requirements. You get the elements in HD and Full HD resolution, and you can use them in the intro or outro of the video to show text and title credits. You can also use them to show quotes or keywords. Most of them have highlighted background, and technically, they are referred to as lower thirds.
 
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -139,19 +139,17 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-inside-the-innovations-of-vegaspro-19/"><u>[New] Inside the Innovations of VegasPro '19</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-apples-podcast-submission-requirements-clearly/"><u>[New] Navigating Apple's Podcast Submission Requirements Clearly</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-roundup-screen-recording-for-gamers/"><u>[Updated] 2024 Approved Expert Roundup Screen Recording for Gamers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pixels-to-power-top-photo-editing-strategies-unlocked/"><u>[Updated] Pixels to Power Top Photo Editing Strategies Unlocked</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-filmoras-peers-the-best-slide-show-template-collections/"><u>2024 Approved Filmora's Peers The Best Slide Show Template Collections</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-ipiccy-photo-editor-features-tutorial-and-review/"><u>2024 Approved IPiccy Photo Editor Features, Tutorial and Review</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-live-screen-record-on-chrome-pcs/"><u>2024 Approved Live Screen Record on Chrome PCs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-resolving-no-video-issue-on-sony-a6400-device/"><u>2024 Approved Resolving No-Video Issue on Sony A6400 Device</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-site-engagement-with-advanced-cookiebot-features/"><u>Boost Site Engagement with Advanced Cookiebot Features</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/converting-your-domestika-course-downloads-into-various-formats-mp4-avi-and-more/"><u>Converting Your Domestika Course Downloads Into Various Formats (MP4, AVI, & More)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-spotifys-ad-marketplace-successfully/"><u>In 2024, Navigating Spotify's Ad Marketplace Successfully</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-rise-above-the-crowd-in-instagram-world-with-these-9-must-try-strategies/"><u>In 2024, Rise Above the Crowd in Instagram World with These 9 Must-Try Strategies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-strategies-for-longer-use-of-gopro-power-source/"><u>In 2024, Strategies for Longer Use of GoPro Power Source</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unraveling-the-language-web-affordable-and-self-paced-study/"><u>Unraveling the Language Web - Affordable & Self-Paced Study</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-art-of-targeting-optimizing-ad-reach-on-snap/"><u>[New] In 2024, The Art of Targeting Optimizing Ad Reach on Snap</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-education-without-the-video-element/"><u>[Updated] Navigating Education without the Video Element</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-chrome-drawing-programs-the-ultimate-list/"><u>[Updated] Prime Chrome Drawing Programs The Ultimate List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-making-youtube-video-thumbnails-mobile/"><u>[Updated] Step-by-Step Making YouTube Video Thumbnails (Mobile)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-masterful-motivational-webcast-maker/"><u>2024 Approved Masterful Motivational Webcast Maker</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convert-mp4-videos-to-gifs-fast-movavis-top-ranking-online-and-free-tool/"><u>Convert MP4 Videos to GIFs Fast - Movavi's Top-Ranking Online and Free Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-tech-careers-seeking-talent-a-detailed-look-by-zdnet/"><u>Essential Tech Careers Seeking Talent: A Detailed Look by ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-logitech-webcam-driver-downloads-for-win-1011-users/"><u>Free Logitech Webcam Driver Downloads for Win 10/11 Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gradual-silence-techniques-in-fl/"><u>In 2024, Gradual Silence Techniques in FL</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-music-merging-techniques-for-premiere-pro-editors/"><u>In 2024, Music Merging Techniques for Premiere Pro Editors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-no-spend-high-repeat-leading-apps-for-your-pinterest-vids/"><u>In 2024, No Spend, High Repeat! Leading Apps for Your Pinterest Vids</u></a></li>
+<li><a href="https://extra-support.techidaily.com/next-level-immersion-top-10-innovative-pc-vr-headsets-for-360-views-for-2024/"><u>Next-Level Immersion Top 10 Innovative PC VR Headsets for 360 Views for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating and Utilizing Preview for Mac Efficiently"
-date: 2024-10-07T17:26:33.391Z
-updated: 2024-10-13T16:35:49.491Z
+date: 2024-10-18T20:07:11.628Z
+updated: 2024-10-25T16:40:08.410Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -49,6 +56,19 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
 
@@ -80,13 +100,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -98,6 +111,19 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -115,19 +141,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -143,13 +156,6 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -178,6 +184,13 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -213,13 +226,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -235,24 +241,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-ultimate-list-best-8-free-open-source-enterprise-callers/"><u>[New] 2024 Approved The Ultimate List Best 8 Free, Open Source Enterprise Callers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-make-a-video-best-fits-snapchat-size-on-mac/"><u>[New] How to Make a Video Best Fits Snapchat Size on Mac?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-scrutinizing-the-new-parrot-ar-drone-edition/"><u>[Updated] 2024 Approved Scrutinizing the New Parrot AR Drone Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-screencast-creators-handbook/"><u>[Updated] 2024 Approved The Screencast Creator's Handbook</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-seminar-script-synthesizer/"><u>2024 Approved Master Seminar Script Synthesizer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-photoshops-quick-path-to-contoured-images/"><u>2024 Approved Photoshop's Quick Path to Contoured Images</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smart-shopping-for-data-stores-the-lowdown-on-price/"><u>2024 Approved Smart Shopping for Data Stores The Lowdown on Price</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed/"><u>2024 Approved Sony's Masterpiece in Motion Graphics Xperia XZ Premium Unboxed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-startup-steps-for-stream-money-in-periscope/"><u>2024 Approved Startup Steps for Stream Money in Periscope</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-stream-undoing-masterclass-twenty-one-tactics-to-learn-and-use/"><u>2024 Approved Stream Undoing Masterclass Twenty-One Tactics to Learn and Use</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Poco X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-masterclass-review-top-tier-professional-cameras-spin-full-circle-2023/"><u>In 2024, Masterclass Review Top-Tier Professional Cameras Spin Full Circle - 2023</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reel-of-excellence-ice-artistry-in-22-summary/"><u>In 2024, Reel of Excellence - Ice Artistry in '22 Summary</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-samsung-bd-j5900-overhaul-whats-new/"><u>In 2024, Samsung BD-J5900 Overhaul What's New ?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-securely-accessing-insta-stories-anon-pcandroidios-guide/"><u>In 2024, Securely Accessing Insta Stories Anon PC/Android/iOS Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/laughter-lab-free-comic-creation-at-the-gateway-for-2024/"><u>Laughter Lab Free Comic Creation at the Gateway for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-your-lg-partnerships-key-information-revealed/"><u>Mastering Your LG Partnerships: Key Information Revealed</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/nzxts-game-changing-monthly-offers-immerse-in-high-quality-gaming-with-core-i5-and-rtx-4060-pc-for-59-or-unleash-ultimate-power-wcore-i7-plus-rtx-4070-ti-pa116/"><u>NZXT's Game-Changing Monthly Offers: Immerse in High-Quality Gaming with Core I5 & RTX 4060 PC for $59 or Unleash Ultimate Power W/Core I7 + RTX 4070 Ti Package at an Extraordinary Price of $169</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-converting-mkv-videos-for-seamless-webm-playback/"><u>Step-by-Step Guide: Converting MKV Videos for Seamless WebM Playback</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-exclusive-roundup-top-tier-no-cost-luts-available/"><u>[New] 2024 Approved Exclusive Roundup Top-Tier, No-Cost LUTs Available</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-master-techniques-for-editing-copious-amounts-of-tiktoks/"><u>[New] Master Techniques for Editing Copious Amounts of TikToks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ideal-choice-12-superior-clicking-adventures-on-your-pc/"><u>[Updated] 2024 Approved Ideal Choice 12 Superior Clicking Adventures on Your PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-metaverse-journeys-ten-sci-fi-films-that-expand-realities/"><u>[Updated] Metaverse Journeys Ten Sci-Fi Films that Expand Realities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-google-podcast-submission-guide/"><u>[Updated] Navigating the Google Podcast Submission Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stepwise-approach-to-exceptional-gopro-footage/"><u>[Updated] Stepwise Approach to Exceptional GoPro Footage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-picks-for-home-yoga-practice-online/"><u>[Updated] Top Picks for Home Yoga Practice Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-identifying-the-best-no-cost-video-calling-apps-iosandroid/"><u>2024 Approved Identifying the Best No-Cost Video Calling Apps (iOS/Android)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-video-editing-basics-on-windows-8-movie-maker/"><u>2024 Approved Mastering Video Editing Basics on Windows 8 Movie Maker</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-tools-upload-and-convert-vids-for-tweeting/"><u>2024 Approved Premier Tools Upload & Convert Vids for Tweeting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snappy-satire-iphone-memes/"><u>2024 Approved Snappy Satire IPhone Memes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-updating-your-skills-regularly/"><u>2024 Approved Updating Your Skills Regularly</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/windowsold-windows-11/"><u>安全にWindows.oldフォルダーをクリアする方法 - Windows 11のガイド</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-12-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 12 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speaking-into-the-future-iphone-recordings/"><u>In 2024, Speaking Into the Future - iPhone Recordings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfecti-the-ultimate-guide-to-iphone-slideshows-xr-i-for-2024/"><u>Perfecti The Ultimate Guide to iPhone Slideshows (XR-I) for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-itel-p55-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Itel P55 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-youtubes-srt-a-three-step-process/"><u>Unlocking YouTube’s SRT A Three-Step Process</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-x50iplus-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor X50i+ Phone Network-Ready</u></a></li>
 </ul></div>
 

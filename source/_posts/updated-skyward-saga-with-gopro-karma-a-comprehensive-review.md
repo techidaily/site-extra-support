@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Skyward Saga with GoPro Karma  A Comprehensive Review\""
-date: 2024-10-10T18:36:35.772Z
-updated: 2024-10-13T21:58:51.220Z
+date: 2024-10-22T16:16:47.176Z
+updated: 2024-10-25T16:56:57.459Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Detailed review for GoPro Karma
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -110,10 +110,10 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -131,19 +131,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-master-the-meter-elevate-your-instagram-metrics-by-1kmnth/"><u>[New] Master the Meter Elevate Your Instagram Metrics by 1K/Mnth</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unlocking-slow-motion-magic-in-instagram-reels/"><u>[New] Unlocking Slow Motion Magic in Instagram Reels</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-brand-discover-the-riches-in-our-gallery-of-50-free-youtube-banners/"><u>[Updated] 2024 Approved Elevate Your Brand - Discover the Riches in Our Gallery of 50 Free YouTube Banners</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premium-audio-exploration-top-gpodc-picks/"><u>[Updated] Premium Audio Exploration Top GPodC Picks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-love-ballad-bingo-must-haves-on-the-list-of-proposals/"><u>2024 Approved Love Ballad Bingo Must-Haves on the List of Proposals</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-samsung-gear-vr-fun-the-top-5-list/"><u>2024 Approved Samsung Gear VR Fun - The Top 5 List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smart-solutions-for-gathering-visual-assets/"><u>2024 Approved Smart Solutions for Gathering Visual Assets</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/groundbreaking-photo-editor-photonshift-tech-for-2024/"><u>Groundbreaking Photo Editor PhotonShift Tech for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-masters-of-illusion-top-vr-producers/"><u>In 2024, Masters of Illusion Top VR Producers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-nikon-j5-sets-new-standards-in-4k-video-capture/"><u>In 2024, Nikon J5 Sets New Standards in 4K Video Capture</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimal-solutions-transforming-images-into-videos/"><u>In 2024, Optimal Solutions Transforming Images Into Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximizing-visuals-a-step-by-step-guide-for-buying-a-4k-monitor-for-2024/"><u>Maximizing Visuals A Step-by-Step Guide for Buying a 4K Monitor for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/safeguard-your-pc-with-local-security-authority-restart-protection-feature/"><u>Safeguard Your PC with Local Security Authority – Restart Protection Feature</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/snapchat-success-top-ideas-for-memorable-snaps/"><u>Snapchat Success Top Ideas for Memorable Snaps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhance-audio-quality-get-high-quality-fx-in-2024/"><u>[New] Enhance Audio Quality, Get High-Quality FX, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-record-screen-with-ezvid-video-maker/"><u>[Updated] How to Record Screen with Ezvid Video Maker</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-navigating-picture-landscapes-on-pexelscom/"><u>[Updated] In 2024, Navigating Picture Landscapes on Pexels.com</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-zoom-on-windows-11-a-step-by-step-guide/"><u>[Updated] Mastering Zoom on Windows 11 A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-implementing-effective-transitions-on-inshot/"><u>[Updated] Step-by-Step Implementing Effective Transitions on Inshot</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-7-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone 7 and iPad</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ignite-a-sizzling-online-presence-with-these-instagram-9-strategies/"><u>Ignite a Sizzling Online Presence with These Instagram #9 Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-how-to-live-stream-with-onestream-online-and-app/"><u>In 2024, How To Live Stream With OneStream - Online & App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-immediate-collage-making-for-social-sharing/"><u>In 2024, Mastering Immediate Collage Making for Social Sharing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-your-iphone-lens-essential-techniques-for-nature-pics/"><u>In 2024, Mastering Your iPhone Lens Essential Techniques for Nature Pics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sound-streaming-showdown-which-is-the-better-choice-podcast-or-youtube/"><u>In 2024, Sound Streaming Showdown Which Is the Better Choice, Podcast or YouTube?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/irresistible-article-announcer-for-2024/"><u>Irresistible Article Announcer for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/real-world-vr-device-showcase-for-2024/"><u>Real-World VR Device Showcase for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/reel-it-in-8-online-utilities-for-creating-and-sharing-instagram-videos/"><u>Reel It In 8 Online Utilities For Creating & Sharing Instagram Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/stabilizing-your-motion-sensitive-cameras-a-step-by-step-guide-for-2024/"><u>Stabilizing Your Motion-Sensitive Cameras A Step by Step Guide for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-fixing-continuous-load-errors-on-among-us-for-seamless-play/"><u>Troubleshooting: Fixing Continuous Load Errors on Among Us for Seamless Play</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-say-cheese-top-apps-to-convert-your-photos-into-cartoons/"><u>Updated In 2024, Say Cheese! Top Apps to Convert Your Photos Into Cartoons</u></a></li>
 </ul></div>
 

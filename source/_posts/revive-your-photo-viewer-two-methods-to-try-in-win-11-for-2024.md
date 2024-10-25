@@ -1,7 +1,7 @@
 ---
 title: "\"Revive Your Photo Viewer  Two Methods to Try in Win 11 for 2024\""
-date: 2024-10-17T22:52:26.166Z
-updated: 2024-10-19T18:38:41.365Z
+date: 2024-10-23T16:07:52.149Z
+updated: 2024-10-25T19:19:29.528Z
 tags: 
   - screen-recording
   - ai video
@@ -65,28 +65,15 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
@@ -104,10 +91,10 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
@@ -115,10 +102,10 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -126,6 +113,13 @@ Here is the detailed guide –
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -144,16 +138,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-adventure-anthology-top-10-game-selection/"><u>[New] 2024 Approved The Ultimate Adventure Anthology – Top 10 Game Selection</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-recorded-tones-the-iphone-voicemail-keeper/"><u>[New] Recorded Tones The iPhone Voicemail Keeper</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-selfie-showstoppers-adding-whimsy-with-the-cartoon-lens/"><u>[New] Selfie Showstoppers Adding Whimsy with the Cartoon Lens</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfecting-remote-conferences-with-focused-scopes/"><u>[Updated] Perfecting Remote Conferences with Focused Scopes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/conquer-ghost-touch-glitches-on-your-iphone-a-guide-to-10-fixes/"><u>Conquer Ghost Touch Glitches on Your iPhone: A Guide to 10 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-access-the-high-level-command-prompt-in-w11-os/"><u>How to Access the High-Level Command Prompt in W11 OS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leading-14-creative-text-animation-cases/"><u>In 2024, Leading 14 Creative Text Animation Cases</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-frame-rate-enhancing-laggard-motion/"><u>In 2024, Prime Frame Rate Enhancing Laggard Motion</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-image-marketing-dos-vs-donts-explained/"><u>In 2024, YouTube Image Marketing Dos vs Don'ts Explained</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-mastering-the-art-of-downloading-podcast-episodes-on-laptops-and-desktops/"><u>New In 2024, Mastering the Art of Downloading Podcast Episodes on Laptops and Desktops</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-shelldll-file-missing-issues-a-step-by-step-guide/"><u>Resolving 'Shell.dll' File Missing Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-revolutionizing-your-approach-to-iptv-viewership-saving/"><u>[New] In 2024, Revolutionizing Your Approach to IPTV Viewership Saving</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reconnecting-with-iphone-x-reviving-facial-biometrics/"><u>[New] Reconnecting with iPhone X Reviving Facial Biometrics</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-step-by-step-guide-to-eternal-unlinking-of-a-tiktok-id/"><u>[Updated] 2024 Approved Step-by-Step Guide to Eternal Unlinking of a TikTok ID</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-key-environment-choices-for-live-sharing/"><u>[Updated] Key Environment Choices for Live Sharing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-pro-video-creators-guide-to-ideal-laptops/"><u>[Updated] Pro Video Creators' Guide to Ideal Laptops</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-basics-in-dynamic-design-techniques/"><u>2024 Approved Pioneering Basics in Dynamic Design Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/headlighting-enhancements-for-expert-drivers/"><u>Headlighting Enhancements for Expert Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-magic-6-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor Magic 6 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-keep-your-computer-running-smoothly-update-your-motherboard-drivers-on-windows-easy-way/"><u>How To Keep Your Computer Running Smoothly – Update Your Motherboard Drivers On Windows Easy Way!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-rated-top-8-convertors-for-subtitles-and-srts/"><u>In 2024, Pro-Rated Top 8 Convertors for Subtitles & SRTs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphones-path-to-film-retrospection-for-2024/"><u>IPhone's Path to Film Retrospection for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sony-bdp-s3700-overhaul-a-new-perspective-review-for-2024/"><u>Sony BDP-S3700 Overhaul A New Perspective Review for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/soulful-selection-candid-songs-that-perfectly-match-your-yes-for-2024/"><u>Soulful Selection Candid Songs that Perfectly Match Your 'Yes' For 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-apple-watch-sleep-tracking-apps-you-cant-miss/"><u>Top 5 Apple Watch Sleep Tracking Apps You Can't Miss</u></a></li>
 </ul></div>
 

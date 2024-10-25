@@ -1,7 +1,7 @@
 ---
 title: Definitive Fixes to Stop Hyper Scape From Freezing on Your Windows Machine
-date: 2024-10-03T18:03:17.162Z
-updated: 2024-10-08T00:20:52.129Z
+date: 2024-10-23T17:18:01.050Z
+updated: 2024-10-25T17:01:44.242Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 4. **[Close the background programs](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify game integrity
 
@@ -67,6 +74,19 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -79,6 +99,13 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -88,16 +115,10 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
@@ -112,13 +133,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -127,36 +141,22 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
@@ -187,21 +187,18 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-insiders-guide-to-the-best-6-harnesses-for-capturing-life-with-gopro/"><u>[New] Insider's Guide to the Best 6 Harnesses for Capturing Life with GOPRO</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-metaverse-designs-your-quick-start-for-avatars/"><u>[New] Mastering Metaverse Designs Your Quick-Start for Avatars</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quick-and-quirky-make-memes-with-kapwing-app/"><u>[New] Quick & Quirky Make Memes with Kapwing App</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-quickly-uncover-lately-watched-facebook-videos/"><u>[New] Quickly Uncover Lately Watched Facebook Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-access-royalty-free-clip-art-tips/"><u>[New] Unlocking Access Royalty-Free Clip Art Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-srt-to-xmlssattml-mastery-guide/"><u>[Updated] Step-by-Step SRT to XML/SSA/TTML Mastery Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-leveraging-instagram-for-monetary-success/"><u>2024 Approved Leveraging Instagram for Monetary Success</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-creativity-on-the-go-androidios-montages-top-8/"><u>2024 Approved Seamless Creativity on the Go Android/iOS Montages Top 8</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-the-best-hdr-cameras-simplified/"><u>2024 Approved Selecting the Best HDR Cameras Simplified</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-snappy-picture-assemblies-a-brisk-guide-to-google-collages/"><u>In 2024, Snappy Picture Assemblies A Brisk Guide to Google Collages</u></a></li>
-<li><a href="https://techidaily.com/my-journey-away-from-windows-how-embracing-the-macbook-changed-everything/"><u>My Journey Away From Windows: How Embracing the MacBook Changed Everything</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/scarica-gratis-trasferisci-il-film-com-fare-da-dvd-a-penna-usb-sul-tuo-computer/"><u>Scarica Gratis: Trasferisci Il Film 'Com' Fare' Da DVD a Penna USB Sul Tuo Computer</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/secrets-to-saving-and-sharing-your-roblox-experience-on-a-mac/"><u>Secrets to Saving & Sharing Your Roblox Experience on a Mac</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-itel-a60-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Itel A60</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-zoom-in-on-powerpoint-easy-ways/"><u>Updated 2024 Approved How to Zoom in on PowerPoint Easy Ways</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instantpodstreams-a-step-by-step-approach-to-live-broadcasting/"><u>[New] InstantPodStreams A Step-by-Step Approach to Live Broadcasting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instant-image-clarity-picart-background-cleansing-hacks/"><u>[Updated] Instant Image Clarity PicArt Background Cleansing Hacks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-motionmaster-win8-version/"><u>[Updated] MotionMaster Win8 Version</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/comment-effacement-en-serie-de-votre-windows-11-vers-une-cle-usb-ou-hdd-externe-le-guide-complet/"><u>Comment Effacement en Série De Votre Windows 11 Vers Une Clé USB Ou HDD Externe : Le Guide Complet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-10-best-picture-organizers-for-striking-grids/"><u>In 2024, 10 Best Picture Organizers for Striking Grids</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-podcast-scheduling/"><u>In 2024, Mastering the Art of Podcast Scheduling</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-cloud-services-for-android-for-2024/"><u>Leading Cloud Services for Android for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/master-your-exercise-routine-with-samsung-galaxy-fit2-a-handy-health-buddy/"><u>Master Your Exercise Routine with Samsung Galaxy Fit2: A Handy Health Buddy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-your-videos-captions-with-10plus-top-free-converters-for-2024/"><u>Perfect Your Videos' Captions with 10+ Top FREE Converters for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-evolution-of-excellence-contrasting-features-between-samsung-galaxy-s24-ultra-and-s23-ultra/"><u>The Evolution of Excellence: Contrasting Features Between Samsung Galaxy S24 Ultra and S23 Ultra</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ungelost-akronis-echtes-bild-hangt-nach-dem-kloppen-an/"><u>Ungelöst: Akronis Echtes Bild Hängt Nach Dem Kloppen An</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/voyage-to-greatness-youtubes-best-travel-vids-for-2024/"><u>Voyage to Greatness YouTube's Best Travel Vids for 2024</u></a></li>
 </ul></div>
 

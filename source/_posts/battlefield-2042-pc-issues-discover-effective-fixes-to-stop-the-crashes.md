@@ -1,7 +1,7 @@
 ---
 title: Battlefield 2042 PC Issues? Discover Effective Fixes to Stop the Crashes!
-date: 2024-10-18T17:59:50.689Z
-updated: 2024-10-19T17:13:55.452Z
+date: 2024-10-21T19:57:45.841Z
+updated: 2024-10-25T17:59:11.982Z
 tags:
   - win11
   - win10
@@ -42,15 +42,35 @@ thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a7
 3. Select the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-the-game-as-an-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart the game to test. If the crashes reoccur, continue to the second fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Use the dedicated GPU
 
@@ -71,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -93,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a7
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Reboot your computer after the driver update completes, and check if Deathloop still crashes. If so, try the next solution.
 
 ### Fix 4 – Temporarily disable third-party software
@@ -113,20 +126,13 @@ You can also close all unnecessary apps in the background. Here is how:
 2. Under the Process tab, right-click a program you’d like to close and click **End task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-unnecessary-programs-running-in-the-background.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -143,20 +149,13 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-3.jpg)
 3. Click**Local Files** on the left and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It will take several minutes for the detecting and repairing to complete. Once done, relaunch Deathloop to check whether the issue gets fixed. If not, move on to the last solution below.
@@ -175,10 +174,10 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### On Discord
@@ -187,6 +186,13 @@ You can also close all unnecessary apps in the background. Here is how:
 2. Click the **cogwheel icon** at the bottom of the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
@@ -211,24 +217,18 @@ You can also close all unnecessary apps in the background. Here is how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-enchanting-escapades-childhood-playtime-picks/"><u>[New] Enchanting Escapades Childhood Playtime Picks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-maximizing-engagement-with-proper-yt-thumbnail-size/"><u>[New] In 2024, Maximizing Engagement with Proper YT Thumbnail Size</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-revolutionize-notes-with-mematic-software/"><u>[New] Revolutionize Notes with Mematic Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-integrating-zoom-and-fb-live-effortlessly/"><u>[Updated] Integrating ZOOM and FB Live Effortlessly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-kickstarting-with-a-gopro-unbox-the-perfect-add-ons/"><u>2024 Approved Kickstarting with a GoPro Unbox the Perfect Add-Ons</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sculpted-sentences-turning-text-into-3d-art/"><u>2024 Approved Sculpted Sentences Turning Text Into 3D Art</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ballot-battlegrounds-prime-election-strategy-games-for-2024/"><u>Ballot Battlegrounds Prime Election Strategy Games for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-v-purse-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-highlights-from-apple-wwdc-202-3-cutting-edge-tech-revealed-at-the-global-developer-summit/"><u>Discover the Highlights From Apple WWDC 202 #3: Cutting-Edge Tech Revealed at the Global Developer Summit</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-invisible-vibes-dimming-music-on-computers/"><u>In 2024, Invisible Vibes Dimming Music on Computers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-home-cinema-picks-for-best-3d-blu-ray-systems/"><u>In 2024, Premium Home Cinema Picks for Best 3D Blu-Ray Systems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-method-to-personalize-iphone-ringtones/"><u>In 2024, Step-By-Step Method to Personalize iPhone Ringtones</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-teleconference-recordings/"><u>In 2024, Teleconference Recordings</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-catalan-online-in-just-10-minutes-a-day/"><u>Learn Catalan Online In Just 10 Minutes A Day</u></a></li>
-<li><a href="https://extra-support.techidaily.com/metaverse-promotion-essentials-for-2024/"><u>Metaverse Promotion Essentials for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728487005572-pc6/"><u>PC用ダウンロードフォルダの削除からの復元手順6選</u></a></li>
-<li><a href="https://extra-support.techidaily.com/record-and-upload-speeches-to-powerpoint-for-2024/"><u>Record and Upload Speeches to PowerPoint for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solve-your-microphone-issues-for-good-expert-tips-and-tricks-of-2024/"><u>Solve Your Microphone Issues for Good - Expert Tips and Tricks of 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/top-5-free-mpeg-video-editing-tools-with-joining-feature-for-2024/"><u>Top 5 Free MPEG Video Editing Tools with Joining Feature for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-rank-higher-with-youtube-shorts-a-guide-to-making-a-difference/"><u>[Updated] 2024 Approved Rank Higher with YouTube Shorts A Guide to Making a Difference</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smart-choices-8-best-convertors-from-sub-to-srt-format/"><u>[Updated] Smart Choices 8 Best Convertors From Sub to SRT Format</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-full-facetune-experience-from-novice-to-expert-photographer/"><u>[Updated] The Full Facetune Experience From Novice to Expert Photographer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-meme-makers-guide-for-iphones/"><u>2024 Approved Meme Makers' Guide (For iPhones)</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-unrecognized-benefits-in-ignoring-ray-tracings-hype/"><u>7 Unrecognized Benefits in Ignoring Ray Tracing's Hype</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-get-started-windows-11-sound-capture/"><u>In 2024, How to Get Started Windows 11 Sound Capture</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-tecno-phantom-v-fold-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Tecno Phantom V Fold Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-meme-crafters-guide-to-kinemaster/"><u>In 2024, Meme Crafters' Guide to KineMaster</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seamless-integration-of-skype-and-zoom-for-businesses-for-2024/"><u>Seamless Integration of Skype and Zoom for Businesses for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seamlessly-embedded-your-tiktok-bios-direct-link-method-for-2024/"><u>Seamlessly Embedded Your TikTok Bio's Direct Link Method for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-xs-max-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone XS Max</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/uniconverter-replacements-exploring-the-leading-6-alternatives-from-wondershare/"><u>UniConverter Replacements: Exploring The Leading 6 Alternatives From Wondershare</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-future-of-ai-at-gtc-nvidias-jensen-huang-introduces-cutting-edge-blackwell-processor-family-to-industry-experts-zdnet/"><u>Unveiling the Future of AI at GTC: Nvidia's Jensen Huang Introduces Cutting-Edge Blackwell Processor Family to Industry Experts | ZDNet</u></a></li>
 </ul></div>
 

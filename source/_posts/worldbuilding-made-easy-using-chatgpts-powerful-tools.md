@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2024-10-13T19:25:19.772Z
-updated: 2024-10-19T19:28:39.731Z
+date: 2024-10-20T16:55:21.608Z
+updated: 2024-10-25T19:37:36.237Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,19 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  For the purposes of the test, we'll be running Stanford University's Alpaca 7B model—an adaptation of LLaMa—and pitching it against Bard and ChatGPT.
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Is the Easiest Large Language Model to Use?
 
@@ -71,15 +84,22 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -99,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
@@ -112,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -131,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
 You read it here first, folks.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -162,18 +168,20 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-deciphering-youtubes-profit-for-a-mil-of-viewers/"><u>[New] 2024 Approved Deciphering YouTube’s Profit for A Mil of Viewers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mpc-hc-high-quality-audio-and-video/"><u>[New] MPC-HC High Quality Audio and Video</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-smooth-file-migration-to-computer-5-proven-techniques/"><u>[New] Smooth File Migration to Computer – 5 Proven Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-vector-image-basics-unveiled-categories-types-and-tools-guide/"><u>[New] Vector Image Basics Unveiled Categories, Types & Tools Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-from-novice-to-notable-launching-a-trending-solo-show/"><u>[Updated] 2024 Approved From Novice to Notable Launching a Trending Solo Show</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-is-product-review-vlog-paid/"><u>[Updated] Is Product Review Vlog Paid</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-motion-with-polaroids-latest-xs-innovation/"><u>2024 Approved Mastering Motion with Polaroid's Latest XS Innovation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revel-in-history-reactivating-deleted-reddit-articles/"><u>2024 Approved Revel in History Reactivating Deleted Reddit Articles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spherical-shot-setup-systems/"><u>2024 Approved Spherical Shot Setup Systems</u></a></li>
-<li><a href="https://techidaily.com/elevate-user-engagement-optimized-tracking-through-innovative-cookiebot-solutions/"><u>Elevate User Engagement: Optimized Tracking Through Innovative Cookiebot Solutions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pixelcutter-studio/"><u>In 2024, PixelCutter Studio</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-turning-gaming-moments-into-legacy-proven-methods-for-documenting-your-sims-journey-in-sims-4/"><u>In 2024, Turning Gaming Moments Into Legacy Proven Methods for Documenting Your Sims' Journey in Sims 4</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 11 Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-elite-selections-8-excellent-tripods-for-high-quality-4k-video/"><u>[New] 2024 Approved Elite Selections 8 Excellent Tripods for High-Quality 4K Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-optimizing-close-up-views-on-google-meet/"><u>[New] 2024 Approved Optimizing Close-Up Views on Google Meet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-luminance-hdr-review-is-this-a-good-choice-to-create-hdr/"><u>[New] Luminance HDR Review Is This a Good Choice to Create HDR</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-safaris-picture-in-picture-feature-usage-guide/"><u>[New] Safari's Picture-in-Picture Feature Usage Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snicker-secrets-of-virtual-realms-making-funny-memes/"><u>[New] Snicker Secrets of Virtual Realms Making Funny Memes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-clearscreen-pro-win11-live-video-recorder-for-2024/"><u>[Updated] ClearScreen Pro - Win11 Live Video Recorder for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-share-facebook-videos-to-whatsapp/"><u>[Updated] How to Share Facebook Videos to WhatsApp?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-filmora-compared-the-ultimate-list-of-free-high-quality-templates/"><u>[Updated] In 2024, Filmora Compared The Ultimate List of Free, High-Quality Templates</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-the-art-of-design-selecting-ideal-dimensions-for-yt-branding/"><u>[Updated] Mastering the Art of Design Selecting Ideal Dimensions for YT Branding</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-secrets-to-stellar-youtube-intros/"><u>[Updated] Unveiling the Secrets to Stellar YouTube Intros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-innovative-ways-to-remove-ssgnature-backdrops-fast/"><u>2024 Approved Innovative Ways to Remove Ssgnature Backdrops Fast</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revving-into-excellence-winning-10-srt-converter-titles/"><u>2024 Approved Revving Into Excellence Winning 10 SRT Converter Titles</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-infinix-smart-7-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Infinix Smart 7 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/radiant-contrast-synchronizer-for-2024/"><u>Radiant Contrast Synchronizer for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-competition-how-mistral-ais-le-chat-stacks-up-to-chatgpt/"><u>Unveiling the Competition: How Mistral AI's Le Chat Stacks Up to ChatGPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reintroducing Classic Windows Photo Viewer - W10 Edition\""
-date: 2024-10-14T20:21:23.576Z
-updated: 2024-10-19T21:32:30.263Z
+date: 2024-10-23T16:40:29.664Z
+updated: 2024-10-25T19:49:11.913Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,10 @@ Here is why they want to restore Windows Photo Viewer –
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -75,6 +75,13 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -95,23 +102,10 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -120,14 +114,14 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -144,17 +138,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/reate-harmonious-hits-a-step-by-step-guide-to-making-youtube-playlists-online-and-app/"><u>[New] Create Harmonious Hits A Step-by-Step Guide to Making YouTube Playlists Online & App</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leveraging-windows-11-for-professional-grade-video-crafting/"><u>[New] Leveraging Windows 11 for Professional-Grade Video Crafting</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-s6700-bdp-updates-explored/"><u>[New] S6700 BDP Updates Explored</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-streamlining-your-edit-with-jump-cut-tips/"><u>[Updated] 2024 Approved Streamlining Your Edit with Jump Cut Tips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-how-to-mergecombinejoin-youtube-flv-videos/"><u>[Updated] How to Merge/Combine/Join YouTube (FLV) Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-effortless-mp3-conversion-from-youtube-for-mac-users/"><u>[Updated] In 2024, Effortless MP3 Conversion From YouTube for Mac Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfect-shots-essential-photography-edits/"><u>[Updated] Perfect Shots Essential Photography Edits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-secrets-for-obtaining-copyright-free-imagery/"><u>[Updated] Secrets for Obtaining Copyright-Free Imagery</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-podcast-cover-design-ten-essential-best-practices/"><u>2024 Approved Podcast Cover Design Ten Essential Best Practices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-zlibdll-error-a-step-by-step-guide/"><u>Resolving zlib.dll Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/simplify-video-annotation-adding-titles-and-captions-via-photos-win-11-for-2024/"><u>Simplify Video Annotation Adding Titles & Captions via Photos Win 11 for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-amd-driver-pack-tailored-for-windows-10-7-8-and-81-systems/"><u>Updated AMD Driver Pack: Tailored for Windows 10, 7, 8 & 8.1 Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-virtual-realities-unleash-power-in-kinemaster-and-its-leading-rivals/"><u>[Updated] Mastering Virtual Realities Unleash Power in KineMaster & Its Leading Rivals</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-comprehensive-critique-on-pixel-slate-confronting-chromeos-difficulties/"><u>A Comprehensive Critique on Pixel Slate: Confronting ChromeOS Difficulties</u></a></li>
+<li><a href="https://solve-info.techidaily.com/come-rimuovere-completamente-la-memoria-ssd-nvme-dal-tuo-sistema-operativo-windows-11-metodo-sicuro-e-dettagliato/"><u>Come Rimuovere Completamente La Memoria SSD NVMe Dal Tuo Sistema Operativo Windows 11 - Metodo Sicuro E Dettagliato</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-sound-card-compatibility-fixes-with-windows-1187-now-solved/"><u>HP Sound Card Compatibility Fixes with Windows 11/8/7 – Now Solved</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-peeking-beyond-ustream-live-stream-options/"><u>In 2024, Peeking Beyond Ustream Live Stream Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spotlight-on-superiority-top-ten-camera-lens-picks/"><u>In 2024, Spotlight on Superiority Top Ten Camera Lens Picks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/instantly-hide-faces-with-picscanner-tricks/"><u>Instantly Hide Faces with PicScanner Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-tips-top-10-text-effects-for-2024/"><u>Professional Tips Top 10 Text Effects for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-insights-for-accelerating-editing-tasks-efficiently-for-2024/"><u>Quick Insights for Accelerating Editing Tasks Efficiently for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722980704921-troubleshooting-steps-resolving-palworld-session-search-issues/"><u>Troubleshooting Steps: Resolving 'PalWorld' Session Search Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo T2 5G? | Dr.fone</u></a></li>
 </ul></div>
 

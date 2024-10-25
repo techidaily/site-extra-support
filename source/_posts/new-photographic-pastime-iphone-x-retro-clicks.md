@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photographic Pastime  IPhone X Retro Clicks\""
-date: 2024-10-15T23:03:16.488Z
-updated: 2024-10-19T21:55:38.926Z
+date: 2024-10-19T16:08:48.963Z
+updated: 2024-10-25T19:26:36.552Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,10 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image resource: 9to5mac
@@ -68,6 +68,13 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### For iPhone 8, 7 or older iPhones users
 
 #### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
@@ -77,13 +84,6 @@ If there is not enough light or if you are too far away from the camera, the app
 **Compatible with:** iOS 8.0 or later
 
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
@@ -95,6 +95,13 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
 #### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
@@ -104,13 +111,6 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 **Compatible with:** iOS 8.0 or later
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
@@ -122,22 +122,16 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -154,18 +148,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-step-by-step-for-quick-chromakey-application/"><u>[New] 2024 Approved Step-by-Step for Quick Chromakey Application</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-magnify-marvel-the-ultimate-10-camera-lens-guide/"><u>[New] Magnify Marvel The Ultimate 10 Camera Lens Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-free-visual-culture-posthumous-works-unbound/"><u>[Updated] 2024 Approved Free Visual Culture Posthumous Works Unbound</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-pro-screen-reader-best-video-grabbing-picks/"><u>[Updated] 2024 Approved Pro Screen Reader Best Video Grabbing Picks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expected-daily-video-consumption-gb-calculation/"><u>2024 Approved Expected Daily Video Consumption GB Calculation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-peak-performances-in-oly-x-cross-2022/"><u>2024 Approved Peak Performances in Oly X-Cross 2022</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premier-youtube-unboxers-who-to-follow/"><u>2024 Approved Premier YouTube Unboxers Who to Follow</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discussing-the-merits-and-drawbacks-of-aurora-hdr-tech/"><u>Discussing the Merits and Drawbacks of Aurora HDR Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dive-into-unparalleled-windows-software-selection/"><u>Dive Into Unparalleled Windows Software Selection</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-start-with-crypto-and-nfts-your-simple-creation-plan/"><u>In 2024, Start with Crypto & NFTs Your Simple Creation Plan</u></a></li>
-<li><a href="https://extra-support.techidaily.com/innovative-windows-podcast-solutions-top-8-cutting-edge-apps-for-2024/"><u>Innovative Windows Podcast Solutions Top 8 Cutting-Edge Apps for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-websites-with-the-most-easy-to-access-thrones-audio-for-2024/"><u>Leading Websites with the Most Easy-to-Access Thrones Audio for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/onestream-integration-tips-for-seamless-livestreaming-for-2024/"><u>OneStream Integration Tips for Seamless Livestreaming for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-make-your-device-sing-a-step-by-step-guide-to-personalized-ringtone-setup-on-android/"><u>[New] Make Your Device Sing A Step-by-Step Guide to Personalized Ringtone Setup on Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-plug-in-proweries-expert-analysis/"><u>[New] PLUG-IN PROWERIES Expert Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-progopro-series-camera-comparison/"><u>[New] ProGoPro Series Camera Comparison</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-conducting-the-crescendo-infusing-instagram-reels-with-sounds-for-2024/"><u>[Updated] Conducting the Crescendo Infusing Instagram Reels with Sounds for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premium-screen-snapshot-tool-for-android-all-ages-for-2024/"><u>[Updated] Premium Screen Snapshot Tool for Android, All Ages for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-skyward-start-best-easy-to-operate-drones/"><u>[Updated] Skyward Start Best Easy-to-Operate Drones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-free-guide-to-transforming-your-iphone-x7-selfies/"><u>[Updated] The Ultimate FREE Guide to Transforming Your iPhone X/7 Selfies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-12-interactive-pc-adventures-to-boost-your-clicking/"><u>[Updated] Top 12 Interactive PC Adventures to Boost Your Clicking</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rediscovering-archived-discussions-on-reddit-now/"><u>2024 Approved Rediscovering Archived Discussions on Reddit Now</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/5lij56en6l2s56e75pww5o2u5bqt5asn5yi25pa55rov77ya5peg5oiq5pys6ycj6ag55lio5lyb5lia5a6e5pa95oyh5y2x/"><u>三种转移数据库复制方法：无成本选项与企业实施指南</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-innovations-boosting-scholarly-exploration/"><u>AI Innovations: Boosting Scholarly Exploration</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-switch-for-regedit-on-win11/"><u>Mastering the Switch for RegEdit on Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-deals-on-computing-devices-dont-miss-out/"><u>Premier Deals on Computing Devices - Don't Miss Out</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-vision-best-4k-dslr-mounting-systems-reviewed-for-2024/"><u>Pro Vision Best 4K DSLR Mounting Systems Reviewed for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seeking-the-perfect-match-for-samsung-gear-360-find-it-here-for-2024/"><u>Seeking the Perfect Match for Samsung Gear 360 - Find It Here for 2024</u></a></li>
 </ul></div>
 

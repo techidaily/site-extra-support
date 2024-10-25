@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Nostalgic Shots  IPhone X Retro Photo Session\""
-date: 2024-10-12T21:16:48.975Z
-updated: 2024-10-19T17:53:20.239Z
+date: 2024-10-23T17:21:37.979Z
+updated: 2024-10-25T16:39:44.952Z
 tags: 
   - screen-recording
   - ai video
@@ -45,19 +45,6 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Image resource: 9to5mac
 
 Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn't allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don't point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn't perform great in low-light conditions.
@@ -75,16 +62,10 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
@@ -97,6 +78,13 @@ If there is not enough light or if you are too far away from the camera, the app
 
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
 #### [Tadaa SLR](https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8)
@@ -106,13 +94,6 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 **Compatible with:** iOS 8.0 or later
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
@@ -134,15 +115,34 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -160,15 +160,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-symphony-silhouette-audio-studio-mac/"><u>[New] In 2024, Symphony Silhouette Audio Studio Mac</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-deep-dive-sonys-s6700-updates-review/"><u>[Updated] Deep Dive Sony's S6700 Updates Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-zoom-tool-on-snapchat-for-better-photos-and-videos/"><u>2024 Approved Mastering the Zoom Tool on Snapchat for Better Photos & Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-android-for-immersive-vr-experiences/"><u>2024 Approved Navigating Android for Immersive VR Experiences</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-build-your-own-google-cardboard-vr-setup/"><u>2024 Approved Step-by-Step Build Your Own Google Cardboard VR Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-and-fixing-the-frozen-resource-monitor-app-in-win11/"><u>Diagnosing and Fixing the Frozen Resource Monitor App in Win11</u></a></li>
-<li><a href="https://discover-help.techidaily.com/diagnosing-and-repairing-malfunctioning-nvidia-shadowplay-on-your-pc/"><u>Diagnosing and Repairing Malfunctioning NVIDIA ShadowPlay on Your PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-tecno-spark-10-4g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Tecno Spark 10 4G to iPod | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-pc-spec-issues-for-software-deployment/"><u>Resolving PC Spec Issues for Software Deployment</u></a></li>
-<li><a href="https://extra-support.techidaily.com/reviving-the-past-flipping-iphone-video-streams-for-2024/"><u>Reviving the Past Flipping iPhone Video Streams for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-full-featured-icloud-drive-in-sierra-comprehensive-exploration-for-2024/"><u>[New] Full-Featured iCloud Drive in Sierra – Comprehensive Exploration for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reinstating-old-school-windows-photo-viewer-on-modern-win10/"><u>[New] Reinstating Old-School Windows Photo Viewer on Modern Win10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-insights-into-gesture-based-user-input/"><u>[Updated] Advanced Insights Into Gesture-Based User Input</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-no-downloads-needed-discover-our-list-of-5-best-online-gif-to-video-services/"><u>[Updated] No Downloads Needed? Discover Our List of 5 Best Online GIF-to-Video Services</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-episodes-your-guide-to-gpodc-mastery/"><u>[Updated] Prime Episodes Your Guide to GPodC Mastery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photography-and-videography-leading-tech-on-the-market/"><u>2024 Approved Photography & Videography Leading Tech on the Market</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-school-media-creation-advanced-editing-tips/"><u>2024 Approved School Media Creation Advanced Editing Tips</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-how-to-mastering-the-art-of-screen-shots-on-toshiba-laptopstelevisions/"><u>Complete How-To: Mastering the Art of Screen Shots on Toshiba Laptops/Televisions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-restore-functionality-to-dvd-blu-ray-and-cd-drives-that-wont-open/"><u>How To Restore Functionality to DVD, Blu-Ray & CD Drives That Won't Open</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-exporting-snapchat-content-to-your-phones-gallery/"><u>In 2024, Exporting SnapChat Content to Your Phone's Gallery</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17e-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17e Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-windows-melodies/"><u>In 2024, Masterful Windows Melodies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-visual-impact-the-best-ae-title-methods/"><u>In 2024, Mastering Visual Impact The Best AE Title Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-noise-free-auditory-shifts/"><u>In 2024, Navigating Noise-Free Auditory Shifts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-realme-gt-5-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Realme GT 5 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-tecno-camon-20-premier-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Tecno Camon 20 Premier 5G FRP Bypass</u></a></li>
 </ul></div>
 

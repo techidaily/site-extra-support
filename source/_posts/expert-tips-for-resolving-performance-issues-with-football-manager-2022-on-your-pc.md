@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Performance Issues with Football Manager 2022 on Your PC
-date: 2024-10-12T16:23:20.316Z
-updated: 2024-10-19T16:15:33.886Z
+date: 2024-10-19T18:30:37.577Z
+updated: 2024-10-25T18:49:31.753Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Verify the integrity of game files
 
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
@@ -65,26 +58,19 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -99,6 +85,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -108,17 +101,17 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
 
@@ -128,20 +121,27 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -170,17 +170,17 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-pinnacle-10-gimbal-models-enhancing-smartphone-and-dslr-shots/"><u>[New] Pinnacle 10 Gimbal Models Enhancing Smartphone and DSLR Shots</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-samsung-galaxy-s8-4k-smartphone-review/"><u>[New] Samsung Galaxy S8 4K Smartphone Review</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-engineering-an-impactful-storyboard-fragment/"><u>[Updated] Engineering an Impactful Storyboard Fragment</u></a></li>
-<li><a href="https://article-files.techidaily.com/cut-the-cord-migrating-playlists-with-ease-for-2024/"><u>Cut the Cord Migrating Playlists with Ease for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-x90s-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo X90S in Minutes | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-a-comprehensible-guide-to-chromebooks-best-digital-pencils/"><u>In 2024, A Comprehensible Guide to Chromebook's Best Digital Pencils</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-batch-save-presentations-in-video-format/"><u>In 2024, Batch Save Presentations in Video Format</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-space-optimization-mastery-premium-storage-reviews/"><u>In 2024, Space Optimization Mastery Premium Storage Reviews</u></a></li>
-<li><a href="https://extra-support.techidaily.com/laugh-loop-meme-treasures-for-diverse-events-for-2024/"><u>Laugh Loop Meme Treasures for Diverse Events for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/rapid-access-to-prime-window-images-for-2024/"><u>Rapid Access to Prime Window Images for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723007775877-successfully-fixed-access-your-origin-profile-again/"><u>Successfully Fixed: Access Your Origin Profile Again!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-nord-ce-3-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus Nord CE 3 5G Device</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-snapsizestrategy-optimize-your-visual-content-on-ig/"><u>[New] In 2024, SnapSizeStrategy Optimize Your Visual Content on IG</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-your-ringtone-choices-on-an-iphone/"><u>[New] Perfecting Your Ringtone Choices on an iPhone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-10-online-tools-to-retrieve-youtube-graphics/"><u>[Updated] In 2024, 10 Online Tools to Retrieve YouTube Graphics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphones-guide-to-night-photography-excellence/"><u>[Updated] IPhone's Guide to Night Photography Excellence</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-radeon-hd-7870-latest-driver-downloads-and-update-guide-for-windows-10/"><u>AMD Radeon HD 7870: Latest Driver Downloads and Update Guide for Windows 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elite-hd-video-recorder-macpc-fullscreen/"><u>Elite HD Video Recorder MacPC Fullscreen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-tactics-for-effective-handc-facebook-promos/"><u>Essential Tactics for Effective H&C Facebook Promos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-methodical-decrescendo-techniques-for-logic-pro-mixers/"><u>In 2024, Methodical Decrescendo Techniques for Logic Pro Mixers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimizing-audio-transition-from-cds-using-wmp-for-2024/"><u>Optimizing Audio Transition From Cds Using WMP for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimizing-unused-scenes-a-filmmakers-approach-for-2024/"><u>Optimizing Unused Scenes A Filmmaker's Approach for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-realme-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Realme Phones</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/windows-10-mkvmp4/"><u>Windows 10向け MKVからMP4への完全なビデオコンバートガイド</u></a></li>
 </ul></div>
 

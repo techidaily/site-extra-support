@@ -1,7 +1,7 @@
 ---
 title: "\"Stills Extraction Procedure  Windows 11 Photos Guide for 2024\""
-date: 2024-10-07T21:25:21.984Z
-updated: 2024-10-13T22:00:03.809Z
+date: 2024-10-19T16:15:36.514Z
+updated: 2024-10-25T16:41:28.211Z
 tags: 
   - screen-recording
   - ai video
@@ -59,10 +59,10 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Why I can’t save photo from video
@@ -71,22 +71,15 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 
 We are explaining the solutions here –
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Sign in a different account in Microsoft Store
@@ -94,10 +87,16 @@ Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Upd
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
@@ -114,6 +113,13 @@ Here comes the guide –
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -136,22 +142,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-practices-integrating-timers-into-live-streaming-software/"><u>[New] 2024 Approved Best Practices Integrating Timers Into Live Streaming Software</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-screen-savvy-taking-screenshots-on-windows/"><u>[New] 2024 Approved Screen Savvy Taking Screenshots on Windows</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-create-and-change-an-igtv-cover-photo-thumbnail/"><u>[Updated] In 2024, How to Create and Change an IGTV Cover Photo (Thumbnail)?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ps1-gaming-delighted-top-5-emulators-for-2024/"><u>[Updated] PS1 Gaming Delighted? Top 5 Emulators for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-clarity-perfecting-image-description-via-text-in-pcmac/"><u>2024 Approved Capturing Clarity Perfecting Image Description via Text in PC/Mac</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionize-visual-content-leading-montage-tools-for-phones/"><u>2024 Approved Revolutionize Visual Content Leading Montage Tools for Phones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-masterclass-carving-out-your-digital-self/"><u>2024 Approved YouTube Masterclass Carving Out Your Digital Self</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-solve-common-steam-errors-blocking-game-launch-on-win-11/"><u>How To Solve Common Steam Errors Blocking Game Launch on Win 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-iphone-lens-mastery-unleashing-creativity/"><u>In 2024, IPhone Lens Mastery - Unleashing Creativity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-learn-how-to-convert-audio-clips-into-written-text-with-microsoft-words-speech-recognition-features/"><u>In 2024, Learn How To Convert Audio Clips Into Written Text with Microsoft Word's Speech Recognition Features</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pivot-past-moments-an-android-video-reversal-tutorial/"><u>In 2024, Pivot Past Moments An Android Video Reversal Tutorial</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-video-gear-pick-your-favorite-15-cams/"><u>In 2024, Premium Video Gear Pick Your Favorite #15 Cams</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pushing-boundaries-with-dells-revolutionary-p2715q-monitor-review/"><u>In 2024, Pushing Boundaries with Dell's Revolutionary P2715Q Monitor Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-start-guide-to-engaging-with-ios-vr-content/"><u>In 2024, Quick Start Guide to Engaging with iOS VR Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-creating-breathtaking-tile-art/"><u>In 2024, Step-by-Step Guide to Creating Breathtaking Tile Art</u></a></li>
-<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-step-by-step-guide-on-handling-minecraft-crash-with-exit-code-0/"><u>Resolved: Step-by-Step Guide on Handling Minecraft Crash with Exit Code -0</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unleash-creativity-on-instagram-stories-with-branded-emojis-for-2024/"><u>[New] Unleash Creativity on Instagram Stories with Branded Emojis for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-building-a-sustainable-income-via-youtube-and-adsense/"><u>[Updated] In 2024, Building a Sustainable Income via YouTube and AdSense</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-jollyjingles-top-sites-to-stream-laugh-rich-rhythms/"><u>[Updated] JollyJingles Top Sites to Stream Laugh-Rich Rhythms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-dynamic-range-with-iphone-cameras/"><u>[Updated] Mastering Dynamic Range with iPhone Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-integrating-apple-music-into-your-videos/"><u>2024 Approved Step-by-Step Integrating Apple Music Into Your Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965711551-download-the-newest-dolby-sound-drivers-for-windows-11-10-and-81-now-available/"><u>Download the Newest Dolby Sound Drivers for Windows 11, 10, and 8.1 - Now Available!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-finder-high-speed-pics-on-win-11-for-2024/"><u>Expert Finder High-Speed Pics on Win 11 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/first-steps-in-ai-unveiling-the-top-9-essential-tools/"><u>First Steps in AI: Unveiling the Top 9 Essential Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-integrate-efficiently-macos-sierra-for-desktop-enhancement/"><u>In 2024, Integrate Efficiently MacOS Sierra for Desktop Enhancement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reverse-video-techniques-for-android-devices/"><u>In 2024, Reverse Video Techniques for Android Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximizing-win11-performance-boosters-revealed-for-2024/"><u>Maximizing Win11 Performance Boosters Revealed for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/oscillation-engineer-kit-for-2024/"><u>Oscillation Engineer Kit for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/personal-aerial-companions-gps-drones-that-never-stray/"><u>Personal Aerial Companions - GPS Drones that Never Stray</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-shapley-explainer-engine-a-deep-dive-into-openais-shap-e/"><u>Unveiling Shapley Explainer Engine: A Deep Dive Into OpenAI's SHAP-E</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-benefits-a-detailed-look-at-samsungs-wellness-focused-smartwatch-galaxy-active/"><u>Unveiling the Benefits: A Detailed Look at Samsung's Wellness-Focused Smartwatch, Galaxy Active</u></a></li>
 </ul></div>
 
