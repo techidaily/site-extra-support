@@ -1,7 +1,7 @@
 ---
 title: "\"Revive Your Photo Viewer  Two Methods to Try in Win 11 for 2024\""
-date: 2024-10-23T16:07:52.149Z
-updated: 2024-10-25T19:19:29.528Z
+date: 2024-10-29T05:23:18.467Z
+updated: 2024-10-31T10:45:52.169Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,13 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -70,10 +77,10 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
@@ -91,22 +98,15 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -114,14 +114,14 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -138,20 +138,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-revolutionizing-your-approach-to-iptv-viewership-saving/"><u>[New] In 2024, Revolutionizing Your Approach to IPTV Viewership Saving</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-reconnecting-with-iphone-x-reviving-facial-biometrics/"><u>[New] Reconnecting with iPhone X Reviving Facial Biometrics</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-step-by-step-guide-to-eternal-unlinking-of-a-tiktok-id/"><u>[Updated] 2024 Approved Step-by-Step Guide to Eternal Unlinking of a TikTok ID</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-key-environment-choices-for-live-sharing/"><u>[Updated] Key Environment Choices for Live Sharing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-pro-video-creators-guide-to-ideal-laptops/"><u>[Updated] Pro Video Creators' Guide to Ideal Laptops</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-basics-in-dynamic-design-techniques/"><u>2024 Approved Pioneering Basics in Dynamic Design Techniques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/headlighting-enhancements-for-expert-drivers/"><u>Headlighting Enhancements for Expert Drivers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-magic-6-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor Magic 6 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-keep-your-computer-running-smoothly-update-your-motherboard-drivers-on-windows-easy-way/"><u>How To Keep Your Computer Running Smoothly – Update Your Motherboard Drivers On Windows Easy Way!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pro-rated-top-8-convertors-for-subtitles-and-srts/"><u>In 2024, Pro-Rated Top 8 Convertors for Subtitles & SRTs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/iphones-path-to-film-retrospection-for-2024/"><u>IPhone's Path to Film Retrospection for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sony-bdp-s3700-overhaul-a-new-perspective-review-for-2024/"><u>Sony BDP-S3700 Overhaul A New Perspective Review for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/soulful-selection-candid-songs-that-perfectly-match-your-yes-for-2024/"><u>Soulful Selection Candid Songs that Perfectly Match Your 'Yes' For 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-apple-watch-sleep-tracking-apps-you-cant-miss/"><u>Top 5 Apple Watch Sleep Tracking Apps You Can't Miss</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-the-full-spectrum-of-creativity-with-luts-in-video-editing/"><u>[New] Harnessing the Full Spectrum of Creativity with LUTs in Video Editing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lighten-up-with-funny-images-in-adobe/"><u>[New] Lighten Up with Funny Images in Adobe</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lullaby-videos-a-study-on-sleep-inducing-stories/"><u>[New] Lullaby Videos A Study on Sleep-Inducing Stories</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-explore-cost-free-cross-platform-virtual-communication-software/"><u>[Updated] 2024 Approved Explore Cost-Free, Cross-Platform Virtual Communication Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-youtube-video-production-tools-for-2024/"><u>[Updated] Navigating YouTube Video Production Tools for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-youtube-to-mp4-the-ultimate-guide/"><u>2024 Approved Mastering YouTube to MP4 The Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-parents-manual-mastering-chatgpt-and-next-gen-artificial-intelligence/"><u>A Comprehensive Parent's Manual: Mastering ChatGPT & Next-Gen Artificial Intelligence</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-calls-for-caution-younger-generations-stepping-back-from-instagram/"><u>Facebook Calls for Caution: Younger Generations Stepping Back From Instagram</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-15-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-inserting-dates-in-digital-pictures-for-2024/"><u>Step-by-Step Inserting Dates in Digital Pictures for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-breakdown-everything-you-need-to-know-about-dvr-technology/"><u>The Ultimate Breakdown: Everything You Need to Know About DVR Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-time-and-intelligence-gpt-powered-wearables-on-the-rise/"><u>Unlocking Time and Intelligence: GPT-Powered Wearables on the Rise</u></a></li>
 </ul></div>
 

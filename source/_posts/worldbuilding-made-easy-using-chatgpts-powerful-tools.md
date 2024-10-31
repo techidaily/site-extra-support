@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2024-10-20T16:55:21.608Z
-updated: 2024-10-25T19:37:36.237Z
+date: 2024-10-27T02:16:34.847Z
+updated: 2024-10-31T07:09:49.835Z
 tags:
   - chatgpt
   - open-ai
@@ -35,24 +35,18 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Is the Most Private Large Language Model?
 
@@ -72,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -84,22 +85,15 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -118,16 +112,16 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which LLM Tells the Best Jokes?
 
@@ -168,20 +162,22 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-elite-selections-8-excellent-tripods-for-high-quality-4k-video/"><u>[New] 2024 Approved Elite Selections 8 Excellent Tripods for High-Quality 4K Video</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-optimizing-close-up-views-on-google-meet/"><u>[New] 2024 Approved Optimizing Close-Up Views on Google Meet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-luminance-hdr-review-is-this-a-good-choice-to-create-hdr/"><u>[New] Luminance HDR Review Is This a Good Choice to Create HDR</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-safaris-picture-in-picture-feature-usage-guide/"><u>[New] Safari's Picture-in-Picture Feature Usage Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-snicker-secrets-of-virtual-realms-making-funny-memes/"><u>[New] Snicker Secrets of Virtual Realms Making Funny Memes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-clearscreen-pro-win11-live-video-recorder-for-2024/"><u>[Updated] ClearScreen Pro - Win11 Live Video Recorder for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-share-facebook-videos-to-whatsapp/"><u>[Updated] How to Share Facebook Videos to WhatsApp?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-filmora-compared-the-ultimate-list-of-free-high-quality-templates/"><u>[Updated] In 2024, Filmora Compared The Ultimate List of Free, High-Quality Templates</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-the-art-of-design-selecting-ideal-dimensions-for-yt-branding/"><u>[Updated] Mastering the Art of Design Selecting Ideal Dimensions for YT Branding</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-secrets-to-stellar-youtube-intros/"><u>[Updated] Unveiling the Secrets to Stellar YouTube Intros</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-innovative-ways-to-remove-ssgnature-backdrops-fast/"><u>2024 Approved Innovative Ways to Remove Ssgnature Backdrops Fast</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revving-into-excellence-winning-10-srt-converter-titles/"><u>2024 Approved Revving Into Excellence Winning 10 SRT Converter Titles</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-infinix-smart-7-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Infinix Smart 7 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/radiant-contrast-synchronizer-for-2024/"><u>Radiant Contrast Synchronizer for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-competition-how-mistral-ais-le-chat-stacks-up-to-chatgpt/"><u>Unveiling the Competition: How Mistral AI's Le Chat Stacks Up to ChatGPT</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-pro-level-hdr-mastery-your-compre-point-of-entry-for-2024/"><u>[New] Pro Level HDR Mastery Your Compre Point of Entry for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-quick-react-guide-efficiently-answering-discord-messages/"><u>[Updated] 2024 Approved Quick-React Guide Efficiently Answering Discord Messages</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-effective-techniques-for-creating-podcast-rss-feeds-for-2024/"><u>[Updated] Effective Techniques for Creating Podcast RSS Feeds for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-world-of-spotifys-advertising-landscape/"><u>[Updated] Navigating the World of Spotify's Advertising Landscape</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-quiet-browsing-of-fb-narratives-for-2024/"><u>[Updated] Quiet Browsing of FB Narratives for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-tips-for-documenting-virtual-meetings-for-2024/"><u>[Updated] Tips for Documenting Virtual Meetings for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-guide-engage-with-audio-content-seamlessly/"><u>2024 Approved IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-your-craft-exclusive-free-templates-and-tips/"><u>2024 Approved Master Your Craft Exclusive Free Templates & Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterclass-conquering-one-device-livestream-challenges/"><u>2024 Approved Masterclass Conquering One-Device Livestream Challenges</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-windows-10-photo-display/"><u>2024 Approved Prime Windows 10 Photo Display</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-level-editing-the-essence-of-smooth-transitions-in-inshot/"><u>In 2024, Master Level Editing The Essence of Smooth Transitions in Inshot</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-melding-images-and-songs-into-screens/"><u>In 2024, Melding Images and Songs Into Screens</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-techniques-for-longevity-in-gopro-batteries-for-2024/"><u>Master Techniques for Longevity in GoPro Batteries for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-dlc-installation-crashes-civ-5/"><u>Overcoming DLC Installation Crashes Civ 5</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-permanent-image-retention-tips-for-every-screen-type/"><u>Resolving Permanent Image Retention: Tips for Every Screen Type</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lava-blaze-pro-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-verdict-on-apples-giant-phenomenon-the-iphone-12-pro-max-in-review/"><u>The Verdict on Apple's Giant Phenomenon - The iPhone 12 Pro Max in Review</u></a></li>
 </ul></div>
 

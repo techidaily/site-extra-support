@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting the Blend  Audio and Visual Synchronization in Videos for 2024\""
-date: 2024-10-21T16:27:36.484Z
-updated: 2024-10-25T19:07:04.430Z
+date: 2024-10-28T20:17:52.357Z
+updated: 2024-10-30T18:53:06.547Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ So the easiest way to add narration is directly to a project. The benefit of thi
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
@@ -63,25 +63,11 @@ You put the playhead where you want to start recording and hit the microphone ic
 
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 A 3-second countdown will pop up and start recording immediately after this countdown.
 
 You can record your narration and click stop.
 
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Some Tips for Recording Narration
 
@@ -92,6 +78,13 @@ Know what you want to tell your viewer rather than speak aimlessly. What can you
 You can edit pauses or weak parts out of the voiceover to trim it up. But if it is still too long, you can easily add another video clip, or even still images to help boost the length to match your narration.
 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Narration is a great storytelling device
 
@@ -108,13 +101,20 @@ When adding voiceover or narration to your project, be sure to use a good USB mi
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should you use narration in your next project?
 
@@ -154,22 +154,20 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-securing-your-snapchat-footage-a-step-by-step-process/"><u>[New] In 2024, Securing Your Snapchat Footage A Step-by-Step Process</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-is-photoshops-stabilization-feature-aiding-creativity/"><u>[New] Is Photoshop's Stabilization Feature Aiding Creativity?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-the-ipadiphone-soundscape-adding-apple-podcasts/"><u>[New] Navigating the iPad/iPhone Soundscape Adding Apple Podcasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pictorial-perfection-proven-techniques-for-stunning-photos/"><u>[New] Pictorial Perfection Proven Techniques for Stunning Photos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-airdrop-not-working-how-to-fix-it-on-iphone-ipad-and-mac/"><u>[Updated] Airdrop Not Working? How to Fix It on iPhone, iPad, & Mac</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-17-utilities-for-streamlined-picture-edits/"><u>[Updated] Leading 17 Utilities for Streamlined Picture Edits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfecting-designs-a-guide-to-cutting-out-background-in-figma/"><u>[Updated] Perfecting Designs A Guide to Cutting Out Background in Figma</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-picshot-enhancing-creativity-in-digital-collage-art/"><u>2024 Approved Picshot Enhancing Creativity in Digital Collage Art</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-meme-masters-at-your-fingertips-app/"><u>In 2024, Meme Masters at Your Fingertips (App)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-apps-androids-ultimate-cloud-keepsakes/"><u>In 2024, Pinnacle Apps Android's Ultimate Cloud Keepsakes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-12plus-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme 12+ 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-elevated-commands-always-access-terminal-as-admin/"><u>Mastering Elevated Commands: Always Access Terminal as Admin</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-the-galaxy-of-episodes-a-guide-to-watch-star-wars-in-order-on-disneyplus/"><u>Navigating Through The Galaxy of Episodes: A Guide to Watch Star Wars in Order on Disney+</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-identifying-core-functionalities-in-digital-sound-editors-for-mac/"><u>New In 2024, Identifying Core Functionalities in Digital Sound Editors for Mac</u></a></li>
-<li><a href="https://driver-install.techidaily.com/refreshing-your-input-device-the-microsoft-mouse-guide/"><u>Refreshing Your Input Device: The Microsoft Mouse Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/trailblazers-creating-engaging-marvellous-universe/"><u>Trailblazers Creating Engaging Marvellous Universe</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-xs-max-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone XS Max takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-enhancing-visual-storytelling-with-impeccable-voice-over/"><u>[New] In 2024, Enhancing Visual Storytelling with Impeccable Voice Over</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-setting-the-stage-your-first-virtual-boardroom-with-google/"><u>[New] In 2024, Setting the Stage Your First Virtual Boardroom with Google</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-introduction-to-dynamic-graphic-techniques/"><u>[New] Introduction to Dynamic Graphic Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-enhance-fb-profile-picture-display/"><u>[Updated] Enhance FB Profile Picture Display</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-income-smart-strategies-for-profit-from-youtube-mobile-content/"><u>[Updated] In 2024, Boosting Income Smart Strategies for Profit From YouTube Mobile Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-phantom-pitches-is-this-magical-talker-an-illusion-or-reality-explore-more-options/"><u>[Updated] Phantom Pitches Is This Magical Talker an Illusion or Reality? Explore More Options</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-visual-voyages-the-most-motivating-instagram-images/"><u>[Updated] Visual Voyages The Most Motivating Instagram Images</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-numeric-precision-the-art-of-editing-tiktok-counts/"><u>2024 Approved Numeric Precision The Art of Editing TikTok Counts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speech-tuning-made-simple-on-sony-playstation-consoles/"><u>In 2024, Speech Tuning Made Simple on Sony PlayStation Consoles</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-how-amazon-fire-hd-10-became-a-staple-multimedia-gadget-across-households/"><u>In-Depth Analysis: How Amazon Fire HD 10 Became a Staple Multimedia Gadget Across Households</u></a></li>
+<li><a href="https://extra-support.techidaily.com/kinemaster-zoom-mastery-guide-a-filmmakers-toolkit-for-2024/"><u>Kinemaster Zoom Mastery Guide A Filmmaker's Toolkit for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/learning-the-ropes-of-lunapics-user-interface-for-2024/"><u>Learning the Ropes of LunaPic's User Interface for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726027317629-mp3/"><u>MP3への変換ガイド:どうやって録音された音声ファイルをアップコンバートするか学ぶ</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-hidden-fixes-for-temp-file-woes-in-windows/"><u>Unlock Hidden Fixes for Temp File Woes in Windows</u></a></li>
 </ul></div>
 

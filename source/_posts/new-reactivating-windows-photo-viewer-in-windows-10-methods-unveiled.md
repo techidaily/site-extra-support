@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reactivating Windows Photo Viewer in Windows 10 - Methods Unveiled\""
-date: 2024-10-20T17:03:35.221Z
-updated: 2024-10-25T16:43:49.041Z
+date: 2024-10-26T03:58:14.270Z
+updated: 2024-10-31T09:49:19.468Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,10 @@ Here is why they want to restore Windows Photo Viewer –
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -73,10 +73,10 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
@@ -98,22 +98,15 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -122,6 +115,13 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -138,18 +138,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-best-ways-to-record-and-save-itunes-videos-for-2024/"><u>[New] Best Ways to Record and Save iTunes Videos for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-radiance-visionaries-report-on-studio-25-2023/"><u>[New] Radiance Visionaries Report on Studio 25, 2023</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-picks-7-royalty-free-audios-for-video-editing/"><u>[New] Top Picks 7 Royalty-Free Audios for Video Editing</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-discover-top-affordable-video-editors-of-2023-today/"><u>2024 Approved Discover Top Affordable Video Editors of 2023 Today!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-sounding-different-in-pubg/"><u>2024 Approved Mastering the Art of Sounding Different in PUBG</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-movavi-screencapturer-pro-review-and-analysis/"><u>2024 Approved Movavi ScreenCapturer Pro Review & Analysis</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-picks-top-10-unrivaled-digital-backdrop-switchers/"><u>2024 Approved Prime Picks Top 10 Unrivaled Digital Backdrop Switchers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209598426-fix-this-device-doesnt-support-receiving-miracast-2024-tips/"><u>Fix 'This Device Doesn't Support Receiving Miracast' 2024 Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-corrections-for-iphone-shot-blur-issues/"><u>In 2024, Quick Corrections for iPhone Shot Blur Issues</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-integrating-audio-into-your-reels/"><u>In 2024, Step-by-Step Guide Integrating Audio Into Your Reels</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-explore-a-variety-of-inexpensive-camera-models-suitable-for-making-slow-motion-footage-without-compromising-quality/"><u>New 2024 Approved Explore a Variety of Inexpensive Camera Models Suitable for Making Slow-Motion Footage without Compromising Quality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/peacock-party-patter-for-2024/"><u>Peacock Party Patter for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-chatgpt-advantage-matrix-platinum-edition/"><u>The ChatGPT Advantage Matrix - Platinum Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-efficient-tools-simplifying-the-task-of-feedback-erasure/"><u>[New] 2024 Approved Efficient Tools Simplifying the Task of Feedback Erasure</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-tips-to-improve-your-gopros-power-sustainability/"><u>[New] In 2024, Tips to Improve Your GoPro's Power Sustainability</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-insiders-look-at-top-earning-instagram-tactics-for-2024/"><u>[New] Insider's Look at Top Earning Instagram Tactics for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-5-video-screens-for-ps5-players/"><u>[New] Premier 5 Video Screens for PS5 Players</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebook-vids-fast-track-to-mp4-conversion/"><u>[Updated] 2024 Approved Facebook Vids Fast Track to MP4 Conversion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterclass-conquering-one-device-livestream-challenges/"><u>[Updated] Masterclass Conquering One-Device Livestream Challenges</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-optimal-text-movement-collections-for-2024/"><u>[Updated] Optimal Text Movement Collections for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pace-perfection-on-instagram-a-guide-to-tempo-tweaks/"><u>[Updated] Pace Perfection on Instagram A Guide to Tempo Tweaks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-exploring-syma-x8c-battery-life/"><u>2024 Approved Exploring Syma X8C Battery Life</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-is-inshot-leading-video-cutting-tech-deep-insight-reviewed/"><u>2024 Approved Is InShot Leading Video Cutting Tech? Deep Insight Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-magix-video-pro-x-analysis/"><u>2024 Approved Magix Video Pro X Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-top-10-tools-convert-srt-files-for-no-charge/"><u>2024 Approved Prime Top 10 Tools Convert Srt Files for No Charge</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-y56-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo Y56 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-premium-on-linkedin-a-wise-investment-heres-why/"><u>Is Premium on LinkedIn a Wise Investment? Here's Why</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximizing-action-footage-with-gopro-a-comparison-between-max-360-and-hero-11-for-2024/"><u>Maximizing Action Footage with GoPro A Comparison Between Max 360 and Hero 11 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/peak-hours-for-podcasts-strategic-timing-for-2024/"><u>Peak Hours for Podcasts Strategic Timing for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/red-dead-online-stability-guide-preventing-unexpected-shutdowns-on-desktops/"><u>Red Dead Online Stability Guide: Preventing Unexpected Shutdowns on Desktops</u></a></li>
 </ul></div>
 

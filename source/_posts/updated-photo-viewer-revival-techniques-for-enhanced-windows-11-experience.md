@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photo Viewer Revival Techniques for Enhanced Windows 11 Experience"
-date: 2024-10-23T16:05:42.347Z
-updated: 2024-10-25T18:05:27.052Z
+date: 2024-10-25T07:42:05.922Z
+updated: 2024-10-30T21:11:51.160Z
 tags: 
   - screen-recording
   - ai video
@@ -57,13 +57,6 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -71,13 +64,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 1**: Go to ‘Settings’ and open ‘Apps’. Click on ‘Default Apps’ and check ‘Photo Viewer’. The default photo viewer will be visible here.
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
@@ -98,15 +84,29 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -117,10 +117,10 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -138,16 +138,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-experts-reveal-unknown-functions-and-features/"><u>[New] Insta-Experts Reveal Unknown Functions and Features</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-metaverse-advertising-techniques/"><u>[New] Mastering Metaverse Advertising Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-jumpstart-earnings-a-novice-written-guide/"><u>[Updated] Jumpstart Earnings A Novice’ Written Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-art-of-conveying-content-mastering-onestream-livestreams/"><u>2024 Approved The Art of Conveying Content Mastering OneStream Livestreams</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-for-the-people-9-practical-applications-of-chatgpt-to-ease-your-life/"><u>AI for the People: 9 Practical Applications of ChatGPT to Ease Your Life</u></a></li>
-<li><a href="https://network-issues.techidaily.com/connection-error-laptops-showcase-unseen-by-tv/"><u>Connection Error: Laptop's Showcase Unseen by TV</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-an-efficient-layout-the-tablet-bar-setup-in-windows-11/"><u>Crafting an Efficient Layout: The Tablet Bar Setup in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-simplify-your-remote-meetings-integrating-skype-and-zoom/"><u>In 2024, Simplify Your Remote Meetings Integrating Skype and Zoom</u></a></li>
-<li><a href="https://extra-support.techidaily.com/share-the-laughter-mastering-kinemaster-for-2024/"><u>Share the Laughter Mastering KineMaster for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-right-click-issues-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Right-Click Issues on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/est-8-mirrorless-cameras-to-elevate-your-vlogging-game/"><u>[New] Best 8 Mirrorless Cameras to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unmatched-value-game-changing-voice-switcher-for-valorant-awaits-you/"><u>[New] In 2024, Unmatched Value, Game-Changing Voice Switcher for Valorant Awaits You</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-green-screen-filming/"><u>[New] Mastering the Art of Green Screen Filming</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-cutting-edge-microphones-ranking-the-6-best-for-streaming-professionals-for-2024/"><u>[Updated] Cutting Edge Microphones Ranking the 6 Best For Streaming Professionals for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-step-by-step-guide-maximizing-spotify-ad-reach-for-2024/"><u>[Updated] Step-by-Step Guide Maximizing Spotify Ad Reach for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-mastering-subscriber-identification-on-youtube/"><u>2024 Approved Mastering Subscriber Identification on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-purifypicture-premium-bg-eraser-and-editor/"><u>2024 Approved PurifyPicture Premium BG Eraser & Editor</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quickstart-free-downloadable-video-intros/"><u>2024 Approved Quickstart Free, Downloadable Video Intros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-speedy-photo-editing-tips-for-windows-11-users/"><u>2024 Approved Speedy Photo Editing Tips for Windows 11 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-m-audio-fast-track-driver-here-for-windows-11-7881/"><u>Get Your M-Audio Fast Track Driver Here for Windows 11, 7/8/8.1!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-by-drfone-ios/"><u>How to Unlock iPhone 14?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-silverleaf-studio-exploring-lightroom-substitutes/"><u>In 2024, Silverleaf Studio Exploring Lightroom Substitutes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastery-in-making-gifs-into-stickers-on-messaging-platforms-with-this-guide-for-2024/"><u>Mastery in Making Gifs Into Stickers on Messaging Platforms with This Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-techniques-for-superior-audacity-sessions-for-2024/"><u>Professional Techniques for Superior Audacity Sessions for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-top-10-photography-frame-tools-for-2024/"><u>Ultimate Guide Top 10 Photography Frame Tools for 2024</u></a></li>
 </ul></div>
 
