@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Photoshop's Powerful Tool  Image Curving Techniques\""
-date: 2024-07-30T05:45:21.062Z
-updated: 2024-07-31T05:45:21.062Z
+date: 2024-11-03T16:49:21.784Z
+updated: 2024-11-06T05:03:09.931Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -35,9 +32,6 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
 ##### Step3Warp the Image
@@ -54,16 +48,10 @@ Play around with the settings in the options bar. There are quite a few differen
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
 The **Bend Direction** option rotates the angle of the bend.
@@ -78,14 +66,15 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
@@ -118,5 +107,26 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unveiling-the-secrets-maximizing-video-reach-on-igtv-with-horizinas/"><u>[New] 2024 Approved Unveiling the Secrets Maximizing Video Reach on IGTV with Horizinas</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-professional-movie-making-on-youtube-and-similar-software/"><u>[New] In 2024, Professional Movie Making on YouTube & Similar Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimal-mobile-tools-for-post-processing-dji-media/"><u>[New] Optimal Mobile Tools for Post-Processing DJi Media</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-precise-age-settings-the-essential-guide-for-tiktok-profiles/"><u>[New] Precise Age Settings The Essential Guide for TikTok Profiles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-public-melodies-for-calmness/"><u>[New] Public Melodies for Calmness</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-instantaneously-engaging-audiences-how-obs-simplifies-instagram-streams/"><u>[Updated] In 2024, Instantaneously Engaging Audiences How OBS Simplifies Instagram Streams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-plot-pointers-institute-quintessential-quotient/"><u>[Updated] Plot Pointers Institute - Quintessential Quotient</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quintessential-cinematic-language/"><u>[Updated] Quintessential Cinematic Language</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/frameflick-recorder-reflection-for-2024/"><u>FrameFlick Recorder Reflection for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-13-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 13 Pro without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-m14-4g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy M14 4G Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leverage-these-10-underrated-features-for-canva/"><u>In 2024, Leverage These 10 Underrated Features for Canva</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photo-deformation-masterclass-essentials/"><u>In 2024, Photo Deformation Masterclass Essentials</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-picture-perfectionism-top-tools-and-sites-for-adding-frame-elements/"><u>In 2024, Picture Perfectionism Top Tools & Sites for Adding Frame Elements</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-sprint-towards-subscriber-goal-reach-1000/"><u>In 2024, Sprint Towards Subscriber Goal Reach 1,000</u></a></li>
+<li><a href="https://fox-access.techidaily.com/insta-wonders-top-9-habits-of-influencers-and-stars-for-2024/"><u>Insta Wonders Top 9 Habits of Influencers and Stars for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/polarrs-full-spectrum-tools-your-go-to-guide-to-editing-excellence-for-2024/"><u>Polarr's Full Spectrum Tools - Your Go-To Guide to Editing Excellence for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-tutorials-to-excel-at-google-meet-free-edition-for-2024/"><u>Step-by-Step Tutorials to Excel at Google Meet (Free Edition) for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2024-10-27T02:16:34.847Z
-updated: 2024-10-31T07:09:49.835Z
+date: 2024-11-05T05:20:31.162Z
+updated: 2024-11-05T18:58:41.462Z
 tags:
   - chatgpt
   - open-ai
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Is the Most Private Large Language Model?
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -89,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -112,15 +105,22 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which LLM Tells the Best Jokes?
@@ -162,22 +162,20 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-pro-level-hdr-mastery-your-compre-point-of-entry-for-2024/"><u>[New] Pro Level HDR Mastery Your Compre Point of Entry for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-quick-react-guide-efficiently-answering-discord-messages/"><u>[Updated] 2024 Approved Quick-React Guide Efficiently Answering Discord Messages</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-effective-techniques-for-creating-podcast-rss-feeds-for-2024/"><u>[Updated] Effective Techniques for Creating Podcast RSS Feeds for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-world-of-spotifys-advertising-landscape/"><u>[Updated] Navigating the World of Spotify's Advertising Landscape</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-quiet-browsing-of-fb-narratives-for-2024/"><u>[Updated] Quiet Browsing of FB Narratives for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-tips-for-documenting-virtual-meetings-for-2024/"><u>[Updated] Tips for Documenting Virtual Meetings for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-guide-engage-with-audio-content-seamlessly/"><u>2024 Approved IPhone Guide Engage with Audio Content Seamlessly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-your-craft-exclusive-free-templates-and-tips/"><u>2024 Approved Master Your Craft Exclusive Free Templates & Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-masterclass-conquering-one-device-livestream-challenges/"><u>2024 Approved Masterclass Conquering One-Device Livestream Challenges</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-windows-10-photo-display/"><u>2024 Approved Prime Windows 10 Photo Display</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-master-level-editing-the-essence-of-smooth-transitions-in-inshot/"><u>In 2024, Master Level Editing The Essence of Smooth Transitions in Inshot</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-melding-images-and-songs-into-screens/"><u>In 2024, Melding Images and Songs Into Screens</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-techniques-for-longevity-in-gopro-batteries-for-2024/"><u>Master Techniques for Longevity in GoPro Batteries for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-dlc-installation-crashes-civ-5/"><u>Overcoming DLC Installation Crashes Civ 5</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-permanent-image-retention-tips-for-every-screen-type/"><u>Resolving Permanent Image Retention: Tips for Every Screen Type</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lava-blaze-pro-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-verdict-on-apples-giant-phenomenon-the-iphone-12-pro-max-in-review/"><u>The Verdict on Apple's Giant Phenomenon - The iPhone 12 Pro Max in Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/laughter-legends-unwrapping-goofy-odyssey-for-2024/"><u>'Laughter Legends' - Unwrapping 'Goofy Odyssey' For 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-elevating-edit-quality-the-ultimate-guide-for-obs-studios-for-2024/"><u>[New] Elevating Edit Quality The Ultimate Guide for OBS Studios for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-playlist-pilgrimage-seamless-music-service-journeying/"><u>[New] Playlist Pilgrimage Seamless Music Service Journeying</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-world-of-video-timestamps-on-youtube/"><u>[Updated] Navigating the World of Video Timestamps on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-venues-fueling-youtube-visibility/"><u>[Updated] Premier Venues Fueling YouTube Visibility</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-invest-in-cinematic-success-top-ten-cameras-for-filmmakers/"><u>2024 Approved Invest in Cinematic Success Top Ten Cameras for Filmmakers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-ranked-your-must-have-5-iphones-for-excellent-podcasting/"><u>In 2024, Ranked Your Must-Have 5 iPhones for Excellent Podcasting</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-acer-xfa240-when-practicality-meets-technology/"><u>In-Depth Analysis of the Acer XFA240 - When Practicality Meets Technology</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/learn-to-keep-unwanted-suggestions-away-from-ig-for-2024/"><u>Learn to Keep Unwanted Suggestions Away From IG for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-minute-by-minute-srt-conversion-to-text-txt-for-2024/"><u>Mastering Minute-by-Minute SRT Conversion to Text (TXT) for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximize-your-iphone-film-shoots-mastering-8-key-skills-for-2024/"><u>Maximize Your iPhone Film Shoots Mastering 8 Key Skills for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/owc-mercury-pro-assessment-a-premier-drive-that-delivers-class-leading-results/"><u>OWC Mercury Pro Assessment: A Premier Drive that Delivers Class-Leading Results</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-16-zero-cost-ways-to-master-sign-language/"><u>Top 16 Zero-Cost Ways to Master Sign Language</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/microsoft-surface-eraser/"><u>デバイスから安心してデータを削除: Microsoft Surface用高性能の消去ツール - Eraserソフトとその代替品</u></a></li>
 </ul></div>
 

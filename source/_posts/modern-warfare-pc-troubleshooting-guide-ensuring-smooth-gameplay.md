@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare PC Troubleshooting Guide: Ensuring Smooth Gameplay"
-date: 2024-10-29T13:59:07.308Z
-updated: 2024-10-31T06:34:34.404Z
+date: 2024-10-30T22:06:00.366Z
+updated: 2024-11-06T01:51:52.916Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Allow your game through Windows Firewall
 
  When a program fails to load properly, chances are your firewall is blocking it, even though the program you’re starting is legitimate and doesn’t do harm to your system. To ensure your game has access to your connection, take the steps as follows.
@@ -43,6 +50,13 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
@@ -59,19 +73,6 @@ If this doesn’t do the trick, try the next fix below.
 3. When the Properties window opens, select the Compatibility tab. Then check the box next to Run this program as an administrator. Then click Apply > OK to save the changes.
 
  After this, try to launch Warfare II and see how it works. If your problem persists, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Close conflicting or non-essential programs
 
@@ -90,13 +91,6 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
  When you’re done, launch your game. If your problem persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Repair corrupted game files
 
@@ -121,27 +115,27 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
  Once the verification process is complete, close the window and check if it solves your problem. If your game still fails to launch properly, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update your graphics driver
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to update your graphics driver
 
@@ -158,20 +152,13 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you find out the brand of your graphics card, visit the manufacturer’s website to get the most up-to-date driver. All you have to do is follow the on-screen instructions to download and install the driver for your system.
@@ -192,20 +179,27 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Run a full system scan
 
@@ -240,20 +234,20 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-direct-to-video-best-5-online-gif-to-video-services/"><u>[New] 2024 Approved Direct to Video Best 5 Online GIF to Video Services</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-drones-decoded-functionality-and-operational-overview-for-2024/"><u>[Updated] Drones Decoded Functionality & Operational Overview for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-playful-portraits-how-to-apply-a-cartoon-face-on-snapchat/"><u>[Updated] Playful Portraits How to Apply a Cartoon Face on Snapchat</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-subject-emphasis-background-cleanse-for-2024/"><u>[Updated] Subject Emphasis Background Cleanse for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-10-best-sites-to-download-free-slideshow-templates-filmora/"><u>2024 Approved 10 Best Sites to Download Free Slideshow Templates - Filmora</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-snowball-rally-highlights-from-the-beijing-games-2022/"><u>2024 Approved Snowball Rally Highlights From the Beijing Games, 2022</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/azure-speech-to-text-explained-simply/"><u>Azure Speech to Text Explained Simply</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-how-to-share-apples-live-images-with-android-contacts-successfully/"><u>Guide: How to Share Apple's Live Images with Android Contacts Successfully</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-metaverse-life-your-ultimate-device-list/"><u>In 2024, Mastering Metaverse Life Your Ultimate Device List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-mobile-alter-picture-size-on-iphone-easefully/"><u>In 2024, Mastering Mobile Alter Picture Size on iPhone Easefully</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-precision-editing-picarts-techniques-for-background-subtraction/"><u>In 2024, Precision Editing PicArt's Techniques for Background Subtraction</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-pop-8-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Pop 8 Device</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ultimate-audio-harvesters-in-learning-spaces/"><u>In 2024, Ultimate Audio Harvesters in Learning Spaces</u></a></li>
-<li><a href="https://extra-support.techidaily.com/professional-desktop-image-merging-tips-for-2024/"><u>Professional Desktop Image Merging Tips for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/should-past-facebook-actions-follow-you-today-investigate/"><u>Should Past Facebook Actions Follow You Today? Investigate</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-mobile-photography-with-androids-lightroom/"><u>[New] Mastering Mobile Photography with Android’s Lightroom</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nlock-youtube-tracks-anytime-without-spending-a-dime-the-best-audio-crackers/"><u>[New] Unlock YouTube Tracks Anytime, Without Spending a Dime The Best Audio Crackers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-magical-apps-for-vocal-alteration-top-list-unveiled/"><u>[Updated] Magical Apps for Vocal Alteration Top List Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-world-of-cost-free-graphic-designs/"><u>2024 Approved Navigating the World of Cost-Free Graphic Designs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-handbrake-handle-the-conversion-of-av1-video-formats/"><u>Can HandBrake Handle the Conversion of AV1 Video Formats?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2529808-9780811759021-haunted-oregon/"><u>Haunted Oregon | Free Book</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-to-fix-a-non-responsive-lenovo-novo-key-on-windows-1087/"><u>How to Fix a Non-Responsive Lenovo Novo Key on Windows 10/8/7</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-copyright-free-online-collections-for-games/"><u>In 2024, Copyright-Free Online Collections for Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lowering-audio-amplitude-progressively-using-lumafusion/"><u>In 2024, Lowering Audio Amplitude Progressively Using Lumafusion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-techniques-for-video-opposite-playback-for-2024/"><u>IPhone Techniques for Video Opposite Playback for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-world-of-srt-with-ease-for-2024/"><u>Navigating the World of SRT with Ease for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/seamless-integration-of-obs-studio-with-android-tech/"><u>Seamless Integration of OBS Studio with Android Tech</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/snappydriver-update-113-insights-and-overall-impression/"><u>SnappyDriver Update 1.13 Insights and Overall Impression</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/spicing-up-chats-with-gifs-a-complete-snapchat-tutorial/"><u>Spicing Up Chats with GIFs A Complete Snapchat Tutorial</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-lava-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Lava Phone Network-Ready</u></a></li>
 </ul></div>
 

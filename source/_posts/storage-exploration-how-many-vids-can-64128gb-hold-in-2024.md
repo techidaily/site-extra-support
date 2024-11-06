@@ -1,7 +1,7 @@
 ---
 title: "\"Storage Exploration  How Many Vids Can 64/128GB Hold, In 2024\""
-date: 2024-10-28T00:54:13.251Z
-updated: 2024-10-31T09:32:54.594Z
+date: 2024-10-31T02:46:27.537Z
+updated: 2024-11-05T23:45:00.353Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,13 @@ The data rate of movies is generally influenced by the format and codec of the v
 
 A normal 128GB memory card should be able to hold up to 24 hours of footage at 1080p at 4k resolution. That data rate must be 8.85MB/s for this to happen. A standard 128GB memory card can hold up to 48 hours of film at 720p at 4k resolution. A data rate of roughly 4.42MB/s is also required.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to save more video on 64GB/128GB space?
 
 Try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) if you wish to compress video files. It has the potential to be the greatest video shrinker on the market. It can play practically any video or music file format (Check the supported format list). It allows you to fast and easily reduce the size of large or high-resolution videos to match your device's capacity or display screen. Now I'll show you how to reduce the size of video files by altering video resolution, bit rate, and frame rate, among other factors. You may get this easy [video editor](https://tools.techidaily.com/wondershare/filmora/download/) right now and follow along.
@@ -54,16 +61,22 @@ To open the output window of this video shrinker, click the "Export" button.
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Go to the Format tab and set the output to the original video format. Then, in the "Settings" panel, click the triangle button below to downsize the video by selecting a lower video resolution, frame rate, or bit rate. If the video format is not important to you, you can choose from various formats such as FLV, MP4, and others, which produce lower files.
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Export the file
 
@@ -107,6 +120,13 @@ You can change the resolution or aspect ratio variables to change the video's si
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Compatibility: Online
 
 If you don't want to install or use an app on your computer, many websites will allow you to submit a video file and compress it for you. Some of these services demand registration, others charge a monthly fee (or place a watermark on your movie), and others are free and only require a video file.
@@ -118,13 +138,6 @@ VEED.IO is the first service we'll look at. VEED provides a simple video compres
 Open the web browser and open the veed.io video compressor. Import the video file by clicking on 'Upload a file.'
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-9.jpg)
 
@@ -242,13 +255,6 @@ Open the web browser and open the veed.io video compressor. Import the video fil
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-9.jpg)
 
 **Step 2: Compress the file.**
@@ -265,14 +271,14 @@ Click on 'Compress file' and wait until the video file is compressed to your pre
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-11.jpg)
 
-Note: The compression time might vary depending on the quality and size of the file. Also, you might have to compromise on video quality to compress the video file using veed.io.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Note: The compression time might vary depending on the quality and size of the file. Also, you might have to compromise on video quality to compress the video file using veed.io.
 
 ### 3\. Video Compressor
 
@@ -285,6 +291,19 @@ Last but not least, the Fast Video Compressor can compress both videos and photo
 Open the Google Play Store on Android, download the video compressor, and install it.
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-12.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Click on "Select on Folder" on the top to import the file.
 
@@ -309,17 +328,10 @@ Click the "Import" button in the top-left corner of Filmora to import the video 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Reduce file size
@@ -331,13 +343,6 @@ To open the output window of this video shrinker, click the "Export" button.
 Go to the Format tab and set the output to the original video format. Then, in the "Settings" panel, click the triangle button below to downsize the video by selecting a lower video resolution, frame rate, or bit rate. If the video format is not important to you, you can choose from various formats such as FLV, MP4, and others, which produce lower files.
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Export the file
 
@@ -445,13 +450,6 @@ Click the "Import" button in the top-left corner of Filmora to import the video 
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Reduce file size
 
 To open the output window of this video shrinker, click the "Export" button.
@@ -461,6 +459,20 @@ To open the output window of this video shrinker, click the "Export" button.
 Go to the Format tab and set the output to the original video format. Then, in the "Settings" panel, click the triangle button below to downsize the video by selecting a lower video resolution, frame rate, or bit rate. If the video format is not important to you, you can choose from various formats such as FLV, MP4, and others, which produce lower files.
 
 ![64gb-128gb-hold-video-size](https://images.wondershare.com/filmora/article-images/2022/05/64gb-128gb-hold-video-size-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Export the file
 
@@ -584,20 +596,20 @@ A wide range of softwares and applications help with video compressing features 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-elite-videochats-enabling-online-meeting-excellence/"><u>[New] Elite Videochats Enabling Online Meeting Excellence</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/op-19-affordable-audio-extractors-to-get-youtube-music-on-your-device-for-2024/"><u>[New] Top 19 Affordable Audio Extractors to Get YouTube Music on Your Device for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-does-quick-subscribe-strategy-boost-audience-growth/"><u>[Updated] 2024 Approved Does Quick-Subscribe Strategy Boost Audience Growth?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premier-podcast-choices-for-gpodc-users/"><u>[Updated] Premier Podcast Choices for GPodC Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-stepwise-guide-to-effective-keying-with-kinemasters-gs/"><u>[Updated] Stepwise Guide to Effective Keying with KineMaster's GS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-historical-context-of-instagram-stories-not-widely-known/"><u>2024 Approved Historical Context of Instagram Stories Not Widely Known</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a15-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A15 5G?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-learn-to-soften-edges-and-focus-a-pcmobile-guide/"><u>In 2024, Learn to Soften Edges & Focus A PC/Mobile Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-seamless-music-segmentation-the-art-of-crossfade/"><u>In 2024, Mastering Seamless Music Segmentation The Art of Crossfade</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-chrome-multitasking-via-picture-in-picture-mode/"><u>In 2024, Maximizing Chrome Multitasking via Picture in Picture Mode</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-portable-recording-stands-and-lenses/"><u>In 2024, Portable Recording Stands and Lenses</u></a></li>
-<li><a href="https://extra-support.techidaily.com/peer-into-professionalism-with-these-elite-cam-recorders-top-18-for-2024/"><u>Peer Into Professionalism with These Elite Cam Recorders (Top 18) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/remedying-the-no-write-allowed-message-in-win-os/"><u>Remedying the No Write Allowed Message in Win OS</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-play-7t-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor Play 7T</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unleashing-power-and-portability-with-the-revolutionary-lg-gram-156-inch-notebook-2018-a-comprehensive-review/"><u>Unleashing Power & Portability with the Revolutionary LG Gram 15.6-Inch Notebook (2018): A Comprehensive Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-in-game-recording-unveiled/"><u>[New] In 2024, In-Game Recording Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-kickstarting-a-vlog-key-hardware-and-apps/"><u>[New] Kickstarting a Vlog Key Hardware & Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-greenscreen-in-kinemaster/"><u>[New] Mastering the Art of Greenscreen in KineMaster</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-navigating-metaverse-compelling-vr-headsets-recommended/"><u>[Updated] In 2024, Navigating Metaverse Compelling VR Headsets Recommended</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphone-tips-free-techniques-to-incorporate-music-in-video-projects/"><u>[Updated] IPhone Tips Free Techniques to Incorporate Music in Video Projects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rapid-strategies-for-securing-identity-in-image-editing/"><u>[Updated] Rapid Strategies for Securing Identity in Image Editing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-diving-into-the-world-of-igtv-for-2024/"><u>[Updated] Step-by-Step Diving Into the World of IGTV for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-premier-asmr-videographers-list/"><u>2024 Approved Premier ASMR Videographers' List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-straightforward-strategies-for-podcast-streaming/"><u>2024 Approved Straightforward Strategies for Podcast Streaming</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-foresees-fresh-approach-towards-teen-instagram-habits/"><u>Facebook Foresees Fresh Approach Towards Teen Instagram Habits</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/gaming-portable-masterpiece-the-case-for-steam-deck/"><u>Gaming Portable Masterpiece? The Case for Steam Deck</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-12-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 12 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-thin-line-of-vr-content-availability/"><u>In 2024, Navigating the Thin Line of VR Content Availability</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lapscape-dreaming-choosing-the-best-websites-for-aesthetic-backgrounds-for-2024/"><u>Lapscape Dreaming Choosing the Best Websites for Aesthetic Backgrounds for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/metaverse-marvels-top-10-sci-fi-films-unveiling-extraordinary-worlds/"><u>Metaverse Marvels Top 10 Sci-Fi Films Unveiling Extraordinary Worlds</u></a></li>
 </ul></div>
 

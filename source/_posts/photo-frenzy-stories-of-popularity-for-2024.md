@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Frenzy  Stories of Popularity for 2024\""
-date: 2024-10-27T07:45:10.885Z
-updated: 2024-10-30T19:30:44.467Z
+date: 2024-11-02T03:47:41.990Z
+updated: 2024-11-05T20:42:57.749Z
 tags: 
   - screen-recording
   - ai video
@@ -43,13 +43,6 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
@@ -57,22 +50,15 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
 
@@ -87,6 +73,13 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
 ## Part3: I Bet He's Thinking About Other Women
@@ -100,16 +93,10 @@ However, subsequent memes feature satirical themes. Here are some of the most po
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
@@ -118,13 +105,6 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
 
 * The meme also appears in a 2017 tweet by @NFLRT, an NFL fan account, where the man questions when Colin Kaepernick will be signed.
@@ -132,6 +112,19 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
 
@@ -156,22 +149,29 @@ The photo is available on most stock photo websites, such as Adobe and Tumblr. F
 
 ## Part5: FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Can you use stock photos for memes?
 
 Yes, you can use stock photos for memes. However, you need to obtain them from royalty-free stock photo providers such as Shutterstock and Pexels. In addition, ensure you understand the license requirements before using the photo.
 
 This is because not all stock photo providers offer their images with a creative commons license. For example, the Unsplash license allows you to use their stock images for personal or commercial use after making adjustments to the original.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Does copyright law protect memes?
 
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Can you use watermarked stock photos to create memes?
 
@@ -209,16 +209,22 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/igital-dominion-1-to-10-most-watched-youtube-videos-in-a-day/"><u>[New] Digital Dominion #1 to #10 Most Watched YouTube Videos in a Day</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/levate-audience-reach-through-collaborative-youtube-videos/"><u>[New] Elevate Audience Reach Through Collaborative YouTube Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-pacing-your-content-the-importance-of-regularity-in-a-successful-youtube-channel/"><u>[New] In 2024, Pacing Your Content The Importance of Regularity in a Successful YouTube Channel</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-optimal-gpu-choices-4k-editing-and-rendering/"><u>[New] Optimal GPU Choices 4K Editing & Rendering</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-top-3-tactics-transforming-pin-videos-into-mp3-sounds/"><u>[Updated] 2024 Approved Top 3 Tactics Transforming Pin Videos Into MP3 Sounds</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-3d-playback-with-superior-blu-ray-systems/"><u>[Updated] Premium 3D Playback with Superior Blu-Ray Systems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sonic-update-for-whatsapp-statues/"><u>2024 Approved Sonic Update for WhatsApp Statues</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-iphone-video-zooming-made-simple/"><u>In 2024, IPhone Video Zooming Made Simple</u></a></li>
-<li><a href="https://extra-support.techidaily.com/isyncslideshow-integrate-ios-plus-sierra-images-for-2024/"><u>ISyncSlideshow Integrate iOS + Sierra Images for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-install-errors-your-ultimate-guide-to-handling-error-code-80240020/"><u>Troubleshooting Windows 11 Install Errors: Your Ultimate Guide to Handling Error Code 80240020</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/windows-win11win10win8win7/"><u>Windows版本間最佳硬碟分區方法 - 提高性能的重要知识（Win11、Win10、Win8、Win7）</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-inside-ustream-review-alternatives-on-hand/"><u>[New] Inside Ustream Review, Alternatives on Hand</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-video-editing-in-windows-11-your-movie-maker-primer/"><u>[New] Mastering Video Editing in Windows 11 - Your Movie Maker Primer</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-audio-acquirers-almanac-save-and-scrutinize-songs/"><u>[Updated] In 2024, Audio Acquirer's Almanac Save & Scrutinize Songs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-skies-drone-shooting-basics/"><u>[Updated] Navigating Skies Drone Shooting Basics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-quantum-hdr-techniques-for-professionals/"><u>2024 Approved Mastering Quantum HDR Techniques for Professionals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-efficiency-discover-the-leading-speech-to-text-apps-for-macos/"><u>2024 Approved Maximizing Efficiency Discover the Leading Speech-to-Text Apps for MacOS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-for-fixing-dota-2-vac-ban-troubles/"><u>Effective Strategies for Fixing Dota 2 VAC Ban Troubles</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/honor-play-8t-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Honor Play 8T ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-add-music-to-youtubevideo-with-youtube-video-editor-for-2024/"><u>How to Add Music to YouTubeVideo with YouTube Video Editor for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-luxury-leisure-levels-review-roundup/"><u>In 2024, LUXURY LEISURE LEVELS Review Roundup</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-soundscape-adjustments-fading-volume-with-precision-in-logic-pro/"><u>In 2024, Soundscape Adjustments Fading Volume with Precision in Logic Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-guide-to-choosing-your-mp4-player/"><u>Master Guide to Choosing Your MP4 Player</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-creating-a-filtered-and-safe-email-environment-in-gmail/"><u>Mastering the Art of Creating a Filtered and Safe Email Environment in Gmail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-your-web-server-with-iis-opening-techniques/"><u>Mastering Your Web Server with IIS Opening Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-steps-to-access-high-rate-youtube-likes-for-2024/"><u>Quick Steps to Access High-Rate YouTube Likes for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-review-of-dbpowers-600a-peak-charger-a-deep-dive-into-its-18k-mah-features/"><u>Top Review of DBPower's 600A Peak Charger: A Deep Dive Into Its 18K mAh Features</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oppo-k11-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Oppo K11 5G Phones</u></a></li>
 </ul></div>
 

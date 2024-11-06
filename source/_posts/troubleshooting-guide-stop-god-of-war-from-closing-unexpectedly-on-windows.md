@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Stop God of War From Closing Unexpectedly On Windows"
-date: 2024-10-27T01:28:47.026Z
-updated: 2024-10-30T17:37:11.299Z
+date: 2024-11-04T08:43:19.715Z
+updated: 2024-11-06T06:30:17.439Z
 tags:
   - win11
   - win10
@@ -34,22 +34,28 @@ In some cases, the culprit is NVIDA Streamer service, especially when it’s off
 
 3) See if your Shadowplay can record now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2: Reinstall NVIDIA Driver
 
 In some cases, GeForce Experience install programs that are not graphics driver on your PC. So you should reinstall NVIDIA display driver all over again. You can go to NVIDIA support website to search for and download the latest version of display driver available. Or you can update your video card driver via Device Manager or Windows Update. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9a8fa563d.png)3) Click the**Update**button next to the flagged NVIDIA device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b0348294.jpg)4) Restart your PC for the change to take effect. See if Shadowplay works well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3: Upgrade GeForce Experience
@@ -63,19 +69,19 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c236ca3feba.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Enable desktop capture
@@ -103,16 +109,22 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-iphone-scaling-images-quickly/"><u>[New] Mastering iPhone Scaling Images Quickly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premium-home-cinema-picks-for-best-3d-blu-ray-systems/"><u>[New] Premium Home Cinema Picks for Best 3D Blu-Ray Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-how-to-use-d3dgear-screen-recorder/"><u>[Updated] 2024 Approved How to Use D3DGear Screen Recorder</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-perfecting-skype-calls-dial-down-distractions/"><u>[Updated] 2024 Approved Perfecting Skype Calls Dial Down Distractions</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/automatische-verknupfung-von-mac-bildern-sicher-erzwingen-synchrone-fotointegration/"><u>Automatische Verknüpfung Von Mac-Bildern Sicher Erzwingen - Synchrone Fotointegration</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-overcoming-iphone-hd-video-overexposure-with-premiere-pro/"><u>In 2024, Overcoming iPhone HD Video Overexposure with Premiere Pro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-windowsmac-meeting-record-skype-guide/"><u>In 2024, Windows/Mac Meeting Record - Skype Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/osblend-the-vmix-alternative-for-2024/"><u>OSBlend The VMix Alternative for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scam-alert-over-meet-metas-next-gen-signatures/"><u>Scam Alert Over! Meet Meta's Next-Gen Signatures</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209920186-9781071519738-the-life-tailor-the-secret-to-making-your-dreams-come-true/"><u>The Life Tailor: The Secret to Making Your Dreams Come True | Free Book</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-to-do-when-only-one-of-your-airpods-wont-work/"><u>What To Do When Only One of Your AirPods Won't Work?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-turn-any-youtube-experience-into-a-fun-animated-gif-on-devices/"><u>[New] 2024 Approved Turn Any YouTube Experience Into a Fun, Animated GIF on Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-windows-8-guide-to-powerful-movie-maker-editing-techniques/"><u>[New] In 2024, The Windows 8 Guide to Powerful Movie Maker Editing Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-master-the-art-of-social-media-stardom-with-these-9-strategies-for-2024/"><u>[New] Master the Art of Social Media Stardom with These 9 Strategies for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-world-of-internet-hilarity/"><u>[New] Navigating the World of Internet Hilarity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smooth-integration-of-macos-sierra-on-old-systems/"><u>[New] Smooth Integration of macOS Sierra on Old Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-color-palettes-applying-theories-effectively/"><u>[Updated] Mastering Color Palettes Applying Theories Effectively</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-subtitles-the-ultimate-guide-to-free-tools/"><u>[Updated] Mastering Subtitles The Ultimate Guide to FREE Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-scripted-synergy-systems/"><u>2024 Approved Scripted Synergy Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-shutter-speed-supreme-the-ultimate-camera-guide-for-slow-videos/"><u>In 2024, Shutter Speed Supreme The Ultimate Camera Guide for Slow Videos</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/losing-no-quality-the-ultimate-guide-to-shrinking-avi-files-in-windows-10/"><u>Losing No Quality: The Ultimate Guide to Shrinking AVI Files in Windows 10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-catchy-headline-creator-for-2024/"><u>Prime Catchy Headline Creator for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-anglers-choice-the-top-5-cameras-for-fishing-for-2024/"><u>Pro Angler's Choice The Top 5 Cameras For Fishing for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/restaurate-your-eclipse-project-with-these-simple-steps/"><u>Restaurate Your Eclipse Project with These Simple Steps!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/supercharge-chatgpt-conversations-discover-our-top-7-plugins/"><u>Supercharge ChatGPT Conversations: Discover Our Top 7 Plugins</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-electric-lawnmowers-expert-picks-and-reviews-techradar/"><u>Top 5 Electric Lawnmowers : Expert Picks & Reviews | TechRadar</u></a></li>
+<li><a href="https://win-able.techidaily.com/total-war-three-kingdoms-tips-and-tricks-to-solve-your-game-crash-problems/"><u>Total War: Three Kingdoms – Tips & Tricks to Solve Your Game Crash Problems</u></a></li>
 </ul></div>
 

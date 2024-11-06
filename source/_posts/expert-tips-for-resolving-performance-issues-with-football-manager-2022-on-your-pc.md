@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Performance Issues with Football Manager 2022 on Your PC
-date: 2024-10-24T19:00:08.551Z
-updated: 2024-10-30T17:09:03.568Z
+date: 2024-11-01T17:55:25.336Z
+updated: 2024-11-06T07:03:42.405Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
@@ -65,32 +65,26 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -105,6 +99,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -113,6 +114,13 @@ If this method doesn’t help, go ahead with the next fix below.
 2. Click the**View** tab and make sure**Hidden items** is ticked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
@@ -127,13 +135,6 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
@@ -141,13 +142,6 @@ So does the crash go away now? If not, there is the last fix to try.
 4. Type**–config very\_low** in the text field and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -176,18 +170,16 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-pickus-claim-the-ultimate-editor-or-just-another-featured-app-in-android/"><u>[New] PickU's Claim – The Ultimate Editor or Just Another Featured App in Android?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-transform-insta-videos-into-mp4-format-expert-methods-revealed/"><u>[New] Transform Insta Videos Into MP4 Format Expert Methods Revealed</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-enhancing-virtual-collaboration-essential-strategies-for-efficient-zoom-chats/"><u>[Updated] Enhancing Virtual Collaboration Essential Strategies for Efficient ZOOM Chats</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premier-pro-ultimate-2023-template-collection-free/"><u>2024 Approved Premier Pro Ultimate 2023 Template Collection (FREE)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-scripting-stimulating-screen-grabbers/"><u>2024 Approved Scripting Stimulating Screen-Grabbers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-skincare-and-sensational-looks/"><u>2024 Approved Skincare and Sensational Looks</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/critical-update-overcoming-continuous-restart-issues-in-windows-10-systems/"><u>Critical Update: Overcoming Continuous Restart Issues in Windows 10 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exciting-gpt-5-updates-top-4-enhancements-fans-anticipate/"><u>Exciting GPT-5 Updates: Top 4 Enhancements Fans Anticipate</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-professional-iphone-hdr-techniques-unveiled/"><u>In 2024, Professional iPhone HDR Techniques Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-choices-elite-android-call-alerts-for-2024/"><u>Leading Choices Elite Android Call Alerts for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/srt-file-how-to-open-srt-file-on-windows-or-mac-for-2024/"><u>SRT File How to Open SRT File on Windows or Mac for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-images-with-frames-best-sites-and-tools-of-2023-reviewed/"><u>[New] Perfect Images with Frames Best Sites and Tools of 2023 Reviewed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-disconnect-on-snapchat-are-they-blocked-for-2024/"><u>[New] The Disconnect on Snapchat Are They Blocked for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-securely-attach-a-link-to-your-tiktok-profile/"><u>2024 Approved Step-by-Step Securely Attach a Link to Your TikTok Profile</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixelpunch-custom-humor-images/"><u>In 2024, PixelPunch Custom Humor Images</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-public-domain-soundtracks-downloadable-playing-games/"><u>In 2024, Public Domain Soundtracks Downloadable, Playing Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reel-in-success-top-drone-video-editors-for-every-stage-of-learning/"><u>In 2024, Reel in Success Top Drone Video Editors for Every Stage of Learning</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-potential-the-best-10-motivational-movies/"><u>In 2024, Unleash Potential The Best 10 Motivational Movies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-digital-diary-a-journey-through-cutting-edge-hardware-discoveries/"><u>Tom's Digital Diary: A Journey Through Cutting-Edge Hardware Discoveries</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-5-essential-applications-every-owner-of-a-kindle-paperwhite-3-should-have/"><u>Top 5 Essential Applications Every Owner of a Kindle Paperwhite 3 Should Have</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-the-full-potential-of-your-journeys-why-utilizing-google-maps-save-location-function-is-essential/"><u>Unlock the Full Potential of Your Journeys: Why Utilizing Google Maps' Save Location Function Is Essential</u></a></li>
 </ul></div>
 

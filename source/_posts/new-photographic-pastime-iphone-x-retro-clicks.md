@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photographic Pastime  IPhone X Retro Clicks\""
-date: 2024-10-27T14:05:57.813Z
-updated: 2024-10-30T18:26:33.630Z
+date: 2024-11-01T08:21:39.806Z
+updated: 2024-11-05T22:25:42.937Z
 tags: 
   - screen-recording
   - ai video
@@ -35,13 +35,6 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -53,10 +46,16 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image resource: 9to5mac
@@ -68,6 +67,19 @@ Portrait mode enables you to set the timer, turn off the flash or apply photo fi
 The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn't have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.
 
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image resource: imore
 
@@ -96,10 +108,10 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
@@ -113,10 +125,10 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
@@ -148,20 +160,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-lower-volume-level-by-level-with-fl/"><u>[New] Lower Volume Level by Level with FL</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pinnacle-of-picture-perfection-with-video-enhance-v22/"><u>[New] Pinnacle of Picture Perfection with Video Enhance V2.2</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sleeksky-saver-the-frugal-file-nest/"><u>[New] SleekSky Saver - The Frugal File Nest</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-speech-synthesis-simplified-transforming-ssaxml-into-srt-perfection/"><u>[New] Speech Synthesis Simplified Transforming SSA/XML Into SRT Perfection</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-edits-the-beginners-insider-look-at-editing-techniques-for-2024/"><u>[Updated] Elevate Your Edits The Beginner's Insider Look at Editing Techniques for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-quadcopter-efficiency-with-best-motor-selection-tips/"><u>2024 Approved Mastering Quadcopter Efficiency with Best Motor Selection Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pathways-to-identifying-outstanding-video-artists/"><u>2024 Approved Pathways to Identifying Outstanding Video Artists</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y36i-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y36i</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-realme-11-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Realme 11 Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone 13 Pro?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-the-social-sphere-instaplustiktok-for-2024/"><u>Navigating the Social Sphere Insta+TikTok for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-10-free-video-orientation-changers-to-fix-your-footage/"><u>New In 2024, 10 Free Video Orientation Changers to Fix Your Footage</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-for-setting-up-bit-for-bit-duplication-of-files-between-hard-drives-in-windows-environments/"><u>Step-by-Step Tutorial for Setting Up Bit-for-Bit Duplication of Files Between Hard Drives in Windows Environments</u></a></li>
-<li><a href="https://win-web3.techidaily.com/wie-man-geloschte-e-mails-aus-dem-papierkorb-mithilfe-zweier-strategien-wiedererlangt/"><u>Wie Man Gelöschte E-Mails Aus Dem Papierkorb Mithilfe Zweier Strategien Wiedererlangt</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-filing-mastery-key-principles-max-156/"><u>Windows Filing Mastery: Key Principles (Max 156)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-slug-lines-for-effective-storytelling/"><u>[New] Mastering Slug Lines for Effective Storytelling</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-overlooked-elements-what-youre-missing-as-a-story-viewer/"><u>[New] The Overlooked Elements What You're Missing as a Story Viewer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphone-pro-photography-mastery-of-leading-lines/"><u>[Updated] IPhone Pro Photography Mastery of Leading Lines</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-stars-quick-visibility-check-for-2024/"><u>[Updated] Star's Quick Visibility Check for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-visual-storytelling-key-shot-techniques-for-beginners/"><u>2024 Approved Mastering Visual Storytelling Key Shot Techniques for Beginners</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-de-mkv-a-oggz-guide-etape-par-etape-pour-transformer-des-fichiers-video-en-ligne-gratuitement-avec-movavi/"><u>Conversion De MKV À Oggz : Guide Étape Par Étape Pour Transformer Des Fichiers Vidéo en Ligne Gratuitement Avec Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-in-windows-7-by-drivereasy-guide/"><u>How to Manually Install a Driver in Windows 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-xiaomi-14-ultra-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Xiaomi 14 Ultra to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-elevate-your-youtube-videos-popularity-through-persistent-cc-licensing/"><u>In 2024, How to Elevate Your YouTube Video's Popularity Through Persistent CC Licensing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Smart 7 HD</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-overcome-blurred-images-the-best-online-enhancers-listed/"><u>In 2024, Overcome Blurred Images The Best Online Enhancers Listed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photographers-aid-free-mobile-photography-boost/"><u>In 2024, Photographer's Aid - Free, Mobile Photography Boost</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixel-playfulness-harnessing-funny-lenses-in-snapchat/"><u>In 2024, Pixel Playfulness Harnessing Funny Lenses in Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-audio-broadcast-networks/"><u>In 2024, Premier Audio Broadcast Networks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-rated-mobile-devices-for-pocket-sized-gaming-for-2024/"><u>Top-Rated Mobile Devices for Pocket-Sized Gaming for 2024</u></a></li>
 </ul></div>
 

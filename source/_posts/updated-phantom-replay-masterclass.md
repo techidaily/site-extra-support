@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Phantom Replay Masterclass"
-date: 2024-10-27T17:05:04.675Z
-updated: 2024-10-30T22:46:29.627Z
+date: 2024-10-30T21:16:34.265Z
+updated: 2024-11-06T02:31:06.126Z
 tags: 
   - screen-recording
   - ai video
@@ -55,13 +55,6 @@ Phantom cameras are the newest type of camera on the market that can capture slo
 
 One of the most popular ways to use a phantom slow-motion camera is to capture beautiful slow-motion footage of nature. This can be done by setting up the camera in a location where there is a lot of natural movement. The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to create a time-lapse video on a phantom slow-motion camera
 
 A phantom slow-motion camera is a special type of camera that can be used to create time-lapse videos. Time-lapse videos are created by taking a series of photos or videos over a while and then playing them back at a faster speed. This gives the appearance of time moving faster or slower than it is. To create a time-lapse video using a phantom slow-motion camera, you will need the following:
@@ -106,16 +99,10 @@ You can easily install Filmora for free, after installing click on it three opti
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Step2 Add some media to edit
@@ -143,29 +130,10 @@ When you want to save your video or share it on social media just click on the e
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -196,13 +164,6 @@ The camera will then capture the movement in slow motion, allowing you to see th
 
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Why do we need a phantom slow-motion camera?
 
 There are many reasons why someone might want or need to use a phantom slow-motion camera. For example, law enforcement officials can use them to capture footage of high-speed car chases or accidents. Scientists can use them to study fast-moving objects or phenomena. And sports enthusiasts can use them to study the movements of athletes and improve their performance.
@@ -225,10 +186,10 @@ Once you have all of the necessary equipment, you will need to set up your camer
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to edit time-lapse video on a computer
@@ -261,17 +222,38 @@ You can easily install Filmora for free, after installing click on it three opti
 
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step2 Add some media to edit
 
 After creating a new project, there is an option to add media you can your the video which you want to edit.
 
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Drop the media to timeline
 
 Drag and drop your videos on the timeline to start the editing. Once you placed your videos on timelines put the video header at the front.
 
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4 Add titles, effects, and transitions to your video
 
@@ -286,10 +268,10 @@ When you want to save your video or share it on social media just click on the e
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -326,24 +308,22 @@ As filmmakers and video lovers, we have come up with some solid examples of time
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-optimizing-youtube-view-duration-three-steps-52-chars/"><u>[New] 2024 Approved Optimizing YouTube View Duration - Three Steps (52 Chars)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-a-beginners-guide-to-use-snapseed-photo-editing-features/"><u>[New] A Beginner's Guide to Use Snapseed Photo Editing Features</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-insights-on-the-recent-upgrades-of-sonys-s6500-player/"><u>[New] Insights on the Recent Upgrades of Sony’s S6500 Player</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigate-with-precision-the-complete-guide-to-idevice-podcast-downloads/"><u>[New] Navigate with Precision The Complete Guide to iDevice Podcast Downloads</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prime-tools-and-techniques-image-to-video-conversion/"><u>[New] Prime Tools and Techniques Image-to-Video Conversion</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-right-approach-to-uploading-photos-from-your-device-to-snapchat-for-2024/"><u>[New] The Right Approach to Uploading Photos From Your Device to Snapchat for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-ace-circular-designs-and-spherical-structures-in-mc/"><u>[Updated] Ace Circular Designs & Spherical Structures in MC</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-ideal-7-cameras-to-improve-your-youtube-vlogging-experience/"><u>[Updated] Ideal 7 Cameras To Improve Your YouTube Vlogging Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-precision-cutting-on-iphone-best-practices-and-apps/"><u>[Updated] Precision Cutting on iPhone Best Practices and Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-playstation-vrs-coming-stars-predicted-top-5-titles-to-track/"><u>2024 Approved PlayStation VR's Coming Stars Predicted Top 5 Titles to Track</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/achieving-the-pinnacle-of-color-accuracy-in-11-crucial-edits-for-2024/"><u>Achieving the Pinnacle of Color Accuracy in 11 Crucial Edits for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006527002-dragon-quest-xi-stability-fix-overcome-crash-errors-with-these-tips/"><u>Dragon Quest XI Stability Fix - Overcome Crash Errors with These Tips</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-13-pro-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 13 Pro with iTunes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-laughter-on-your-phone-humorous-ringtone-sites/"><u>In 2024, Laughter on Your Phone Humorous Ringtone Sites</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-angular-video-arrangement-on-android-devices/"><u>In 2024, Mastering Angular Video Arrangement on Android Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-lg-4k-display-a-comprehensive-overview/"><u>In 2024, Ultimate LG 4K Display A Comprehensive Overview</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-tiktok-video-enhancement-with-zoom-for-2024/"><u>Mastering TikTok Video Enhancement with Zoom for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/noir-nights-transitioning-with-pro-for-2024/"><u>Noir Nights - Transitioning with Pro for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-repairing-sos-notifications-stuck-in-your-iphone-status-bar/"><u>Step-by-Step Guide to Repairing SOS Notifications Stuck in Your iPhone Status Bar</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-vanquish-virtual-spectators-boosting-youtube-traffic/"><u>[New] 2024 Approved Vanquish Virtual Spectators Boosting YouTube Traffic</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-decoding-the-youtube-view-number-for-profitability/"><u>[New] Decoding the YouTube View Number for Profitability</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-learning-the-art-of-soundshaping-in-audacity/"><u>[New] Learning the Art of Soundshaping in Audacity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-srgb-versus-rgb-a-detailed-comparison-for-professionals/"><u>[New] Srgb Versus Rgb A Detailed Comparison for Professionals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-picks-the-finest-cardboard-compatible-virtual-reality-titles/"><u>[Updated] Prime Picks The Finest Cardboard-Compatible Virtual Reality Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-silent-symphony-a-compendium-of-top-speech-to-text-tools/"><u>[Updated] Silent Symphony A Compendium of Top Speech-to-Text Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-5-ways-to-remove-stickers-from-a-tiktok-video/"><u>2024 Approved 5 Ways to Remove Stickers From a TikTok Video</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-way-to-fix-excel-cell-contents-not-visible-issue-by-stellar-guide/"><u>Best Way To Fix Excel Cell Contents Not Visible Issue</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/comme-sassurer-la-securite-de-vos-fichiers-avant-le-remaniement-sur-les-systemes-dexploitation-windows-7-a-11/"><u>Comme S'Assurer La Sécurité De Vos Fichiers Avant Le Remaniement Sur Les Systèmes D'Exploitation Windows 7 À 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/grappling-giants-twitch-triumph-or-hitbox-heroics/"><u>Grappling Giants Twitch Triumph or Hitbox Heroics?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-honor-90-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Honor 90</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-asus-rog-phone-7-ultimate-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Asus ROG Phone 7 Ultimate to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-make-every-minute-count-with-these-15-engaging-activities-while-listening-to-podcasts/"><u>In 2024, Make Every Minute Count with These 15 Engaging Activities While Listening to Podcasts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>In 2024, Master the Mix Incorporating & Refining Music Into Canva Projects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-optimizing-podcasts-on-googles-platform/"><u>In 2024, Optimizing Podcasts on Google's Platform</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quantifying-videography-storage-needs-128gb-for-2024/"><u>Quantifying Videography Storage Needs, 128GB for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-guide-building-high-quality-windows-11-videos-for-2024/"><u>Step-by-Step Guide Building High-Quality Windows 11 Videos for 2024</u></a></li>
 </ul></div>
 
