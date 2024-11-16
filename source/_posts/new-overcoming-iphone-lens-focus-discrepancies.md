@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming iPhone Lens Focus Discrepancies"
-date: 2024-11-01T16:24:31.142Z
-updated: 2024-11-06T02:02:09.739Z
+date: 2024-11-09T05:42:19.249Z
+updated: 2024-11-16T15:36:32.754Z
 tags: 
   - screen-recording
   - ai video
@@ -40,31 +40,18 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 
 ![auto focus](https://images.wondershare.com/filmora/auto-focus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part2: Lock AE/AF
 
  As in the above tip, we explained to tap on the srceen where you wish to set the focus. However, sometimes, single tapping on the srceen isn’t sufficient. This is because if any kind of movement happens in the scene or if you move, the camera will start re-adjusting its focus which obviously you don’t want. If you seriously want to take a better picture, make sure to lock the focus on the subject in the scene. This can be done by enabling AE/AF feature and doing this will keep the focus on the subject even if anything moves in the scene. To do this, just tap and hold on the subject for a few seconds until you get to see a yellow box at the top of the srceen saying “AE/AF LOCK”. Once you notice, you can release your fingers and start having fun with picture capturing moment.
 
 ![auto focus](https://images.wondershare.com/filmora/ae-lock.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part3: Stand too close is not good
 
@@ -73,10 +60,16 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 ![stand too close](https://images.wondershare.com/filmora/close.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part4: Upgrade iOS
@@ -86,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 ![upgrade ios](https://images.wondershare.com/filmora/upgrade-ios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part5: Turn off your iPhone
@@ -97,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
  If still the problem persists after using all the fixes, you can try turning off your device as a last resort. This will probably solve your problem and has worked in many cases. If in case it doesn’t work either, the last suggestion we could give you is, stepping towards the nearest Apple support center and consulting there. As they say that the work suits in the hands of the one who is skilled to do it. So, an expert at the iPhone customer service will surely understand the problem and will fix your issue.
 
 ![turn off iphone](https://images.wondershare.com/filmora/turn-off-iphone-ios.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final Verdict
 
@@ -121,20 +121,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-installation-guide-for-movie-maker-6-version-6/"><u>[New] Installation Guide for Movie Maker 6 Version 6</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-sound-innovation-at-hand-dive-into-free-easy-voice-overhaul-tools/"><u>[New] Sound Innovation at Hand Dive Into Free, Easy Voice Overhaul Tools</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-digital-expansion-social-story-downloader-for-2024/"><u>[Updated] Digital Expansion Social Story Downloader for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhance-your-presence-how-to-change-voice-effectively-on-ig/"><u>[Updated] In 2024, Enhance Your Presence How to Change Voice Effectively on IG</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-investing-in-the-future-top-7-metaverse-devices-you-cant-miss/"><u>[Updated] Investing in the Future Top 7 Metaverse Devices You Can't Miss</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-masters-of-illusion-top-vr-producers/"><u>[Updated] Masters of Illusion Top VR Producers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quick-clicks-big-grins-the-kinemaster-way/"><u>[Updated] Quick Clicks, Big Grins The KineMaster Way</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-learn-money-tricks-top-13-beginner-friendly-income-strategies-on-reddit/"><u>2024 Approved Learn Money Tricks Top 13 Beginner-Friendly Income Strategies on Reddit</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-periscope-a-comprehensive-tutorial/"><u>2024 Approved Mastering Periscope A Comprehensive Tutorial</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/a-closer-look-at-sharex-judgments-and-alternates-for-2024/"><u>A Closer Look at ShareX Judgments & Alternates for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-14-pro-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 14 Pro without Apple Account</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016667006-microphone-diagnosis-a-fast-track-to-perfect-sound-quality/"><u>Microphone Diagnosis: A Fast Track to Perfect Sound Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/os-11-metodos-mais-eficazes-para-transformar-seus-filmes-swf-em-mp4-de-graca-um-guia-detalhado/"><u>Os 11 Métodos Mais Eficazes Para Transformar Seus Filmes SWF Em MP4 De Graça: Um Guia Detalhado</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-discover-the-best-sites-for-online-music-video-playbacks/"><u>The Ultimate Selection: Discover the Best Sites for Online Music Video Playbacks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-10-drone-set-professional-filming-and-photography/"><u>[New] Excellent 10-Drone Set Professional Filming & Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-laughing-alongside-the-metaverse-diy-humor-tips-and-tricks/"><u>[New] Laughing Alongside the Metaverse DIY Humor Tips & Tricks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/loggers-ultimate-gear-list-17-100-for-2024/"><u>[New] Vloggers' Ultimate Gear List #17-100 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-detailed-theta-s-analysis-a-comprehensive-look/"><u>[Updated] Detailed Theta S Analysis A Comprehensive Look</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-maximizing-conversions-with-targeted-snapad-strategies-for-2024/"><u>[Updated] Maximizing Conversions with Targeted SnapAd Strategies for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-proiphone-close-up-techniques-unlocking-creative-vision/"><u>2024 Approved Proiphone Close-Up Techniques Unlocking Creative Vision</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/tgabmp-movavi/"><u>快適なウェブ上でTGA形式からBMPへ自由に変換 - Movaviプログラム</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-start-editing-with-ease-implementing-movie-maker-in-windows-11/"><u>In 2024, Start Editing with Ease Implementing Movie Maker in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/key-software-to-craft-impeccable-voices-for-virtual-stars-for-2024/"><u>Key Software to Craft Impeccable Voices for Virtual Stars for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/state-guidance-on-ai-innovation-through-four-mechanisms/"><u>State Guidance on AI Innovation Through Four Mechanisms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-premium-2024-gas-grills-ranked-by-consumer-experts-zdnet-insights/"><u>Ultimate Selection of Premium 2024 Gas Grills Ranked by Consumer Experts - ZDNet Insights</u></a></li>
 </ul></div>
 

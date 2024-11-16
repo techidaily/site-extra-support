@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Overcoming the Loading Stick in Among Us Gameplay"
-date: 2024-10-31T02:33:33.655Z
-updated: 2024-11-06T01:35:33.832Z
+date: 2024-11-09T08:34:58.296Z
+updated: 2024-11-16T10:22:01.767Z
 tags:
   - win11
   - win10
@@ -69,14 +69,21 @@ There are mainly two ways to update your device drivers:
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -94,6 +101,13 @@ There are mainly two ways to update your device drivers:
 
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: End the runtime broker
 
  This is a temporary fix for many players, and you can try this to see if it works for you, too. Here’s how:
@@ -108,17 +122,17 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Restart your PC to see if Minecraft can load normally.
 
@@ -135,20 +149,13 @@ If this method doesn’t work for you, then try the next fix, below.
 4. Click**Apply** \>**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean reinstall
 
@@ -157,13 +164,6 @@ If this method doesn’t work for you, then try the next fix, below.
 1. On your keyboard, press the Windows key and R at the same time to open the Run box. Type**appwiz.cpl** and press**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 2. Right-click Minecraft, and select**Uninstall** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
@@ -195,18 +195,24 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-loves-anthem-top-10-songs-that-define-proposal-moments/"><u>[New] Love's Anthem Top 10 Songs That Define Proposal Moments</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-melodic-integration-for-engaging-insta-posts/"><u>[New] Melodic Integration for Engaging Insta Posts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-instagram-image-uploads/"><u>[New] Step-by-Step Guide to Instagram Image Uploads</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/clear-speech-path-hone-your-pronunciation-with-twisters/"><u>Clear Speech Path: Hone Your Pronunciation with Twisters</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-tecno-pova-5-pro-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Tecno Pova 5 Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-troubleshooting-resolve-league-of-legends-crashes-swiftly/"><u>Effortless Troubleshooting: Resolve League of Legends Crashes Swiftly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-simplifying-connection-combining-linkedin-profile-with-your-tiktok-bio/"><u>In 2024, Simplifying Connection Combining LinkedIn Profile with Your TikTok Bio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-spotify-turning-off-automatic-podcast-recommendations/"><u>In 2024, Spotify Turning Off Automatic Podcast Recommendations</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-undead-uncovered-ranking-the-best-zombie-game-clusters/"><u>In 2024, Undead Uncovered Ranking the Best Zombie Game Clusters</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-document-printing-speed-in-windows-10/"><u>Optimize Document Printing Speed in Windows 10</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/projector-or-tv-optimizing-your-4k-entertainment-with-a-detailed-look-at-both-options-for-gamers-and-movie-buffs/"><u>Projector or TV? Optimizing Your 4K Entertainment with a Detailed Look at Both Options for Gamers and Movie Buffs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sculpting-shareable-online-laughter-for-2024/"><u>Sculpting Shareable Online Laughter for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-youtubers-playbook-advanced-techniques-for-engaging-editing/"><u>[New] 2024 Approved Youtuber's Playbook Advanced Techniques for Engaging Editing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-becoming-a-skin-deep-sage-setting-up-your-beauty-channel/"><u>[New] In 2024, Becoming a Skin-Deep Sage Setting Up Your Beauty Channel</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-laughs-at-your-service-web/"><u>[New] Laughs at Your Service (Web)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-shooting-stunning-timelapse-videos-on-black-hero5/"><u>[New] Step by Step Shooting Stunning Timelapse Videos on Black Hero5</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capture-and-save-memories-webcam-recordings-in-vlc-format-for-2024/"><u>[Updated] Capture & Save Memories Webcam Recordings in VLC Format for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-must-have-add-ons-for-your-gopro-adventure/"><u>[Updated] Must-Have Add-Ons for Your GoPro Adventure</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-optimizing-discord-stream-quality-with-these-key-steps-for-2024/"><u>[Updated] Optimizing Discord Stream Quality with These Key Steps for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-reality-redefined-examining-vr-today-and-upcoming-challenges/"><u>[Updated] Reality Redefined Examining VR Today & Upcoming Challenges</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smart-image-sharing-on-instagram/"><u>[Updated] Smart Image Sharing on Instagram</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-steps-to-resolve-avatar-frontiers-of-pandora-unresponsive-launch-screen/"><u>Effective Steps to Resolve 'Avatar: Frontiers of Pandora' Unresponsive Launch Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hilarityhub-online-tool-for-funny-image-crafting/"><u>In 2024, HilarityHub Online Tool for Funny Image Crafting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-personalized-and-accessible-video-conclusions-downloads/"><u>In 2024, Personalized & Accessible Video Conclusions Downloads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photo-story-platinum-best-photo-movie-story-maker-wondershare/"><u>In 2024, Photo Story Platinum - Best Photo Movie Story Maker | Wondershare</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-meetings-sharpen-your-screens-in-msteam/"><u>In 2024, Precision Meetings Sharpen Your Screens in MSTEAM</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-cyberpunk-2eruption-how-a-promising-vision-became-an-unfinished-work/"><u>Inside Cyberpunk 2Eruption: How a Promising Vision Became an Unfinished Work</u></a></li>
+<li><a href="https://win11.techidaily.com/inside-the-machine-crafting-and-analyzing-system-insights/"><u>Inside the Machine: Crafting and Analyzing System Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-marketing-magic-20-keywords-for-profound-impact-for-2024/"><u>Mastering Marketing Magic 20 Keywords for Profound Impact for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-online-collections-for-3d-typography-for-2024/"><u>Prime Online Collections for 3D Typography for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-complete-insight-into-what-you-must-know-about-openai/"><u>The Complete Insight Into What You Must Know About OpenAI</u></a></li>
 </ul></div>
 

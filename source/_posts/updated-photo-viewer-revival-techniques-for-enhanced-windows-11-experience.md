@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photo Viewer Revival Techniques for Enhanced Windows 11 Experience"
-date: 2024-11-01T19:20:53.301Z
-updated: 2024-11-05T23:45:25.052Z
+date: 2024-11-11T00:48:07.426Z
+updated: 2024-11-15T16:51:17.853Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,10 @@ Here is why they want to restore Windows Photo Viewer –
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -72,16 +72,16 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -97,16 +97,16 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -114,14 +114,14 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
 
@@ -138,14 +138,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-laugh-tracks-for-iphone-devices/"><u>[New] Laugh Tracks for iPhone Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-decoding-the-marketplace-where-to-invest-in-monetized-channels/"><u>[Updated] 2024 Approved Decoding the Marketplace Where to Invest in Monetized Channels</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ps1-reimagined-the-best-emulators-for-game-revival-on-pc/"><u>[Updated] 2024 Approved PS1 Reimagined The Best Emulators for Game Revival on PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instantly-enhance-your-facebook-experience-with-collage/"><u>[Updated] Instantly Enhance Your Facebook Experience with Collage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photobooth-recording-stalls-whats-goin-on-for-2024/"><u>Photobooth Recording Stalls What's Goin' On for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/reimagined-computing-with-windows-10s-upgrades-for-2024/"><u>Reimagined Computing with Windows 10’S Upgrades for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-hdr-sky-experience-online-resource-listing/"><u>The HDR Sky Experience Online Resource Listing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-reno-11-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo Reno 11 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capture-discord-talks-best-ways-to-record-live-streaming-sessions/"><u>[New] Capture Discord Talks Best Ways to Record Live Streaming Sessions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-enhance-your-media-experience-mastering-hdr-videos-with-windows/"><u>[New] Enhance Your Media Experience Mastering HDR Videos with Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pureaiediting-refined-photo-craftsmanship/"><u>[New] PureAiEditing Refined Photo Craftsmanship</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snap-scissor-and-save-how-the-iphone-revolutionizes-image-cropping/"><u>[New] Snap, Scissor & Save How the iPhone Revolutionizes Image Cropping</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-launching-a-brand-on-reddit-7-must-try-promotional-methods/"><u>[Updated] Launching a Brand on Reddit 7 Must-Try Promotional Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dji-mavic-air-vs-dji-spark-the-ultimate-battle-for-gamers/"><u>DJI Mavic Air Vs. DJI Spark The Ultimate Battle for Gamers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/elite-psd-bevel-and-emboss-styles/"><u>Elite PSD Bevel & Emboss Styles</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p40plus-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P40+ to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sierras-cloud-essentials-drives-full-access-guide/"><u>In 2024, Sierra's Cloud Essentials Drives Full Access Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keep-your-mobile-number-off-public-repositories-a-step-by-step-guide-for-android-users/"><u>Keep Your Mobile Number Off Public Repositories: A Step-by-Step Guide for Android Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-8-ambiance-sounds-to-enhance-youtube-beginnings-for-2024/"><u>New Top 8 Ambiance Sounds to Enhance YouTube Beginnings for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamlined-processes-adapting-dall-e-3-webp-visuals-into-jpeg-and-png-pictures/"><u>Streamlined Processes: Adapting DALL-E 3 WebP Visuals Into JPEG and PNG Pictures</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-guide-to-ions-pro-3-action-camera-capabilities-for-2024/"><u>The Ultimate Guide to ION's Pro 3 Action Camera Capabilities for 2024</u></a></li>
 </ul></div>
 

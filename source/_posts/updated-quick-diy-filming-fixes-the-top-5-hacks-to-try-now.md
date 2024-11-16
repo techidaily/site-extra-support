@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick DIY Filming Fixes  The Top 5 Hacks to Try Now\""
-date: 2024-11-05T02:08:26.807Z
-updated: 2024-11-06T02:29:21.939Z
+date: 2024-11-11T19:09:37.381Z
+updated: 2024-11-16T09:29:38.018Z
 tags: 
   - screen-recording
   - ai video
@@ -26,13 +26,6 @@ When we set up the light near the subject, the light might be leaked onto the ba
 
 On film sets and studios, the professionals use flags to absorb and make shapes of light. A flag is a thick black fabric that does not reflect light. To make your flag at home, you can try cardboard and a black t-shirt.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. A Cardboard
 
 You can buy it from a nearby stationery store. Ensure the cardboard is not too big to fit the t-shirt around the board.
@@ -40,10 +33,10 @@ You can buy it from a nearby stationery store. Ensure the cardboard is not too b
 ![cardboard used for diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. A Black T-shirt
@@ -56,6 +49,13 @@ After managing all the required things, you must wrap and secure the t-shirt aro
 
 ![process for making diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 With this DIY flag, you can now easily give shape and block the light while filming at home. **Warnings:** Some fabrics are not fireproof, so always keep an eye on the flag.
 
 ### Final Results for the Flag Light Shaping
@@ -65,10 +65,10 @@ After filming the video, see the precise results before using the flag, when the
 ![results after using diy flag for lighting control](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. Hack. DIY Black Wrap or Cinewrap
@@ -84,10 +84,10 @@ You can take any LED bulb present at our home. Ensure that the bulb size is mana
 ![lightbulb used for cinewrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Foil Paper
@@ -112,13 +112,26 @@ Step4 Ensure the lamp switch is off, and install the light bulb.
 
 ![process of creating a black wrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When you turn on the lamp, the light has been shaped into a smaller light source.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Final Results for the Black Wrap or Cinewrap
@@ -128,13 +141,6 @@ You can observe that the light is only at the required place, with no dispersion
 ![results after using cinewrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-8.png)
 
 After experimenting with light shaping and blocking hacks, we will move toward the light reflector hack!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Hack. DIY Light Reflector
 
@@ -153,17 +159,20 @@ When applied to flat surfaces, the foil has a reflective surface. It makes it th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-employing-google-trends-to-discover-compelling-video-themes/"><u>[New] Employing Google Trends to Discover Compelling Video Themes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-of-background-tracks-selection/"><u>[Updated] Best of Background Tracks Selection</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfecting-onscreen-image-clarity-and-detail/"><u>[Updated] Perfecting Onscreen Image Clarity and Detail</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-file-imports-into-windows-11-with-ease/"><u>2024 Approved Mastering File Imports Into Windows 11 with Ease</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-next-gen-storytelling-10-sci-fi-films-transporting-you-elsewhere/"><u>In 2024, Next Gen Storytelling 10 Sci-Fi Films Transporting You Elsewhere</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-marvels-spider-man-miles-morales-intimate-storytelling-with-great-outcomes/"><u>In-Depth Analysis of Marvel's Spider-Man: Miles Morales - Intimate Storytelling with Great Outcomes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/purchase-movavi-professional-video-editor-today-optimized-for-business-efficiency/"><u>Purchase Movavi Professional Video Editor Today – Optimized For Business Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/resetting-failed-screensaver-on-windows-4-strategies/"><u>Resetting Failed Screensaver On Windows: 4 Strategies</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-remedies-for-when-tekken-8-wont-open-on-personal-computers/"><u>Step-by-Step Remedies for When Tekken 8 Won't Open on Personal Computers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/tips-to-design-an-eye-catching-logo-for-podcasts-for-2024/"><u>Tips to Design an Eye-Catching Logo for Podcasts for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-non-responsive-sound-issues-in-windows-10/"><u>Ultimate Guide: Fixing Non-Responsive Sound Issues in Windows 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-swift-email-management-with-these/"><u>Unlock Swift Email Management with These</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-safeguard-creativity-validating-content-for-tiktok-posting/"><u>[New] 2024 Approved Safeguard Creativity Validating Content for TikTok Posting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pivotal-processes-for-privacy-preserving-photography/"><u>[New] Pivotal Processes for Privacy-Preserving Photography</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-exclusive-cinematic-introductions/"><u>[Updated] In 2024, Exclusive Cinematic Introductions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-how-to-make-money-on-tiktok-in-8-ways-cannot-miss/"><u>[Updated] In 2024, How to Make Money on TikTok in 8 Ways [Cannot Miss]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-iphone-photography-focus-on-shadows/"><u>[Updated] Mastering iPhone Photography Focus on Shadows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-detailed-close-ups-made-easy-in-videoleap-editing/"><u>2024 Approved Detailed Close-Ups Made Easy in Videoleap Editing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mobile-studio-kits-convenient-for-filmmakers/"><u>2024 Approved Mobile Studio Kits Convenient for Filmmakers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-social-metaverse-titles-top-10-multiplayer-classics/"><u>2024 Approved Social Metaverse Titles Top 10 Multiplayer Classics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-that-the-words-algorithm-chest-x-rays-and-oxford-university-are-included-in-separate-lines-within-the-poem-maintaining-their-original-context-but-rei238/"><u>Ensure that the Words Algorithm, Chest X-Rays, and Oxford University Are Included in Separate Lines Within the Poem, Maintaining Their Original Context but Reinterpreted Astrologically.</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-faces-pressure-to-part-with-giphy-possibly/"><u>Facebook Faces Pressure to Part With Giphy Possibly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967931642-instant-access-to-latest-intel-nvme-driver-updates-get-them-here/"><u>Instant Access to Latest Intel NVMe Driver Updates - Get Them Here</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mended-printer-network-issue/"><u>Mended Printer Network Issue</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reliable-storage-solutions-our-1-to-10-gopro-cases-for-2024/"><u>Reliable Storage Solutions Our #1 to #10 GoPro Cases for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/silent-shifts-mastering-crossfades-efficiently-for-2024/"><u>Silent Shifts Mastering Crossfades Efficiently for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/simple-steps-to-automate-your-windows-server-cloud-backups/"><u>Simple Steps to Automate Your Windows Server Cloud Backups</u></a></li>
 </ul></div>
 

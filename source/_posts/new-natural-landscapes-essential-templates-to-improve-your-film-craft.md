@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Natural Landscapes  Essential Templates to Improve Your Film Craft\""
-date: 2024-10-31T20:17:53.830Z
-updated: 2024-11-05T16:30:17.979Z
+date: 2024-11-11T09:09:36.634Z
+updated: 2024-11-16T14:58:07.847Z
 tags: 
   - screen-recording
   - ai video
@@ -56,6 +56,13 @@ Import the two videos on Filmora: background and green screen; the background vi
 
 * You will see two tracks on the Filmora edit page: drag and paste the background video into the first track, and drag the green screen into the second track. Proceed to the Chroma key: right click on the “green screen” option on the menu and select “green screen.” You can also activate the edit panel by double clicking on the “green screen video” you imported.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.3 Set the green screen edit panel
 
 The edit panel option opens upon activating the panel; the edit panel option includes color, offset, edge thickness, alpha tolerance, edge feather, and tolerance. Each feature contributes directly to your final result. Offset, tolerance, and alpha channel affect the video clarity; edge thickness and edge feather affect the edge appearance: shadow, transparency, and edges.
@@ -63,22 +70,15 @@ The edit panel option opens upon activating the panel; the edit panel option inc
 ![set the green screen edit panel](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.4 Background positioning
 
 You have to position the background video on the green screen: the green screen will disappear, and the ground video will replace the green overlay. All the applications you added in 2.3 will appear. That is, transparency, movements, and video manipulation will be saved. Lastly, you should save your work.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Best green screen templates
 
@@ -92,25 +92,11 @@ Filmstock, via the editor, gives you access to advanced settings and manipulatio
 
 ![filmsstock home page](https://images.wondershare.com/filmora/article-images/2022/07/filmstock-green.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. [**Videezy**](https://www.videezy.com/free-video/green-screen)
 
 Although Filmstock has an editor, Videezy only supplies green screen templates for free download. Videezy support clean videography via the contents available on the official web page. You do not need any logins to download green screen templates from the site, nor does it work with limited download. Videezy gives premium treatment to Pro Users, although all basic features are equally given to all users. You may download by categories: stock effects, after effects, resolution, size, and format. The more you narrow your search filter on the website, the more you are exposed to excellent stock pictures.
 
 ![videezy green screen](https://images.wondershare.com/filmora/article-images/2022/07/videezy-green.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. [**Kapwing**](https://www.kapwing.com/templates/green-screen)
 
@@ -124,11 +110,25 @@ Pikbest provides templates both in videos and images. For effective video overla
 
 ![pikbest green screen](https://images.wondershare.com/filmora/article-images/2022/07/pikbest.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. [**Mixkit**](https://mixkit.co/free-stock-video/green-screen/)
 
 Mixkit has one of the best green screen descriptions, allowing you to locate the right video easily. It supports unlimited download, free access to all files, and a final cut pro option: this allows you to download files for a specific purpose. For example, if you need content for Instagram, the final cut pro allows you to download green screen templates for Instagram screen resolution. Other features include sound effects, premier pro, after effects, and licensing.
 
 ![mixkit green screen](https://images.wondershare.com/filmora/article-images/2022/07/mixkit.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -144,7 +144,21 @@ Using a green screen template for your project outweighs other processes. Howeve
 
 ![create a new program on filmora](https://images.wondershare.com/filmora/guide/place-green-screen-background-videos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * You will see two tracks on the Filmora edit page: drag and paste the background video into the first track, and drag the green screen into the second track. Proceed to the Chroma key: right click on the “green screen” option on the menu and select “green screen.” You can also activate the edit panel by double clicking on the “green screen video” you imported.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.3 Set the green screen edit panel
 
@@ -153,10 +167,10 @@ The edit panel option opens upon activating the panel; the edit panel option inc
 ![set the green screen edit panel](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.4 Background positioning
@@ -187,13 +201,6 @@ Kapwing is similar to Filmstock because it permits customization and free green 
 
 ![kapwing green screen](https://images.wondershare.com/filmora/article-images/2022/07/kapwing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. [**Pikbest**](https://pikbest.com/)
 
 Pikbest provides templates both in videos and images. For effective video overlay, you need a video for this process; however, if you need a green screen template in picture format, the program provides it. Pikbest provides services for individuals, premium users, and enterprises. You can subscribe to the option that best fits your need. For example, the enterprise is a Pro user who uses green screen templates in bulk or for commercial purposes. If you do not always use the platform, you may use the free version or subscribe to the premium package.
@@ -207,23 +214,10 @@ Mixkit has one of the best green screen descriptions, allowing you to locate the
 ![mixkit green screen](https://images.wondershare.com/filmora/article-images/2022/07/mixkit.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -258,21 +252,24 @@ Using a green screen template for your project outweighs other processes. Howeve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-techniques-for-ppts-and-webcams-2023-edition-for-2024/"><u>[New] Innovative Techniques for PPTs and Webcams, 2023 Edition for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-playful-media-extractor-evaluation/"><u>[New] Playful Media Extractor Evaluation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premier-digital-hubs-seamless-ringtones-acquisition/"><u>[New] Premier Digital Hubs Seamless Ringtones Acquisition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-zapping-to-the-top-with-fast-instagram-video-playback/"><u>[Updated] In 2024, Zapping to the Top with Fast Instagram Video Playback</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-microsofts-vision-of-tomorrow-with-hololens-exploration/"><u>[Updated] Microsoft’s Vision of Tomorrow With HoloLens Exploration</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-radiance-reimagined-top-video-tools-list/"><u>[Updated] Radiance Reimagined Top Video Tools List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-picture-creation-discover-these-top-5-android-editors/"><u>2024 Approved Perfect Picture Creation Discover These Top 5 Android Editors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-creation-a-closer-look-at-magix-video-pro-x/"><u>2024 Approved Seamless Creation A Closer Look at Magix Video Pro X</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-6-plus-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 6 Plus without App | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/crack-the-code-to-a-smooth-windows-11-setup-fixing-error-80240020-easily-solved/"><u>Crack the Code to a Smooth Windows 11 Setup: Fixing Error 80240020 Easily [Solved]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-eyemosaic-the-essential-photo-patcher/"><u>In 2024, EyeMosaic The Essential Photo Patcher</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-real-time-vr-hardware-analysis/"><u>In 2024, Real-Time VR Hardware Analysis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/into-another-realm-the-vr-timeline-for-2024/"><u>Into Another Realm The VR Timeline for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-webm-to-mp3-converters-expert-recommendations/"><u>New In 2024, Best WebM to MP3 Converters Expert Recommendations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-evaluation-of-samsungs-image-editing-software/"><u>The Ultimate Evaluation of Samsung's Image Editing Software</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discovering-fun-ways-to-spruce-up-your-discord-status/"><u>[New] Discovering Fun Ways to Spruce Up Your Discord Status</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-teamsnap-essential-photography-tips/"><u>[New] In 2024, Mastering TeamSnap Essential Photography Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-no-prior-skills-no-problem-top-13-cash-making-techniques-on-reddit/"><u>[New] No Prior Skills? No Problem Top 13 Cash-Making Techniques on Reddit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimal-5-displays-for-immersive-ps5-gaming/"><u>[New] Optimal 5 Displays for Immersive PS5 Gaming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-diy-tripods-how-to-stabilize-your-camera-without-buying-a-tripod/"><u>[Updated] 2024 Approved DIY Tripods| How to Stabilize Your Camera without Buying a Tripod</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earnings-expansion-on-glamour-channels/"><u>[Updated] 2024 Approved Earnings Expansion on Glamour Channels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715859609065-updated-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>[Updated] Expert Picks Top 12 Screen Recording Software, No Time Limit!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laughlens-quickly-create-social-memes-and-gifs/"><u>[Updated] LaughLens Quickly Create Social Memes & Gifs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-secrets-for-transcribing-twitter-videos-into-mp3-format/"><u>[Updated] Secrets for Transcribing Twitter Videos Into MP3 Format</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-proven-pathways-for-sound-alteration-in-pubg-gamers/"><u>2024 Approved Proven Pathways for Sound Alteration in PUBG Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-and-fixing-missing-game-issues-in-egc/"><u>Identifying and Fixing Missing Game Issues in EGC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-melodic-matchmaking-music-that-resonates-with-scenes/"><u>In 2024, Melodic Matchmaking Music That Resonates with Scenes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-gopro-filming-tips-for-flawless-results/"><u>In 2024, Pro Gopro Filming Tips for Flawless Results</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reel-revolution-top-tech-for-brightening-videos/"><u>In 2024, Reel Revolution Top Tech for Brightening Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sparkle-on-screen-ideal-tools-for-online-videos/"><u>In 2024, Sparkle on Screen Ideal Tools for Online Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mirth-mechanics-gratis-tools-to-amuse-and-entertain-for-2024/"><u>Mirth Mechanics Gratis Tools to Amuse and Entertain for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigate-with-confidence-expert-analysis-of-the-anker-super-bright-your-trusty-nighttime-outdoors-ally/"><u>Navigate with Confidence: Expert Analysis of the Anker Super Bright, Your Trusty Nighttime Outdoors Ally</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-googles-ar-sticker-innovation-for-2024/"><u>Understanding Google's AR Sticker Innovation for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleash-your-youtube-earnings-achieving-prosperity-at-the-50-written-excerpt-for-2024/"><u>Unleash Your YouTube Earnings Achieving Prosperity at the 50 Written Excerpt for 2024</u></a></li>
 </ul></div>
 
