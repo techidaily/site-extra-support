@@ -1,7 +1,7 @@
 ---
 title: "\"Precision in Pro Videos  Essential Lighting Insights for 2024\""
-date: 2024-11-13T01:35:55.234Z
-updated: 2024-11-16T09:22:53.469Z
+date: 2024-11-19T17:17:41.416Z
+updated: 2024-11-25T23:26:26.619Z
 tags: 
   - screen-recording
   - ai video
@@ -54,11 +54,19 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
@@ -82,6 +90,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
@@ -93,16 +105,11 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summary
@@ -139,21 +146,22 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-decoding-the-mystery-of-post-color-correction/"><u>[New] In 2024, Decoding the Mystery of Post-Color Correction</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-engagement-todays-must-use-instagram-hashtags-for-2024/"><u>[Updated] Elevate Engagement Today's Must-Use Instagram Hashtags for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-cloud-services-for-android/"><u>[Updated] Leading Cloud Services for Android</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-mobile-shots-ios-11s-camera-innovations/"><u>[Updated] Mastering Mobile Shots IOS 11'S Camera Innovations</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-simplified-methods-to-record-gotomeeting-chats-for-2024/"><u>[Updated] Simplified Methods to Record GoToMeeting Chats for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-snappy-segments-10-snippets-to-enhance-your-edits/"><u>[Updated] Snappy Segments 10 Snippets to Enhance Your Edits</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1-simple-steps-setting-up-automatic-backups-with-your-wd-mycloud-at-home/"><u>1. Simple Steps: Setting Up Automatic Backups with Your WD MyCloud at Home</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-instagram-and-soundtracks-demystifying-legalities/"><u>2024 Approved Instagram & Soundtracks Demystifying Legalities</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-melodic-mastery-add-songs-to-video-seamlessly-on-windows-11-pcs/"><u>2024 Approved Melodic Mastery Add Songs to Video Seamlessly on Windows 11 PCs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sonic-visuals-on-the-move-a-deep-dive-into-sonys-xperia-xz/"><u>2024 Approved Sonic Visuals on the Move - A Deep Dive Into Sony's Xperia XZ</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-13-pro-max-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-repair-methods-for-handling-the-0x887a0006-error-flawlessly/"><u>Easy Repair Methods for Handling the 0X887A0006 Error Flawlessly</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/losungsanleitung-itunes-erkennt-nicht-ihr-iphone-modell-xr-xs-oder-xs-max-problembehebungstechniken/"><u>Lösungsanleitung: ITunes Erkennt Nicht Ihr iPhone Modell XR, XS Oder XS Max – Problembehebungstechniken</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/movavi-transforming-video-editing-in-the-year-2024/"><u>Movavi Transforming Video Editing in the Year 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/quick-guide-to-overcoming-instagram-video-hiccups-for-2024/"><u>Quick Guide to Overcoming Instagram Video Hiccups for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/simplifying-gif-design-for-beginners-for-2024/"><u>Simplifying GIF Design for Beginners for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-content-crafting-top-smartphone-picks-in-ranking/"><u>[New] Content Crafting Top Smartphone Picks in Ranking</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-beginnings-secrets-to-successful-podcast-intros/"><u>[New] Immersive Beginnings Secrets to Successful Podcast Intros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-meme-manifestation-station/"><u>[New] Meme Manifestation Station</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-remedying-low-resolution-problems-in-youtube-media/"><u>[New] Remedying Low-Resolution Problems in YouTube Media</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-srt-to-subtitles-subc-practical-steps-for-conversion/"><u>[New] SRT to Subtitles (SUBC) Practical Steps for Conversion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photo-flexibility-perfecting-image-reshaping/"><u>[Updated] Photo Flexibility Perfecting Image Reshaping</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reducing-auditory-intensity-with-careful-adjustments-in-logic-pro/"><u>[Updated] Reducing Auditory Intensity with Careful Adjustments in Logic Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-mastery-windows-11-media-import-simplified/"><u>[Updated] Step-by-Step Mastery Windows 11 Media Import Simplified</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-art-of-time-extension-creating-stunningly-slow-mo-video-online/"><u>2024 Approved Master the Art of Time Extension Creating Stunningly Slow-Mo Video Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-musical-notes-on-call-creating-and-cutting-tamil-alert-songs/"><u>2024 Approved Musical Notes on Call Creating & Cutting Tamil Alert Songs</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/556s44gp6zat44gr44k744o844or44gu44k544k44o844o744os44oa44kiioodleocqeodicatioobiuwpluociuaomplusobiplusocig/"><u>瞬く間にセールのスター・レペア フォト - お取り掛かり</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-zero-5g-2023-turbo-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Zero 5G 2023 Turbo Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-magic-vs-2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor Magic Vs 2 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-charger-solutions-for-gopro-hero5-genuine-and-imitative-companies/"><u>In 2024, Optimal Charger Solutions for GoPro Hero5 Genuine & Imitative Companies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-motorola-moto-g84-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Motorola Moto G84 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-loss-in-windows-11-effortless-resolution-steps/"><u>Troubleshooting Sound Loss in Windows 11 – Effortless Resolution Steps</u></a></li>
 </ul></div>
 

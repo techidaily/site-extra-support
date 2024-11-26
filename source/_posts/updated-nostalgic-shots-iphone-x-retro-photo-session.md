@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Nostalgic Shots  IPhone X Retro Photo Session\""
-date: 2024-11-12T21:03:53.360Z
-updated: 2024-11-16T07:46:01.924Z
+date: 2024-11-18T16:38:51.170Z
+updated: 2024-11-25T22:34:26.199Z
 tags: 
   - screen-recording
   - ai video
@@ -30,17 +30,14 @@ Until recently, iPhone cameras didn't have lenses that enabled its users to prod
 
 In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips for iPhone portrait photos
 
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
 
@@ -51,6 +48,10 @@ The quality of cameras on iPhones has been improving over the years, and Portrai
 However, the Portrait Mode is only featured on iOS 10.1 or some more recent versions of the iOS, so if you want to use the Portrait Mode you need to upgrade your device's iOS. After you launched the camera app, swipe left and look for the Portrait Mode. Once you find the feature, make sure it is marked yellow, in order to start using its tools. The app will display several different lighting options including the Natural Light preset that is essential for creating photos with Portrait Lightning.
 
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image resource: 9to5mac
 
@@ -68,6 +69,10 @@ Launch the Camera app, and swipe to the Portrait option, and then tap on the Cam
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### For iPhone 8, 7 or older iPhones users
 
 #### [FabFocus](https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8)
@@ -77,13 +82,6 @@ If there is not enough light or if you are too far away from the camera, the app
 **Compatible with:** iOS 8.0 or later
 
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
 
@@ -116,10 +114,7 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
@@ -127,16 +122,7 @@ The plethora of blur options provided by the Defocus camera app is impressive. D
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -154,15 +140,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-soundtrack-your-life-a-complete-guide-to-adding-personalized-ringtones-and-sounds/"><u>2024 Approved Soundtrack Your Life A Complete Guide to Adding Personalized Ringtones & Sounds</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-into-the-world-of-text-animation-14-must-see-examples/"><u>2024 Approved Step Into the World of Text Animation 14 Must-See Examples</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-comfort-meets-utility-in-depth-analysis-of-battery-integrated-oculus-quest-2-straps-and-companion-case/"><u>Elite Comfort Meets Utility: In-Depth Analysis of Battery-Integrated Oculus Quest 2 Straps and Companion Case</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-explore-15-exceptional-vr-cam-solutions-like-gopro/"><u>In 2024, Explore 15 Exceptional VR Cam Solutions Like GoPro</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-eyecapture-screen-logger-x/"><u>In 2024, EyeCapture Screen Logger X</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-silent-spectators-101-the-essentials-for-unnoticed-instagram-livestreams/"><u>In 2024, Silent Spectators 101 The Essentials for Unnoticed Instagram Livestreams</u></a></li>
-<li><a href="https://extra-support.techidaily.com/peak-psd-layer-magic-for-2024/"><u>Peak PSD Layer Magic for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/streamlining-your-youtube-video-logging-process-for-2024/"><u>Streamlining Your YouTube Video Logging Process for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-choices-in-pc-hardware-unveiled-by-toms-tech-analyses/"><u>Top Choices in PC Hardware - Unveiled by Tom's Tech Analyses</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-speed-demon-a-comprehensive-review-of-motorola-mg7700/"><u>Unveiling the Speed Demon - A Comprehensive Review of Motorola MG7700</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-luminarx-the-freepaid-lightroom-rival-list/"><u>[New] LuminarX The Free/Paid Lightroom Rival List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-luts-galore-complimentary-package-now-available-to-dji-fans/"><u>[New] LUTs Galore - Complimentary Package Now Available to DJI Fans</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-complete-zoom-guidebook-for-sessions-for-2024/"><u>[New] The Complete Zoom Guidebook for Sessions for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elevate-video-flair-advanced-techniques-in-youtube-studio-editor/"><u>[Updated] Elevate Video Flair Advanced Techniques in YouTube Studio Editor</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-new-horizons-in-photography-lg-360-camera-update/"><u>[Updated] New Horizons in Photography - LG 360 Camera Update</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1-concerned-about-data-safety-what-happens-if-you-upgrade-your-hard-drive/"><u>1. Concerned About Data Safety: What Happens If You Upgrade Your Hard Drive?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instantly-enhance-your-facebook-experience-with-collage/"><u>2024 Approved Instantly Enhance Your Facebook Experience with Collage</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-installation-of-hp-envy-5055-drivers/"><u>Hassle-Free Installation of HP Envy 5055 Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigate-the-digital-landscape-discover-these-10-sites-of-3d-graffiti-brilliance/"><u>In 2024, Navigate the Digital Landscape Discover These 10 Sites of 3D Graffiti Brilliance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/keep-your-devices-connected-latest-microsoft-bluetooth-driver-updates-available-for-all-windows-versions-win-101187/"><u>Keep Your Devices Connected - Latest Microsoft Bluetooth Driver Updates Available for All Windows Versions (Win 10/11/8/7)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-complex-editing-a-practical-guide-for-youtube-video-creators-on-pc/"><u>Navigating Complex Editing A Practical Guide for YouTube Video Creators on PC</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/quick-and-easy-mastering-the-conversion-from-flv-to-mp3-in-just-three-simple-steps/"><u>Quick & Easy: Mastering the Conversion From FLV to MP3 in Just Three Simple Steps</u></a></li>
 </ul></div>
 

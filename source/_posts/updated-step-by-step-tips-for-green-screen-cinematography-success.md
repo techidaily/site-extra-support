@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Tips for Green Screen Cinematography Success\""
-date: 2024-11-10T23:22:46.072Z
-updated: 2024-11-16T09:57:35.071Z
+date: 2024-11-22T22:35:37.815Z
+updated: 2024-11-25T21:51:39.604Z
 tags: 
   - screen-recording
   - ai video
@@ -72,17 +72,29 @@ Looking for some best cameras for shooting green screen video? Check our picks o
 
 ![Clothing tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There are some mistakes that you can avoid to help your green screen video look more professional and more realistic. Perhaps one of the simplest mistakes that many people make with green screen video shooting is actually wearing green clothing. If you are wearing clothing or clothing that has buttons or accents that are a similar color green as your selected background green, the image that you project onto the green screen in post-editing will also get picked up by these accents on your clothing or by the clothing itself. This is great if you want to cut off part of an actor's body, but not so professional if you are trying to make an actor appear in a realistic scene.
 
 #### 4 Wrinkles problem in shooting a Green Screen Video
 
 ![Wrinkles problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Wrinkles in your screen can actually lead to heavy shadows and distorted image quality in your green screen video. If you regularly fold your green screen for storage it's very important that you take an iron out and flat negative green screen to prevent shadows and distortions with your background image. This is a step that many skip over but it's important to have a high-quality green screen without wrinkles and folds that cause shadows.
 
 #### 5 Motion blur problem in shooting a Green Screen Video
 
 ![Motion blur problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you are planning on shooting a high action scene in front of a green screen with a camera that only has lower shutter speeds, you can run into real problems. When using a camera with a lower shutter speed consider doing action shots in slow motion or getting subjects to not make any sudden movements in front of the green screen. Motion blur from someone moving rapidly on camera in front of a green screen can really ruin the scene and ruin the realism of the scene. Alternately you could also consider renting a high shutter speed camera to avoid this motion blur if you do plan on shooting a lot of action scenes. Ultimately this is something that you will need to test for yourself before shooting a green screen video, so that you can get a feel for how much action your camera can handle with a green screen without motion blur.
 
@@ -94,7 +106,15 @@ Besides compositing chroma keying videos in Filmora, you can also[stabilize your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -111,24 +131,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-affordable-4k-cameras-guide-(1k-top-picks/"><u>[New] 2024 Approved Affordable 4K Cameras Guide (<$1K) - Top Picks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-achieving-professional-skype-recordings-in-obs-for-2024/"><u>[New] Achieving Professional Skype Recordings in OBS for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-starting-vlogging-right-the-top-equipmentsoftware/"><u>[New] Starting Vlogging Right The Top Equipment/Software</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-pc-snippets-tools-handy-guide-to-top-5-choices/"><u>[Updated] 2024 Approved Best Pc Snippets Tools Handy Guide to Top 5 Choices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pixireview-criticism-app-for-2024/"><u>[Updated] PixiReview Criticism App for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premier-visual-quality-leaks/"><u>[Updated] Premier Visual Quality Leaks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sprinting-to-victory-key-moments-from-2-omics-games/"><u>2024 Approved Sprinting to Victory Key Moments From 2 Omics Games</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/guia-paso-a-paso-para-crear-una-version-movil-eficiente-como-hacerlo/"><u>Guía Paso a Paso Para Crear Una Versión Móvil Eficiente: Cómo Hacerlo</u></a></li>
-<li><a href="https://blog-min.techidaily.com/quick-and-effortless-guide-transcoding-dvd-content-onto-your-sd-card-without-data-loss/"><u>Quick & Effortless Guide: Transcoding DVD Content Onto Your SD Card Without Data Loss</u></a></li>
-<li><a href="https://extra-support.techidaily.com/ranking-the-top-10-high-def-4k-displays-for-2024/"><u>Ranking the Top 10 High-Def 4K Displays for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speeding-up-origin-file-transfers-expert-tips-and-techniques-keep-ahead-in-202n4/"><u>Speeding Up Origin File Transfers: Expert Tips & Techniques - Keep Ahead in 202N4</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1728487050539-windows-11usb/"><u>Windows 11專用移動式USB自動備份系統</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-craft-your-study-of-the-past-with-these-top-10-channels/"><u>[New] In 2024, Craft Your Study of the Past with These Top 10 Channels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigate-effortlessly-enablingdisabling-picture-in-picture-in-youtube/"><u>[New] Navigate Effortlessly Enabling/Disabling Picture In Picture in Youtube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pro-tips-on-selecting-the-best-mac-snipers/"><u>[New] Pro Tips on Selecting the Best Mac Snipers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-designing-dynamic-openings-that-resonate-with-audience-for-2024/"><u>[Updated] Designing Dynamic Openings that Resonate with Audience for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-memes-galore-download-and-share-joy/"><u>2024 Approved Memes Galore Download & Share Joy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smooth-transition-altering-snapchat-videos-tempo/"><u>2024 Approved Smooth Transition Altering Snapchat Videos' Tempo</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snapshot-savvy-embellishing-photos-with-the-cartoon-lens/"><u>2024 Approved Snapshot Savvy Embellishing Photos with the Cartoon Lens</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-youtubes-non-indexable-content-decoding-the-unlisted-phenomenon/"><u>2024 Approved YouTube's Non-Indexable Content Decoding the Unlisted Phenomenon</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-quickly-launch-apps-on-windows-11/"><u>5 Ways to Quickly Launch Apps on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-xiaomi-mix-fold-3-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Xiaomi Mix Fold 3 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-skies-complete-review-of-dji-phantom-4/"><u>In 2024, Mastering the Skies Complete Review of DJI Phantom 4</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-swift-solutions-restoring-widget-functionality-on-ios-devices/"><u>Top 10 Swift Solutions: Restoring Widget Functionality on iOS Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-keep-your-epson-wf-7720-printer-drivers-up-to-date-on-windows-systems/"><u>Troubleshooting Tips: Keep Your Epson WF-7720 Printer Drivers Up-to-Date on Windows Systems</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

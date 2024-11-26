@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2024-11-09T13:10:04.724Z
-updated: 2024-11-16T14:52:36.905Z
+date: 2024-11-19T00:55:06.763Z
+updated: 2024-11-25T18:29:16.157Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
  AGI exhibits intelligence similar to human cognitive capabilities, and[the Turing Test](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/) —a test of a machine's ability to exhibit intelligent behavior indistinguishable from that of a human—remained almost unchallenged in the seven decades since it was first laid out.
@@ -35,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
@@ -53,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
@@ -72,19 +66,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -114,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
@@ -122,15 +107,16 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
@@ -168,19 +154,18 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers/"><u>[New] A Quick Dive Into Video Ratios The Aspect Ratio Essentials for YouTubers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-assessing-mr-beasts-monetary-trajectory-for-2024/"><u>[New] Assessing Mr. Beast’s Monetary Trajectory for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-elevate-your-gaming-learn-xbox-zoom-use/"><u>[New] In 2024, Elevate Your Gaming Learn Xbox Zoom Use</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-action-packed-with-sj7s-4k-capability-full-review-2023/"><u>[Updated] 2024 Approved Action-Packed with SJ7's 4K Capability - Full Review 2023</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-snickerspace-build-memes-that-make-people-smile/"><u>[Updated] SnickerSpace Build Memes That Make People Smile</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revamping-your-videos-top-5-mac-editors-at-hand/"><u>2024 Approved Revamping Your Videos? Top 5 Mac Editors at Hand</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-creative-edge-with-adjustable-story-videos/"><u>2024 Approved Unleash Your Creative Edge with Adjustable Story Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/craft-professional-text-the-best-affects-extensions-revealed/"><u>Craft Professional Text The Best Affects Extensions Revealed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-stability-in-uav-photography-an-introduction-to-drones-balance-devices/"><u>In 2024, Mastering Stability in UAV Photography An Introduction to Drones' Balance Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-skycam-conflict-dji-phantom-vs-gopro-hero5-black/"><u>In 2024, SkyCam Conflict DJI Phantom Vs GoPro HERO5 Black</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-steps-to-prevent-windows-11-photos-app-failures/"><u>In 2024, Steps to Prevent Windows 11 Photos App Failures</u></a></li>
-<li><a href="https://extra-support.techidaily.com/jovial-jamboree-accessing-comic-crafts-for-free-for-2024/"><u>Jovial Jamboree Accessing Comic Crafts for Free for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-stuck-gpsvc-hang-in-windows/"><u>Overcoming the Stuck GPSVC Hang in Windows</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ition-effortlessly-top-10-alternatives-to-flvto-for-youtube/"><u>Transition Effortlessly Top 10 Alternatives to Flvto For YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-image-intensifiers-ranking-the-best-10-photography-lenses/"><u>[Updated] Image Intensifiers Ranking the Best 10 Photography Lenses</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-access-to-royalty-free-design-tools/"><u>2024 Approved Mastering Access to Royalty-Free Design Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-poco-m6-pro-4g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Poco M6 Pro 4G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-gaming-resolve-resident-evil-villages-pc-lag-issues-here/"><u>Effortless Gaming: Resolve Resident Evil Village's PC Lag Issues Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-buttons-in-windows-11-laptop-and-desktop-keyboards/"><u>How to Repair Unresponsive Buttons in Windows 11 Laptop and Desktop Keyboards</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-keeping-memories-afloat-the-top-selection-of-cloud-services-reviewed/"><u>In 2024, Keeping Memories Afloat The Top Selection of Cloud Services Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-modifying-user-numbers-on-tiktok/"><u>In 2024, Step-by-Step Guide Modifying User Numbers on TikTok</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-the-art-of-seamless-inshot-edits-for-2024/"><u>Mastering the Art of Seamless Inshot Edits for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/melodic-matrices-crafting-top-tracks-to-initiate-your-podcasts-for-2024/"><u>Melodic Matrices Crafting Top Tracks to Initiate Your Podcasts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-windows-upgrade-maze-step-by-step-for-2024/"><u>Navigating the Windows Upgrade Maze Step by Step for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/sustaining-the-spirit-of-gamers-beyond-burnout/"><u>Sustaining the Spirit of Gamers Beyond Burnout</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-secrets-of-the-telegram-platform-a-comprehensive-guide/"><u>Unveiling the Secrets of the Telegram Platform: A Comprehensive Guide</u></a></li>
 </ul></div>
 

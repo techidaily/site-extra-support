@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating and Utilizing Preview for Mac Efficiently"
-date: 2024-10-18T20:07:11.628Z
-updated: 2024-10-25T16:40:08.410Z
+date: 2024-11-24T01:37:12.812Z
+updated: 2024-11-25T22:30:18.308Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,7 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
@@ -58,16 +55,7 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
@@ -113,16 +101,7 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
@@ -140,6 +119,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -173,6 +156,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -184,13 +171,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -241,24 +221,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-exclusive-roundup-top-tier-no-cost-luts-available/"><u>[New] 2024 Approved Exclusive Roundup Top-Tier, No-Cost LUTs Available</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-master-techniques-for-editing-copious-amounts-of-tiktoks/"><u>[New] Master Techniques for Editing Copious Amounts of TikToks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ideal-choice-12-superior-clicking-adventures-on-your-pc/"><u>[Updated] 2024 Approved Ideal Choice 12 Superior Clicking Adventures on Your PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-metaverse-journeys-ten-sci-fi-films-that-expand-realities/"><u>[Updated] Metaverse Journeys Ten Sci-Fi Films that Expand Realities</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-google-podcast-submission-guide/"><u>[Updated] Navigating the Google Podcast Submission Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-stepwise-approach-to-exceptional-gopro-footage/"><u>[Updated] Stepwise Approach to Exceptional GoPro Footage</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-top-picks-for-home-yoga-practice-online/"><u>[Updated] Top Picks for Home Yoga Practice Online</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-identifying-the-best-no-cost-video-calling-apps-iosandroid/"><u>2024 Approved Identifying the Best No-Cost Video Calling Apps (iOS/Android)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-video-editing-basics-on-windows-8-movie-maker/"><u>2024 Approved Mastering Video Editing Basics on Windows 8 Movie Maker</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premier-tools-upload-and-convert-vids-for-tweeting/"><u>2024 Approved Premier Tools Upload & Convert Vids for Tweeting</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-snappy-satire-iphone-memes/"><u>2024 Approved Snappy Satire IPhone Memes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-updating-your-skills-regularly/"><u>2024 Approved Updating Your Skills Regularly</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/windowsold-windows-11/"><u>安全にWindows.oldフォルダーをクリアする方法 - Windows 11のガイド</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-12-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 12 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-speaking-into-the-future-iphone-recordings/"><u>In 2024, Speaking Into the Future - iPhone Recordings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfecti-the-ultimate-guide-to-iphone-slideshows-xr-i-for-2024/"><u>Perfecti The Ultimate Guide to iPhone Slideshows (XR-I) for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-itel-p55-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Itel P55 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-youtubes-srt-a-three-step-process/"><u>Unlocking YouTube’s SRT A Three-Step Process</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-x50iplus-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor X50i+ Phone Network-Ready</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-visual-guide-to-subtitling-techniques-for-effective-dialogue-placement-for-2024/"><u>[New] A Visual Guide to Subtitling Techniques for Effective Dialogue Placement for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-photo-editing-unveiling-background-eraser-in-adobe-photoshop/"><u>[New] Mastering Photo Editing Unveiling Background Eraser in Adobe Photoshop</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-setting-up-facebook-live-your-roku-route/"><u>[New] Setting Up Facebook LIVE Your Roku Route</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-music-mastery-essentials-high-quality-dj-video-samples/"><u>[Updated] 2024 Approved Music Mastery Essentials High-Quality DJ Video Samples</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-one-to-another-mastering-playlists-pivoting/"><u>[Updated] From One to Another Mastering Playlists Pivoting</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-vortice-craftsmith-kit/"><u>[Updated] In 2024, Vortice Craftsmith Kit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-paint-jocular-visuals-with-giphy-in-mind/"><u>[Updated] Paint Jocular Visuals with Giphy in Mind</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-melodic-overlays-on-digital-imagery/"><u>2024 Approved Melodic Overlays on Digital Imagery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-ipad-air-with-m2-a-comprehensive-review-and-buyers-guide-to-the-ultimate-2023-tablet-selection-zdnet-analysis/"><u>Apple's iPad Air with M2: A Comprehensive Review and Buyer's Guide to the Ultimate 2023 Tablet Selection | ZDNet Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-digital-archives-essential-techniques-for-leveraging-the-wayback-machine/"><u>Discover Digital Archives: Essential Techniques for Leveraging the Wayback Machine</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-nokia-c12-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Nokia C12 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-exploring-the-infinite-a-look-at-lgs-vr-technology/"><u>In 2024, Exploring the Infinite A Look at LG's VR Technology</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-3d-animation-with-elite-design-applications/"><u>In 2024, Mastering the Art of 3D Animation with Elite Design Applications</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionize-your-photo-editing-skills-with-pixlr-insights/"><u>In 2024, Revolutionize Your Photo Editing Skills with Pixlr Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/next-gen-screen-in-depth-look-at-the-hp-envy-27-for-2024/"><u>Next Gen Screen In-Depth Look at the HP Envy 27 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pioneering-artistry-on-screen-top-15-stop-motion-marvels-for-2024/"><u>Pioneering Artistry on Screen Top 15 Stop-Motion Marvels for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/ranking-action-cameras-seventh-to-leading-wet-proof-for-2024/"><u>Ranking Action Cameras, Seventh to Leading Wet-Proof for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reviewing-the-core-of-magix-photo-framework-for-2024/"><u>Reviewing the Core of MAGIX Photo Framework for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sculpting-subtleties-with-title-texts-for-2024/"><u>Sculpting Subtleties with Title Texts for 2024</u></a></li>
 </ul></div>
 

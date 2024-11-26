@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Slow-Motion Capture with Android  A Beginner's Guide\""
-date: 2024-07-30T05:34:21.256Z
-updated: 2024-07-31T05:34:21.256Z
+date: 2024-11-21T19:20:36.586Z
+updated: 2024-11-25T22:08:31.048Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 
 # How to Make Amazing Slow Motion Video on Android Easily
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -36,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 * [Part1: 6 Apps to make slow motion video](#part1)
 * [Part2: Difference Between Slow Motion And Time Lapse](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part1: 6 Apps to make slow motion video
 
 #### 1. [Slow Motion Video FX](https://play.google.com/store/apps/details?id=com.mobile.bizo.slowmotion&hl=en)
@@ -71,10 +65,11 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 * It has no help segment to understand the use of various tools for editing
 * Excess effects and content may overload the processing power of the phone
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![videoshop](https://images.wondershare.com/filmora/article-images/videoshop-android.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3. [Hudl Technique](https://play.google.com/store/apps/details?id=com.ubersense.app.production&hl=en)
 
@@ -114,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 * Watermark video output in the free version of the exported video
 * No option for adding audio
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![SloPro](https://images.wondershare.com/filmora/article-images/SloPro-android.JPG)
 
 #### 5. [AndroVid](https://play.google.com/store/apps/details?id=com.androvid&hl=en)
@@ -147,10 +139,11 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 
 * It has no camera feature so you cannot record video
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![fast slow motion video tool](https://images.wondershare.com/filmora/article-images/fast-Slow-Motion-Video-Tool.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part2: Difference Between Slow Motion And Time Lapse
 
@@ -162,9 +155,6 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 
  Now, creating slow-motion videos on your Android is easy and fun with the above-mentioned apps. If you are searching for an app that can help in creating the slow-motion videos on your Android device or add slow-motion effect to an existing video, check out the best 6 apps for slow-motion video on Android.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -184,9 +174,6 @@ Follow @Ollie Mattison
 * [Part1: 6 Apps to make slow motion video](#part1)
 * [Part2: Difference Between Slow Motion And Time Lapse](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part1: 6 Apps to make slow motion video
 
 #### 1. [Slow Motion Video FX](https://play.google.com/store/apps/details?id=com.mobile.bizo.slowmotion&hl=en)
@@ -239,9 +226,6 @@ Follow @Ollie Mattison
 * Voice recordings not allowed
 * To check out the videos of the pro- athletes, you still need to keep waiting
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![hudl](https://images.wondershare.com/filmora/article-images/hudl-android.JPG)
 
 #### 4. [SloPro](https://slopro.en.uptodown.com/android)
@@ -278,6 +262,10 @@ Follow @Ollie Mattison
 
 ![androvid](https://images.wondershare.com/filmora/article-images/androvid.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 6. [Fast & Slow Motion Video Tool](https://play.google.com/store/apps/details?id=com.jqrapps.fastandslowmotionvideotool)
 
  Whether slow or fast motion, you can add both to your video with this video editing tool. While editing the video in slow motion, you can control the speed till 1/8x and in the fast motion, you can control the speed up to 8x. The pros and cons of Fast & Slow Motion video tool are-
@@ -292,10 +280,11 @@ Follow @Ollie Mattison
 
 * It has no camera feature so you cannot record video
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![fast slow motion video tool](https://images.wondershare.com/filmora/article-images/fast-Slow-Motion-Video-Tool.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part2: Difference Between Slow Motion And Time Lapse
 
@@ -307,10 +296,11 @@ Follow @Ollie Mattison
 
  Now, creating slow-motion videos on your Android is easy and fun with the above-mentioned apps. If you are searching for an app that can help in creating the slow-motion videos on your Android device or add slow-motion effect to an existing video, check out the best 6 apps for slow-motion video on Android.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -329,9 +319,6 @@ Follow @Ollie Mattison
 * [Part1: 6 Apps to make slow motion video](#part1)
 * [Part2: Difference Between Slow Motion And Time Lapse](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Part1: 6 Apps to make slow motion video
 
 #### 1. [Slow Motion Video FX](https://play.google.com/store/apps/details?id=com.mobile.bizo.slowmotion&hl=en)
@@ -343,6 +330,10 @@ Follow @Ollie Mattison
 * Finally, save the output to the library. Your original video remains saved as it was without any alteration.
 
 ![Slow Motion Video FX](https://images.wondershare.com/filmora/article-images/Slow-Motion-Video-FX.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2. [Videoshop](https://play.google.com/store/apps/details?id=com.videoshop.app)
 
@@ -364,9 +355,6 @@ Follow @Ollie Mattison
 * It has no help segment to understand the use of various tools for editing
 * Excess effects and content may overload the processing power of the phone
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![videoshop](https://images.wondershare.com/filmora/article-images/videoshop-android.JPG)
 
 #### 3. [Hudl Technique](https://play.google.com/store/apps/details?id=com.ubersense.app.production&hl=en)
@@ -407,9 +395,6 @@ Follow @Ollie Mattison
 * Watermark video output in the free version of the exported video
 * No option for adding audio
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![SloPro](https://images.wondershare.com/filmora/article-images/SloPro-android.JPG)
 
 #### 5. [AndroVid](https://play.google.com/store/apps/details?id=com.androvid&hl=en)
@@ -426,6 +411,10 @@ Follow @Ollie Mattison
 
 ![androvid](https://images.wondershare.com/filmora/article-images/androvid.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 6. [Fast & Slow Motion Video Tool](https://play.google.com/store/apps/details?id=com.jqrapps.fastandslowmotionvideotool)
 
  Whether slow or fast motion, you can add both to your video with this video editing tool. While editing the video in slow motion, you can control the speed till 1/8x and in the fast motion, you can control the speed up to 8x. The pros and cons of Fast & Slow Motion video tool are-
@@ -440,9 +429,6 @@ Follow @Ollie Mattison
 
 * It has no camera feature so you cannot record video
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fast slow motion video tool](https://images.wondershare.com/filmora/article-images/fast-Slow-Motion-Video-Tool.JPG)
 
 ## Part2: Difference Between Slow Motion And Time Lapse
@@ -475,8 +461,9 @@ Follow @Ollie Mattison
 * [Part2: Difference Between Slow Motion And Time Lapse](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part1: 6 Apps to make slow motion video
 
 #### 1. [Slow Motion Video FX](https://play.google.com/store/apps/details?id=com.mobile.bizo.slowmotion&hl=en)
@@ -509,9 +496,6 @@ Follow @Ollie Mattison
 * It has no help segment to understand the use of various tools for editing
 * Excess effects and content may overload the processing power of the phone
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![videoshop](https://images.wondershare.com/filmora/article-images/videoshop-android.JPG)
 
 #### 3. [Hudl Technique](https://play.google.com/store/apps/details?id=com.ubersense.app.production&hl=en)
@@ -532,9 +516,6 @@ Follow @Ollie Mattison
 * Voice recordings not allowed
 * To check out the videos of the pro- athletes, you still need to keep waiting
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![hudl](https://images.wondershare.com/filmora/article-images/hudl-android.JPG)
 
 #### 4. [SloPro](https://slopro.en.uptodown.com/android)
@@ -585,14 +566,16 @@ Follow @Ollie Mattison
 
 * It has no camera feature so you cannot record video
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![fast slow motion video tool](https://images.wondershare.com/filmora/article-images/fast-Slow-Motion-Video-Tool.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part2: Difference Between Slow Motion And Time Lapse
 
  Often, many of you confuse between a slow-motion video and a timelapse video. There is a difference between the two. Do you wish to see a recording for a longer time on screen? The slow-motion videos do exactly the same. A video’s motion is captured at a higher framerate than the actual speed of playback. i.e. the time observation is slowed down. For instance, if you add slow-motion effect to a 2 seconds video, it appears to last longer on the screen.
@@ -633,5 +616,21 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-a-step-by-step-approach-to-selecting-advanced-360-cameras/"><u>[New] In 2024, A Step-by-Step Approach to Selecting Advanced 360 Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-laugh-ledger-curating-the-best-meme-text-tools/"><u>[New] Laugh Ledger Curating the Best Meme Text Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-social-media-fame-on-instagram/"><u>[Updated] Mastering Social Media Fame on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-micro-film-narrative-blueprint/"><u>[Updated] Micro-Film Narrative Blueprint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-4k-experience-deep-dive-into-samsungs-ue590/"><u>[Updated] The Ultimate 4K Experience - Deep Dive Into Samsung's UE590</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-of-zoom-calls-on-an-android-device/"><u>2024 Approved Navigating the World of Zoom Calls on an Android Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-konvertierung-leicht-gemacht-digitale-videokopie-von-dvds-unter-windows-ebenso-wie-fur-apple-gerate/"><u>DVD-Konvertierung Leicht Gemacht: Digitale Videokopie Von DVDs Unter Windows Ebenso Wie Für Apple Geräte</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-integrate-srt-into-windowsmacos-operations/"><u>In 2024, Integrate SRT Into Windows/macOS Operations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-professional-camera-spin-360-edition-2023/"><u>In 2024, Mastering Professional Camera Spin 360° Edition, 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-scrutinizing-the-new-parrot-ar-drone-edition/"><u>In 2024, Scrutinizing the New Parrot AR Drone Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/livewebcam-pro-by-manycam-top-of-the-line-video-production-and-online-broadcast-tool/"><u>LiveWebCam Pro by ManyCam: Top-of-the-Line Video Production and Online Broadcast Tool</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/picture-perfect-creating-screenshots-in-windows/"><u>Picture Perfect Creating Screenshots in Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-pros-and-cons-of-communication-with-pidgin-instant-messaging/"><u>Unveiling the Pros and Cons of Communication with Pidgin Instant Messaging</u></a></li>
+</ul></div>
 

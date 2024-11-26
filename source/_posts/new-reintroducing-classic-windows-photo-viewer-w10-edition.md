@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reintroducing Classic Windows Photo Viewer - W10 Edition\""
-date: 2024-11-11T21:26:12.426Z
-updated: 2024-11-16T12:49:19.647Z
+date: 2024-11-22T23:15:42.905Z
+updated: 2024-11-25T21:04:01.558Z
 tags: 
   - screen-recording
   - ai video
@@ -55,14 +55,11 @@ Here is why they want to restore Windows Photo Viewer –
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 ## Method 1 to restore Windows Photo Viewer
 
@@ -71,13 +68,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 1**: Go to ‘Settings’ and open ‘Apps’. Click on ‘Default Apps’ and check ‘Photo Viewer’. The default photo viewer will be visible here.
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
@@ -102,23 +92,11 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -127,7 +105,15 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -144,20 +130,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-anime-aesthetics-top-20-visual-elements-on-tiktok/"><u>[New] 2024 Approved Anime Aesthetics Top 20 Visual Elements on TikTok</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/eering-into-tseries-earnings-processes-on-youtube-networks-for-2024/"><u>[New] Peering Into TSeries' Earnings Processes on YouTube Networks for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-snap-worthy-success-logging-galaxy-gaming-stories/"><u>[New] Snap-Worthy Success Logging Galaxy Gaming Stories</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-action-seekers-guide-to-polaroid-xs-100i/"><u>[Updated] 2024 Approved The Action Seeker's Guide to Polaroid XS 100I</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-is-there-a-superior-cameras-marketplace/"><u>[Updated] In 2024, Is There a Superior Cameras Marketplace?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-inshot-unveiled-effortless-laptoppc-video-editing/"><u>2024 Approved Inshot Unveiled Effortless Laptop/PC Video Editing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-nikon-d500-revolutionizing-4k-dslr-photography/"><u>2024 Approved Nikon D500 Revolutionizing 4K DSLR Photography</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seeking-excellence-prime-free-srt-online-translators-guide/"><u>2024 Approved Seeking Excellence Prime Free SRT Online Translators Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explaining-the-gopro-burst-mode-for-2024/"><u>Explaining the GoPro Burst Mode for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-x-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone X to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prodigious-picture-editing-speedy-steps-for-windows-photo-app-users/"><u>In 2024, Prodigious Picture Editing Speedy Steps for Windows Photo App Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pulse-of-persuasion-adding-dynamic-text-to-insta-stories/"><u>In 2024, Pulse of Persuasion Adding Dynamic Text to Insta Stories</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-ringtune-guide-downloading-and-cutting-tamil-melodies/"><u>In 2024, RingTune Guide Downloading and Cutting Tamil Melodies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-to-get-windows-movie-maker-6-installed-for-2024/"><u>Navigating to Get Windows Movie Maker 6 Installed for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-how-to-boot-your-pc-in-safe-mode-and-delete-graphics-driver-in-win-8/"><u>Troubleshooting Tips: How to Boot Your PC in Safe Mode & Delete Graphics Driver in Win 8</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-how-do-i-access-the-full-range-of-shared-media-on-messenger/"><u>[New] In 2024, How Do I Access the Full Range of Shared Media on Messenger?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ultimate-online-broadcast-platforms/"><u>[New] In 2024, Ultimate Online Broadcast Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revival-device-pack/"><u>[New] Revival Device Pack</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-uncover-collective-media-on-messenger-networks-for-2024/"><u>[New] Uncover Collective Media on Messenger Networks for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-innovative-editing-methods-for-yt-videos-with-windows-movie-maker/"><u>2024 Approved Innovative Editing Methods for YT Videos with Windows Movie Maker</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-voice-modification-the-ultimate-guide-to-morphvox/"><u>2024 Approved Mastering the Art of Voice Modification The Ultimate Guide to MorphVOX</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-zoom-tool-on-snapchat-for-better-photos-and-videos/"><u>2024 Approved Mastering the Zoom Tool on Snapchat for Better Photos & Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-android-for-immersive-vr-experiences/"><u>2024 Approved Navigating Android for Immersive VR Experiences</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-build-your-own-google-cardboard-vr-setup/"><u>2024 Approved Step-by-Step Build Your Own Google Cardboard VR Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5-effective-ways-to-correct-the-black-display-issue-with-google-chrome/"><u>5 Effective Ways to Correct the Black Display Issue with Google Chrome</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/content-creators-dilemrante-podcasts-vs-youtube-as-a-platform/"><u>Content Creators' Dilemrante Podcasts Vs. YouTube as a Platform</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-laughable-film-grabber-review/"><u>In 2024, Laughable Film Grabber Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-proven-approaches-to-exceptional-android-time-lapse-photography/"><u>In 2024, Proven Approaches to Exceptional Android Time-Lapse Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/laughter-lab-virtually-for-2024/"><u>Laughter Lab Virtually for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reviving-the-past-flipping-iphone-video-streams-for-2024/"><u>Reviving the Past Flipping iPhone Video Streams for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-6-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tips-for-iphone-users-converting-standard-speed-to-slow-scenes/"><u>Tips for iPhone Users Converting Standard Speed to Slow Scenes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-secrets-of-iphone-x-resolving-face-recognition-issues/"><u>Unlocking Secrets of iPhone X Resolving Face Recognition Issues</u></a></li>
 </ul></div>
 

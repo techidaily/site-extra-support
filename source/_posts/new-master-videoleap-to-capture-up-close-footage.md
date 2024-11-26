@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Master Videoleap to Capture Up-Close Footage\""
-date: 2024-11-11T01:49:56.763Z
-updated: 2024-11-15T23:16:41.504Z
+date: 2024-11-22T19:33:12.428Z
+updated: 2024-11-25T23:28:10.091Z
 tags: 
   - screen-recording
   - ai video
@@ -39,18 +39,23 @@ Videoleap is famous for providing the best video editing features to its users a
 
 ![transform vdieo videoleap](https://images.wondershare.com/filmora/article-images/2022/07/transform-vdieo-videoleap.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now, in the preview window where all the clips are shown, pinch in or out to zoom into the video or vice versa until you get a desired portion of the screen.
 
 ![zoom into videoleap](https://images.wondershare.com/filmora/article-images/2022/07/zoom-into-videoleap.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Now play the video after zooming in by clicking on the "play" button and check whether the zoom effect has been added to your video project or not.
 * After you are satisfied, save the project and export it at your preference to your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Animate the Zoom effect in Videoleap
@@ -62,16 +67,17 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 ![preview timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/preview-timeline-videoleap.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Then select the "keyframes" tool from the toolbar at the bottom of your screen.
 * Add the keyframes to the desired portion of the video and then navigate the timecode to the place on the timeline where you want to stop it. After that add another keyframe at that point and pinch in to zoom the video.
 
 ![add keyframes videoleap](https://images.wondershare.com/filmora/article-images/2022/07/add-keyframes-videoleap.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now head to the second time code where you want to focus the subject and then click on it. Then click on the "Preview" icon and see whether it needs further changes.
@@ -110,24 +116,10 @@ Videoleap is one of the leading video editing platforms available out there. The
 
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -161,20 +153,24 @@ Videoleap is one of the leading video editing platforms available out there. The
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-learn-to-link-zoom-effortlessly-with-email-clients-like-gmail/"><u>[New] Learn to Link Zoom Effortlessly with Email Clients Like Gmail</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-hdr-photography-your-essential-list/"><u>[New] Mastering HDR Photography Your Essential List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-iphone-photo-albums-seamless-integration-with-icloud/"><u>[New] Perfecting iPhone Photo Albums Seamless Integration with iCloud</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-step-by-step-how-to-master-zoom-in-windows-10/"><u>[Updated] 2024 Approved Step-by-Step How to Master Zoom in Windows 10</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-skype-call-capture-the-most-effective-free-and-paid-approaches/"><u>[Updated] In 2024, Skype Call Capture The Most Effective Free & Paid Approaches</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-laughlinelab-picchuckleworkshop/"><u>[Updated] LaughLineLab PicChuckleWorkshop</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-top-strategies-for-box-enthusiasts-for-2024/"><u>[Updated] The Top Strategies for Box Enthusiasts for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-itel-p55-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-c12-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Nokia C12 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-lava-agni-2-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Lava Agni 2 5G Phone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-bite-sized-biographical-look/"><u>In 2024, Bite-Sized Biographical Look</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-tutorial-crafting-photo-videos-in-pixiz/"><u>In 2024, Step-by-Step Tutorial Crafting Photo Videos in Pixiz</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipados-18-unveiled-at-wwdc-2024-the-game-changing-features-that-could-persuade-you-to-choose-apples-tablet-today-insights-from-zdnet/"><u>IPadOS 18 Unveiled at WWDC 2024: The Game-Changing Features That Could Persuade You to Choose Apple’s Tablet Today - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-kinemaster-a-comprehensive-guide-and-top-online-platforms-for-2024/"><u>Mastering KineMaster A Comprehensive Guide & Top Online Platforms for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-mp3s-on-android-the-best-free-tools-for-2024/"><u>Mastering MP3s on Android - The Best Free Tools for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-propel-your-instagram-videos-into-the-public-eye/"><u>[New] In 2024, Propel Your Instagram Videos Into the Public Eye</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pixiz-techniques-to-fuse-images-and-movement-seamlessly/"><u>[New] Pixiz Techniques to Fuse Images and Movement Seamlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-panzoid-layout-libraries/"><u>[New] Prime Panzoid Layout Libraries</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-the-potential-of-photography-with-adobe-motion-blur/"><u>[New] Unlock the Potential of Photography with Adobe Motion Blur</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-flavorful-frames-principles-of-food-filmmaking/"><u>[Updated] 2024 Approved Flavorful Frames Principles of Food Filmmaking</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-to-follow-guide-for-configuring-streamlabs-obs/"><u>[Updated] Easy-to-Follow Guide for Configuring Streamlabs OBS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-invaluable-list-of-prime-no-charge-sites-for-seamless-video-editing-experience/"><u>[Updated] Invaluable List of Prime No-Charge Sites for Seamless Video Editing Experience</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-polaroid-cubeplus-action-camera-review/"><u>2024 Approved Polaroid Cube+ Action Camera Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-film-preview-spectacles/"><u>Elite Film Preview Spectacles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-konvertereen-van-3gp-naar-mp3-online-oplossing-van-movavi/"><u>Gratis Konvertereen Van 3GP Naar MP3 - Online Oplossing Van Movavi</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-creative-collage-companions-the-top-8-smartphone-apps/"><u>In 2024, Creative Collage Companions The Top 8 Smartphone Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-gif-storage-and-use-in-the-digital-age-iphone/"><u>In 2024, Navigating GIF Storage and Use in the Digital Age (iPhone)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pioneering-easy-audio-alterations-for-competitive-play/"><u>In 2024, Pioneering Easy Audio Alterations for Competitive Play</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-podcast-titling-evolution-10-ai-generators-to-watch/"><u>In 2024, Podcast Titling Evolution 10 AI Generators to Watch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speech-analysis-and-conversion-its-free/"><u>In 2024, Speech Analysis and Conversion - It's Free</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inshot-alternatives-for-laptop-editors-for-2024/"><u>Inshot Alternatives for Laptop Editors for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/insights-into-asuss-innovative-rt-ax88u-wi-fi-6-router-features-and-performance-breakdown/"><u>Insights Into Asus's Innovative RT-AX88U Wi-Fi 6 Router – Features and Performance Breakdown</u></a></li>
+<li><a href="https://extra-support.techidaily.com/no-pay-all-gain-the-fcp-freedom-guide-for-2024/"><u>No Pay, All Gain The FCP Freedom Guide for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-talking-avatar-in-2024/"><u>What Is Talking Avatar, In 2024</u></a></li>
 </ul></div>
 

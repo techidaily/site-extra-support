@@ -1,7 +1,7 @@
 ---
 title: "[New] Smartphone Lighting Kits for Improved Footage"
-date: 2024-11-12T06:49:52.145Z
-updated: 2024-11-15T17:29:31.952Z
+date: 2024-11-21T20:10:32.461Z
+updated: 2024-11-25T21:17:56.805Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ A smartphone with a great camera is all you need to record great videos, but you
 
 The best smartphone accessories are lightweight and require as little setup as possible. One of the best things about making videos on your phone is that it allows you to be spontaneous and record life as it happens. A great smartphone accessory will not make it any more complicated to record on the go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smartphone Accessories for Making Videos
 
 Here are four of the best accessories for shooting videos on your smartphone:
@@ -46,6 +50,10 @@ Clip-On Lenses are tiny, which makes them convenient for carrying around. Using 
 
 ![pistol grip](https://images.wondershare.com/filmora/article-images/accessories-pistol-grip.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It will not matter how clear and sharp your videos are if they are shaky. To avoid the stereotypically shaky ‘cellphone vid’ look you will need to stabilize your phone while you record, and there are a lot of ways you can do that. Mounting your phone on a Pistol Grip is one of them.
 
 Smartphones mounted on Pistol Grips will record more stable footage while you walk around with them, and the many Pistol Grips will also attach to a tripod or monopod. If you already have a tripod for a different camera a pistol grip will allow you to use it for your smartphone as well without purchasing a second tripod mount. Pistol Grips for mobile phones cost around $15.
@@ -53,6 +61,10 @@ Smartphones mounted on Pistol Grips will record more stable footage while you wa
 #### 3\. Selfie Stick
 
 ![selfiestick](https://images.wondershare.com/filmora/article-images/accessories-selfiestick.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Selfie Sticks are great for more than just taking selfies; using a selfie stick also helps you record more stable videos. Besides holding a selfie stick the way you normally do, with your hand on the grip, you can use your selfie stick a lot like you would a monopod. Simply place the handle on the floor, extend your selfie stick to the height you want to record at, and hold it still while you film. Your footage will be from one stable height.
 
@@ -62,11 +74,19 @@ Selfie Sticks make it possible for you to record from a wider variety of angles,
 
 ![lav mic](https://images.wondershare.com/filmora/article-images/accessories-lav-mic.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 One of the biggest obstacles when shooting smartphone videos is capturing adequate audio. Not all videos need audio – sometimes you just want to use music – but if there is any speaking in your video then your audio becomes just as important as your visual recording. As great as most smartphone cameras are, the microphones that come with them usually lack that same quality. You can improve the quality of your audio recordings using a free program called Audacity, or you can get an external microphone.
 
 LAV Mics, also called lavalier or lapel mics, are a popular choice because they are so portable. A LAV Mic will clip right on to your shirt for maximum flexibility while recording on the go. You can get a wired LAV Mic specifically for smartphones for $50.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -83,28 +103,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-profit-maximizers-playlist-8-tools-and-products-to-elevate-your-business-game/"><u>[New] 2024 Approved Profit Maximizers Playlist 8 Tools & Products to Elevate Your Business Game</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-tailored-editing-for-impeccable-instagram-videos/"><u>[New] Tailored Editing for Impeccable Instagram Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revel-in-these-14-enthralling-text-based-movements/"><u>[Updated] Revel in These 14 Enthralling Text-Based Movements</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-microsofts-hololens-journey-from-vision-to-reality/"><u>2024 Approved Microsoft’s HoloLens Journey – From Vision to Reality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionize-your-shooting-essential-camera-gear-guide/"><u>2024 Approved Revolutionize Your Shooting Essential Camera Gear Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-speedy-drawing-in-photos-a-win10-guide-to-efficient-edits/"><u>2024 Approved Speedy Drawing in Photos A Win10 Guide to Efficient Edits</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-note-50-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme Note 50 Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photo-extraction-techniques-for-windows-11-videos/"><u>In 2024, Photo Extraction Techniques for Windows 11 Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revitalized-interview-selections-for-podcasters/"><u>In 2024, Revitalized Interview Selections for Podcasters</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-phantoms-time-reversal-feature-for-2024/"><u>Mastering Phantom's Time-Reversal Feature for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mastering-short-film-production-lessons-and-tips-from-acclaimed-filmmakers/"><u>Mastering Short Film Production: Lessons & Tips From Acclaimed Filmmakers</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-best-video-joiners-with-no-watermark-limitations-for-2024/"><u>New The Best Video Joiners with No Watermark Limitations for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-classic-chimes-catalogue-websites-of-worth/"><u>[New] Classic Chimes Catalogue Websites of Worth</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-expert-tips-harnessing-full-capabilities-of-aiseesoft-screen-tech/"><u>[New] Expert Tips Harnessing Full Capabilities of Aiseesoft Screen Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instructors-resource-for-enhancing-learning-via-video/"><u>[Updated] Instructor's Resource for Enhancing Learning via Video</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-aural-tales-the-best-of-radio-plays/"><u>2024 Approved Aural Tales The Best of Radio Plays</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-level-editing-the-essence-of-smooth-transitions-in-inshot/"><u>2024 Approved Master Level Editing The Essence of Smooth Transitions in Inshot</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-visual-voyage-with-toolwiz-comprerande-review-2023-edition/"><u>A Visual Voyage with Toolwiz Comprerande Review, 2023 Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-boost-engagement-with-effective-video-loops-on-instagram/"><u>In 2024, Boost Engagement with Effective Video Loops on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sky-hdr-heaven-curated-list-of-excellent-sites/"><u>In 2024, Sky HDR Heaven - Curated List of Excellent Sites</u></a></li>
+<li><a href="https://extra-support.techidaily.com/next-gen-vr-accessories-your-must-have-guide-for-2024/"><u>Next-Gen VR Accessories Your Must-Have Guide for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-gt-neo-5-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme GT Neo 5 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-sudden-italian-decree-against-ai-language-tools-like-chatgpt/"><u>The Sudden Italian Decree Against AI Language Tools Like ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-smart-8-hd-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Smart 8 HD Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

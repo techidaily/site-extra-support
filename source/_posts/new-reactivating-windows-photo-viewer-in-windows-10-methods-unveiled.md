@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reactivating Windows Photo Viewer in Windows 10 - Methods Unveiled\""
-date: 2024-11-13T07:43:30.758Z
-updated: 2024-11-16T00:38:53.381Z
+date: 2024-11-23T18:02:10.627Z
+updated: 2024-11-25T21:13:37.832Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,10 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -65,9 +69,17 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -84,16 +96,7 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
@@ -101,17 +104,7 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -119,13 +112,6 @@ Here is the detailed guide –
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -144,20 +130,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-elevating-your-selfies-the-art-of-drawing-with-filters/"><u>[New] Elevating Your Selfies The Art of Drawing with Filters</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-pathway-to-aural-brilliance-incorporating-and-fine-tuning-sounds-in-canvas-for-2024/"><u>[New] The Pathway to Aural Brilliance Incorporating & Fine-Tuning Sounds in Canvas for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instant-reddit-archives-posts-once-erased-now-found/"><u>[Updated] Instant Reddit Archives Posts Once Erased Now Found</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-background-blur-in-modern-photography-for-2024/"><u>[Updated] The Art of Background Blur in Modern Photography for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-converting-graphics-to-iconic-messages-a-complete-tutorial-for-chat-apps/"><u>2024 Approved Converting Graphics to Iconic Messages A Complete Tutorial for Chat Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-memetic-flesh-eater-artist/"><u>2024 Approved Memetic Flesh Eater Artist</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-power-solutions-for-gopro-hero5-official-and-third-party-brands/"><u>2024 Approved Optimal Power Solutions for GoPro Hero5 Official & Third-Party Brands</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-visual-output-integrating-luts-into-ae-projects/"><u>2024 Approved Perfecting Visual Output Integrating LUTs Into AE Projects</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-8-windows-audio-apps-compared/"><u>In 2024, Premier 8-Windows Audio Apps Compared</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/1723016245911-lost-the-gunfire-correcting-no-sound-glitches-in-battlefield-4-now/"><u>Lost the Gunfire? Correcting No Sound Glitches in Battlefield 4 Now</u></a></li>
-<li><a href="https://extra-support.techidaily.com/nba-live-action-your-guide-to-15-effective-livestream-tips-for-2024/"><u>NBA Live Action Your Guide to 15 Effective Livestream Tips for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/personalize-your-screen-time-with-these-top-6-creator-identifying-questions-for-2024/"><u>Personalize Your Screen Time with These Top 6 Creator-Identifying Questions for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/samsung-gear-360-alternatives-updated-list-2023-for-2024/"><u>Samsung Gear 360 Alternatives Updated List 2023 for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-this-article-shows-the-detail-steps-to-add-titles-in-final-cut-pro-x/"><u>Updated 2024 Approved This Article Shows the Detail Steps to Add Titles in Final Cut Pro X</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-mastering-complete-tiktok-deletion-process/"><u>[New] Mastering Complete TikTok Deletion Process</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lightning-fast-windowed-photo-reader-for-win11/"><u>[Updated] Lightning-Fast Windowed Photo Reader for Win11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reviewing-the-action-realm-with-t5s-thievery/"><u>2024 Approved Reviewing the Action Realm with T5's Thievery</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-spotlight-on-starlets-snippet/"><u>2024 Approved Spotlight on Starlet's Snippet</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/catch-the-microsoft-surface-and-windows-ai-event-live-what-to-anticipate-zdnet-updates/"><u>Catch the Microsoft Surface and Windows AI Event Live - What to Anticipate | ZDNet Updates</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-a38-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo A38 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-scroll-functionality-on-your-windows-10-laptops-touchpad/"><u>How to Restore Scroll Functionality on Your Windows 10 Laptop's Touchpad</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-magixs-image-ordering-an-assessment/"><u>In 2024, MAGIX's Image Ordering An Assessment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sci-fi-extraordinaire-journey-to-novel-universes-in-10-films/"><u>In 2024, Sci-Fi Extraordinaire Journey to Novel Universes in 10 Films</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplify-a-surplus-of-saves-mastering-edits-for-less-clutter-for-2024/"><u>Simplify a Surplus of Saves Mastering Edits for Less Clutter for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-hot-device-woes-effective-fixes-for-your-apple-gadgets/"><u>Troubleshoot Hot Device Woes: Effective Fixes for Your Apple Gadgets</u></a></li>
 </ul></div>
 

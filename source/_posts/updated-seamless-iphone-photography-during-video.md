@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seamless iPhone Photography During Video"
-date: 2024-10-24T17:17:50.378Z
-updated: 2024-10-25T19:55:46.700Z
+date: 2024-11-24T01:23:49.761Z
+updated: 2024-11-25T18:40:58.765Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 
  Video or picture capturing these days are plainly one of the frequently done tasks at various instants be it for recording a birthday party or a dance performance. And often times, you might have experienced the urge to take a picture out of the video recording so that the precious moment can be captured. But, switching to photo mode again for this will break the flow and the desired moment will be missed in the next second. And considering this situation, we have brought this article where you will learn to take photos and videos simultaneously.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to shoot a still photo and record a video simultaneously on your iPhone
 
  The feature of simultaneous photo and video recording had begun since the coming of iPhone 5\. So, iPhone 5 and later model users can enjoy taking photos while recording videos while if we talk about other iOS devices, iPad makes this feature available with its fourth generation as well as iPod touch sixth generation started supporting the feature of capturing stills when recording videos.
@@ -40,15 +44,16 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 
 ![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: igeeksblog.com
 
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The drawbacks of taking photos and videos simultaneously
@@ -67,22 +72,12 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Extract frames from video
 
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
 
@@ -95,10 +90,7 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -118,17 +110,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-iphoneipad-premium-podcast-recording-tips/"><u>[New] Mastering iPhone/iPad Premium Podcast Recording Tips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-skys-biggest-load-carriers-drones-ranked/"><u>[New] Sky's Biggest Load Carriers Drones Ranked</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Note 30 5G Phone without Google Account?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-do-you-recently-update-to-mac-os-x-yosemite-do-you-need-to-edit-video-files-on-this-new-system-this-article-tells-you-how/"><u>In 2024, Do You Recently Update to Mac OS X Yosemite? Do You Need to Edit Video Files on This New System. This Article Tells You How</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-video-creation-filmoras-key-edits-for-lovers/"><u>In 2024, Mastering Video Creation Filmora’s Key Edits for Lovers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-podcast-perfection-for-the-modern-iphone-user/"><u>In 2024, Podcast Perfection for the Modern iPhone User</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-resolutionrefiner-x1-high-res-video-enhancer/"><u>In 2024, ResolutionRefiner X1 - High-Res Video Enhancer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamlessly-stream-your-laptops-dvd-library/"><u>In 2024, Seamlessly Stream Your Laptop's DVD Library</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-top-10-mobile-and-desktop-video-chat-apps/"><u>In 2024, Top 10 Mobile & Desktop Video Chat Apps</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unlock-kinemasters-full-potential-techniques-and-10plus-superior-online-services-for-2024/"><u>Unlock KineMaster's Full Potential Techniques & 10+ Superior Online Services for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gigglegraphs-imagejesterhub/"><u>[New] GiggleGraphs ImageJesterHub</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-earnings-via-sponsored-youtube-videos/"><u>[New] Mastering Earnings via Sponsored YouTube Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seamless-streaming-expert-use-of-netflixs-pip-feature/"><u>[New] Seamless Streaming Expert Use of Netflix's PIP Feature</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-igtv-presence-strategies-for-perfecting-video-lengths-and-widths-for-2024/"><u>[Updated] Elevate Your IGTV Presence Strategies for Perfecting Video Lengths and Widths for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-streamlining-business-with-azure-speech-services/"><u>[Updated] Streamlining Business with Azure Speech Services</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-hectic-editing-and-organizing-bulky-tiktok-drafts/"><u>2024 Approved Master the Hectic Editing and Organizing Bulky TikTok Drafts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-orchestrating-the-soundscape-finding-perfect-background-tunes/"><u>2024 Approved Orchestrating the Soundscape Finding Perfect Background Tunes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-perfect-virtual-presentations-using-video-filters-on-zoom/"><u>2024 Approved Perfect Virtual Presentations Using Video Filters on Zoom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pro-tips-to-capture-stunning-and-breathtaking-gopro-time-lapse-video/"><u>2024 Approved Pro Tips to Capture Stunning and Breathtaking GoPro Time-Lapse Video</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-see-clearly-now-the-leading-online-tools-for-flawless-photos/"><u>2024 Approved See Clearly Now The Leading Online Tools for Flawless Photos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/chromium-os-built-in-video-capturer/"><u>Chromium OS Built-In Video Capturer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dxgierrordevicehung-solved-in-a-jiffy-proven-techniques-for-smooth-performance/"><u>DXGI_ERROR_DEVICE_HUNG Solved in a Jiffy: Proven Techniques for Smooth Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/groundbreaking-shift-lg-ramps-up-mass-production-of-stunning-oleds-as-top-pick-for-latest-dell-xps-13-screen/"><u>Groundbreaking Shift: LG Ramps Up Mass Production of Stunning OLEDs as Top Pick for Latest Dell XPS 13 Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-tecno-pova-5-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Tecno Pova 5 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-next-gen-title-genius-for-online-content-creators/"><u>In 2024, Next-Gen Title Genius for Online Content Creators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/spirited-speeches-how-to-make-instagram-text-come-alive-for-2024/"><u>Spirited Speeches How to Make Instagram Text Come Alive for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-linking-your-amazon-fire-tv-stick-with-a-projector/"><u>Step-by-Step Guide: Linking Your Amazon Fire TV Stick with a Projector</u></a></li>
 </ul></div>
 

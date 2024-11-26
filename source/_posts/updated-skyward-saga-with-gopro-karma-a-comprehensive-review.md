@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Skyward Saga with GoPro Karma  A Comprehensive Review\""
-date: 2024-10-22T16:16:47.176Z
-updated: 2024-10-25T16:56:57.459Z
+date: 2024-11-23T21:03:29.089Z
+updated: 2024-11-25T16:35:57.970Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -52,10 +56,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Detailed review for GoPro Karma
@@ -95,10 +96,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -110,10 +108,7 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -131,22 +126,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nhance-audio-quality-get-high-quality-fx-in-2024/"><u>[New] Enhance Audio Quality, Get High-Quality FX, In 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-record-screen-with-ezvid-video-maker/"><u>[Updated] How to Record Screen with Ezvid Video Maker</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-navigating-picture-landscapes-on-pexelscom/"><u>[Updated] In 2024, Navigating Picture Landscapes on Pexels.com</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-zoom-on-windows-11-a-step-by-step-guide/"><u>[Updated] Mastering Zoom on Windows 11 A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-implementing-effective-transitions-on-inshot/"><u>[Updated] Step-by-Step Implementing Effective Transitions on Inshot</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-7-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone 7 and iPad</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ignite-a-sizzling-online-presence-with-these-instagram-9-strategies/"><u>Ignite a Sizzling Online Presence with These Instagram #9 Strategies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-how-to-live-stream-with-onestream-online-and-app/"><u>In 2024, How To Live Stream With OneStream - Online & App</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-immediate-collage-making-for-social-sharing/"><u>In 2024, Mastering Immediate Collage Making for Social Sharing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-your-iphone-lens-essential-techniques-for-nature-pics/"><u>In 2024, Mastering Your iPhone Lens Essential Techniques for Nature Pics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sound-streaming-showdown-which-is-the-better-choice-podcast-or-youtube/"><u>In 2024, Sound Streaming Showdown Which Is the Better Choice, Podcast or YouTube?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/irresistible-article-announcer-for-2024/"><u>Irresistible Article Announcer for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/real-world-vr-device-showcase-for-2024/"><u>Real-World VR Device Showcase for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/reel-it-in-8-online-utilities-for-creating-and-sharing-instagram-videos/"><u>Reel It In 8 Online Utilities For Creating & Sharing Instagram Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/stabilizing-your-motion-sensitive-cameras-a-step-by-step-guide-for-2024/"><u>Stabilizing Your Motion-Sensitive Cameras A Step by Step Guide for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-fixing-continuous-load-errors-on-among-us-for-seamless-play/"><u>Troubleshooting: Fixing Continuous Load Errors on Among Us for Seamless Play</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-say-cheese-top-apps-to-convert-your-photos-into-cartoons/"><u>Updated In 2024, Say Cheese! Top Apps to Convert Your Photos Into Cartoons</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-cutting-edge-tools-for-youtube-screen-capturing/"><u>[New] 2024 Approved Cutting-Edge Tools for YouTube Screen Capturing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-8-prime-video-advancement-aids/"><u>[New] 2024 Approved Discovering 8 Prime Video Advancement Aids</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-thriving-on-screen-time-maximize-your-youtube-impact/"><u>[New] 2024 Approved Thriving on Screen Time Maximize Your YouTube Impact</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-macsierra-visionaries-premier-dvd-creators-list/"><u>[New] MacSierra Visionaries Premier Dvd Creators List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-text-warping-techniques-in-photos-and-videos/"><u>[New] Mastering Text Warping Techniques in Photos & Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-edge-camera-and-recording-apps-for-smartphones-most-reliable-sources-for-2024/"><u>[Updated] Cutting-Edge Camera & Recording Apps for Smartphones' Most Reliable Sources for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-design-10-secrets-for-podcast-imagery/"><u>[Updated] Mastering the Art of Design 10 Secrets for Podcast Imagery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mystic-modulation-is-this-speech-shifting-software-authentic-or-fiction-discover-substitutes/"><u>In 2024, Mystic Modulation Is This Speech-Shifting Software Authentic or Fiction? Discover Substitutes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-gopro-filming-made-simple-a-comprehensive-guide/"><u>In 2024, Professional GoPro Filming Made Simple A Comprehensive Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/step-by-step-guide-to-eradicating-audios-in-video-projects-using-imovie/"><u>Step-by-Step Guide to Eradicating Audios in Video Projects Using iMovie</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/synchronizing-social-channels-transferring-fb-videos-on-whatsapp-for-2024/"><u>Synchronizing Social Channels Transferring FB Videos on WhatsApp for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-digital-safeguard-guide-spotlight-on-3-chatbot-risks/"><u>The Digital Safeguard Guide: Spotlight on 3 Chatbot Risks</u></a></li>
 </ul></div>
 

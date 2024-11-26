@@ -1,7 +1,7 @@
 ---
 title: "Sketch Whimsical Graphics on Giphy for 2024"
-date: 2024-10-24T20:08:48.721Z
-updated: 2024-10-25T19:07:06.018Z
+date: 2024-11-19T22:59:35.858Z
+updated: 2024-11-25T21:32:16.181Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,10 @@ Step3 If you wish to upload a video from a URL, you may do so. After you've subm
 
 ![upload video url giphy](https://images.wondershare.com/filmora/article-images/2022/07/upload-video-url-giphy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Set the sliders to the length that you choose for your GIF. Recall that shorter is always better! Click Upload Now to continue. The next page gives you the choice of adding tags, making your GIF private, adding a source URL, or adding it to a collection.
 
 ## Part 2\. Alternative Way to Make Meme Video
@@ -62,24 +66,25 @@ To start a new meme project, open the Filmora video meme creator and choose "New
 
 ![import files to filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Include Music and Subtitles
 
 The video file must then be included in the timeline. Another option is to play well-known music in the background. You may do this by dragging and dropping the music file into the program's timeline's audio track. For the subtitles for your Meme, refer to the "Title" option, you may choose the text style you wish to use. Enter the text, then alter the caption's typeface, color, and size.
 
 ![include music and subtitles](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4 Edit the Meme
 
 If you want to add additional text to your meme, use the features-list menu bar. Additionally, you may use the drop-down menu to move and resize the caption box using the drop-down menu.
 
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step5 Publish or Save Your Meme
 
@@ -102,10 +107,7 @@ To start a new meme project, open the Filmora video meme creator and choose "New
 ![import files to filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3 Include Music and Subtitles
@@ -121,22 +123,12 @@ If you want to add additional text to your meme, use the features-list menu bar.
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step5 Publish or Save Your Meme
 
 Just done with it! you may now start creating as many memes as you wish. A meme has to be circulated extensively online in order to be seen and, presumably, liked. Thus, you need to distribute it across all platforms. You may now click the "Export" button to instantly upload your video meme to Vimeo or YouTube. Save your final meme and upload it right away to your email, Facebook, Twitter, etc. to share it with coworkers or friends.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -166,15 +158,24 @@ Additionally, Giphy offers a Giphy Cam software that enables users to create cus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-snapback-success-the-secrets-to-loops-on-instagram/"><u>[New] Snapback Success The Secrets to Loops on Instagram</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-spotlight-on-youtubes-creme-de-la-creme-of-narratives/"><u>[New] Spotlight on YouTube’s Crème De La Crème of Narratives</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-insta-tips-for-enthusiasts-on-uploading-podcasts/"><u>[Updated] Insta-Tips for Enthusiasts on Uploading Podcasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-kinemaster-written-in-5-steps-plus-best-digital-editors-online/"><u>[Updated] Mastering KineMaster' Written in 5 Steps + Best Digital Editors Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-new-norms-metaverse-marketing-101/"><u>2024 Approved Navigating New Norms Metaverse Marketing 101</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-v29e-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo V29e Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-quick-tips-for-continuous-playback-on-iphone/"><u>In 2024, Quick Tips for Continuous Playback on iPhone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-visual-impact-a-comprehensive-guide-to-zooms-video-filters-for-2024/"><u>Mastering Visual Impact A Comprehensive Guide to Zoom's Video Filters for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quick-and-cool-tips-for-insta-collage-creation-for-2024/"><u>Quick & Cool Tips for Insta Collage Creation for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-plan-to-binge-watch-star-wars-movies-on-disney-plus/"><u>Step-by-Step Plan to Binge Watch Star Wars Movies on Disney Plus</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-acquiring-igtv-media-the-comprehensive-guidebook/"><u>[New] 2024 Approved Acquiring IGTV Media The Comprehensive Guidebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grandiose-know-it-all-challenges-online/"><u>[New] Grandiose KNOW-It All Challenges Online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-sound-logging-our-selection-of-11-precision-gadgets-for-2024/"><u>[New] Mastering Sound Logging Our Selection of 11 Precision Gadgets for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximizing-video-quality-with-zooms-format-tools/"><u>[Updated] Maximizing Video Quality with Zoom's Format Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-proactive-techniques-for-seamless-zoom-usage-on-a-chromebook/"><u>[Updated] Proactive Techniques for Seamless Zoom Usage on a Chromebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revealed-top-5-ingenious-whatsapp-shortcuts/"><u>[Updated] Revealed Top 5 Ingenious WhatsApp Shortcuts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-photo-wizards-perfecting-silhouette-art/"><u>2024 Approved IPhone Photo Wizards Perfecting Silhouette Art</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-one-minute-mastery-of-fades/"><u>2024 Approved One-Minute Mastery of Fades</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/earn-while-playing-games-online/"><u>Earn While Playing Games Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/flashfest-of-fun-ephemeral-gameplay-perks/"><u>FlashFest of Fun: Ephemeral Gameplay Perks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-your-logitech-driving-wheel-setup-on-windows-7810-step-by-step-tutorial/"><u>How to Get Your Logitech Driving Wheel Setup on Windows 7/8/10: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-team-fortress-2-from-continuously-crashing-fixed/"><u>How to Stop Team Fortress 2 From Continuously Crashing (Fixed)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-affordable-methods-to-craft-your-own-youtube-intros/"><u>In 2024, Affordable Methods to Craft Your Own YouTube Intros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-innovation-vr-controllers-reviewed/"><u>In 2024, Leading Innovation VR Controllers Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-strategic-approaches-to-subtitle-embedding-on-facebook-reddit/"><u>In 2024, Strategic Approaches to Subtitle Embedding on Facebook, Reddit</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/live-video-logging-on-mac-free-in-2024/"><u>Live Video Logging on Mac, Free, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-your-virtual-reality-journey-which-option-suits-you-better-portable-mobile-or-connected-tethered-in-2024/"><u>Master Your Virtual Reality Journey Which Option Suits You Better - Portable (Mobile) or Connected (Tethered), In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionizing-cinematography-with-advanced-3d-luts-for-2024/"><u>Revolutionizing Cinematography with Advanced 3D LUTs for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/why-mondly-is-your-essential-language-learning-ally/"><u>Why Mondly Is Your Essential Language Learning Ally</u></a></li>
 </ul></div>
 

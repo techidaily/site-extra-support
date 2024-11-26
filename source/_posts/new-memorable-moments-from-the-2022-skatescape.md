@@ -1,7 +1,7 @@
 ---
 title: "[New] Memorable Moments From the 2022 Skatescape"
-date: 2024-11-11T15:27:36.389Z
-updated: 2024-11-15T20:20:58.025Z
+date: 2024-11-23T19:57:47.164Z
+updated: 2024-11-25T23:44:16.251Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
@@ -37,6 +41,10 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
@@ -57,10 +65,7 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
@@ -83,13 +88,6 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
@@ -97,10 +95,7 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
@@ -110,16 +105,7 @@ Step 5: Select individual or multiple slides and add Transitions, Effects, Title
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -135,15 +121,24 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-vlc-recorder-functionality-check/"><u>[Updated] In 2024, VLC Recorder Functionality Check</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-intuitive-steps-for-photo-integration-in-instagram/"><u>[Updated] Intuitive Steps for Photo Integration in Instagram</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-social-connectivity-from-instagram-to-tiktoks-playground/"><u>[Updated] Mastering Social Connectivity From Instagram to TikTok's Playground</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-aging-strategy-edit-and-confirm-on-tiktok/"><u>2024 Approved Optimal Aging Strategy Edit and Confirm On TikTok</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ting-youtubes-viewership-limits-for-content/"><u>Adjusting YouTube's Viewership Limits for Content</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-15-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 15 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-fix-a-non-stop-crashing-windows-explorer-a-guide-of-seven-methods/"><u>How to Fix a Non-Stop Crashing Windows Explorer: A Guide of Seven Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-share-your-picture-posting-to-youtube-basics/"><u>In 2024, Share Your Picture Posting to YouTube Basics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimale-hdtv-qualitats-einsteller-fur-dvd-und-blu-ray-bei-handbrake-best-rf-value-settings/"><u>Optimale HDTV-Qualitäts-Einsteller Für DVD Und Blu-Ray Bei Handbrake - Best RF Value Settings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/uncovering-expert-video-making-talents-for-2024/"><u>Uncovering Expert Video Making Talents for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-videos-with-effective-youtube-thumbnails/"><u>[New] In 2024, Elevate Your Videos with Effective YouTube Thumbnails</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-securing-your-gaming-legacy-through-fbx-capture-systems/"><u>[New] In 2024, Securing Your Gaming Legacy Through FBX Capture Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-making-text-pop-in-instagram-stories-with-simple-animations/"><u>[New] Making Text Pop in Instagram Stories with Simple Animations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spearheading-groundbre-folks-in-vr-space/"><u>[New] Spearheading Groundbre Folks In VR Space</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-enhance-engagement-top-12-tactics-for-youtube-success-for-2024/"><u>[Updated] Enhance Engagement Top 12 Tactics for YouTube Success for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unseen-paths-to-facebook-acceptance-top-10-secrets-revealed/"><u>[Updated] In 2024, Unseen Paths to Facebook Acceptance Top 10 Secrets Revealed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leaders-in-the-evolution-of-vr-experiences/"><u>[Updated] Leaders in the Evolution of VR Experiences</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-freebie-waters-of-final-cut-pro/"><u>[Updated] Navigating the Freebie Waters of Final Cut Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-tools-for-image-transformation-framecraft-pro/"><u>[Updated] Premier Tools for Image Transformation FrameCraft Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-screenplay-foundations-a-guide/"><u>2024 Approved Screenplay Foundations A Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-hue-shifts-a-guide-to-efficient-photoshop-corrections/"><u>In 2024, Mastering Hue Shifts A Guide to Efficient Photoshop Corrections</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960007148-no-hassle-secure-your-free-asrock-ab350-pro4-driver-software-for-windows-immediately/"><u>No Hassle - Secure Your Free ASRock AB350 Pro4 Driver Software for Windows Immediately</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/pet-cubes-innovation-for-busy-pet-parents/"><u>Pet Cube’s Innovation for Busy Pet Parents</u></a></li>
+<li><a href="https://games-able.techidaily.com/proactive-steps-ensuring-your-kids-safety-in-digital-networks/"><u>Proactive Steps: Ensuring Your Kids’ Safety in Digital Networks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reviewing-the-gopro-hero5-session-series-for-2024/"><u>Reviewing the GoPro Hero5 Session Series for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seamless-sync-solutions-top-cloud-apps-for-android-for-2024/"><u>Seamless Sync Solutions Top Cloud Apps for Android for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-eureka-encounter-how-apples-revolutionary-vision-pro-brought-its-video-to-life-on-my-screen-an-insightful-tale-from-zdnet/"><u>The Eureka Encounter: How Apple's Revolutionary Vision Pro Brought Its Video to Life on My Screen - An Insightful Tale From ZDNET</u></a></li>
+<li><a href="https://win-dash.techidaily.com/toshiba-multifunction-printer-driver-software-for-windows-operating-systems/"><u>Toshiba Multifunction Printer Driver Software for Windows Operating Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-samsung-galaxy-a25-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Samsung Galaxy A25 5G to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

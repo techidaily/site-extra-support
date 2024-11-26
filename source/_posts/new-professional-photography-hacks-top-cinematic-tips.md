@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional Photography Hacks  Top Cinematic Tips\""
-date: 2024-10-24T17:55:33.432Z
-updated: 2024-10-25T18:51:40.428Z
+date: 2024-11-22T19:29:56.553Z
+updated: 2024-11-25T19:41:46.983Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,10 @@ Alright! Let's check out how it looks in the video below.
 
 ![diy led panel](https://images.wondershare.com/filmora/article-images/2022/12/diy-led-panel.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### DIY Light Flag
 
 Black color does not reflect light, so a black fabric can be used to make a DIY Light Flag. Here is a step-by-step guide to creating a light flag at home.
@@ -77,10 +81,11 @@ Let us see how it looks;
 ![diy light flag](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-flag.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DIY Black Wrap
@@ -106,10 +111,7 @@ Here is a GIF attached for a better understanding of the steps.
 ![diy black wrap](https://images.wondershare.com/filmora/article-images/2022/12/diy-black-wrap.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DIY Light Reflector
@@ -130,23 +132,9 @@ There is a GIF attached below to understand the steps visually.
 
 ![diy light reflector](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-reflector.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tip 3\. DIY Light Diffuser
 
 In professional productions, light diffusers are frequently used to soften, level out the lighting, and lessen the harshness of shadows.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Diffuse Lights With a Desk Mat
 
@@ -166,16 +154,13 @@ For a better understanding of the steps, watch the GIF attached below.
 
 ![diy light diffuser](https://images.wondershare.com/filmora/article-images/2022/12/diy-light-diffuser.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tip 4\. Reveal Movement and 180° Presentation
 
 The most commonly used cinematic movements are the reveal and 180° presentation movements. A gimbal is needed to record these movements.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Reveal Movement
 
@@ -195,6 +180,10 @@ Here is a video showing how to record reveal movement.
 
 ![reveal movement](https://images.wondershare.com/filmora/article-images/2022/12/reveal-movement.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 180° Presentation Movement
 
 This Movement gives the subject a general look and displays more details of the surroundings and the subject.
@@ -212,6 +201,14 @@ Step 3 Move slowly to the other side of the subject while recording.
 A sample video attached below shows how to record 180 presentation movements.
 
 ![180 presentation movement](https://images.wondershare.com/filmora/article-images/2022/12/180-presentation-movement.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tip 5\. Create a Barrel Roll Shot
 
@@ -232,20 +229,6 @@ Step 4 Turn on the power drill at low speed and record the barrel roll shot.
 The video attached below will help you to understand these steps.
 
 ![barrel roll shot](https://images.wondershare.com/filmora/article-images/2022/12/barrel-roll-shot.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -283,18 +266,19 @@ After filming the videos, edit them using [Wondershare Filmora](https://tools.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-dissonant-designs-mastering-on-a-mac-for-2024/"><u>[New] Dissonant Designs Mastering on a Mac for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-content-creation-crossroads-igtv-vs-youtube-which-one-fits-best-for-2024/"><u>[Updated] Content Creation Crossroads IGTV Vs. YouTube - Which One Fits Best for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2023s-facebook-video-grabber-windowsmacosandroid-for-2024/"><u>2023'S Facebook Video Grabber Windows/macOS/Android for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-from-silence-to-clarity-recording-on-your-iphone-easy-way/"><u>2024 Approved From Silence to Clarity Recording on Your iPhone Easy Way</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-photoshop-and-beyond-unlocking-visual-potential-with-luts/"><u>2024 Approved Photoshop and Beyond Unlocking Visual Potential with Luts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-reality-beyond-exploring-vrs-contemporary-state-and-implications/"><u>2024 Approved Reality Beyond Exploring VR's Contemporary State and Implications</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-path-to-costless-image-archives/"><u>2024 Approved Unveiling the Path to Costless Image Archives</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-tecno-pova-6-pro-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Tecno Pova 6 Pro 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creating-your-own-poetic-masterpiece-using-chatgpts-innovative-tools/"><u>Creating Your Own Poetic Masterpiece Using ChatGPT's Innovative Tools</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-efficiently-convert-youtube-to-desktop-format/"><u>In 2024, Efficiently Convert YouTube to Desktop Format</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-novices-selection-guide-to-ideal-filming-cameras/"><u>In 2024, Novice's Selection Guide to Ideal Filming Cameras</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-5-high-resolution-film-makers/"><u>In 2024, Premier 5 High-Resolution Film Makers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-for-apple-podcast-integration/"><u>In 2024, Step-by-Step for Apple Podcast Integration</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-pivotal-point-in-view-count-for-online-earning/"><u>[New] The Pivotal Point in View Count for Online Earning</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-historical-context-of-instagram-stories-not-widely-known/"><u>[Updated] Historical Context of Instagram Stories Not Widely Known</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-premiere-pros-art-free-template-pack-2023/"><u>[Updated] Master Premiere Pro's Art Free Template Pack 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-and-simple-ipad-conversion-turn-jpgpng-into-pdf/"><u>[Updated] Quick and Simple iPad Conversion Turn JPG/PNG Into PDF</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pump-it-up-the-20-most-energizing-workout-playlists/"><u>2024 Approved Pump It Up The 20 Most Energizing Workout Playlists</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-s18-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo S18 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androids-favorite-collage-crafting-software/"><u>In 2024, Android's Favorite Collage Crafting Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-start-tips-for-easy-hitch-free-nft-creation/"><u>In 2024, Quick-Start Tips for Easy, Hitch-Free NFT Creation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-pc-hdr-views-and-edits-for-2024/"><u>Mastering PC HDR Views & Edits for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-guide-to-converting-your-dvds-into-iphones-compatible-format/"><u>Simple Guide to Converting Your DVDs Into iPhones-Compatible Format</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-correctly-installing-an-ms-store-app/"><u>Steps for Correctly Installing an MS Store App</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-silence-your-xbox-vibration/"><u>The Ultimate Guide to Silence Your Xbox Vibration</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-ultimate-list-of-free-video-editing-software-for-gamers/"><u>Updated 2024 Approved The Ultimate List of Free Video Editing Software for Gamers</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1726029533885-vob/"><u>VOBファイルから素早く部分データを抽出する手転技</u></a></li>
 </ul></div>
 

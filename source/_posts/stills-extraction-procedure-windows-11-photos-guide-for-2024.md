@@ -1,7 +1,7 @@
 ---
 title: "\"Stills Extraction Procedure  Windows 11 Photos Guide for 2024\""
-date: 2024-10-19T16:15:36.514Z
-updated: 2024-10-25T16:41:28.211Z
+date: 2024-11-24T17:14:29.117Z
+updated: 2024-11-25T19:03:16.220Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ In this article, you will learn how to save photo from Windows 10 Photos app and
 * [**Part2: Why I can’t save photo from video**](#part2)
 * [**Part3: Alternative way to save photo from video**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to save photo from Windows 10 Photos app
 
 In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
@@ -47,6 +51,10 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -56,14 +64,11 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
-* This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+* This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
 ## Part 2: Why I can’t save photo from video
 
@@ -75,28 +80,12 @@ We are explaining the solutions here –
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
@@ -115,10 +104,7 @@ Here comes the guide –
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -142,20 +128,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-unleash-creativity-on-instagram-stories-with-branded-emojis-for-2024/"><u>[New] Unleash Creativity on Instagram Stories with Branded Emojis for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-building-a-sustainable-income-via-youtube-and-adsense/"><u>[Updated] In 2024, Building a Sustainable Income via YouTube and AdSense</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-jollyjingles-top-sites-to-stream-laugh-rich-rhythms/"><u>[Updated] JollyJingles Top Sites to Stream Laugh-Rich Rhythms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-dynamic-range-with-iphone-cameras/"><u>[Updated] Mastering Dynamic Range with iPhone Cameras</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-integrating-apple-music-into-your-videos/"><u>2024 Approved Step-by-Step Integrating Apple Music Into Your Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722965711551-download-the-newest-dolby-sound-drivers-for-windows-11-10-and-81-now-available/"><u>Download the Newest Dolby Sound Drivers for Windows 11, 10, and 8.1 - Now Available!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-finder-high-speed-pics-on-win-11-for-2024/"><u>Expert Finder High-Speed Pics on Win 11 for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/first-steps-in-ai-unveiling-the-top-9-essential-tools/"><u>First Steps in AI: Unveiling the Top 9 Essential Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-integrate-efficiently-macos-sierra-for-desktop-enhancement/"><u>In 2024, Integrate Efficiently MacOS Sierra for Desktop Enhancement</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reverse-video-techniques-for-android-devices/"><u>In 2024, Reverse Video Techniques for Android Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximizing-win11-performance-boosters-revealed-for-2024/"><u>Maximizing Win11 Performance Boosters Revealed for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/oscillation-engineer-kit-for-2024/"><u>Oscillation Engineer Kit for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/personal-aerial-companions-gps-drones-that-never-stray/"><u>Personal Aerial Companions - GPS Drones that Never Stray</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-shapley-explainer-engine-a-deep-dive-into-openais-shap-e/"><u>Unveiling Shapley Explainer Engine: A Deep Dive Into OpenAI's SHAP-E</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-benefits-a-detailed-look-at-samsungs-wellness-focused-smartwatch-galaxy-active/"><u>Unveiling the Benefits: A Detailed Look at Samsung's Wellness-Focused Smartwatch, Galaxy Active</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-ultimate-crew-for-photographic-rhythm-films/"><u>[New] 2024 Approved Ultimate Crew for Photographic Rhythm Films</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-mastering-vlc-key-mac-functions-explained/"><u>[New] In 2024, Mastering VLC Key Mac Functions Explained</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-graphics-an-examination-of-cg318-4k-by-eizo/"><u>[Updated] Revolutionizing Graphics An Examination of CG318-4K by EIZO</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-journey-to-mastery-discovering-the-quintessential-5-online-title-makers/"><u>2024 Approved Journey to Mastery Discovering the Quintessential 5 Online Title Makers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-inshop-pro-the-ultimate-free-image-editing-tool-for-pcs-windowsmaclinux/"><u>Download InShop Pro: The Ultimate Free Image Editing Tool for PCs [Windows/Mac/Linux]</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y27-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y27 5Gwith/without a PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-periscope-uncovered-free-entry-details-and-signup-method/"><u>In 2024, Periscope Uncovered Free Entry Details and Signup Method</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-resource-guide-for-refining-on-screen-text-in-videos/"><u>In 2024, The Ultimate Resource Guide for Refining On-Screen Text in Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/music-fm-2024/"><u>Music FM エラボレーション2024 - ダウンロード保留対策：安心できる信頼性の高い代替ソリューションを求めよう！</u></a></li>
+<li><a href="https://extra-support.techidaily.com/primeworld-views-worldwide-channel-accessibility-now-for-2024/"><u>PrimeWorld Views Worldwide Channel Accessibility Now for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/snapshot-sophistication-expert-advice-on-editing-magic-for-2024/"><u>Snapshot Sophistication Expert Advice on Editing Magic for 2024</u></a></li>
 </ul></div>
 
