@@ -1,7 +1,7 @@
 ---
 title: "[New] Memorable Moments From the 2022 Skatescape"
-date: 2024-11-23T19:57:47.164Z
-updated: 2024-11-25T23:44:16.251Z
+date: 2024-11-29T19:07:38.741Z
+updated: 2024-12-05T16:47:19.540Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
@@ -30,21 +34,17 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
@@ -53,6 +53,10 @@ Shoma Uno of Japan won the bronze medal with a combined score of 293 points and 
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
@@ -65,7 +69,7 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
@@ -95,7 +99,7 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
@@ -103,10 +107,6 @@ Step 4: You need to add all imported media files to Video Timeline while you sho
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -121,24 +121,21 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-videos-with-effective-youtube-thumbnails/"><u>[New] In 2024, Elevate Your Videos with Effective YouTube Thumbnails</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-securing-your-gaming-legacy-through-fbx-capture-systems/"><u>[New] In 2024, Securing Your Gaming Legacy Through FBX Capture Systems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-making-text-pop-in-instagram-stories-with-simple-animations/"><u>[New] Making Text Pop in Instagram Stories with Simple Animations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-spearheading-groundbre-folks-in-vr-space/"><u>[New] Spearheading Groundbre Folks In VR Space</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-enhance-engagement-top-12-tactics-for-youtube-success-for-2024/"><u>[Updated] Enhance Engagement Top 12 Tactics for YouTube Success for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unseen-paths-to-facebook-acceptance-top-10-secrets-revealed/"><u>[Updated] In 2024, Unseen Paths to Facebook Acceptance Top 10 Secrets Revealed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leaders-in-the-evolution-of-vr-experiences/"><u>[Updated] Leaders in the Evolution of VR Experiences</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-freebie-waters-of-final-cut-pro/"><u>[Updated] Navigating the Freebie Waters of Final Cut Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premier-tools-for-image-transformation-framecraft-pro/"><u>[Updated] Premier Tools for Image Transformation FrameCraft Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-screenplay-foundations-a-guide/"><u>2024 Approved Screenplay Foundations A Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-hue-shifts-a-guide-to-efficient-photoshop-corrections/"><u>In 2024, Mastering Hue Shifts A Guide to Efficient Photoshop Corrections</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960007148-no-hassle-secure-your-free-asrock-ab350-pro4-driver-software-for-windows-immediately/"><u>No Hassle - Secure Your Free ASRock AB350 Pro4 Driver Software for Windows Immediately</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/pet-cubes-innovation-for-busy-pet-parents/"><u>Pet Cube’s Innovation for Busy Pet Parents</u></a></li>
-<li><a href="https://games-able.techidaily.com/proactive-steps-ensuring-your-kids-safety-in-digital-networks/"><u>Proactive Steps: Ensuring Your Kids’ Safety in Digital Networks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/reviewing-the-gopro-hero5-session-series-for-2024/"><u>Reviewing the GoPro Hero5 Session Series for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seamless-sync-solutions-top-cloud-apps-for-android-for-2024/"><u>Seamless Sync Solutions Top Cloud Apps for Android for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-eureka-encounter-how-apples-revolutionary-vision-pro-brought-its-video-to-life-on-my-screen-an-insightful-tale-from-zdnet/"><u>The Eureka Encounter: How Apple's Revolutionary Vision Pro Brought Its Video to Life on My Screen - An Insightful Tale From ZDNET</u></a></li>
-<li><a href="https://win-dash.techidaily.com/toshiba-multifunction-printer-driver-software-for-windows-operating-systems/"><u>Toshiba Multifunction Printer Driver Software for Windows Operating Systems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-samsung-galaxy-a25-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Samsung Galaxy A25 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-expert-video-edits-how-to-masterly-modify-and-shorten-videos-on-vimeo-online/"><u>[New] 2024 Approved Expert Video Edits How to Masterly Modify and Shorten Videos on Vimeo Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-verifying-realness-in-instagrams-visual-identity-expressions/"><u>[Updated] In 2024, Verifying Realness in Instagram's Visual Identity Expressions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-joyfuljourney-sign-up-share-and-create-fun-videos/"><u>[Updated] JoyfulJourney Sign Up, Share and Create Fun Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-proven-methods-for-backdrop-cleansing-in-photoshop-enhanced-by-affinity/"><u>[Updated] Proven Methods for Backdrop Cleansing in Photoshop Enhanced by Affinity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>2024 Approved 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-the-core-plot/"><u>2024 Approved Crafting the Core Plot</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-sound-collection-no-cost-top-luts-listed-here/"><u>2024 Approved Premium Sound Collection No-Cost, Top LUTs Listed Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-movies-in-windows-10-with-these-techniques/"><u>2024 Approved Streamline Your Movies in Windows 10 with These Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-dynamic-font-movement-packs/"><u>In 2024, Dynamic Font Movement Packs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-nubia-red-magic-8s-proplus-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Nubia Red Magic 8S Pro+ Through Google Earth?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-picture-perfect-software-and-websites-to-amp-up-your-photos/"><u>In 2024, Picture Perfect Software and Websites to Amp Up Your Photos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-reno-11-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo Reno 11 Pro 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-spark-20-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Spark 20 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/precision-tools-for-gif-to-video-conversion-best-5-for-2024/"><u>Precision Tools for GIF to Video Conversion (Best 5) for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-3-examined-the-ion-airs-game-changing-video-innovation-for-2024/"><u>Pro 3 Examined The ION Air's Game-Changing Video Innovation for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-repair-your-windows-10-os-using-sfc-and-dism-utilities/"><u>Ultimate Guide: Repair Your Windows 10 OS Using SFC and DISM Utilities</u></a></li>
 </ul></div>
 

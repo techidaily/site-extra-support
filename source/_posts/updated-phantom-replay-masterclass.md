@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Phantom Replay Masterclass"
-date: 2024-11-25T00:18:11.439Z
-updated: 2024-11-25T22:38:07.215Z
+date: 2024-12-03T19:15:38.028Z
+updated: 2024-12-05T20:19:11.209Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,7 @@ The use of a phantom super slow-motion camera has numerous benefits for both fil
 * [How to edit time-lapse video on a computer](#part2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Phantom Slow Motion Camera
@@ -73,7 +73,7 @@ Once you have all of the necessary equipment, you will need to set up your camer
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to edit time-lapse video on a computer
@@ -119,7 +119,7 @@ Drag and drop your videos on the timeline to start the editing. Once you placed 
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4 Add titles, effects, and transitions to your video
@@ -135,7 +135,7 @@ When you want to save your video or share it on social media just click on the e
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -166,10 +166,6 @@ The camera will then capture the movement in slow motion, allowing you to see th
 
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Why do we need a phantom slow-motion camera?
 
 There are many reasons why someone might want or need to use a phantom slow-motion camera. For example, law enforcement officials can use them to capture footage of high-speed car chases or accidents. Scientists can use them to study fast-moving objects or phenomena. And sports enthusiasts can use them to study the movements of athletes and improve their performance.
@@ -190,6 +186,10 @@ A phantom slow-motion camera is a special type of camera that can be used to cre
 Once you have all of the necessary equipment, you will need to set up your camera on the tripod and position it in the desired location. Then, you will need to set the camera to record in slow motion. Once the camera is recording, you will need to use the remote shutter release to take a picture every few seconds.
 
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to edit time-lapse video on a computer
 
@@ -221,21 +221,25 @@ You can easily install Filmora for free, after installing click on it three opti
 
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Add some media to edit
 
 After creating a new project, there is an option to add media you can your the video which you want to edit.
 
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3 Drop the media to timeline
 
 Drag and drop your videos on the timeline to start the editing. Once you placed your videos on timelines put the video header at the front.
 
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step4 Add titles, effects, and transitions to your video
 
@@ -248,10 +252,6 @@ Filmora provides several titles, effects, and transitions. You can add them acco
 When you want to save your video or share it on social media just click on the export button. It will provide you with different features like you can export your video on a desktop or where ever you want. You can export it in HD form.
 
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -287,22 +287,19 @@ As filmmakers and video lovers, we have come up with some solid examples of time
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-sound-enhance-videos-with-windows-11-audio-integration/"><u>[New] Mastering Sound Enhance Videos with Windows 11 Audio Integration</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-soundtrack-selection-in-unboxing-filmmaking/"><u>[New] Navigating Soundtrack Selection in Unboxing Filmmaking</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-proficient-movie-recording-multiplatform-devices-unveiled-for-2024/"><u>[New] Proficient Movie Recording Multiplatform Devices Unveiled for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-click-worthy-chronicles-shaping-successful-meme-videos-for-instafb/"><u>[Updated] 2024 Approved Click-Worthy Chronicles Shaping Successful Meme Videos for Insta/FB</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-capture-your-gameplay-essential-webcams-for-twitch-enthusiasts/"><u>[Updated] Capture Your Gameplay Essential Webcams For Twitch Enthusiasts</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-elevate-your-content-incorporating-exact-timestamps-in-videos/"><u>[Updated] Elevate Your Content Incorporating Exact Timestamps in Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-iphone-ringer-update-guide/"><u>2024 Approved Step-by-Step IPhone Ringer Update Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-ultimate-guide-to-posting-vids-on-facebook/"><u>2024 Approved The Ultimate Guide to Posting Vids on Facebook</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-closes-critical-zenbleed-hole-update-your-pc-with-msis-latest-agesa-120-bios-now/"><u>AMD Closes Critical 'Zenbleed' Hole: Update Your PC With MSI's Latest AGESA 1.2.0 BIOS Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y28-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y28 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-masterful-video-text-techniques-ranked/"><u>In 2024, Masterful Video Text Techniques - Ranked</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-shades-and-tones-mastering-the-visual-spectrum/"><u>In 2024, Shades and Tones Mastering the Visual Spectrum</u></a></li>
-<li><a href="https://extra-support.techidaily.com/lg-virtual-reality-breakthrough-an-in-depth-analysis-for-2024/"><u>LG Virtual Reality Breakthrough An In-Depth Analysis for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimized-procedures-for-integrating-subtitles-into-live-streams-on-facebook-for-2024/"><u>Optimized Procedures for Integrating Subtitles Into Live Streams on Facebook for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/push-boundaries-top-windows-10-innovations-in-games-and-apps-for-2024/"><u>Push Boundaries Top Windows 10 Innovations in Games and Apps for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/stealthy-sound-softening-with-garageband-for-2024/"><u>Stealthy Sound Softening with Garageband for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/taming-the-warzone-tech-troubles-ultimate-fixes-for-flickering-frustrations/"><u>Taming the Warzone Tech Troubles - Ultimate Fixes for Flickering Frustrations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unveiling-the-top-methods-of-video-and-screenshots/"><u>[New] 2024 Approved Unveiling the Top Methods of Video & Screenshots</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eading-7-video-streaming-apps-to-enhance-your-youtube-mobile-experience-for-2024/"><u>[New] Leading 7 Video Streaming Apps to Enhance Your YouTube Mobile Experience for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastery-in-missed-tips-on-bypassing-edgenuity-video-instructions-efficiently/"><u>[New] Mastery in Missed Tips on Bypassing Edgenuity Video Instructions Efficiently</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-navigating-snapchat-pins-with-ease/"><u>[Updated] In 2024, Navigating Snapchat Pins with Ease</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-macs-visual-excellence-10-list-of-ultimate-screens/"><u>[Updated] Mac's Visual Excellence #10 List of Ultimate Screens</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-top-15-youtube-movies-channels-for-you-to-kill-time/"><u>2024 Approved Top 15 YouTube Movies Channels for You to Kill Time</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1726026363516-3/"><u>無料映像のプライバシー保護用、3つのおすすめフリーソフトウェア</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-watch-dogs-legion-an-in-depth-look-at-a-fresh-city-adventure/"><u>Exploring 'Watch Dogs: Legion' - An In-Depth Look at a Fresh City Adventure</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jumpstart-earnings-a-novice-written-guide/"><u>In 2024, Jumpstart Earnings A Novice’ Written Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leveraging-secondary-footage-for-visual-impact/"><u>In 2024, Leveraging Secondary Footage for Visual Impact</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-solo-podcast-production-for-top-spots/"><u>In 2024, Mastering Solo Podcast Production for Top Spots</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/mastering-network-equipment-integration-in-lab-83-a-step-by-step-guide/"><u>Mastering Network Equipment Integration in LAB 8.3 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-hd-blackouts-on-facebook-live-tips-for-chromesafari-users-for-2024/"><u>Navigating HD Blackouts on Facebook Live Tips for Chrome/Safari Users for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Itel P55T | Dr.fone</u></a></li>
 </ul></div>
 

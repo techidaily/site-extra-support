@@ -1,7 +1,7 @@
 ---
 title: "\"Spotlight Strategies  Brightening Your Visual Narrative for 2024\""
-date: 2024-11-20T20:40:14.671Z
-updated: 2024-11-25T19:19:44.110Z
+date: 2024-12-01T16:53:45.078Z
+updated: 2024-12-05T19:56:46.343Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://www.lifewire.com/thmb/Nev8LKp-o6j1texwntaEutDxy8Y=/400x300/fi
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -48,10 +52,6 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
@@ -63,10 +63,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 ##### Step3 Set the Backlight
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
@@ -80,13 +76,13 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -98,6 +94,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
@@ -105,11 +105,11 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summary
@@ -146,16 +146,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-evolution-of-4k-a-look-at-the-d500-model/"><u>[New] 2024 Approved The Evolution of 4K A Look at the D500 Model</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-elevate-your-visuals-with-hdr-written-in-the-stars-hdr-for-2024/"><u>[Updated] Elevate Your Visuals with HDR' Written in the Stars (HDR) for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leading-change-metaverse-advertising-masterclass/"><u>2024 Approved Leading Change Metaverse Advertising Masterclass</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a79-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-selecting-your-perfect-vr-experience-mobile-vs-tethered-options/"><u>In 2024, Selecting Your Perfect VR Experience Mobile Vs. Tethered Options</u></a></li>
-<li><a href="https://extra-support.techidaily.com/instant-srt-to-txt-efficient-conversion-methods-revealed-for-2024/"><u>Instant SRT to TXT Efficient Conversion Methods Revealed for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-macos-sierra-choices-for-file-conversion/"><u>Leading MacOS Sierra Choices for File Conversion</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-keyword-optimization-in-podcast-seo-for-2024/"><u>Navigating Keyword Optimization in Podcast SEO for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/next-level-mp4-experience-integrating-advanced-srt-audio-for-2024/"><u>Next-Level MP4 Experience Integrating Advanced SRT Audio for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-microsoft-surface-ergonomic-keyboard-a-detailed-assessment-of-its-superior-design/"><u>Unveiling the Microsoft Surface Ergonomic Keyboard – A Detailed Assessment of Its Superior Design</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-control-screen-size-with-swift-iphone-adjustments/"><u>[New] Control Screen Size with Swift iPhone Adjustments</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seamless-synergy-wearable-helps-open-mac-gadgets/"><u>[New] Seamless Synergy Wearable Helps Open Mac Gadgets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-purchasing-options-choosing-premium-vs-standard-fixtures-and-whether-they-are-integrated-or-retrofit-options-can-alter-costs/"><u>[Updated] __Purchasing Options__ Choosing Premium Vs. Standard Fixtures and Whether They Are Integrated or Retrofit Options Can Alter Costs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pioneering-digital-expression-with-these-6-best-nft-makers/"><u>[Updated] Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audio-engineering-basics-embrace-adobes-fading-techniques/"><u>2024 Approved Audio Engineering Basics Embrace Adobe’s Fading Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-music-device-innovations-spotlighted/"><u>2024 Approved Music Device Innovations Spotlighted</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-index-affordable-flexible-image-sources/"><u>2024 Approved Premier Index Affordable, Flexible Image Sources</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-elite-filmmakers-merging-sounds-images/"><u>In 2024, Elite Filmmakers Merging Sounds, Images</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-realme-12-proplus-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Realme 12 Pro+ 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-14-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 14 Pro Max and iPad?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-light-and-shadow-masterful-edits-that-transform-images/"><u>In 2024, Light & Shadow Masterful Edits That Transform Images</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-remarkable-appraisal-and-other-recommendations/"><u>In 2024, Remarkable Appraisal & Other Recommendations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-ricoh-theta-s-uncovered-a-complete-audit/"><u>In 2024, Ricoh Theta S Uncovered A Complete Audit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-altering-numbers-on-tiktok/"><u>In 2024, Step-by-Step Guide Altering Numbers on TikTok</u></a></li>
+<li><a href="https://extra-support.techidaily.com/marketing-unboxed-approaches-for-2024/"><u>Marketing Unboxed Approaches for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-youtubes-photo-publishing-for-2024/"><u>Navigating YouTube's Photo Publishing for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/peak-performance-sd-card-for-sony-a7s-series-for-2024/"><u>Peak Performance SD Card for Sony A7S Series for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-resource-for-microsoft-azure-speech-services/"><u>The Ultimate Resource for Microsoft Azure Speech Services</u></a></li>
 </ul></div>
 

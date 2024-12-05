@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2024-11-19T00:55:06.763Z
-updated: 2024-11-25T18:29:16.157Z
+date: 2024-11-29T19:19:17.245Z
+updated: 2024-12-05T19:00:27.159Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
@@ -45,13 +45,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  OpenAI's Privacy policy is broadly similar and collects IP address and usage data. In contrast with Google's time-limited retention, OpenAI will "retain your Personal Information for only as long as we need in order to provide our Service to you, or for other legitimate business purposes such as resolving disputes, safety and security reasons, or complying with our legal obligations."
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which LLM Has the Best General Knowledge?
 
@@ -83,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -95,29 +103,21 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -154,18 +154,22 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-image-intensifiers-ranking-the-best-10-photography-lenses/"><u>[Updated] Image Intensifiers Ranking the Best 10 Photography Lenses</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-access-to-royalty-free-design-tools/"><u>2024 Approved Mastering Access to Royalty-Free Design Tools</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-poco-m6-pro-4g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Poco M6 Pro 4G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-gaming-resolve-resident-evil-villages-pc-lag-issues-here/"><u>Effortless Gaming: Resolve Resident Evil Village's PC Lag Issues Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-buttons-in-windows-11-laptop-and-desktop-keyboards/"><u>How to Repair Unresponsive Buttons in Windows 11 Laptop and Desktop Keyboards</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-keeping-memories-afloat-the-top-selection-of-cloud-services-reviewed/"><u>In 2024, Keeping Memories Afloat The Top Selection of Cloud Services Reviewed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-modifying-user-numbers-on-tiktok/"><u>In 2024, Step-by-Step Guide Modifying User Numbers on TikTok</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/mastering-the-art-of-seamless-inshot-edits-for-2024/"><u>Mastering the Art of Seamless Inshot Edits for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/melodic-matrices-crafting-top-tracks-to-initiate-your-podcasts-for-2024/"><u>Melodic Matrices Crafting Top Tracks to Initiate Your Podcasts for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-the-windows-upgrade-maze-step-by-step-for-2024/"><u>Navigating the Windows Upgrade Maze Step by Step for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/sustaining-the-spirit-of-gamers-beyond-burnout/"><u>Sustaining the Spirit of Gamers Beyond Burnout</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-secrets-of-the-telegram-platform-a-comprehensive-guide/"><u>Unveiling the Secrets of the Telegram Platform: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-boosting-traffic-through-innovative-facebook-video-tactics/"><u>[New] Boosting Traffic Through Innovative Facebook Video Tactics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-logic-x-layers-building-audio-bridges-with-crossfades/"><u>[New] Logic X Layers Building Audio Bridges with Crossfades</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-methods-for-subtle-audio-softening-with-lumafusion/"><u>[New] Methods for Subtle Audio Softening with Lumafusion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-precision-and-performance-in-the-dell-p2715q-monitor-analysis/"><u>[New] Precision and Performance in the Dell P2715Q Monitor Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-use-youtube-enhancements/"><u>[Updated] 2024 Approved How to Use YouTube Enhancements</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-revolutionize-your-photo-taking-experience-a-guide-to-snapchats-editing-tools/"><u>[Updated] 2024 Approved Revolutionize Your Photo-Taking Experience A Guide to Snapchat's Editing Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterful-lighting-techniques-for-iphone-users/"><u>2024 Approved Masterful Lighting Techniques for IPhone Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/apk-journey-to-gaming-bliss-funimate-pro-guide/"><u>APK Journey to Gaming Bliss Funimate Pro Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversao-on-line-sem-custo-entre-mxf-e-wav-com-a-ferramenta-do-movavi/"><u>Conversão On-Line Sem Custo Entre MXF E WAV Com a Ferramenta Do Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/curated-array-of-chat-catalyzing-queries-for-podcasters/"><u>Curated Array of Chat-Catalyzing Queries for Podcasters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuitamente-converti-file-flv-in-formato-m4a-con-movavi/"><u>Gratuitamente Converti File FLV in Formato M4A Con Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-missing-hardware-drivers-on-your-computer-windows-11-solved/"><u>How to Fix Missing Hardware Drivers on Your Computer (Windows 11 Solved)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-psyche-up-with-customized-console-voices/"><u>In 2024, Psyche Up with Customized Console Voices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snap-share-thrive-on-instagram/"><u>In 2024, Snap, Share, Thrive on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/keywords-in-the-realm-of-virtual-reality-for-2024/"><u>Keywords in the Realm of Virtual Reality for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/money-smart-aerial-explorers-5-best-drones-for-less-than-100-for-2024/"><u>Money-Smart Aerial Explorers 5 Best Drones for Less Than $100 for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-avi-video-trimmers-cut-and-edit-avi-files-on-any-device/"><u>Updated In 2024, Best AVI Video Trimmers Cut and Edit AVI Files on Any Device</u></a></li>
 </ul></div>
 

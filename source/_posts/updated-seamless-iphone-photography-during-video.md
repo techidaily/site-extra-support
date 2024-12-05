@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seamless iPhone Photography During Video"
-date: 2024-11-24T01:23:49.761Z
-updated: 2024-11-25T18:40:58.765Z
+date: 2024-11-28T17:34:51.188Z
+updated: 2024-12-05T17:30:19.676Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
  Video or picture capturing these days are plainly one of the frequently done tasks at various instants be it for recording a birthday party or a dance performance. And often times, you might have experienced the urge to take a picture out of the video recording so that the precious moment can be captured. But, switching to photo mode again for this will break the flow and the desired moment will be missed in the next second. And considering this situation, we have brought this article where you will learn to take photos and videos simultaneously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to shoot a still photo and record a video simultaneously on your iPhone
@@ -44,16 +44,12 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 
 ![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image resource: igeeksblog.com
 
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The drawbacks of taking photos and videos simultaneously
@@ -72,12 +68,16 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Extract frames from video
 
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
 
@@ -89,11 +89,11 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -110,22 +110,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gigglegraphs-imagejesterhub/"><u>[New] GiggleGraphs ImageJesterHub</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-earnings-via-sponsored-youtube-videos/"><u>[New] Mastering Earnings via Sponsored YouTube Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-seamless-streaming-expert-use-of-netflixs-pip-feature/"><u>[New] Seamless Streaming Expert Use of Netflix's PIP Feature</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-igtv-presence-strategies-for-perfecting-video-lengths-and-widths-for-2024/"><u>[Updated] Elevate Your IGTV Presence Strategies for Perfecting Video Lengths and Widths for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-streamlining-business-with-azure-speech-services/"><u>[Updated] Streamlining Business with Azure Speech Services</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-hectic-editing-and-organizing-bulky-tiktok-drafts/"><u>2024 Approved Master the Hectic Editing and Organizing Bulky TikTok Drafts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-orchestrating-the-soundscape-finding-perfect-background-tunes/"><u>2024 Approved Orchestrating the Soundscape Finding Perfect Background Tunes</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-perfect-virtual-presentations-using-video-filters-on-zoom/"><u>2024 Approved Perfect Virtual Presentations Using Video Filters on Zoom</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pro-tips-to-capture-stunning-and-breathtaking-gopro-time-lapse-video/"><u>2024 Approved Pro Tips to Capture Stunning and Breathtaking GoPro Time-Lapse Video</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-see-clearly-now-the-leading-online-tools-for-flawless-photos/"><u>2024 Approved See Clearly Now The Leading Online Tools for Flawless Photos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/chromium-os-built-in-video-capturer/"><u>Chromium OS Built-In Video Capturer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dxgierrordevicehung-solved-in-a-jiffy-proven-techniques-for-smooth-performance/"><u>DXGI_ERROR_DEVICE_HUNG Solved in a Jiffy: Proven Techniques for Smooth Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/groundbreaking-shift-lg-ramps-up-mass-production-of-stunning-oleds-as-top-pick-for-latest-dell-xps-13-screen/"><u>Groundbreaking Shift: LG Ramps Up Mass Production of Stunning OLEDs as Top Pick for Latest Dell XPS 13 Screen</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-tecno-pova-5-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Tecno Pova 5 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-next-gen-title-genius-for-online-content-creators/"><u>In 2024, Next-Gen Title Genius for Online Content Creators</u></a></li>
-<li><a href="https://extra-support.techidaily.com/spirited-speeches-how-to-make-instagram-text-come-alive-for-2024/"><u>Spirited Speeches How to Make Instagram Text Come Alive for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-linking-your-amazon-fire-tv-stick-with-a-projector/"><u>Step-by-Step Guide: Linking Your Amazon Fire TV Stick with a Projector</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-mastering-your-photos-a-comprehensive-guide-to-facetune/"><u>[New] 2024 Approved Mastering Your Photos A Comprehensive Guide to Facetune</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-brilliant-backdrops-using-light-to-enchant-audiences/"><u>[New] Brilliant Backdrops Using Light to Enchant Audiences</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pathway-guide-acquiring-movie-maker-6-on-your-system/"><u>[Updated] Pathway Guide Acquiring Movie Maker 6 on Your System</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premier-mobile-devices-top-gba-game-players-for-2024/"><u>[Updated] Premier Mobile Devices Top GBA Game Players for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-virtual-classroom-creation-tool/"><u>[Updated] Prime Virtual Classroom Creation Tool</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagram-securing-sponsorships-amidst-content-creation/"><u>2024 Approved Mastering Instagram Securing Sponsorships Amidst Content Creation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-ps5xbox-series-x-the-elite-tvs-for-gamers/"><u>2024 Approved PS5/Xbox Series X The Elite TVs for Gamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-10-effortless-vlog-themes-youll-love/"><u>In 2024, 10 Effortless Vlog Themes You'll Love</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-covert-call-keepers-selective-voice-trapping-on-devices-androidios/"><u>In 2024, Covert Call Keepers Selective Voice Trapping on Devices (Android/iOS)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quelling-unsteady-motion-effects/"><u>In 2024, Quelling Unsteady Motion Effects</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-discover-the-top-free-video-editors-easy-and-powerful/"><u>New In 2024, Discover the Top Free Video Editors Easy and Powerful</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionizing-adventure-recording-with-garmin-ultra-30-for-2024/"><u>Revolutionizing Adventure Recording with Garmin Ultra 30 for 2024</u></a></li>
 </ul></div>
 

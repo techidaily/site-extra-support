@@ -1,7 +1,7 @@
 ---
 title: "[New] Interior Illumination Through Natural Sun Exposure"
-date: 2024-07-30T05:32:36.237Z
-updated: 2024-07-31T05:32:36.237Z
+date: 2024-12-01T17:01:25.297Z
+updated: 2024-12-05T16:14:24.077Z
 tags: 
   - screen-recording
   - ai video
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/445d6c97ace4ef05d63cde4f33374d4b0783e76d1
 
 # Indoor Natural Lighting Tips
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -32,9 +28,114 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  A great looking vlog is a well-lit vlog. Not everybody can afford professional lighting equipment for their YouTube channels. It’s a big investment, especially if you think of your channel as a hobby. Sometimes even if you have a lighting kit you do not want to set up multiple lights and stands to every time you shoot a vlog entry. You might be shooting them every day. It is great to have lighting equipment, and it is also great to know when you can get around it.
 
+## How to Get Best Natural Lighting Indoors
+
+ Using a window as your main light source is a simple way to get high quality lighting on a budget. When it is bright outside a window is as powerful as any light you might have. So, besides just being cheap, windows can actually make your YouTube videos look amazing.
+
+#### 1\. Windows as Key Lights
+
+ When you shoot near a window you can treat that window the same as the key light in a three-point lighting set up.
+
+ In three-point lighting you have a key light, a fill light, and a main light. Your key light, in this case your window, is off to one side. It will cast a shadow over half of your face which you soften using your fill light. Your backlight is a light you put behind you to help you pop out of your background.
+
+ Another thing that can help you pop out from your background is focusing your keylight so that its light is only landing on you, not your background.
+
+ Rather than setting up professional lights for your fill and backlights try using household lamps or reflectors. Reflectors are used to bounce light from another source, so if you set one up opposite to the window it will redirect light back at the shaded side of your face.
+
+ Reflectors are very affordable, often around $20, but if you do not have one then you can use a sheet of aluminum foil.
+
+#### 2\. Windows as Front Lights
+
+ Vlogging while facing a window is a great way to get even lighting over your entire face. This is a great set up for makeup tutorials or other beauty vlogs. It can also work for opinion vloggers, or any other vlogging genre where the focus is on a stationary host, though.
+
+ The only issue that can arise when you use a window as a front light for your vlog is that you do not stand out from your background because the lighting is even on both you and it. This is not difficult to get around; you just need a backlight.
+
+ You can use a household lamp or a reflector as a backlight. The idea is that the light hitting you from behind will create a boarder around you that will make you pop out from the background of your shot.
+
+#### 3\. Windows as Backlights
+
+ It is usually a bad idea to use a window as a backlight because they are too bright. Shooting with a window behind you will not just give you a dark boarder, like a lamp or a reflector; it will completely transform you into a silhouette. This is an interesting effect in some situations, but not in a vlog where your viewers are expecting to be able to see you. It is sometimes possible to make this kind of shot work by increasing your exposure, but then you might end up with over-exposed footage. Pushing the ‘info’ button a couple times will allow you to check you exposure on most DSLRs.
+
+#### 4\. Diffusers
+
+ A diffuser is a screen of translucent fabric you can use to soften your light. The light coming from your window might be hard on your eyes, and setting up a diffuser between you and your window can help you not to blink. Often when reflectors come in colored sets one of the ‘colors’ will be translucent and you can use it as a diffuser.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+ A great looking vlog is a well-lit vlog. Not everybody can afford professional lighting equipment for their YouTube channels. It’s a big investment, especially if you think of your channel as a hobby. Sometimes even if you have a lighting kit you do not want to set up multiple lights and stands to every time you shoot a vlog entry. You might be shooting them every day. It is great to have lighting equipment, and it is also great to know when you can get around it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## How to Get Best Natural Lighting Indoors
+
+ Using a window as your main light source is a simple way to get high quality lighting on a budget. When it is bright outside a window is as powerful as any light you might have. So, besides just being cheap, windows can actually make your YouTube videos look amazing.
+
+#### 1\. Windows as Key Lights
+
+ When you shoot near a window you can treat that window the same as the key light in a three-point lighting set up.
+
+ In three-point lighting you have a key light, a fill light, and a main light. Your key light, in this case your window, is off to one side. It will cast a shadow over half of your face which you soften using your fill light. Your backlight is a light you put behind you to help you pop out of your background.
+
+ Another thing that can help you pop out from your background is focusing your keylight so that its light is only landing on you, not your background.
+
+ Rather than setting up professional lights for your fill and backlights try using household lamps or reflectors. Reflectors are used to bounce light from another source, so if you set one up opposite to the window it will redirect light back at the shaded side of your face.
+
+ Reflectors are very affordable, often around $20, but if you do not have one then you can use a sheet of aluminum foil.
+
+#### 2\. Windows as Front Lights
+
+ Vlogging while facing a window is a great way to get even lighting over your entire face. This is a great set up for makeup tutorials or other beauty vlogs. It can also work for opinion vloggers, or any other vlogging genre where the focus is on a stationary host, though.
+
+ The only issue that can arise when you use a window as a front light for your vlog is that you do not stand out from your background because the lighting is even on both you and it. This is not difficult to get around; you just need a backlight.
+
+ You can use a household lamp or a reflector as a backlight. The idea is that the light hitting you from behind will create a boarder around you that will make you pop out from the background of your shot.
+
+#### 3\. Windows as Backlights
+
+ It is usually a bad idea to use a window as a backlight because they are too bright. Shooting with a window behind you will not just give you a dark boarder, like a lamp or a reflector; it will completely transform you into a silhouette. This is an interesting effect in some situations, but not in a vlog where your viewers are expecting to be able to see you. It is sometimes possible to make this kind of shot work by increasing your exposure, but then you might end up with over-exposed footage. Pushing the ‘info’ button a couple times will allow you to check you exposure on most DSLRs.
+
+#### 4\. Diffusers
+
+ A diffuser is a screen of translucent fabric you can use to soften your light. The light coming from your window might be hard on your eyes, and setting up a diffuser between you and your window can help you not to blink. Often when reflectors come in colored sets one of the ‘colors’ will be translucent and you can use it as a diffuser.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+ A great looking vlog is a well-lit vlog. Not everybody can afford professional lighting equipment for their YouTube channels. It’s a big investment, especially if you think of your channel as a hobby. Sometimes even if you have a lighting kit you do not want to set up multiple lights and stands to every time you shoot a vlog entry. You might be shooting them every day. It is great to have lighting equipment, and it is also great to know when you can get around it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Get Best Natural Lighting Indoors
 
  Using a window as your main light source is a simple way to get high quality lighting on a budget. When it is bright outside a window is as powerful as any light you might have. So, besides just being cheap, windows can actually make your YouTube videos look amazing.
@@ -113,112 +214,11 @@ Follow @Richard Bennett
 
  A diffuser is a screen of translucent fabric you can use to soften your light. The light coming from your window might be hard on your eyes, and setting up a diffuser between you and your window can help you not to blink. Often when reflectors come in colored sets one of the ‘colors’ will be translucent and you can use it as a diffuser.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
- A great looking vlog is a well-lit vlog. Not everybody can afford professional lighting equipment for their YouTube channels. It’s a big investment, especially if you think of your channel as a hobby. Sometimes even if you have a lighting kit you do not want to set up multiple lights and stands to every time you shoot a vlog entry. You might be shooting them every day. It is great to have lighting equipment, and it is also great to know when you can get around it.
-
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## How to Get Best Natural Lighting Indoors
-
- Using a window as your main light source is a simple way to get high quality lighting on a budget. When it is bright outside a window is as powerful as any light you might have. So, besides just being cheap, windows can actually make your YouTube videos look amazing.
-
-#### 1\. Windows as Key Lights
-
- When you shoot near a window you can treat that window the same as the key light in a three-point lighting set up.
-
- In three-point lighting you have a key light, a fill light, and a main light. Your key light, in this case your window, is off to one side. It will cast a shadow over half of your face which you soften using your fill light. Your backlight is a light you put behind you to help you pop out of your background.
-
- Another thing that can help you pop out from your background is focusing your keylight so that its light is only landing on you, not your background.
-
- Rather than setting up professional lights for your fill and backlights try using household lamps or reflectors. Reflectors are used to bounce light from another source, so if you set one up opposite to the window it will redirect light back at the shaded side of your face.
-
- Reflectors are very affordable, often around $20, but if you do not have one then you can use a sheet of aluminum foil.
-
-#### 2\. Windows as Front Lights
-
- Vlogging while facing a window is a great way to get even lighting over your entire face. This is a great set up for makeup tutorials or other beauty vlogs. It can also work for opinion vloggers, or any other vlogging genre where the focus is on a stationary host, though.
-
- The only issue that can arise when you use a window as a front light for your vlog is that you do not stand out from your background because the lighting is even on both you and it. This is not difficult to get around; you just need a backlight.
-
- You can use a household lamp or a reflector as a backlight. The idea is that the light hitting you from behind will create a boarder around you that will make you pop out from the background of your shot.
-
-#### 3\. Windows as Backlights
-
- It is usually a bad idea to use a window as a backlight because they are too bright. Shooting with a window behind you will not just give you a dark boarder, like a lamp or a reflector; it will completely transform you into a silhouette. This is an interesting effect in some situations, but not in a vlog where your viewers are expecting to be able to see you. It is sometimes possible to make this kind of shot work by increasing your exposure, but then you might end up with over-exposed footage. Pushing the ‘info’ button a couple times will allow you to check you exposure on most DSLRs.
-
-#### 4\. Diffusers
-
- A diffuser is a screen of translucent fabric you can use to soften your light. The light coming from your window might be hard on your eyes, and setting up a diffuser between you and your window can help you not to blink. Often when reflectors come in colored sets one of the ‘colors’ will be translucent and you can use it as a diffuser.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
- A great looking vlog is a well-lit vlog. Not everybody can afford professional lighting equipment for their YouTube channels. It’s a big investment, especially if you think of your channel as a hobby. Sometimes even if you have a lighting kit you do not want to set up multiple lights and stands to every time you shoot a vlog entry. You might be shooting them every day. It is great to have lighting equipment, and it is also great to know when you can get around it.
-
-## How to Get Best Natural Lighting Indoors
-
- Using a window as your main light source is a simple way to get high quality lighting on a budget. When it is bright outside a window is as powerful as any light you might have. So, besides just being cheap, windows can actually make your YouTube videos look amazing.
-
-#### 1\. Windows as Key Lights
-
- When you shoot near a window you can treat that window the same as the key light in a three-point lighting set up.
-
- In three-point lighting you have a key light, a fill light, and a main light. Your key light, in this case your window, is off to one side. It will cast a shadow over half of your face which you soften using your fill light. Your backlight is a light you put behind you to help you pop out of your background.
-
- Another thing that can help you pop out from your background is focusing your keylight so that its light is only landing on you, not your background.
-
- Rather than setting up professional lights for your fill and backlights try using household lamps or reflectors. Reflectors are used to bounce light from another source, so if you set one up opposite to the window it will redirect light back at the shaded side of your face.
-
- Reflectors are very affordable, often around $20, but if you do not have one then you can use a sheet of aluminum foil.
-
-#### 2\. Windows as Front Lights
-
- Vlogging while facing a window is a great way to get even lighting over your entire face. This is a great set up for makeup tutorials or other beauty vlogs. It can also work for opinion vloggers, or any other vlogging genre where the focus is on a stationary host, though.
-
- The only issue that can arise when you use a window as a front light for your vlog is that you do not stand out from your background because the lighting is even on both you and it. This is not difficult to get around; you just need a backlight.
-
- You can use a household lamp or a reflector as a backlight. The idea is that the light hitting you from behind will create a boarder around you that will make you pop out from the background of your shot.
-
-#### 3\. Windows as Backlights
-
- It is usually a bad idea to use a window as a backlight because they are too bright. Shooting with a window behind you will not just give you a dark boarder, like a lamp or a reflector; it will completely transform you into a silhouette. This is an interesting effect in some situations, but not in a vlog where your viewers are expecting to be able to see you. It is sometimes possible to make this kind of shot work by increasing your exposure, but then you might end up with over-exposed footage. Pushing the ‘info’ button a couple times will allow you to check you exposure on most DSLRs.
-
-#### 4\. Diffusers
-
- A diffuser is a screen of translucent fabric you can use to soften your light. The light coming from your window might be hard on your eyes, and setting up a diffuser between you and your window can help you not to blink. Often when reflectors come in colored sets one of the ‘colors’ will be translucent and you can use it as a diffuser.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
 
@@ -248,5 +248,23 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-cringe-worthy-tweets-the-collection-for-2024/"><u>[New] Cringe-Worthy Tweets The Collection for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastering-film-capture-on-mac-pc-and-smartphones/"><u>[New] In 2024, Mastering Film Capture on Mac, PC & Smartphones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-simple-systems-a-step-by-step-guide-to-documenting-google-hangoutsmeet-for-2024/"><u>[New] Simple Systems A Step-by-Step Guide to Documenting Google Hangouts/Meet for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-skydrives-frugal-option-minimal-price-maximum-space/"><u>[New] Skydrive's Frugal Option Minimal Price, Maximum Space</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-seamless-obs-broadcast-setup-on-fb/"><u>[Updated] 2024 Approved Seamless OBS Broadcast Setup on FB</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastery-levels-of-quantum-hdr-applications/"><u>[Updated] Mastery Levels of Quantum HDR Applications</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-obscure-screen-issue-in-youtube/"><u>[Updated] Navigating the Obscure Screen Issue in Youtube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revamping-educational-experiences-through-vr/"><u>[Updated] Revamping Educational Experiences Through VR</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-ipads-artistic-haven-top-8-sketch-innovators/"><u>2024 Approved IPad's Artistic Haven Top 8 Sketch Innovators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-natural-landscapes-essential-templates-to-improve-your-film-craft/"><u>2024 Approved Natural Landscapes Essential Templates to Improve Your Film Craft</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photoshop-basics-for-beginners-10-must-know-tricks/"><u>2024 Approved Photoshop Basics for Beginners 10 Must-Know Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-closing-several-programs-at-once-in-windows/"><u>Efficient Methods: Closing Several Programs at Once in Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-one-minute-color-concealment/"><u>In 2024, One-Minute Color Concealment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/samsung-bd-j5900-overhaul-whats-new-in-2024/"><u>Samsung BD-J5900 Overhaul What's New , In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-recurrent-microsoft-edge-problems-on-windows-11-systems/"><u>Step-by-Step Fixes for Recurrent Microsoft Edge Problems on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-your-smartphone-into-a-windows-11-webcam/"><u>Transforming Your Smartphone Into a Windows 11 Webcam</u></a></li>
+</ul></div>
 

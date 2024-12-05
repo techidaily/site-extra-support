@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Nostalgic Shots  IPhone X Retro Photo Session\""
-date: 2024-11-18T16:38:51.170Z
-updated: 2024-11-25T22:34:26.199Z
+date: 2024-12-01T19:40:49.734Z
+updated: 2024-12-05T19:47:11.595Z
 tags: 
   - screen-recording
   - ai video
@@ -31,7 +31,7 @@ Until recently, iPhone cameras didn't have lenses that enabled its users to prod
 In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips for iPhone portrait photos
@@ -49,10 +49,6 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Image resource: 9to5mac
 
 Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn't allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don't point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn't perform great in low-light conditions.
@@ -68,10 +64,6 @@ Image resource: imore
 Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera's Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
 
@@ -93,6 +85,10 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
 #### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
@@ -102,6 +98,10 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 **Compatible with:** iOS 8.0 or later
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
@@ -114,7 +114,7 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
@@ -122,7 +122,7 @@ The plethora of blur options provided by the Defocus camera app is impressive. D
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -140,18 +140,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-luminarx-the-freepaid-lightroom-rival-list/"><u>[New] LuminarX The Free/Paid Lightroom Rival List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-luts-galore-complimentary-package-now-available-to-dji-fans/"><u>[New] LUTs Galore - Complimentary Package Now Available to DJI Fans</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-complete-zoom-guidebook-for-sessions-for-2024/"><u>[New] The Complete Zoom Guidebook for Sessions for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-elevate-video-flair-advanced-techniques-in-youtube-studio-editor/"><u>[Updated] Elevate Video Flair Advanced Techniques in YouTube Studio Editor</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-new-horizons-in-photography-lg-360-camera-update/"><u>[Updated] New Horizons in Photography - LG 360 Camera Update</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1-concerned-about-data-safety-what-happens-if-you-upgrade-your-hard-drive/"><u>1. Concerned About Data Safety: What Happens If You Upgrade Your Hard Drive?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-instantly-enhance-your-facebook-experience-with-collage/"><u>2024 Approved Instantly Enhance Your Facebook Experience with Collage</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hassle-free-installation-of-hp-envy-5055-drivers/"><u>Hassle-Free Installation of HP Envy 5055 Drivers</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigate-the-digital-landscape-discover-these-10-sites-of-3d-graffiti-brilliance/"><u>In 2024, Navigate the Digital Landscape Discover These 10 Sites of 3D Graffiti Brilliance</u></a></li>
-<li><a href="https://win-dash.techidaily.com/keep-your-devices-connected-latest-microsoft-bluetooth-driver-updates-available-for-all-windows-versions-win-101187/"><u>Keep Your Devices Connected - Latest Microsoft Bluetooth Driver Updates Available for All Windows Versions (Win 10/11/8/7)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ating-complex-editing-a-practical-guide-for-youtube-video-creators-on-pc/"><u>Navigating Complex Editing A Practical Guide for YouTube Video Creators on PC</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/quick-and-easy-mastering-the-conversion-from-flv-to-mp3-in-just-three-simple-steps/"><u>Quick & Easy: Mastering the Conversion From FLV to MP3 in Just Three Simple Steps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-newcomers-elite-entryway-list-for-zooids/"><u>[New] Newcomers’ Elite Entryway List for Zooids</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-professionals-secret-utilizing-windows-movie-maker-expertly-in-windows-8-systems/"><u>[Updated] 2024 Approved The Professional's Secret Utilizing Windows Movie Maker Expertly in Windows 8 Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-comprehensively-covering-minecraft-playback-setup-for-2024/"><u>[Updated] Comprehensively Covering Minecraft Playback Setup for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-dramatically-rewind-your-snaps-the-snapchat-way-for-2024/"><u>[Updated] Dramatically Rewind Your Snaps The Snapchat Way for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-insights-into-instagrams-maxed-out-videos-for-2024/"><u>[Updated] Insights Into Instagram's Maxed-Out Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photoshop-starter-kit-10-crucial-tips-to-know/"><u>[Updated] Photoshop Starter Kit 10 Crucial Tips to Know</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-irreversible-integration-of-tiktok-profile-linking-technique/"><u>2024 Approved Irreversible Integration of TikTok Profile Linking Technique</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-education-beyond-video-lessons/"><u>2024 Approved Navigating Education Beyond Video Lessons</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-precision-and-vividness-with-the-benq-sw320-4k-monitor/"><u>2024 Approved Precision & Vividness with the BenQ SW320 4K Monitor</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-generate-interest-making-your-own-youtube-intros/"><u>In 2024, Generate Interest Making Your Own YouTube Intros</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme GT Neo 5 SE?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-multitasking-mastery-activities-while-embracing-soundtracks/"><u>In 2024, Multitasking Mastery Activities While Embracing Soundtracks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-sharpen-your-snaps-the-elite-eight-of-grids-and-frames/"><u>In 2024, Sharpen Your Snaps The Elite Eight of Grids and Frames</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-finding-pixel-tone-sites-for-2024/"><u>Mastering the Art of Finding Pixel Tone Sites for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-complexities-of-chroma-removal-kinemaster-edition-for-2024/"><u>Navigating the Complexities of Chroma Removal (KineMaster Edition) for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/silent-scribes-unveiling-the-best-speech-to-text-tools/"><u>Silent Scribes Unveiling the Best Speech-to-Text Tools</u></a></li>
 </ul></div>
 

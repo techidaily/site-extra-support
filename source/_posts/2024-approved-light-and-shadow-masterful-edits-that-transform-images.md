@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Light & Shadow  Masterful Edits That Transform Images\""
-date: 2024-07-30T05:28:44.219Z
-updated: 2024-07-31T05:28:44.219Z
+date: 2024-12-02T20:05:00.545Z
+updated: 2024-12-05T19:04:02.842Z
 tags: 
   - screen-recording
   - ai video
@@ -36,9 +36,6 @@ Luckily, every photography editing software offers the primary crop tool. You ca
 
 ![crop the image](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Presets are your Friends
 
 When processing multiple images at once, the editing process can be tiring and bothersome. To help you out, most photography editing software comes with a range of presets and tools you can apply to your photos. If all your images need similar changes, these presets can come in handy. You can also create the perfect combination of settings yourself and apply them instantly.
@@ -46,6 +43,10 @@ When processing multiple images at once, the editing process can be tiring and b
  Image name: photography-editing-tips-2.jpg" alt="manga black white effect" class="img-fluid" />
 
 Image alt: use presets for image editing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Play With the Colors
 
@@ -56,13 +57,22 @@ If you train your eye to see these hidden colors, you can easily make your image
 ![play with the image colors](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Adjust the Contrast
 
 One of the main reasons your images are looking flat is low contrast. Without a clear difference between foregrounds and backgrounds, the image can seemingly lack focus. You can play with the blacks and whites to adjust the contrast in your photo. Some of the best photography editing software offers a contrast slider that can help refine your image.
 
 ![adjust the image contrast](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Try Overlays
 
@@ -73,34 +83,27 @@ Overlays are also useful for creating double exposure effects in your image. If 
 ![apply overlays to image](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Straighten the Horizon
 
 Want to create a balanced and stable look for your image? You can easily achieve that by straightening the lines in your image. Although a simple trick, it is often overlooked and can impact the overall symmetry of your image.
 
 You can choose a baseline in your image and then adjust it to straighten the image. Setting the skew during post-processing can help you create impactful images. Usually, the horizon is used as the baseline that needs straightening. You can also choose any other line in your photo and make use of the grid to rotate your image until it is in order.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![straighten the horizon](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Split the Tone
 
 During the photography editing process, a little split-tone can go a long way. This means you can add specific colors to the shadows and highlights of your image. You can play with these colors to make your photos fall on the warm or cold end of the spectrum. Split tone can get out of hand pretty fast, so remember to keep it subtle.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use split tone feature](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 8\. Know your White Balance
 
 Adjusting your image's white balance is crucial for the photography editing process. All the light sources around you have their specific temperatures. They can thus bring a specific color temperature to the photo. Cameras are usually set at auto white balance, but you can alter that in the post-processing to satisfy your requirements.
@@ -109,29 +112,24 @@ While JPEG images can somewhat bend to a specific color temperature, RAW files o
 
 ![adjust image white balance](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9\. Pay Attention to Details
 
 Being a photographer means having to keep a close eye on the details. No matter what type of photographs you are capturing, everything from nature to headshots requires keen attention to detail. One way of doing so is to remove spots or any background clutter from your picture.
 
 Most of the prime photography editing apps offer spot removal tools. You will often encounter images where some careful adjustments are inherent. You can remove blemishes, stains, or any other distracting element from your image. This will help bring a clean and focused look to your picture.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![remove the spots from image](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 10\. Don’t Take It Too Far
 
 It is quite easy to get carried away during photography editing. Remember not to take your editing a step too far. Try to keep the natural element of the image intact and avoid overdoing the contrast and color saturation. Heavy editing can often cause a perfectly good image to fall apart. Steer clear of unnatural editing and strong color grading.
 
 ![do natural image editing](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Wrapping Up
 
 The process of image editing is not always a piece of cake. It requires dedication, determination, and some sharp skills which are not easy to acquire. But with the right tips and techniques at hand, you can turn almost any picture into a cinematic masterpiece.
@@ -160,5 +158,20 @@ You can try the photography editing tips mentioned above to enhance your images 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-prodigious-cameras-for-slow-motion-delight/"><u>[New] Prodigious Cameras for Slow-Motion Delight</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-earning-potential-for-creators-in-youtube-ads/"><u>[Updated] Earning Potential for Creators in YouTube Ads?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-secrets-to-mastering-photosvideos-in-windows-11/"><u>[Updated] Secrets to Mastering Photos/Videos in Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-eight-camera-line-up-for-professional-cinematography/"><u>2024 Approved Elite Eight Camera Line-Up for Professional Cinematography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pixels-personal-soundtrack-a-selection-guide/"><u>2024 Approved Pixel's Personal Soundtrack A Selection Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/cat-s42-fortified-telephone-scrutiny-exceptional-armor-yet-restricted-rapidity-for-users/"><u>CAT S42 Fortified Telephone Scrutiny: Exceptional Armor, Yet Restricted Rapidity for Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/head-to-head-battle-which-is-better-switch-lite-or-switch-oled/"><u>Head-to-Head Battle: Which Is Better, Switch Lite or Switch OLED?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-y78plus-t1-edition-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo Y78+ (T1) Edition?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-out-the-100-complete-theta-s-study/"><u>In 2024, Inside Out The 100% Complete Theta S Study</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-social-media-marketing-a-10-step-guide-to-success/"><u>In 2024, Mastering Social Media Marketing A 10-Step Guide to Success</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-premier-live-concert-streamers/"><u>In 2024, Premier Live Concert Streamers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplified-access-how-to-dive-into-youtube-comment-threads-for-2024/"><u>Simplified Access How to Dive Into YouTube Comment Threads for 2024</u></a></li>
+</ul></div>
 

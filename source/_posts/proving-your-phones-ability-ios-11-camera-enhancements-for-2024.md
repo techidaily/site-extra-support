@@ -1,7 +1,7 @@
 ---
 title: "\"Proving Your Phone's Ability  IOS 11 Camera Enhancements for 2024\""
-date: 2024-11-23T22:01:15.660Z
-updated: 2024-11-25T20:51:01.783Z
+date: 2024-12-04T16:20:14.162Z
+updated: 2024-12-05T17:32:49.513Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,10 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
 
 ![](https://images.wondershare.com/filmora/article-images/grid-mode-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Macworld
 
  If you want to improve your photo taking skills, you must start paying attention to picture composition. Fortunately, the iPhone camera app offers the Grid Mode that divides the screen into nine equal parts. The grid will provide assistance in placing the subjects of your photos at the very center of the picture or when learning how to use the rule of thirds, one of the most basic composition techniques in photography.
@@ -47,10 +51,6 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
 #### 2\. Set the Focus and Exposure manually
 
 ![](https://images.wondershare.com/filmora/article-images/set-focus-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image resource: iPhone Photography School
 
@@ -78,6 +78,10 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
 
 ![](https://images.wondershare.com/filmora/article-images/qr-detection-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: 9to5Mac
 
  QR codes are actually quite convenient because they save you the trouble of typing the URL by yourself. The iOS 11 is the first iPhone OS with the ability to read QR codes. All you need to do is open your camera app and point it in the direction of the QR code you want to view, and your iPhone X will do the rest.
@@ -98,20 +102,20 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
 
 ![](https://images.wondershare.com/filmora/article-images/dual-image-stabilization-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Keeping the moving objects in focus is a major concern regardless of the camera you are using. We were excited about the [dual camera feature in iPhone 7](https://tools.techidaily.com/wondershare/filmora/download/), now the Dual Optical Image Stabilization feature in iOS 11 reduces motion blur and it also decreases the impact the camera shakes have on your photos. iPhone 8's Optical Image Stabilization has been improved on iPhone X and it works alongside the image sensor to ensure that all pictures taken with this device are razor sharp.
 
 #### 10\. Portrait Lighting Lets You Adjust Light to Best Fit Your Subject - iPhone X/8
 
 ![](https://images.wondershare.com/filmora/article-images/portrait-lighting-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  iPhone 8 Plus and iPhone X offer a new feature, specifically designed to let you find the perfect lighting for the subject of your photos. This feature doesn't work like a filter, but rather like a real-time light meter, that calculates the optimum light values on the face of the person or persons depicted in a photo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post Production Software for iPhone photography
@@ -120,14 +124,10 @@ thumbnail: https://www.lifewire.com/thmb/MjDTenaULco1gu34wPM4hMvRH2g=/540x405/fi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -145,20 +145,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-photo-prospectus-top-10-professional-lens-choices/"><u>[New] Photo Prospectus Top 10 Professional Lens Choices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sculpting-soundscapes-advanced-techniques-for-flawless-transition-sequences-audacity/"><u>[New] Sculpting Soundscapes Advanced Techniques for Flawless Transition Sequences (Audacity)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-virtual-reality-epics-the-most-captivating-sci-fi-cinematic-worlds/"><u>[New] Virtual Reality Epics The Most Captivating Sci-Fi Cinematic Worlds</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-seamless-integration-from-gopro-to-popular-social-media-platforms/"><u>[Updated] In 2024, Seamless Integration From Gopro to Popular Social Media Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-simplifying-the-art-of-gif-production/"><u>[Updated] Simplifying the Art of GIF Production</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-virtual-voyages-exploring-new-genre-for-2024/"><u>[Updated] Virtual Voyages Exploring New Genre for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-ensuring-audio-clarity-amidst-remote-recording-challenges/"><u>2024 Approved Ensuring Audio Clarity Amidst Remote Recording Challenges</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-integrating-media-files-for-direct-transfer-to-iphone/"><u>2024 Approved Integrating Media Files for Direct Transfer to iPhone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-invisible-strategies-to-avoid-home-school-vids/"><u>2024 Approved Invisible Strategies to Avoid Home School Vids</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/3g-network-discontinuation-uncover-which-gadgets-are-impacted-and-whether-you-need-to-upgrade/"><u>3G Network Discontinuation: Uncover Which Gadgets Are Impacted and Whether You Need to Upgrade</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/conquering-low-light-with-iphones-advanced-hdr-techniques/"><u>Conquering Low Light with iPhone’s Advanced HDR Techniques</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-nubia-red-magic-8s-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Nubia Red Magic 8S Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://extra-support.techidaily.com/make-a-splash-impressive-video-edits-with-windows-10s-tools-for-2024/"><u>Make a Splash Impressive Video Edits with Windows 10'S Tools for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/newcomers-guide-profiting-from-live-streaming-on-periscope-for-2024/"><u>Newcomer’s Guide Profiting From Live Streaming on Periscope for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-we-know-about-the-apple-car-so-far-exploring-projections-for-price-points-arrival-dates-and-technical-details/"><u>What We Know About the Apple Car So Far: Exploring Projections for Price Points, Arrival Dates, and Technical Details</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pivotal-software-in-shaping-a-vtubers-sound-identity/"><u>[New] Pivotal Software in Shaping a Vtuber's Sound Identity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sky-warriors-guide-to-drone-racing-plus-selecting-premier-fpvs/"><u>[New] Sky Warriors' Guide to Drone Racing + Selecting Premier FPVs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-premier-roundup-2023s-top-free-video-editing-apps/"><u>[Updated] In 2024, Premier Roundup 2023'S Top Free Video Editing Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-definitive-srt-file-generation-manual/"><u>[Updated] In 2024, The Definitive SRT File Generation Manual</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-creative-and-captivating-titles-ready/"><u>[Updated] Quick, Creative, and Captivating Titles Ready</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-templates-for-introducing-panzoids/"><u>2024 Approved Optimal Templates for Introducing Panzoids</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-ranking-android-6-premier-podcast-platforms/"><u>2024 Approved Ranking Android 6 Premier Podcast Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-horizon-musks-hidden-project/"><u>AI Horizon: Musk's Hidden Project</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-the-innovative-bike-suv-a-revolutionary-alternative-to-cars-discover-the-unexpected/"><u>Is the Innovative 'Bike SUV': A Revolutionary Alternative to Cars? Discover the Unexpected!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-your-craft-selecting-the-best-luts-for-lightroom-photos-for-2024/"><u>Master Your Craft Selecting the Best LUTs for LightRoom Photos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/socialvideo-saver-messenger-edition/"><u>SocialVideo Saver – Messenger Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/spectral-vision-next-gen-drone-review-for-2024/"><u>Spectral Vision Next-Gen Drone Review for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/total-content-deletion-in-emeditor-mastering-the-text-editors-clean-slate-feature/"><u>Total Content Deletion in EmEditor: Mastering the Text Editor's Clean Slate Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-window-experience-integrate-additional-menus/"><u>Transform Your Window Experience: Integrate Additional Menus</u></a></li>
 </ul></div>
 

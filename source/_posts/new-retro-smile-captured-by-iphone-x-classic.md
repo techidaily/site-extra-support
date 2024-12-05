@@ -1,7 +1,7 @@
 ---
 title: "[New] Retro Smile Captured by iPhone X Classic"
-date: 2024-11-19T16:15:50.450Z
-updated: 2024-11-26T01:17:10.712Z
+date: 2024-11-28T19:17:50.732Z
+updated: 2024-12-05T18:11:17.954Z
 tags: 
   - screen-recording
   - ai video
@@ -31,7 +31,7 @@ Until recently, iPhone cameras didn't have lenses that enabled its users to prod
 In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips for iPhone portrait photos
@@ -40,7 +40,7 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
@@ -54,7 +54,7 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image resource: 9to5mac
@@ -72,10 +72,6 @@ Image resource: imore
 Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera's Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
 
@@ -118,12 +114,16 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -140,21 +140,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-innovative-approaches-to-producing-impressive-audio-teasers/"><u>[New] In 2024, Innovative Approaches to Producing Impressive Audio Teasers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/op-10-network-for-entrepreneurs-how-they-conquered-channels/"><u>[New] Top 10 Network for Entrepreneurs How They Conquered Channels</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revolutionary-ios-gaming-apples-best-vr-apps/"><u>[Updated] Revolutionary iOS Gaming Apple's Best VR Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sonic-enhancements-for-whatsapp-updates/"><u>[Updated] Sonic Enhancements for WhatsApp Updates</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speedy-file-assessment-on-windows-pcs/"><u>[Updated] Speedy File Assessment on Windows PCs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-savvy-soccer-snatching-how-to-record-and-cut-cheap/"><u>2024 Approved Savvy Soccer Snatching How to Record and Cut Cheap</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-tips-and-tricks-for-iphone-low-light-photography/"><u>2024 Approved Tips and Tricks for iPhone Low Light Photography</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-tecno-phantom-v-fold-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Tecno Phantom V Fold?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pngjpeg-images-to-pdf-ipad-conversion-essentials/"><u>In 2024, PNG/JPEG Images to PDF - iPad Conversion Essentials</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oneplus-nord-ce-3-lite-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from OnePlus Nord CE 3 Lite 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-free-c-span-video-acquisition-for-2024/"><u>Mastering the Art of Free C-Span Video Acquisition for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-search-for-prime-video-making-experts/"><u>The Search for Prime Video Making Experts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-xiaomi-redmi-a2plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Xiaomi Redmi A2+ to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-vivo-y02t-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo Y02T Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comedic-calls-ringtones-best-picks-online/"><u>[New] Comedic Calls Ringtones' Best Picks Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pinnacle-graphics-cards-for-4k-entertainment/"><u>[New] Pinnacle Graphics Cards for 4K Entertainment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-audio-narrative-compositions/"><u>[New] Premium Audio Narrative Compositions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfectly-uploading-srt-files-a-comprehensively-reviewed-methodology/"><u>[Updated] Perfectly Uploading SRT Files A Comprehensively Reviewed Methodology</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stellar-spectrum-10-sites-cutting-edge-of-hd-astronomy/"><u>[Updated] Stellar Spectrum 10 Sites Cutting-Edge of HD Astronomy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-must-have-devices-for-exploration-videos/"><u>2024 Approved Must-Have Devices for Exploration Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-inspired-technologies-streamlining-web-interactions/"><u>Cookiebot-Inspired Technologies: Streamlining Web Interactions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969702251-get-your-zebra-gk420d-printer-up-and-running-secure-the-latest-drivers-here/"><u>Get Your Zebra GK420D Printer Up and Running – Secure the Latest Drivers Here</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-peak-level-hd-capture-best-screen-recorder-innovations-unveiled/"><u>In 2024, Peak-Level HD Capture Best Screen Recorder Innovations Unveiled</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/instantly-post-videos-on-twitter-using-phones-skipping-retweets-for-2024/"><u>Instantly Post Videos on Twitter Using Phones, Skipping Retweets for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/join-digiartys-milestone-18th-year-with-an-unforgettable-exclusive-event/"><u>Join Digiarty's Milestone 18Th Year with an Unforgettable Exclusive Event!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leverage-both-platforms-youtube-and-facebook-integration-for-2024/"><u>Leverage Both Platforms YouTube and Facebook Integration for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlock-the-full-potential-of-your-h-videos-on-instagram-tv/"><u>Unlock the Full Potential of Your H-Videos on Instagram TV</u></a></li>
 </ul></div>
 

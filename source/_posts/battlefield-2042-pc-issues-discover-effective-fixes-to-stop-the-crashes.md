@@ -1,7 +1,7 @@
 ---
 title: Battlefield 2042 PC Issues? Discover Effective Fixes to Stop the Crashes!
-date: 2024-11-24T21:25:26.186Z
-updated: 2024-11-25T21:41:23.184Z
+date: 2024-12-04T17:38:10.871Z
+updated: 2024-12-05T16:23:55.901Z
 tags:
   - win11
   - win10
@@ -41,16 +41,16 @@ thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Select the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-the-game-as-an-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart the game to test. If the crashes reoccur, continue to the second fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Use the dedicated GPU
@@ -60,24 +60,25 @@ thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a7
 1. In the Windows search box, type**graphics setting** s and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-1.jpg)
 2. Click**Browse** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-2.jpg)
 3. Navigate to the game’s installation folder and add the Deathloop.exe file.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card.jpg)
 4. Click**Options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-3.jpg)
 5. Select**High performance** and click**Save** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -93,17 +94,17 @@ thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a7
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Reboot your computer after the driver update completes, and check if Deathloop still crashes. If so, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Temporarily disable third-party software
 
@@ -115,6 +116,10 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/right-click-task-bar-task-manager.jpg)
 2. Under the Process tab, right-click a program you’d like to close and click **End task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-unnecessary-programs-running-in-the-background.jpg)
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
@@ -122,7 +127,7 @@ You can also close all unnecessary apps in the background. Here is how:
  Now that you should only leave Deathloop and your game launcher running. Test if you’re able to play the game as expected. If not, check out two more fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
@@ -141,7 +146,7 @@ You can also close all unnecessary apps in the background. Here is how:
  It will take several minutes for the detecting and repairing to complete. Once done, relaunch Deathloop to check whether the issue gets fixed. If not, move on to the last solution below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Turn off overlay
@@ -154,10 +159,6 @@ You can also close all unnecessary apps in the background. Here is how:
 2. Click**Steam** at the top right and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-1.jpg)
 3. Select**In-Game** from the left. Then untick**Enable the Steam Overlay while in-game** , and click **OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
 
@@ -191,20 +192,24 @@ You can also close all unnecessary apps in the background. Here is how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-building-trust-key-elements-in-forging-youtube-brand-relationships/"><u>[New] Building Trust Key Elements in Forging Youtube Brand Relationships</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-peek-into-innovation-with-microsofts-hololens-review/"><u>[New] Peek Into Innovation with Microsoft's HoloLens Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-stardom-awaits-navigate-through-these-9-instagram-insights/"><u>[New] Stardom Awaits! Navigate Through These 9 Instagram Insights</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-androidios-essentials-cutting-edge-video-montage-software-for-2024/"><u>[Updated] Android/iOS Essentials Cutting-Edge Video Montage Software for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-live-your-dreams-insights-into-the-panasonic-hx-a1-cam/"><u>[Updated] Live Your Dreams Insights Into the Panasonic HX-A1 Cam</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-mastering-visual-storytelling-with-free-images-from-these-esteemed-online-portals/"><u>[Updated] Mastering Visual Storytelling with Free Images From These Esteemed Online Portals</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-jokesterjuxtaposer/"><u>2024 Approved JokesterJuxtaposer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimize-sound-clarity-top-audio-interface-recommendations/"><u>2024 Approved Optimize Sound Clarity Top Audio Interface Recommendations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-simplify-your-workflow-converting-spoken-language-to-text-in-word/"><u>2024 Approved Simplify Your Workflow Converting Spoken Language to Text in Word</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/cadence-in-clips-the-guide-to-musical-integration-on-ig-for-2024/"><u>Cadence in Clips The Guide to Musical Integration on IG for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-motorola-moto-g23-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Motorola Moto G23 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfect-your-soundtracks-essential-edits-for-crafting-podcasts-in-garageband/"><u>In 2024, Perfect Your Soundtracks Essential Edits for Crafting Podcasts in GarageBand</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209722614-9781510754041-moon-energy/"><u>Moon Energy | Free Book</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-art-of-stabilizing-aerial-cameras-choosing-a-drone-gimbal/"><u>The Art of Stabilizing Aerial Cameras Choosing a Drone Gimbal</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-top-10-most-impressive-4k-video-examples/"><u>Updated The Top 10 Most Impressive 4K Video Examples</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-fireshadow-video-recording-for-2024/"><u>[New] Fireshadow Video Recording for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-harmonizing-visuals-and-audio-in-unboxing-videos-for-2024/"><u>[New] Harmonizing Visuals & Audio in Unboxing Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-power-beats-for-peak-performance-best-music-to-workout-to/"><u>[New] Power Beats for Peak Performance Best Music to Workout To</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-securing-snapshots-innovative-approaches-to-face-pixilation/"><u>[New] Securing Snapshots Innovative Approaches to Face Pixilation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-walkthrough-of-google-docs-text-conversion/"><u>[New] Step-by-Step Walkthrough of Google Docs Text Conversion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-polarrs-full-spectrum-tools-your-go-to-guide-to-editing-excellence/"><u>[Updated] Polarr's Full Spectrum Tools - Your Go-To Guide to Editing Excellence</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-scripted-time-warps-a-cinematic-approach/"><u>[Updated] Scripted Time Warps A Cinematic Approach</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smart-shopping-for-quality-budget-friendly-4k-cameras/"><u>[Updated] Smart Shopping for Quality Budget-Friendly 4K Cameras</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-overview-harnessing-power-of-openais-api/"><u>Comprehensive Overview: Harnessing Power of OpenAI's API</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013240994-dayz-stability-solutions-effortless-ways-to-stop-the-crashes/"><u>DayZ Stability Solutions: Effortless Ways to Stop the Crashes!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-guide-extracting-youtube-captions-easily-on-your-mac/"><u>Effortless Guide: Extracting YouTube Captions Easily on Your Mac</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-evaluating-max-360-and-hero-11-the-ultimate-gopro-video-battle/"><u>In 2024, Evaluating Max 360 & Hero 11 The Ultimate GoPro Video Battle</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prodigious-story-making-worlds-top-8-institutions/"><u>In 2024, Prodigious Story Making World's Top 8 Institutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/outstanding-20-anime-opening-melodies-for-2024/"><u>Outstanding 20 Anime Opening Melodies for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfecting-captions-adding-words-to-images-in-oses-for-2024/"><u>Perfecting Captions Adding Words to Images in OSes for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-poco-f5-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Poco F5 5G</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/resolutions-compromises-comment-annuler-la-suppression-dun-jeu-pc-par-valve-corporation/"><u>Résolutions Compromises - Comment Annuler La Suppression D'un Jeu PC Par Valve Corporation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-computing-experts-unveiling-the-latest-in-hardware-technology/"><u>Tom's Computing Experts: Unveiling the Latest in Hardware Technology</u></a></li>
 </ul></div>
 
