@@ -1,7 +1,7 @@
 ---
 title: "\"Stills Extraction Procedure  Windows 11 Photos Guide for 2024\""
-date: 2024-12-03T18:32:23.393Z
-updated: 2024-12-05T17:33:38.310Z
+date: 2024-12-06T18:41:58.788Z
+updated: 2024-12-11T16:52:52.101Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,6 @@ In this article, you will learn how to save photo from Windows 10 Photos app and
 * [**Part2: Why I can’t save photo from video**](#part2)
 * [**Part3: Alternative way to save photo from video**](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to save photo from Windows 10 Photos app
 
 In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
@@ -52,7 +48,7 @@ Creating a living image:
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now, you can see the living picture by tapping ‘Play’ button.
@@ -65,14 +61,10 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Why I can’t save photo from video
 
@@ -89,7 +81,7 @@ Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Upd
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
@@ -104,6 +96,10 @@ Here comes the guide –
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
@@ -112,6 +108,10 @@ Here comes the guide –
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -128,14 +128,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-expert-guide-to-quick-screen-captures-on-mac-using-shortcuts/"><u>[New] 2024 Approved Expert Guide to Quick Screen Captures on Mac Using Shortcuts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-limitless-text-in-format-best-free-psd/"><u>[New] Limitless Text in Format Best FREE PSD</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pinterest-content-powered-free-high-speed-download-apps-reviewed/"><u>[New] Pinterest Content Powered Free, High-Speed Download Apps Reviewed</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-unleashing-the-power-of-pip-videos-with-sierras-os-advantages/"><u>[New] Unleashing the Power of PIP Videos with Sierra's OS Advantages</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-reinforcing-photo-viewing-functionality-with-windows-10-solutions/"><u>[Updated] Reinforcing Photo Viewing Functionality with Windows 10 Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-solving-isolated-sound-issue/"><u>[Updated] Solving Isolated Sound Issue</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-tecno-pova-5-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Tecno Pova 5 Pro Device</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-reviving-winget-in-w11/"><u>The Ultimate Guide: Reviving Winget in W11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-superior-frame-rate-in-languid-videos/"><u>[New] In 2024, Superior Frame Rate in Languid Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-music-for-imovie/"><u>[New] Music for iMovie</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-radiant-tone-refactoring-pro/"><u>[New] Radiant Tone Refactoring Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-innovate-your-screenshots-unveiling-ezvides-screen-casting-features-for-2024/"><u>[Updated] Innovate Your Screenshots Unveiling EZvide's Screen Casting Features for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-must-see-asmr-talents-online-for-2024/"><u>[Updated] Must-See ASMR Talents Online for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sprinting-to-victory-key-moments-from-2-omics-games/"><u>[Updated] Sprinting to Victory Key Moments From 2 Omics Games</u></a></li>
+<li><a href="https://facebook.techidaily.com/bridging-platforms-instagrams-new-whatsapp-2fa-strategy/"><u>Bridging Platforms: Instagram's New WhatsApp 2FA Strategy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/composite-skies-a-drone-video-editors-strategic-guide/"><u>Composite Skies A Drone Video Editor’s Strategic Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-audio-clarity-simplified-techniques-for-noise-elimination-in-audacity-and-filmorapro/"><u>In 2024, Mastering Audio Clarity Simplified Techniques for Noise Elimination in Audacity & FilmoraPro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-no-cost-all-benefits-with-fcp-downloads/"><u>In 2024, No Cost, All Benefits with FCP Downloads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-picks-essential-mp4-lists/"><u>In 2024, Premier Picks Essential MP4 Lists</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sketch-like-a-pro-top-10-drawing-apps-for-android-artists/"><u>In 2024, Sketch Like a Pro Top 10 Drawing Apps for Android Artists</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-smile-and-share-easy-memes-via-kinemaster/"><u>In 2024, Smile and Share Easy Memes via KineMaster</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/jokesterjuxtaposer-for-2024/"><u>JokesterJuxtaposer for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/live-streamers-predicament-pick-between-wirecast-and-obs-for-2024/"><u>Live Streamer's Predicament Pick Between Wirecast and OBS for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-to-video-upgrade-version-22/"><u>Step-by-Step Guide to Video Upgrade - Version 2.2</u></a></li>
 </ul></div>
 

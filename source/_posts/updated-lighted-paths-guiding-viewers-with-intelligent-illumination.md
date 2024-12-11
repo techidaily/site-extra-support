@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Lighted Paths  Guiding Viewers with Intelligent Illumination\""
-date: 2024-07-30T05:27:47.364Z
-updated: 2024-07-31T05:27:47.364Z
+date: 2024-12-04T20:37:19.135Z
+updated: 2024-12-11T19:07:05.466Z
 tags: 
   - screen-recording
   - ai video
@@ -23,8 +23,9 @@ Many people are wondering how to set up lighting for video shooting. While there
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -49,18 +50,16 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -69,36 +68,39 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
 ##### Step4 Use Practical Lights
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
@@ -142,5 +144,26 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-secure-your-visuals-the-most-efficient-face-masking-apps/"><u>[New] Secure Your Visuals The Most Efficient Face-Masking Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sketch-serious-snickers/"><u>[New] Sketch Serious Snickers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2023-how-to-share-screen-on-facebook-live-in-2024/"><u>[Updated] 2023 | How to Share Screen on Facebook Live, In 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ultimate-visionary-insights-the-top-8k-cameras-guide/"><u>[Updated] In 2024, Ultimate Visionary Insights The Top 8K Cameras Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lightroom-workflow-creating-and-merging-professional-hdr-images/"><u>[Updated] Lightroom Workflow Creating & Merging Professional HDR Images</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-platforms-for-virtual-shows/"><u>[Updated] Premium Platforms for Virtual Shows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reel-revolution-top-tech-for-brightening-videos/"><u>[Updated] Reel Revolution Top Tech for Brightening Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speedy-audio-on-phone-ultimate-list-of-tools/"><u>[Updated] Speedy Audio on Phone Ultimate List of Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/16-best-cost-free-websites-to-learn-american-sign-language-at-home/"><u>16 Best Cost-Free Websites to Learn American Sign Language at Home</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lg-27uhd68-screen-revolution-understanding-4k-sync-technology/"><u>2024 Approved LG 27UHD68 Screen Revolution Understanding 4K Sync Technology</u></a></li>
+<li><a href="https://fox-links.techidaily.com/a-step-by-step-guide-to-outstanding-color-grading-top-11-for-2024/"><u>A Step-by-Step Guide to Outstanding Color Grading (Top 11) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/classifications-of-unmanned-aircraft/"><u>Classifications of Unmanned Aircraft</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/easy-tricks-for-personalizing-your-pc-wallpaper-expert-advice-by-yl-software-professionals/"><u>Easy Tricks for Personalizing Your PC Wallpaper - Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-itel-a60-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Itel A60 Lock Screen Password</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-youtube-channel-aesthetics-essential-size-and-dimension-tips/"><u>In 2024, Mastering YouTube Channel Aesthetics Essential Size and Dimension Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sculpt-personalized-digital-laughs-now/"><u>In 2024, Sculpt Personalized Digital Laughs Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphones-and-light-creating-impactful-silhouettes-for-2024/"><u>IPhones and Light Creating Impactful Silhouettes for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-on-your-dream-rig-the-stylish-fractal-design-north-case-at-just-119/"><u>Save Big on Your Dream Rig: The Stylish Fractal Design North Case at Just $119!</u></a></li>
+</ul></div>
 

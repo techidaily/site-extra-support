@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Stop God of War From Closing Unexpectedly On Windows"
-date: 2024-11-30T18:16:36.446Z
-updated: 2024-12-05T16:13:41.520Z
+date: 2024-12-07T20:41:58.563Z
+updated: 2024-12-11T20:53:11.237Z
 tags:
   - win11
   - win10
@@ -23,22 +23,26 @@ If you have GeForce Experience installed, and you find that you can’t record y
 4. **[Enable desktop capture](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Restart NVIDIA Streamer service
 
 In some cases, the culprit is NVIDA Streamer service, especially when it’s off. You can restart this service: 1)On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9799cbbba.png) and **R**  at the same time.  Type   **services.msc**  and press  **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b3de585a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Right-click **NVIDIA Streamer Service**  and click **Restart**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2314a11508.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
 
@@ -47,11 +51,7 @@ In some cases, the culprit is NVIDA Streamer service, especially when it’s off
 In some cases, GeForce Experience install programs that are not graphics driver on your PC. So you should reinstall NVIDIA display driver all over again. You can go to NVIDIA support website to search for and download the latest version of display driver available. Or you can update your video card driver via Device Manager or Windows Update. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9a8fa563d.png)3) Click the**Update**button next to the flagged NVIDIA device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b0348294.jpg)4) Restart your PC for the change to take effect. See if Shadowplay works well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3: Upgrade GeForce Experience
@@ -73,7 +73,7 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c238e4810b3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
@@ -95,18 +95,17 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-flexibility-in-viewing-with-youtube-tv-options/"><u>[New] 2024 Approved Flexibility in Viewing with YouTube TV Options</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-sound-engineering-simplified-gradual-diminishment-in-lumafusion/"><u>[New] Sound Engineering Simplified Gradual Diminishment in Lumafusion</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-use-kapwing-meme-maker/"><u>[New] Use Kapwing Meme Maker</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-comprehensive-guide-to-idevices-recording-tools/"><u>[Updated] 2024 Approved Comprehensive Guide to iDevices Recording Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-enhancing-digital-presence-with-vimeo-sharing/"><u>[Updated] 2024 Approved Enhancing Digital Presence with Vimeo Sharing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-jpeg-to-gif-with-a-click-ranked-list-of-top-free-converters/"><u>[Updated] JPEG to GIF with a Click Ranked List of Top Free Converters</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-nikon-1j5-takes-video-to-the-next-level-with-its-4k-features/"><u>[Updated] Nikon 1J5 Takes Video to the Next Level with Its 4K Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-photos-with-a-musical-edge-online/"><u>[Updated] Photos with a Musical Edge Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leading-tech-in-action-sports-recording/"><u>2024 Approved Leading Tech in Action Sports Recording</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-charting-success-navigating-a-3-step-strategy-for-tracking-youtube-income/"><u>In 2024, Charting Success Navigating a 3-Step Strategy for Tracking YouTube Income</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-storytelling-with-style-making-instagram-text-dance/"><u>In 2024, Storytelling with Style Making Instagram Text Dance</u></a></li>
-<li><a href="https://extra-support.techidaily.com/jovial-graphics-via-adobe-tools-for-2024/"><u>Jovial Graphics via Adobe Tools for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-caller-id-changers-with-enchanting-options/"><u>[New] Leading Caller ID Changers with Enchanting Options</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premiere-ready-text-configurations/"><u>[Updated] Premiere-Ready Text Configurations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-splurging-less-with-low-cost-vr-technology-china/"><u>2024 Approved Splurging Less with Low-Cost VR Technology (China)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/google-ar-stickers-an-introduction-and-comparisons-for-2024/"><u>Google AR Stickers An Introduction & Comparisons for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-change-screenshot-file-formats-on-a-mac-for-2024/"><u>How to Change Screenshot File Formats on a Mac for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-play-40c-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor Play 40C to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a18withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A18with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nigh-dark-nemesis-versus-sunlit-savior/"><u>In 2024, Nigh-Dark Nemesis Versus Sunlit Savior</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instagram-videos-wandering-why-angles-change-in-2024/"><u>Instagram Videos Wandering - Why Angles Change, In 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lamicalls-ultimate-tablet-holder-a-perfect-blend-of-style-and-practicality/"><u>Lamicall's Ultimate Tablet Holder - A Perfect Blend of Style and Practicality!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mkvogg-movavi/"><u>オンラインで無料：MKVとOGGフォーマット間の直接変換 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, LG Smart Cam 2023  In-Depth Analysis & Updates\""
-date: 2024-07-30T05:20:46.026Z
-updated: 2024-07-31T05:20:46.026Z
+date: 2024-12-08T16:50:49.347Z
+updated: 2024-12-11T16:45:53.171Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
 # LG 360 Camera Full Review
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -39,9 +36,6 @@ We have entered into an era of 360-degree videos where the market is going to re
 * [Part 3: Pros and Cons at a glance](#part3)
 * [Part 4: Should I buy](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![LG 360 Cam Review](https://images.wondershare.com/filmora/article-images/lg-360-cam-review.jpg)
 
 ## Part 1 Complete Review
@@ -80,9 +74,6 @@ There are two buttons on the device; one is the power button and another is the 
 
 Check this video to watch a complete LG 360 Cam review
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2 Basic specs
 
 | **Full name**            | LG 360 Cam                                              |                       |                                      |
@@ -114,16 +105,10 @@ Before buying a new device, we often prefer to go through its pros and cons so t
 | Limited sharing capabilities for photos and videos                               |                                                                                                                                                                                   |
 | Do not have water resistant body Internal storage space is not usable            |                                                                                                                                                                                   |
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4 Should I buy
 
 If we talk about the price tag then $200 is really cheaper as compared to other camera units present in the market. This camera unit is suitable for beginners as well as professionals and the best thing to note is that its lightweight and compact design allows users to handle it properly. It provides you lots of controls and easy managing features so without any doubt it is a must buy product that will definitely serve for your 360 degree capturing needs.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -146,14 +131,12 @@ We have entered into an era of 360-degree videos where the market is going to re
 * [Part 3: Pros and Cons at a glance](#part3)
 * [Part 4: Should I buy](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![LG 360 Cam Review](https://images.wondershare.com/filmora/article-images/lg-360-cam-review.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1 Complete Review
 
 There are so many things to know about LG 360-degree camera. It comes with lots of incredible features and users must be aware of its capabilities before buying it. Following review will help you to know that how this specially designed camera unit can be a beneficial option for you:
@@ -164,9 +147,6 @@ During the very first announcement for LG 360-degree camera, the company heads a
 
 **Design**
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![LG 360 Cam Design](https://images.wondershare.com/filmora/article-images/lg-360-cam-details.jpg)
 
 The first appearance of this camera unit will definitely bring a smile on your face with its compact design and very lightweight construction. It will give you a feeling that you are now going to enter into the dreamy world of 360-degree videos. If you compare it with other competitors then it will look somewhat like Ricoh Theta camera unit where a plastic sheet uses to slide comfortably on lenses while protecting them from slipping off your pocket. Whenever you need to shoot a new video, you can simply click on the camera button provided on the panel.
@@ -177,19 +157,17 @@ Experts suggest that it is much better to mount this camera unit on a flat suppo
 
 **Where to Use**
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![LG 360 Cam  - Where to use](https://images.wondershare.com/filmora/article-images/lg-360-cam-where-to-use.jpg)
 
 You will love to capture photographs as well as videos with this advanced camera unit at wedding receptions, parties and at outdoor events with friends. There are lots of things to explore with LG 360-degree unit and its amazing camera clarity will never let your memories fade out. Those who are selfie lovers can prefer to use this compact and easy-to-use camera unit for capturing everything in a stunning way.
 
 **Image and Video Quality**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![LG 360 Cam image quality](https://images.wondershare.com/filmora/article-images/lg-360-cam-image-quality.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As far as we are concerned with the video quality of of device, there is no doubt to say that its results are outstanding when you view all captured stuff on smartphone. Although its video quality and color adjustments are not better than Ricoh Camera unit, for photographs that are taken at 180-degree mode instead of 360-degree mode, it is a perfect choice. You will be able to have crazier pictures on your adventure oriented tours and it will never let you stop doing fun.
 
@@ -199,9 +177,6 @@ There are two buttons on the device; one is the power button and another is the 
 
 Check this video to watch a complete LG 360 Cam review
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2 Basic specs
 
 | **Full name**            | LG 360 Cam                                              |                       |                                      |
@@ -220,8 +195,9 @@ Check this video to watch a complete LG 360 Cam review
 | **Image format**         | JPEG                                                    | **Video File Format** | MP4(MPEG-4 AVC) and Audio : 5.1Ch)   |
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3 Pros and Cons at a glance
 
 Before buying a new device, we often prefer to go through its pros and cons so that a better decision can be made on time. Below are some important details about pros and cons of LG 360 degree camera unit:
@@ -240,9 +216,6 @@ Before buying a new device, we often prefer to go through its pros and cons so t
 
 If we talk about the price tag then $200 is really cheaper as compared to other camera units present in the market. This camera unit is suitable for beginners as well as professionals and the best thing to note is that its lightweight and compact design allows users to handle it properly. It provides you lots of controls and easy managing features so without any doubt it is a must buy product that will definitely serve for your 360 degree capturing needs.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -265,10 +238,11 @@ We have entered into an era of 360-degree videos where the market is going to re
 * [Part 3: Pros and Cons at a glance](#part3)
 * [Part 4: Should I buy](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![LG 360 Cam Review](https://images.wondershare.com/filmora/article-images/lg-360-cam-review.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1 Complete Review
 
@@ -280,9 +254,6 @@ During the very first announcement for LG 360-degree camera, the company heads a
 
 **Design**
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![LG 360 Cam Design](https://images.wondershare.com/filmora/article-images/lg-360-cam-details.jpg)
 
 The first appearance of this camera unit will definitely bring a smile on your face with its compact design and very lightweight construction. It will give you a feeling that you are now going to enter into the dreamy world of 360-degree videos. If you compare it with other competitors then it will look somewhat like Ricoh Theta camera unit where a plastic sheet uses to slide comfortably on lenses while protecting them from slipping off your pocket. Whenever you need to shoot a new video, you can simply click on the camera button provided on the panel.
@@ -309,6 +280,10 @@ There are two buttons on the device; one is the power button and another is the 
 
 Check this video to watch a complete LG 360 Cam review
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2 Basic specs
 
 | **Full name**            | LG 360 Cam                                              |                       |                                      |
@@ -327,9 +302,9 @@ Check this video to watch a complete LG 360 Cam review
 | **Image format**         | JPEG                                                    | **Video File Format** | MP4(MPEG-4 AVC) and Audio : 5.1Ch)   |
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3 Pros and Cons at a glance
 
 Before buying a new device, we often prefer to go through its pros and cons so that a better decision can be made on time. Below are some important details about pros and cons of LG 360 degree camera unit:
@@ -384,6 +359,10 @@ During the very first announcement for LG 360-degree camera, the company heads a
 
 ![LG 360 Cam Design](https://images.wondershare.com/filmora/article-images/lg-360-cam-details.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The first appearance of this camera unit will definitely bring a smile on your face with its compact design and very lightweight construction. It will give you a feeling that you are now going to enter into the dreamy world of 360-degree videos. If you compare it with other competitors then it will look somewhat like Ricoh Theta camera unit where a plastic sheet uses to slide comfortably on lenses while protecting them from slipping off your pocket. Whenever you need to shoot a new video, you can simply click on the camera button provided on the panel.
 
 **How to use**
@@ -400,6 +379,10 @@ You will love to capture photographs as well as videos with this advanced camera
 
 ![LG 360 Cam image quality](https://images.wondershare.com/filmora/article-images/lg-360-cam-image-quality.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As far as we are concerned with the video quality of of device, there is no doubt to say that its results are outstanding when you view all captured stuff on smartphone. Although its video quality and color adjustments are not better than Ricoh Camera unit, for photographs that are taken at 180-degree mode instead of 360-degree mode, it is a perfect choice. You will be able to have crazier pictures on your adventure oriented tours and it will never let you stop doing fun.
 
 **How to edit and share**
@@ -407,6 +390,10 @@ As far as we are concerned with the video quality of of device, there is no doub
 There are two buttons on the device; one is the power button and another is the shutter release button. The easy to use cap managed application will let you do anything you want on your captured videos as well as photographs. For making connectivity with Android and iOS, it is possible to use this incredible application. If you want to transfer your collection of captured shots and videos to some other device then use Wi-Fi and Bluetooth features. For full spherical effect prefer to share photos on Google Street view or on Facebook.
 
 Check this video to watch a complete LG 360 Cam review
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2 Basic specs
 
@@ -425,9 +412,6 @@ Check this video to watch a complete LG 360 Cam review
 | **Image Resolution**     | 5660 x 2830 (16M)                                       | **Video resolution**  | 2560 x 1280 (30fps)                  |
 | **Image format**         | JPEG                                                    | **Video File Format** | MP4(MPEG-4 AVC) and Audio : 5.1Ch)   |
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3 Pros and Cons at a glance
 
 Before buying a new device, we often prefer to go through its pros and cons so that a better decision can be made on time. Below are some important details about pros and cons of LG 360 degree camera unit:
@@ -447,6 +431,10 @@ Before buying a new device, we often prefer to go through its pros and cons so t
 If we talk about the price tag then $200 is really cheaper as compared to other camera units present in the market. This camera unit is suitable for beginners as well as professionals and the best thing to note is that its lightweight and compact design allows users to handle it properly. It provides you lots of controls and easy managing features so without any doubt it is a must buy product that will definitely serve for your 360 degree capturing needs.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -476,5 +464,19 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-user-generated-feedback-influences-video-ranks/"><u>[New] 2024 Approved How User-Generated Feedback Influences Video Ranks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-insights-into-smooth-sound-transitions-crossfade/"><u>[New] Insights Into Smooth Sound Transitions (Crossfade)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-steps-for-iphone-7-screen-capture/"><u>[Updated] In 2024, Essential Steps for iPhone 7 Screen Capture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-next-gen-photography-unveiling-auto-and-smart-hdr-features/"><u>[Updated] Next-Gen Photography Unveiling Auto and Smart HDR Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-together-a-list-of-engaging-metaverse-games/"><u>2024 Approved Explore Together A List of Engaging Metaverse Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-present-day-virtual-reality-overview/"><u>2024 Approved Present Day Virtual Reality Overview</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/correcting-problems-in-microsoft-edge-browser-functionality/"><u>Correcting Problems in Microsoft Edge Browser Functionality</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/exploring-the-reasons-behind-your-pcs-silent-sounds-a-guide-by-yl-software/"><u>Exploring the Reasons Behind Your PC's Silent Sounds - A Guide by YL Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-lava-agni-2-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Lava Agni 2 5G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/invisible-time-recording-expertise-for-2024/"><u>Invisible Time Recording Expertise for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-entering-macos-recovery-mode-on-your-mac/"><u>Step-by-Step Guide: Entering macOS Recovery Mode on Your Mac</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 11/10</u></a></li>
+</ul></div>
 

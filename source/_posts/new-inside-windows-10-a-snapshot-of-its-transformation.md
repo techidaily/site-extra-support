@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Inside Windows 10  A Snapshot of Its Transformation\""
-date: 2024-07-30T05:25:00.945Z
-updated: 2024-07-31T05:25:00.945Z
+date: 2024-12-10T17:50:25.139Z
+updated: 2024-12-11T20:37:22.484Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/450ec1b84e72a24dc748a4aee1ff3d014e9229d42
 
 # Windows 10 New Features at a Glance
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -41,27 +38,18 @@ Microsoft is clearly looking to bring the world at large on board with Windows 1
 
 **Cortana Virtual Assistant**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![update win10 13](https://images.wondershare.com/windows10/update-win10-13.png)
 
 Cortana is one of the biggest features Microsoft is rolling out for the Windows 10\. If you have been using the Windows Phone, then you already have an idea of what to expect from the tablet/PC version. This digital assistant is designed to be vastly superior to Siri or Google Now. You'll find Cortana next to your desktop's start button, but you can also say "Hey, Cortana" to bring it to life. You remain in complete control of how much Cortana knows about you, but you'll definitely love the way Cortana can bring up requested information instantly. Early users have also noted that Cortana is more than capable of maintaining a full, almost-natural conversational flow.
 
 **Edge Web Browser**
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edge](https://images.wondershare.com/filmora/article-images/edge.jpg)
 
 Say goodbye to Internet Explorer. The long-disliked browser is finally being chucked aside, in favor of something that will strive to be decidedly different. Although IE will still support legacy software, Edge is clearly the one taking center stage as the default browser for Windows 10\. Features will include a screen grabbing tool that offers touchscreen sketching capabilities, a reading mode, and even a notepad. Search results will be built around your preferences, and you will have the ability as well to get restaurant information or directions shot to you in an instant.
 
 **Windows 10 Start Menu**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![a8](https://images.wondershare.com/windows10/a8.png)
 
 No one really liked the start menu layout for Windows 8 and Windows 8.1\. Windows 10 offers a fantastic improvement to that end. If the start menu looks quite familiar, that's because Microsoft has made it a point to bring back the style virtually all of us prefer. Yet Windows 10 will have some decided differences. The start menu will allow you to look over frequently-used apps, use the universal search without swiping, and yes, the tiles will be there, as well. However, you will be able to control how prominent they are.
@@ -74,9 +62,6 @@ The above three features are good examples of what Windows 10 will bring to the 
 
 **Xbox App and Streaming**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![xbox games windows10](https://images.wondershare.com/windows10/xboy-games-windows10-1.png)
 
 Windows 10 will include an exciting Xbox app, which will come loaded with possibilities. The Xbox app will give you the ability to control your Xbox One, but you'll also be able to utilize your DVR capture for your Windows games. Even more exciting is the way you'll have the ability to play multiplayer titles across between your Xbox One and your PC. With the streaming side of things, Windows 10 will allow you to stream titles from your Xbox Box. There will also be DirectX 12 support.
@@ -95,9 +80,6 @@ There is a cohesiveness and consistency to everything that is going to make Wind
 
 Some people are already enjoying Windows 10\. Microsoft is slowly-but-surely making sure that everyone gets Windows 10 in good time. If you have Windows 8.1, Windows Phone 8.1, or even Windows 7, then you're entitled to a free upgrade to the brave new world of Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -106,12 +88,31 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-autonomy-in-speech/"><u>[New] 2024 Approved Autonomy in Speech</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-best-websites-to-download-a-youtube-ringtone-for-2024/"><u>[New] Best Websites To Download A YouTube Ringtone for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ode-to-open-minds-transitioning-playlists-freely/"><u>[New] Ode to Open Minds Transitioning Playlists Freely</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-capture-like-a-pro-gopro-model-comparison-guide/"><u>2024 Approved Capture Like a Pro Gopro Model Comparison Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-enterprise-sky-saver-guide/"><u>2024 Approved Premium Enterprise Sky Saver Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-how-to-fix-persistent-crashes-in-manor-lords-when-played-on-a-desktop-computer/"><u>Guide: How to Fix Persistent Crashes in Manor Lords When Played on a Desktop Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterclasses-on-procuring-photo-and-video-borders/"><u>In 2024, Masterclasses on Procuring Photo & Video Borders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-using-telegram-online/"><u>In 2024, Mastering the Art of Using Telegram Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/keeping-it-secretive-watching-instagram-live-undetected/"><u>Keeping It Secretive Watching Instagram Live Undetected</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-instagram-reels-incorporating-tracks-seamlessly-for-2024/"><u>Mastering Instagram Reels Incorporating Tracks Seamlessly for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-podcast-rss-feed-development-for-2024/"><u>Mastering Podcast RSS Feed Development for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-romantic-language-families/"><u>Navigating Romantic Language Families</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-black-screen-errors-for-call-of-duty-wwii-on-pc-with-windows-a-comprehvewled-guide/"><u>Resolving Black Screen Errors for Call of Duty: WWII on PC with Windows - A Comprehvewled Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

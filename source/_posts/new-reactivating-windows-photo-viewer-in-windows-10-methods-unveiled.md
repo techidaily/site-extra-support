@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reactivating Windows Photo Viewer in Windows 10 - Methods Unveiled\""
-date: 2024-11-28T19:09:34.311Z
-updated: 2024-12-05T18:39:30.028Z
+date: 2024-12-05T17:28:07.652Z
+updated: 2024-12-11T17:37:24.694Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -59,14 +55,10 @@ Here is why they want to restore Windows Photo Viewer –
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -77,9 +69,17 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -95,6 +95,10 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
@@ -106,14 +110,10 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -130,16 +130,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-professional-text-design-in-10-minutes-or-less-ae-style/"><u>[New] Professional Text Design in 10 Minutes or Less (AE Style)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-strategies-to-fast-track-vimeo-content/"><u>[New] Strategies to Fast-Track Vimeo Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-10-iphone-camera-features-you-should-know-in-ios-11/"><u>2024 Approved 10 iPhone Camera Features You Should Know in iOS 11</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-itel-p40-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Itel P40 FRP Bypass Instantly</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-tips-for-choosing-a-tablet-based-on-its-weight-and-size-specs/"><u>Expert Tips for Choosing a Tablet Based on Its Weight and Size Specs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-12-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme 12 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-utilize-the-power-of-chatgpt-copilot-for-enhanced-productivity/"><u>How to Utilize the Power of ChatGPT Copilot for Enhanced Productivity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-innovative-zoom-methods-for-chromebook-efficiency/"><u>In 2024, Innovative Zoom Methods for Chromebook Efficiency</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-zoom-meetings-quickly-for-2024/"><u>Mastering Zoom Meetings Quickly for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigate-the-maze-of-gopro-4k-an-editors-manual-for-2024/"><u>Navigate the Maze of GoPro 4K An Editor's Manual for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-authoritative-guide-to-premium-auto-camera-tech-for-2024/"><u>[New] Authoritative Guide to Premium Auto Camera Tech for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-discover-the-best-5-sd-cards-for-gopro-hero-8-and-7-for-2024/"><u>[Updated] Discover the Best 5 SD Cards for GoPro Hero 8 and 7 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-key-aspects-of-web-based-storytelling/"><u>[Updated] Key Aspects of Web-Based Storytelling</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-the-art-of-photo-editing-with-snapseed/"><u>[Updated] Master the Art of Photo Editing with Snapseed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-media-showdown-twitters-top-tiktok-trends-for-2024/"><u>[Updated] Social Media Showdown Twitters' Top TikTok Trends for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-integrating-b-roll-effectively-without-distraction/"><u>2024 Approved Integrating B Roll Effectively Without Distraction</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-craft-professional-gopro-video-creation/"><u>2024 Approved Mastering the Craft Professional GoPro Video Creation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-principles-of-evolving-media-artistry/"><u>2024 Approved Principles of Evolving Media Artistry</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/armor-up-slowing-downloads/"><u>Armor Up! - Slowing Downloads</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-2024s-most-advanced-and-convenient-cordless-phones-on-the-market/"><u>Exploring 2024'S Most Advanced and Convenient Cordless Phones on the Market</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-samsung-galaxy-a05-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Samsung Galaxy A05 PC | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-instant-integration-syncing-iphone-media-with-computer/"><u>In 2024, Instant Integration Syncing iPhone Media with Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-future-of-cleaning-a-sneak-peek-at-the-revolutionary-roborock-v20-exciting-details-inside/"><u>Introducing the Future of Cleaning: A Sneak Peek at the Revolutionary Roborock V20 | Exciting Details Inside</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-mobile-photos-with-best-iphone-cameras-x-7plus-for-2024/"><u>Mastering Mobile Photos with Best iPhone Cameras (X, 7+) for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfecting-package-adventure-for-all-for-2024/"><u>Perfecting Package Adventure for All for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seamless-integration-of-multimedia-pip-video-tips-for-sierra-users-for-2024/"><u>Seamless Integration of Multimedia PIP Video Tips for Sierra Users for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/top-mts-to-mp4-converters-of-2024-choose-the-perfect-software-for-windows-11-users/"><u>Top MTS to MP4 Converters of 2024: Choose the Perfect Software for Windows 11 Users</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-nubia-red-magic-9-proplus-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Nubia Red Magic 9 Pro+ Screen | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Tips for Green Screen Cinematography Success\""
-date: 2024-11-28T19:22:19.676Z
-updated: 2024-12-05T16:08:11.976Z
+date: 2024-12-05T20:46:40.949Z
+updated: 2024-12-11T20:14:21.193Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,10 @@ We’ve figured out some useful green screen tricks, have fun and hope you’ll 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In the following section, we will share with you five tips when you shooting a video for compositing a green screen video, which covering the lighting tips, the camera tips, the clothing tips, the tips for using green screen sheet, and the tips for resolving motion blur in shooting videos.
 
 #### 1 Lighting tips in shooting a Green Screen Video
@@ -60,10 +64,6 @@ Check out our picks of [the best lighting equipment for shooting videos](https:/
 
 ![Camera tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When lighting your key surface, make sure the bounce light is not directed at the camera (as shown in the image above). For example, if your camera faces the key surface directly, set your lights at 45 degree angles to the key surface. This will ensure that the bounce light bounces toward the other light and not at the camera.
 
 Also choose carefully the camera as some cameras are better to shoot green screen video, especially if you are shooting something with a bit of movement. Then shoot your video as HD quality video (720p or higher) and save in a format your green screen software can import.
@@ -76,15 +76,15 @@ Looking for some best cameras for shooting green screen video? Check our picks o
 
 ![Clothing tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There are some mistakes that you can avoid to help your green screen video look more professional and more realistic. Perhaps one of the simplest mistakes that many people make with green screen video shooting is actually wearing green clothing. If you are wearing clothing or clothing that has buttons or accents that are a similar color green as your selected background green, the image that you project onto the green screen in post-editing will also get picked up by these accents on your clothing or by the clothing itself. This is great if you want to cut off part of an actor's body, but not so professional if you are trying to make an actor appear in a realistic scene.
 
 #### 4 Wrinkles problem in shooting a Green Screen Video
 
 ![Wrinkles problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Wrinkles in your screen can actually lead to heavy shadows and distorted image quality in your green screen video. If you regularly fold your green screen for storage it's very important that you take an iron out and flat negative green screen to prevent shadows and distortions with your background image. This is a step that many skip over but it's important to have a high-quality green screen without wrinkles and folds that cause shadows.
 
@@ -93,7 +93,7 @@ Wrinkles in your screen can actually lead to heavy shadows and distorted image q
 ![Motion blur problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you are planning on shooting a high action scene in front of a green screen with a camera that only has lower shutter speeds, you can run into real problems. When using a camera with a lower shutter speed consider doing action shots in slow motion or getting subjects to not make any sudden movements in front of the green screen. Motion blur from someone moving rapidly on camera in front of a green screen can really ruin the scene and ruin the realism of the scene. Alternately you could also consider renting a high shutter speed camera to avoid this motion blur if you do plan on shooting a lot of action scenes. Ultimately this is something that you will need to test for yourself before shooting a green screen video, so that you can get a feel for how much action your camera can handle with a green screen without motion blur.
@@ -107,13 +107,13 @@ Besides compositing chroma keying videos in Filmora, you can also[stabilize your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -131,20 +131,15 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-quick-start-guide-recording-your-pcs-display-with-hp/"><u>[New] 2024 Approved Quick Start Guide Recording Your PC's Display with HP</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-directors-speak-the-soul-of-film-writing/"><u>[New] In 2024, Directors Speak The Soul of Film Writing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfectly-preserve-and-profitably-play-your-phones-gifs/"><u>[New] Perfectly Preserve and Profitably Play Your Phone's GIFs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-speedy-visual-scan-of-your-pictures-on-win11/"><u>[New] Speedy Visual Scan of Your Pictures on Win11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ideo-success-stories-maximizing-income-with-youtube-adsense/"><u>[New] Video Success Stories Maximizing Income with YouTube AdSense</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-jest-in-jam-your-complete-manual-to-cartoon-snaps-on-snapchat/"><u>2024 Approved Jest in Jam Your Complete Manual to Cartoon Snaps on Snapchat</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-building-time-lapse-shots-on-samsung-gear/"><u>2024 Approved Step-by-Step Building Time Lapse Shots on Samsung Gear</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/end-the-attempting-data-recovery-loop-tips-for-restarting-your-iphone/"><u>End the 'Attempting Data Recovery' Loop – Tips for Restarting Your iPhone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/experience-improved-hp-deskjet-2700-functionality-with-the-new-driver-upgrade/"><u>Experience Improved HP Deskjet 2700 Functionality with the New Driver Upgrade</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-roccat-mouse-driver-a-step-by-step-guide/"><u>How to Install Roccat Mouse Driver: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-deciphering-your-pathway-to-youtubes-maker-land/"><u>In 2024, Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-igniting-online-trends-crafting-viral-facebook-posts/"><u>In 2024, Igniting Online Trends Crafting Viral Facebook Posts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/language-liberation-discover-the-top-25-apps-for-flawless-video-conversion-for-2024/"><u>Language Liberation Discover the Top 25 Apps for Flawless Video Conversion for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-netflixs-split-screen-functionality-for-2024/"><u>Mastering Netflix's Split Screen Functionality for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photography-for-the-masses-the-best-12-sites-offering-accessible-stock-images-for-2024/"><u>Photography for the Masses - The Best 12 Sites Offering Accessible Stock Images for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-discovering-the-benefits-of-personalized-asmr-sounds/"><u>[New] 2024 Approved Discovering the Benefits of Personalized ASMR Sounds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-modern-moods-best-rated-desktop-imagery/"><u>[New] Modern Moods Best-Rated Desktop Imagery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-phantoms-view-droning-action-highlights/"><u>[New] Phantom's View Droning Action Highlights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-become-an-instagram-star-9-tips/"><u>2024 Approved Become an Instagram Star [9 Tips]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-craft-of-macro-video-production-techniques/"><u>2024 Approved Mastering the Craft of Macro Video Production Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-tecno-spark-go-2023-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quintessential-stop-motion-gems-for-cinephiles/"><u>In 2024, Quintessential Stop-Motion Gems for Cinephiles</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lettura-di-numeri-italiani-la-via-da-1-a-1000/"><u>Lettura Di Numeri Italiani: La Via Da 1 a 1000</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-productivity-should-you-turn-to-bing-chat-or-gpt-3-7-factors/"><u>Optimizing Productivity: Should You Turn to Bing Chat or GPT-3? 7 Factors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Gradual Audio Reduction in Digital Studios"
-date: 2024-12-02T18:51:26.683Z
-updated: 2024-12-05T17:44:45.046Z
+date: 2024-12-08T17:54:00.313Z
+updated: 2024-12-11T17:22:01.024Z
 tags: 
   - screen-recording
   - ai video
@@ -57,12 +57,16 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
@@ -74,13 +78,13 @@ No matter which audio editing software, what matters is the learning outcome. Le
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -92,27 +96,23 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related FAQs of FL Studio Audio Editing
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
 
@@ -123,7 +123,7 @@ If you want to fade out your audio in FL on your mobile phone, tap on the wavefo
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
@@ -154,24 +154,20 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-moto-z2s-smarter-edge-an-exclusive-look/"><u>[New] Moto Z2's Smarter Edge An Exclusive Look</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-nets-and-currents-tips-for-gopro-underwater-shots/"><u>[New] Navigating Nets & Currents Tips for GoPro Underwater Shots</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-spectrumstreams-2024-worldwide-selection-at-fingertips/"><u>[New] SpectrumStreams 2024 Worldwide Selection at Fingertips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-integrating-skype-into-zoom-meetings-made-simple/"><u>[Updated] Integrating Skype Into Zoom Meetings Made Simple</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-tinder-profiles-top-tricks-for-instant-love-interest/"><u>[Updated] Mastering the Art of Tinder Profiles Top Tricks for Instant Love Interest</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-precision-polishing-insights-from-vlle-on-apps/"><u>[Updated] Precision Polishing Insights From VLLE on Apps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-proven-steps-for-effortless-creation-of-youtube-shorts-credits-for-2024/"><u>[Updated] Proven Steps for Effortless Creation of YouTube Shorts Credits for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-relish-free-movie-playback-pc-and-mac-style/"><u>[Updated] Relish Free Movie Playback, PC & Mac Style</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-6-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 6 Plus</u></a></li>
-<li><a href="https://solve-news.techidaily.com/elevate-your-online-presence-with-cookiebot-smart-seo-solutions/"><u>Elevate Your Online Presence with Cookiebot: Smart SEO Solutions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-remove-apple-iphone-11-pro-sim-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 11 Pro SIM Lock?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-create-shareable-memes-with-adobe-photoshop/"><u>In 2024, Create Shareable Memes with Adobe Photoshop</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pro-level-insights-enhancing-your-interview-recordings-on-ios-devices/"><u>In 2024, Pro-Level Insights Enhancing Your Interview Recordings on iOS Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-secure-and-unshakable-direct-url-addition-on-your-tiktok-profile/"><u>In 2024, Secure & Unshakable Direct URL Addition on Your TikTok Profile</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mememakerpro-share-your-giggles-for-2024/"><u>MemeMakerPro Share Your Giggles for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/say-goodbye-to-frozen-pages-solving-chrome-stalling-problems/"><u>Say Goodbye to Frozen Pages: Solving Chrome Stalling Problems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-up-your-home-cinema-game-with-these-essential-tips-for-2024/"><u>Step Up Your Home Cinema Game with These Essential Tips for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-path-to-popularity-making-videos-go-viral-for-2024/"><u>The Path to Popularity Making Videos Go Viral for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-a-1100-discount-on-macbook-pro-with-m1-max-at-bandh-photoblack-friday-deal-exclusive-insights-from-zdnet/"><u>Unlock a $1,100 Discount on MacBook Pro with M1 Max at B&H PhotoBlack Friday Deal - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-intense-immersion-with-closest-viewing-techniques-in-roblox/"><u>[New] Intense Immersion with Closest Viewing Techniques in Roblox</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-meme-makers-guide-for-iphones/"><u>[New] Meme Makers' Guide (For iPhones)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-your-images-with-the-best-overlay-apps-for-ios-and-android/"><u>2024 Approved Master Your Images with the Best Overlay Apps for iOS & Android</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/achieving-perfect-reproduction-tips-for-exceptional-sound-capture-for-2024/"><u>Achieving Perfect Reproduction Tips for Exceptional Sound Capture for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/connect-across-continents-with-new-tongues/"><u>Connect Across Continents with New Tongues</u></a></li>
+<li><a href="https://win-special.techidaily.com/diagnosing-boot-issues-on-your-computer-expert-advice-by-yl-software-team/"><u>Diagnosing Boot Issues on Your Computer: Expert Advice by YL Software Team</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enabling-targeted-content-with-cookiebot-technology/"><u>Enabling Targeted Content with Cookiebot Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-13-pro-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 13 Pro?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-14-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 14 without Security Questions?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-introducing-effortless-age-correction-in-profiles/"><u>In 2024, Introducing Effortless Age Correction in Profiles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-blur-apps-for-clear-portraits/"><u>In 2024, Mastering Blur Apps for Clear Portraits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-story-syndicate-visionary-voyages-best/"><u>In 2024, Story Syndicate – Visionary Voyage's Best</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-complete-guide-to-hulu-recording-across-all-platforms/"><u>In 2024, The Complete Guide to Hulu Recording Across All Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-how-to-set-up-an-oculus-quest-quest-2-profile/"><u>Ultimate Tutorial: How to Set Up an Oculus Quest / Quest 2 Profile</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-components-must-be-repaired-fixed/"><u>Windows Update Components Must Be Repaired [FIXED]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photo Viewer Revival Techniques for Enhanced Windows 11 Experience"
-date: 2024-12-02T16:04:14.476Z
-updated: 2024-12-05T20:23:18.208Z
+date: 2024-12-04T16:14:33.774Z
+updated: 2024-12-11T20:51:30.459Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,10 @@ Here is why they want to restore Windows Photo Viewer –
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 ## Method 1 to restore Windows Photo Viewer
@@ -66,16 +70,12 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -91,12 +91,16 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -105,14 +109,10 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -130,20 +130,14 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-tiktok-bios-adding-linktree-seamlessly/"><u>[New] Mastering TikTok Bios Adding Linktree Seamlessly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastery-in-motion-a-guide-for-expert-color-balancing/"><u>[New] Mastery in Motion A Guide for Expert Color Balancing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhancing-video-content-iphoneipad-screen-capture-basics/"><u>[Updated] In 2024, Enhancing Video Content IPhone/iPad Screen Capture Basics</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-frame-loss-enigma-why-are-videos-cropped-by-imovie/"><u>[Updated] In 2024, Frame Loss Enigma Why Are Videos Cropped by iMovie?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-learn-the-art-of-saving-and-logging-periscope-content/"><u>[Updated] Learn the Art of Saving & Logging Periscope Content</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-photo-edits-skewed-caption-creation-for-2024/"><u>[Updated] Photo Edits Skewed Caption Creation for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sci-fis-virtual-cosmos-the-most-innovative-movies-of-the-metaverse-era/"><u>[Updated] Sci-Fi's Virtual Cosmos The Most Innovative Movies of the Metaverse Era</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-comprehensive-guide-to-precision-screen-capture/"><u>2024 Approved The Comprehensive Guide to Precision Screen Capture</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/aprenda-as-etapas-para-transformar-seus-videos-do-youtube-em-arquivos-mp3-com-facilidade-e-precisao/"><u>Aprenda as Etapas Para Transformar Seus Vídeos Do Youtube Em Arquivos Mp3 Com Facilidade E Precisão.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-amazon-bargains-before-prime-day-2024-top-savings-spots-featured/"><u>Best Amazon Bargains Before Prime Day 2024: Top Savings Spots Featured</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/best-camcorders-for-deer-stalking-success/"><u>Best Camcorders for Deer Stalking Success</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leveraging-vlc-media-player-for-remote-streaming/"><u>In 2024, Leveraging VLC Media Player for Remote Streaming</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-fix-hide-identities-in-photos-with-picart/"><u>In 2024, Quick Fix Hide Identities in Photos with PicArt</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfecting-your-storytelling-chapter-division-in-youtube-videos-for-2024/"><u>Perfecting Your Storytelling Chapter Division in YouTube Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/pro-level-editing-10-must-have-applications-for-insta-videos-for-2024/"><u>Pro-Level Editing 10 Must-Have Applications for Insta Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-ultimate-channel-growth-guide-top-5-video-marketing-tactics-revealed-for-2024/"><u>[New] The Ultimate Channel Growth Guide Top 5 Video Marketing Tactics Revealed for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-and-easy-steps-for-photos-in-your-instagram-gallery/"><u>[Updated] Quick and Easy Steps for Photos in Your Instagram Gallery</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-content-creation-to-revenue-recognition-the-systematic-3-step-formula-for-youtube-income-examination/"><u>2024 Approved From Content Creation to Revenue Recognition The Systematic 3-Step Formula for YouTube Income Examination</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-the-magic-behind-seamless-musical-segments/"><u>Decoding the Magic Behind Seamless Musical Segments</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximize-browser-functionality-chromes-full-screen-video-playback/"><u>In 2024, Maximize Browser Functionality Chrome's Full-Screen Video Playback</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-hulu-error-code-rununk13-quick-and-simple-solutions/"><u>Mastering Hulu ERROR Code RUNUNK13 - Quick and Simple Solutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-nuances-zooming-in-on-roblox-for-2024/"><u>Navigating the Nuances Zooming In on Roblox for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-video-transformations-in-vlc-from-mp4-variety-for-2024/"><u>Navigating Video Transformations in VLC From MP4 Variety for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/style-meets-speed-in-depth-analysis-of-the-stylish-swift-swagtrn-swagger-electric-scooter/"><u>Style Meets Speed: In-Depth Analysis of the Stylish, Swift Swagtrn Swagger Electric Scooter</u></a></li>
 </ul></div>
 

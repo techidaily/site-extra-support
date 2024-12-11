@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2024-11-29T19:19:17.245Z
-updated: 2024-12-05T19:00:27.159Z
+date: 2024-12-10T20:11:28.411Z
+updated: 2024-12-11T20:23:15.288Z
 tags:
   - chatgpt
   - open-ai
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
  AGI exhibits intelligence similar to human cognitive capabilities, and[the Turing Test](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/) —a test of a machine's ability to exhibit intelligent behavior indistinguishable from that of a human—remained almost unchallenged in the seven decades since it was first laid out.
@@ -39,19 +35,23 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  OpenAI's Privacy policy is broadly similar and collects IP address and usage data. In contrast with Google's time-limited retention, OpenAI will "retain your Personal Information for only as long as we need in order to provide our Service to you, or for other legitimate business purposes such as resolving disputes, safety and security reasons, or complying with our legal obligations."
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which LLM Has the Best General Knowledge?
 
@@ -83,13 +79,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
@@ -107,17 +103,21 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -154,22 +154,21 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-boosting-traffic-through-innovative-facebook-video-tactics/"><u>[New] Boosting Traffic Through Innovative Facebook Video Tactics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-logic-x-layers-building-audio-bridges-with-crossfades/"><u>[New] Logic X Layers Building Audio Bridges with Crossfades</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-methods-for-subtle-audio-softening-with-lumafusion/"><u>[New] Methods for Subtle Audio Softening with Lumafusion</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-precision-and-performance-in-the-dell-p2715q-monitor-analysis/"><u>[New] Precision and Performance in the Dell P2715Q Monitor Analysis</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-use-youtube-enhancements/"><u>[Updated] 2024 Approved How to Use YouTube Enhancements</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-revolutionize-your-photo-taking-experience-a-guide-to-snapchats-editing-tools/"><u>[Updated] 2024 Approved Revolutionize Your Photo-Taking Experience A Guide to Snapchat's Editing Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-masterful-lighting-techniques-for-iphone-users/"><u>2024 Approved Masterful Lighting Techniques for IPhone Users</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/apk-journey-to-gaming-bliss-funimate-pro-guide/"><u>APK Journey to Gaming Bliss Funimate Pro Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversao-on-line-sem-custo-entre-mxf-e-wav-com-a-ferramenta-do-movavi/"><u>Conversão On-Line Sem Custo Entre MXF E WAV Com a Ferramenta Do Movavi</u></a></li>
-<li><a href="https://article-tips.techidaily.com/curated-array-of-chat-catalyzing-queries-for-podcasters/"><u>Curated Array of Chat-Catalyzing Queries for Podcasters</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/gratuitamente-converti-file-flv-in-formato-m4a-con-movavi/"><u>Gratuitamente Converti File FLV in Formato M4A Con Movavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-missing-hardware-drivers-on-your-computer-windows-11-solved/"><u>How to Fix Missing Hardware Drivers on Your Computer (Windows 11 Solved)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-psyche-up-with-customized-console-voices/"><u>In 2024, Psyche Up with Customized Console Voices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-snap-share-thrive-on-instagram/"><u>In 2024, Snap, Share, Thrive on Instagram</u></a></li>
-<li><a href="https://extra-support.techidaily.com/keywords-in-the-realm-of-virtual-reality-for-2024/"><u>Keywords in the Realm of Virtual Reality for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/money-smart-aerial-explorers-5-best-drones-for-less-than-100-for-2024/"><u>Money-Smart Aerial Explorers 5 Best Drones for Less Than $100 for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-avi-video-trimmers-cut-and-edit-avi-files-on-any-device/"><u>Updated In 2024, Best AVI Video Trimmers Cut and Edit AVI Files on Any Device</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-exclusive-lineup-all-angle-recorders-for-2024/"><u>[New] Exclusive Lineup All-Angle Recorders for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unlocking-swiftness-in-fb-video-transfers-with-top-tools-and-extensions/"><u>[New] In 2024, Unlocking Swiftness in FB Video Transfers with Top Tools and Extensions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-iphone-time-travel-mastering-prolonged-photo-captures/"><u>[New] IPhone Time Travel Mastering Prolonged Photo Captures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-earning-video-visionaries/"><u>[Updated] 2024 Approved High Earning Video Visionaries</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-preserving-the-past-in-motion-photo-to-video-transition/"><u>2024 Approved Preserving the Past in Motion Photo to Video Transition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-setup-the-finest-4k-dslr-shoulder-rigs-reviewed/"><u>2024 Approved Prime Setup The Finest 4K DSLR Shoulder Rigs Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-into-high-dynamic-range-the-complete-hdr-conversion-guide/"><u>2024 Approved Step Into High Dynamic Range The Complete HDR Conversion Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-x50iplus-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor X50i+</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-seamless-workouts-and-personalized-soundtracks-using-the-innovative-garmin-vivoactive-3-tracker/"><u>Discover Seamless Workouts and Personalized Soundtracks Using the Innovative Garmin Vivoactive 3 Tracker</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-21-edition-exploration-mastering-vegas-pro-for-gambling/"><u>In 2024, '21 Edition Exploration – Mastering Vegas Pro for Gambling</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-smart-selections-the-premier-list-of-costless-streamers-apps-and-software/"><u>In 2024, Smart Selections The Premier List of Costless Streamers Apps & Software</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/orchestrating-a-journey-through-hidden-youtube-archives/"><u>Orchestrating a Journey Through Hidden YouTube Archives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photoshop-and-beyond-unlocking-visual-potential-with-luts-for-2024/"><u>Photoshop and Beyond Unlocking Visual Potential with Luts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-quick-insight-for-pics-on-win-11-for-2024/"><u>Premium Quick Insight for Pics on Win 11 for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-out-of-date-error-a-guide-to-updating-your-minecraft-graphics-card-driver/"><u>Resolving the 'Out-of-Date' Error: A Guide to Updating Your Minecraft Graphics Card Driver</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-essential-5-points-to-think-about-prior-to-purchasing-a-fitness-device/"><u>The Essential 5 Points to Think About Prior to Purchasing a Fitness Device</u></a></li>
 </ul></div>
 

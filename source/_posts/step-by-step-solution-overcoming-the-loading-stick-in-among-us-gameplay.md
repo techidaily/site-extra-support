@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Overcoming the Loading Stick in Among Us Gameplay"
-date: 2024-11-30T18:17:41.828Z
-updated: 2024-12-05T17:59:00.703Z
+date: 2024-12-07T16:45:36.469Z
+updated: 2024-12-11T20:05:35.368Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Uninstall your antivirus software
 
  Many things can cause Minecraft stuck on the loading screen issue, but one of the most known issues is your antivirus software. Many antivirus software is incompatible with Minecraft and should be uninstalled from your system.
@@ -50,10 +46,6 @@ The known problematic software are:
 * etc.
 
  You can view[the full list](https://minecrafthopper.net/help/known-incompatible-software/) of known incompatible software here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Don’t use free VPNs
 
@@ -76,6 +68,10 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
@@ -95,6 +91,10 @@ There are mainly two ways to update your device drivers:
 
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: End the runtime broker
 
  This is a temporary fix for many players, and you can try this to see if it works for you, too. Here’s how:
@@ -109,22 +109,18 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Restart your PC to see if Minecraft can load normally.
 
 If this method doesn’t work for you, then try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Run Minecraft Launcher in compatibility mode
 
@@ -135,6 +131,10 @@ If this method doesn’t work for you, then try the next fix, below.
 3. Go to the**Compatibility** tab, and select**Windows 7** for the**Compatibility mode** . Also, remember to check the**Disable fullscreen optimizations** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-all.jpg)
 4. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
@@ -151,7 +151,7 @@ If this method doesn’t work for you, then try the next fix, below.
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Once done, delete the**.Minecraft** folder.
@@ -180,22 +180,19 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-pixels-into-panoramas-cutting-edge-edits-for-exceptional-results/"><u>[New] Pixels Into Panoramas Cutting-Edge Edits for Exceptional Results</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-transform-spaceships-into-trees-youtubes-green-secrets-revealed/"><u>[New] Transform Spaceships Into Trees – Youtube’s Green Secrets Revealed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-video-editing-for-dummies-10-essential-youtube-insights/"><u>[New] Video Editing for Dummies 10 Essential YouTube Insights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-interactive-content-platform-audit-and-rating/"><u>[Updated] Interactive Content Platform Audit & Rating</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-through-pc-hdr-content-watch-edit-enjoy/"><u>[Updated] Navigating Through PC HDR Content Watch, Edit, Enjoy</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-overlaying-imagery-from-desktop-to-cloud/"><u>[Updated] Overlaying Imagery From Desktop to Cloud</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-multiplayer-movies-review-poker-edition/"><u>2024 Approved MULTIPLAYER MOVIES REVIEW Poker Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spotify-how-to-stop-seeing-podcast-recommendations/"><u>2024 Approved Spotify How to Stop Seeing Podcast Recommendations</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/como-subir-y-editar-videos-en-imovie-el-mejor-convertidor-para-usar/"><u>Cómo Subir Y Editar Videos en iMovie: El Mejor Convertidor Para Usar</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-set-up-permadelete-features-using-customizable-windows-11-and-11-trash/"><u>How to Set Up PermaDelete Features Using Customizable Windows 11 & 11 Trash</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-farmers-fantasy-top-10-game-simulations-unveiled/"><u>In 2024, Farmers' Fantasy Top 10 Game Simulations Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-linguistic-inputs-utilize-no-fee-required/"><u>In 2024, Linguistic Inputs, Utilize No Fee Required</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-unleash-creativity-transformative-techniques-with-snapchat-photos/"><u>In 2024, Unleash Creativity Transformative Techniques with Snapchat Photos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-pip-feature-in-youtube-app-for-iphones-for-2024/"><u>Mastering PIP Feature in YouTube App for iPhones for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-creating-and-copying-data-onto-cdsdvds-using-windows-10/"><u>Step-by-Step Guide: Creating and Copying Data Onto CDs/DVDs Using Windows 10</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-guide-creating-video-collages-in-windows/"><u>Step-by-Step Guide: Creating Video Collages in Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-can-creators-earn-from-product-video-reviews/"><u>[New] Can Creators Earn From Product Video Reviews?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-vr-to-shape-modern-business-practices/"><u>[New] Leveraging VR to Shape Modern Business Practices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-shining-a-light-top-photo-illumination-hacks/"><u>[New] Shining a Light Top Photo Illumination Hacks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-hdr-photography-how-to-shoot-hdr-photos-with-an-iphone/"><u>[Updated] HDR Photography How to Shoot HDR Photos with an iPhone?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-leading-5-audio-caps-for-streaming-enthusiasts/"><u>[Updated] Leading 5 Audio Caps for Streaming Enthusiasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-rising-above-internet-naysayers-and-detractors/"><u>[Updated] Rising Above Internet Naysayers and Detractors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sculpting-memorable-moments-in-your-shows-start/"><u>[Updated] Sculpting Memorable Moments in Your Show's Start</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-ranking-the-best-ios-videography-tech/"><u>2024 Approved Ranking the Best iOS Videography Tech</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-why-gamers-choose-multi-mode-monitors/"><u>Exploring Why Gamers Choose Multi-Mode Monitors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-14-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone 14 Smoothly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-top-8-image-to-sketch-conversion-tools-no-cost-options-available/"><u>The Ultimate Guide to Top 8 Image-to-Sketch Conversion Tools - No Cost Options Available</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transition-to-darkness-premiere-pro-techniques/"><u>Transition to Darkness Premiere Pro Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/winning-the-battle-againnst-monitor-delays-optimizing-your-gaming-experience-on-a-dual-pc-screen-with-windows-11/"><u>Winning the Battle Againnst Monitor Delays: Optimizing Your Gaming Experience on a Dual PC Screen with Windows 11</u></a></li>
 </ul></div>
 

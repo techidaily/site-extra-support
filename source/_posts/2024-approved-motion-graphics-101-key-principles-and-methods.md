@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Motion Graphics 101  Key Principles & Methods\""
-date: 2024-07-30T05:23:07.174Z
-updated: 2024-07-31T05:23:07.174Z
+date: 2024-12-10T20:31:14.839Z
+updated: 2024-12-11T19:43:11.883Z
 tags: 
   - screen-recording
   - ai video
@@ -21,17 +21,9 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 If you're thinking, "What is motion graphics?" let me explain that they are a particular kind of animation. It may be described as a hybrid of graphic design and animation. In most cases, motion graphics aim to present information using visual or animated texts to achieve a particular communication purpose. Motion graphics now have a far wider variety of applications because of technological advancements and the prevalence of screens in everyday objects. What was used to deliver technical knowledge and create the tone for a tale today has a variety of uses.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What is Motion Graphics
 
 Motion graphics is a fantastic tool for presenting stories and mixing animation and graphic design. Animation design is more memorable to viewers than static visuals because it employs not just straightforward visual components like text, forms, or images but also activates audio receptors to express concepts. Animation is motion graphics, although text plays a big part in them. Animated graphic design is what it is. There has been discussion over the boundary between motion graphics and full animation since motion graphics first appeared on the scene.
@@ -39,15 +31,17 @@ Motion graphics is a fantastic tool for presenting stories and mixing animation 
 Stunning motion graphics animation for brand apps and web platforms conveys a lot of information in a short, straightforward, aesthetically appealing film while showcasing complex images, thoughts, and concepts. As a result, it aids in quickly delivering a message and effortlessly grabbing and holding the audience's attention. Any field you choose, including business, marketing, IT solutions, the film industry, education, healthcare, social networks, or entertainment, can benefit from excellent animation design.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When to use Motion Graphics?
 
 The most pleasing motion graphics outline or emphasize information while demonstrating a point. When a narrative or plot is not required, motion graphics are employed. Motion graphic videos may simplify and make unforgettable your complicated services or goods. Motion graphics are mostly visual aids; hence they are excellent at explaining complex concepts through imagery.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to make Motion Graphics?
 
 Motion graphics may be used in various situations to add life and humor to a presentation or movie. Are you creating a video infographic? Motion graphics may breathe some life into the figures. Utilize them in any social media videos you create. In an explanation video, motion graphics are lovely for communicating your message. It's a fantastic, inexpensive method for producing videos.
@@ -60,8 +54,9 @@ Motion graphics may be used in various situations to add life and humor to a pre
 4. Telling a Story \- you can use motion graphics to create a music video. Like other music videos, the illustrations tell a story that complements the song. It's an exciting concept highlighting the different contexts motion graphics can use. You can use them to create an advertisement or even make a short film.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Benefits of Motion Graphics
 
 * Both money and time are saved. Making captivating movies with excellent animation design takes much less time, money, and effort.
@@ -69,8 +64,9 @@ Motion graphics may be used in various situations to add life and humor to a pre
 * Brand recognition is increased. Viewers may readily understand if complex images, concepts, and statistics are presented clearly, and excitingly.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The use of Motion Graphics
 
 For effective use of motion graphics design, figure out the objectives you want to achieve and for how long. Before adopting ideas, ask yourself some simple questions:
@@ -129,5 +125,22 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-free-to-paid-subscriber-count-surpasses-500/"><u>[New] 2024 Approved From Free to Paid Subscriber Count Surpasses 500</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-bridging-the-gap-from-rgb-to-standardized-srgb/"><u>[New] Bridging the Gap From Rgb to Standardized Srgb</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-magic-in-managing-photos-with-magix/"><u>[New] Magic in Managing Photos with MAGIX</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-elite-slide-to-digital-recorder/"><u>[Updated] 2024 Approved Elite Slide-to-Digital Recorder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lightning-fast-photo-reader-for-pcs/"><u>[Updated] Lightning-Fast Photo Reader for PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-overcoming-obstacles-in-iphone-xs-facial-detection-system/"><u>[Updated] Overcoming Obstacles in iPhone X’s Facial Detection System</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-famous-gamers-software-choices/"><u>2024 Approved Famous Gamers' Software Choices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-satire-software-studio/"><u>2024 Approved Satire Software Studio</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-your-instagram-photo-journey-starts-here/"><u>2024 Approved Your Instagram Photo Journey Starts Here</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/excellent-apps-for-streamlined-igtv-vertical-cuts/"><u>Excellent Apps for Streamlined IGTV Vertical Cuts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-music-for-imovie/"><u>In 2024, Music for iMovie</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sightsphere-scrutiny-summary/"><u>In 2024, SightSphere Scrutiny Summary</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-f34-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy F34 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/melodic-moments-the-art-of-music-in-insta-videos-for-2024/"><u>Melodic Moments The Art of Music in Insta-Videos for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-google-pixel-8-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Google Pixel 8 Pro</u></a></li>
+</ul></div>
 

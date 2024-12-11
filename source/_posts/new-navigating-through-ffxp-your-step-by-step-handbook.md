@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Through FFXP  Your Step-by-Step Handbook\""
-date: 2024-11-28T16:45:08.945Z
-updated: 2024-12-05T16:42:16.939Z
+date: 2024-12-05T19:41:11.437Z
+updated: 2024-12-11T17:58:26.715Z
 tags: 
   - screen-recording
   - ai video
@@ -23,10 +23,6 @@ Using your PC to watch films while working on something else has recently been p
 This feature is an important tool to help you multitask by dragging videos from web pages and navigating to another tab so you can continue working on other tabs while the video keeps playing. In this article, you will understand everything about this feature and how to enable this feature.
 
 ![the firefox]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. How Picture-in-Picture Mode Works
 
@@ -58,22 +54,22 @@ Here's how to activate picture-in-picture video control in Firefox**:**
 
 ![choose the options/settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Scroll down in the General mode to locate the **Browsing** settings option.
 2. Here, you will see a list of browsing settings; click to select the '**Enable picture in picture video controls'**, and check the box.
 
 ![a list of browsing settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Following the above procedure, you may now see the Firefox Picture-in-Picture symbol in the video streaming player. Whenever you visit a streaming site, a symbol for pip mode appears as an overlay on the video screen.
 
 ![the firefox picture in picture symbol]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can load only a single video using the above guideline. Suppose you want to lunch multiple videos to increase your multitasking experience. In that case, follow the outlined procedure:
 
@@ -95,16 +91,12 @@ Sometimes, the PiP mode can disturb necessary research or task that needs your f
 
 ## Part 4\. Other tips about Picture-in-Picture Mode in Firefox
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4.1 Picture-in-Picture extension in Firefox
 
 Another mode of having your picture-in-picture mode on Firefox is using the available add-on features. You can access several add-on extensions available on Firefox by tapping the **Menu** button. Locate the [add-on menu item](https://addons.mozilla.org/en-US/firefox/) and click it. Once it loads, you can use the search bar at the top right corner to select your preferred picture-in-picture add-on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4.2 Keyboard shortcuts about Picture-in-Picture in Firefox
@@ -119,17 +111,25 @@ It is also possible to enable and disable the picture-in-picture mode using keyb
 
 After opening the tab, drag the application up, then scroll down to the bottom right corner to select the desk pin. Finally, click on the tab opened with the pin cursor, and it will be on top always.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Why is picture-in-picture in Firefox not working?
 
 On Firefox, this mode is always on by default, but when the picture-in-picture feature is not working; follow the step-by-step guideline explained above to enable it manually. Once you perform these procedures using the keyboard shortcut or settings mode, it will start working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I resize the picture-in-picture window in Firefox?
 
 You can, of course, resize it and move it wherever you want. Hold down the left click and move it with your mouse to do this. Simply place your cursor in a corner to expand or shrink the window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -165,19 +165,20 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebook-follower-verification-techniques-for-professionals/"><u>[New] 2024 Approved Facebook Follower Verification Techniques for Professionals</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-immersive-android-viewer-for-high-quality-3d/"><u>[New] In 2024, Immersive Android Viewer for High-Quality 3D</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-multitask-media-magic-harnessing-netflixs-picture-in-picture-feature/"><u>[New] In 2024, Multitask Media Magic Harnessing Netflix's Picture-in-Picture Feature</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-to-virtual-reality-gaming-gear/"><u>[New] Ultimate Guide to Virtual Reality Gaming Gear</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-explore-the-ultimate-selection-of-free-slide-show-designs/"><u>[Updated] 2024 Approved Explore the Ultimate Selection of Free Slide Show Designs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-masterful-mobile-and-desktop-sound-alteration-tools/"><u>2024 Approved Masterful Mobile & Desktop Sound Alteration Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-world-of-ifunny-memes/"><u>2024 Approved Navigating the World of iFunny Memes</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/elevate-the-art-of-storytelling-6-leading-snapchat-apps/"><u>Elevate the Art of Storytelling 6 Leading Snapchat Apps</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-realme-v30t-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Realme V30T</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-moviemakerpro-insights-full-analysis/"><u>In 2024, MovieMakerPro Insights – Full Analysis</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-maze-of-srt-to-xml-ssa-ttml-conversions/"><u>In 2024, Navigating the Maze of SRT-to-XML, SSA, TTML Conversions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sci-fis-new-horizons-a-list-of-cinematic-journeys-in-the-metaverse/"><u>In 2024, Sci-Fi's New Horizons A List of Cinematic Journeys in the Metaverse</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-technique-inserting-a-direct-url-into-tiktok-bio/"><u>In 2024, Seamless Technique Inserting a Direct URL Into TikTok Bio</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-no-cost-screen-recording-tricks-for-pc-users/"><u>[New] 2024 Approved No-Cost Screen Recording Tricks for PC Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-dynamic-palette-skills-in-color-adjustment/"><u>[New] Dynamic Palette Skills in Color Adjustment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-light-the-way-three-no-fail-iphone-video-brilliance-hacks/"><u>[Updated] Light the Way Three No-Fail iPhone Video Brilliance Hacks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-zip-to-srt-conversion/"><u>[Updated] Mastering the Art of Zip to Srt Conversion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-podcast-titling-evolution-10-ai-generators-to-watch/"><u>[Updated] Podcast Titling Evolution 10 AI Generators to Watch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-soft-onset-visual-effects/"><u>[Updated] Soft Onset Visual Effects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-flawless-illustration-from-photographs-cross-platform-compatibility/"><u>2024 Approved Flawless Illustration From Photographs Cross-Platform Compatibility</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hps-color-expertise-in-full-display-the-z32x-review/"><u>2024 Approved HP's Color Expertise in Full Display The Z32X Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-next-gen-patient-rehabilitation-tools/"><u>2024 Approved Next-Gen Patient Rehabilitation Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-live-photo-your-ios-journey/"><u>2024 Approved Perfecting Live Photo Your iOS Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionize-your-video-content-with-vce-22-mastery/"><u>2024 Approved Revolutionize Your Video Content with VCE 2.2 Mastery</u></a></li>
+<li><a href="https://win-webster.techidaily.com/efficiently-navigate-and-locate-files-in-windows-os-tips-from-yl-software-experts/"><u>Efficiently Navigate and Locate Files in Windows OS - Tips From YL Software Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-subtitle-converters-reviewed-the-top-8-win-osx-sbt-to-srts-software/"><u>In 2024, Best Subtitle Converters Reviewed The Top 8 Win-OSX SBT to SRTS Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-fix-of-xbox-error-code-0x800700e9/"><u>Mastering the Fix of Xbox Error Code: 0X800700E9</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-comprehensive-path-to-instagram-riches/"><u>The Ultimate Comprehensive Path to Instagram Riches</u></a></li>
 </ul></div>
 
