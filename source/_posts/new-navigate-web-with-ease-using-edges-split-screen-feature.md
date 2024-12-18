@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigate Web with Ease Using Edge's Split Screen Feature"
-date: 2024-12-06T19:21:53.143Z
-updated: 2024-12-11T16:55:45.422Z
+date: 2024-12-12T02:28:35.680Z
+updated: 2024-12-17T22:26:49.579Z
 tags: 
   - screen-recording
   - ai video
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 Picture-in-Picture is an important feature on Windows and Android computers. It allows you to watch videos while they float on the screen of your desktop or smartphone. Microsoft Edge has PIP on Android and all other platforms to enable you to float videos on your screen on mini mode. And you can watch them as you perform other tasks on different apps and programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. How to Enable and Disable Picture in Picture in Edge
@@ -49,6 +49,10 @@ To enable PiP in edge on your desktop computer using the button, there are cheap
 
 ![using the pip button](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And here is a simple step-by-step procedure to follow to turn on PiP on your PC by right-clicking on the video.
 
 1. Start Microsoft Edge on your computer
@@ -58,10 +62,6 @@ And here is a simple step-by-step procedure to follow to turn on PiP on your PC 
 5. Select Picture in Picture on the new menu so that Edge adds the video as a floating window on your screen.
 
 ![right click on the video](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can drag and move the floating window around the screen and drop it at any location that you want with your mouse. And you can also resize that video so that it gives you a large space to proceed with other activities.
 
@@ -79,23 +79,19 @@ Even after turning on PiP on your desktop, you can still decide to switch off th
 
 Once you follow the steps above, you will be able to manipulate the PIP feature on your computer to use it as you like.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Useful Add-ons for PiP on Edge
 
 There are simpler ways to access and exploit Picture in Picture on your PC. Some supplement shortcut utilities that can enable you to enjoy this feature with ease are here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [PIP - Picture in Picture Plus](https://microsoftedge.microsoft.com/addons/detail/pip-picture-in-picture-/gokdpnhaggoioddclnnlpjfnkdinjjcc)
 
 The keyboard shortcut for PiP mode is **Alt + P**. Just click **Alt + P** and you are ready to go. This feature applies to YouTube, Twitter, Facebook, and other platforms.
 
 ![pip plus](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can also achieve this in three simple steps.
 
@@ -104,6 +100,10 @@ You can also achieve this in three simple steps.
 3. Select Picture in Picture
 
 And you are ready to go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Picture in Picture - PIP View](https://microsoftedge.microsoft.com/addons/detail/picture-in-picture-pip-/ebkloopllebgbjeppnncbekpfcglbcmp?hl=en-US)
 
@@ -120,7 +120,7 @@ This is a feature that enables you to use picture in picture on any site that yo
 ![pip everywhere](https://images.wondershare.com/filmora/article-images/2022/07/use-pip-on-microsoft-edge-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And here is how to do it in only two steps.
@@ -141,22 +141,18 @@ You can then resize or drag it around to the location you love.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-efficiently-edit-your-youtube-videos-using-sony-vegas/"><u>[New] 2024 Approved Efficiently Edit Your YouTube Videos Using Sony Vegas</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-peak-of-primes-amazons-hot-tweets-and-shows-23/"><u>[New] In 2024, The Peak of Primes Amazon’s Hot Tweets & Shows, '23</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-ios-and-android-downloading-and-personalizing-whatsapp-tones/"><u>[New] IOS & Android Downloading & Personalizing WhatsApp Tones</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tips-of-recording-time-lapse-video-on-iphone/"><u>[New] Tips of Recording Time Lapse Video on iPhone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-non-udemy-online-learning-platforms-for-self-improvement-for-2024/"><u>[New] Top Non-Udemy Online Learning Platforms for Self-Improvement for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-world-of-windows-11-backdrop-choices/"><u>[Updated] Navigating the World of Windows 11 Backdrop Choices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-no-cost-solution-the-leading-converters-for-jpeg-to-gifs/"><u>[Updated] No-Cost Solution The Leading Converters for JPEG to GIFs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-best-text-effects-of-psd/"><u>2024 Approved Best Text Effects of PSD</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-clearview-record-pro-for-11-users/"><u>2024 Approved ClearView Record Pro for 11 Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-m1-chip-wins-smoothness-in-every-edit-every-time/"><u>2024 Approved M1 Chip Wins Smoothness in Every Edit, Every Time</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-motion-clearer-captures/"><u>2024 Approved Mastering Motion Clearer Captures</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-numeric-adjustments-in-tiktok-videos/"><u>2024 Approved Mastering Numeric Adjustments in TikTok Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionary-top-8-methods-convert-subtitles-to-srt-format-seamlessly/"><u>2024 Approved Revolutionary Top 8 Methods Convert Subtitles to SRT Format Seamlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-insights-for-captivating-images-and-memorable-slideshows-in-win11s-photography-platform/"><u>Expert Insights for Captivating Images and Memorable Slideshows in Win11's Photography Platform</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-professional-iphone-hdr-techniques-unveiled/"><u>In 2024, Professional iPhone HDR Techniques Unveiled</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-rated-stop-motion-software-for-windows-and-macos/"><u>In 2024, Top-Rated Stop Motion Software for Windows and macOS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-phasmophobia-game-crashes-in-224-update/"><u>Ultimate Guide: Solving Phasmophobia Game Crashes in 2^24 Update</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-blueprinting-a-thrilling-film-flashpoint-for-2024/"><u>[New] Blueprinting a Thrilling Film Flashpoint for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-essential-open-video-players-across-operating-systems/"><u>[New] In 2024, Essential Open Video Players Across Operating Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-real-time-unfollowers-detection-on-insta/"><u>[New] Real-Time Unfollowers Detection on Insta</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-scrutinizing-the-most-accessible-affordable-lut-collections/"><u>[New] Scrutinizing the Most Accessible, Affordable LUT Collections</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-tap-into-endless-stock-imagery-through-favorite-4-youtube-vids/"><u>[Updated] 2024 Approved Tap Into Endless Stock Imagery Through Favorite 4 Youtube Vids</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-discover-the-best-offline-ios-games-your-ultimate-guide-for-2024/"><u>[Updated] Discover the Best Offline iOS Games – Your Ultimate Guide for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-instagram-reel-creating-stunning-slow-motion-content/"><u>2024 Approved Mastering Instagram Reel Creating Stunning Slow-Motion Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-record-rapidly-innovative-iphone-time-lapse-methods/"><u>2024 Approved Record Rapidly Innovative iPhone Time-Lapse Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-removing-aerial-video-pulsation-effects/"><u>2024 Approved Removing Aerial Video Pulsation Effects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-up-to-youtube-live-with-minimal-subscriber-threshold-reached/"><u>2024 Approved Step Up to YouTube Live with Minimal Subscriber Threshold Reached</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/easy-routines-for-capturing-youtube-streams-for-2024/"><u>Easy Routines for Capturing YouTube Streams for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-exploring-the-authenticity-of-visual-identity-sharing-on-instagram/"><u>In 2024, Exploring the Authenticity of Visual Identity Sharing on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-convertors-guide-top-10-online-free-transformers-listed-for-2024/"><u>Pro Convertors Guide Top 10 Online, Free Transformers Listed for 2024</u></a></li>
 </ul></div>
 

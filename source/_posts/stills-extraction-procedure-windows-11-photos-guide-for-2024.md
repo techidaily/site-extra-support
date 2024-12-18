@@ -1,7 +1,7 @@
 ---
 title: "\"Stills Extraction Procedure  Windows 11 Photos Guide for 2024\""
-date: 2024-12-06T18:41:58.788Z
-updated: 2024-12-11T16:52:52.101Z
+date: 2024-12-11T02:23:01.074Z
+updated: 2024-12-17T20:28:06.778Z
 tags: 
   - screen-recording
   - ai video
@@ -47,10 +47,6 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -61,16 +57,24 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
 
 We are explaining the solutions here –
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Check the update
 
@@ -79,10 +83,6 @@ Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Upd
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
 
@@ -96,12 +96,12 @@ Here comes the guide –
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -110,7 +110,7 @@ We provided you some knowledge on how to save a photo from video Windows 10 Phot
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -128,22 +128,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-superior-frame-rate-in-languid-videos/"><u>[New] In 2024, Superior Frame Rate in Languid Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-music-for-imovie/"><u>[New] Music for iMovie</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-radiant-tone-refactoring-pro/"><u>[New] Radiant Tone Refactoring Pro</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-innovate-your-screenshots-unveiling-ezvides-screen-casting-features-for-2024/"><u>[Updated] Innovate Your Screenshots Unveiling EZvide's Screen Casting Features for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-must-see-asmr-talents-online-for-2024/"><u>[Updated] Must-See ASMR Talents Online for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sprinting-to-victory-key-moments-from-2-omics-games/"><u>[Updated] Sprinting to Victory Key Moments From 2 Omics Games</u></a></li>
-<li><a href="https://facebook.techidaily.com/bridging-platforms-instagrams-new-whatsapp-2fa-strategy/"><u>Bridging Platforms: Instagram's New WhatsApp 2FA Strategy</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/composite-skies-a-drone-video-editors-strategic-guide/"><u>Composite Skies A Drone Video Editor’s Strategic Guide</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-audio-clarity-simplified-techniques-for-noise-elimination-in-audacity-and-filmorapro/"><u>In 2024, Mastering Audio Clarity Simplified Techniques for Noise Elimination in Audacity & FilmoraPro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-no-cost-all-benefits-with-fcp-downloads/"><u>In 2024, No Cost, All Benefits with FCP Downloads</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-picks-essential-mp4-lists/"><u>In 2024, Premier Picks Essential MP4 Lists</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sketch-like-a-pro-top-10-drawing-apps-for-android-artists/"><u>In 2024, Sketch Like a Pro Top 10 Drawing Apps for Android Artists</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-smile-and-share-easy-memes-via-kinemaster/"><u>In 2024, Smile and Share Easy Memes via KineMaster</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/jokesterjuxtaposer-for-2024/"><u>JokesterJuxtaposer for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/live-streamers-predicament-pick-between-wirecast-and-obs-for-2024/"><u>Live Streamer's Predicament Pick Between Wirecast and OBS for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-to-video-upgrade-version-22/"><u>Step-by-Step Guide to Video Upgrade - Version 2.2</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unbeatable-bike-sims-showcase/"><u>[New] 2024 Approved Unbeatable Bike Sims Showcase</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-free-yet-striking-image-acquisition/"><u>[New] Mastering the Art of Free, Yet Striking Image Acquisition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-iphone-photo-albums-seamless-integration-with-icloud/"><u>[New] Perfecting iPhone Photo Albums Seamless Integration with iCloud</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revitalize-your-shots-10-cost-free-expandable-with-additional-luts/"><u>[New] Revitalize Your Shots 10 Cost-Free, Expandable With Additional LUTs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laughlinelab-picchuckleworkshop/"><u>[Updated] LaughLineLab PicChuckleWorkshop</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-logo-genius-10-tips-for-memorable-podcast-imagery/"><u>[Updated] Logo Genius 10 Tips for Memorable Podcast Imagery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-troubleshooting-techniques-when-to-find-d3dx92e26dll/"><u>Comprehensive Troubleshooting Techniques: When to Find d3dx9_2e_26.dll</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-check-the-specifics-of-your-windows-11-installation/"><u>How to Check the Specifics of Your Windows 11 Installation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oneplus-nord-3-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your OnePlus Nord 3 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-mp3s-on-android-the-best-free-tools-for-2024/"><u>Mastering MP3s on Android - The Best Free Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/navigating-the-path-to-apple-podcast-acceptance-for-2024/"><u>Navigating the Path to Apple Podcast Acceptance for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-pilots-guide-to-best-5-drones-for-2024/"><u>Professional Pilot’s Guide to Best 5 Drones for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-fix-for-incompatible-hardware-alerts-with-your-idt-system/"><u>Step-by-Step Fix for Incompatible Hardware Alerts with Your IDT System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uniting-zooms-power-with-facebook-live-streaming-for-2024/"><u>Uniting Zoom's Power with Facebook LIVE Streaming for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Gionee F3 Pro | Dr.fone</u></a></li>
 </ul></div>
 

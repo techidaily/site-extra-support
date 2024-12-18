@@ -1,7 +1,7 @@
 ---
 title: "\"Revive Your Photo Viewer  Two Methods to Try in Win 11 for 2024\""
-date: 2024-12-05T18:14:31.260Z
-updated: 2024-12-11T18:30:20.510Z
+date: 2024-12-12T02:58:54.673Z
+updated: 2024-12-17T20:42:08.964Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -61,6 +57,10 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -68,6 +68,10 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 1**: Go to ‘Settings’ and open ‘Apps’. Click on ‘Default Apps’ and check ‘Photo Viewer’. The default photo viewer will be visible here.
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
@@ -92,11 +96,11 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -105,14 +109,10 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -130,22 +130,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-how-to-share-vimeo-video-online/"><u>[New] 2024 Approved How to Share Vimeo Video Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-digital-compositing-a-complete-kinemaster-green-screen-tutorial/"><u>[New] Mastering Digital Compositing A Complete Kinemaster Green Screen Tutorial</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-the-art-of-erasing-stickers-in-social-media-clips/"><u>[New] Perfecting the Art of Erasing Stickers in Social Media Clips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-best-undiscovered-speech-to-text-apps-on-your-mac/"><u>[New] The Best Undiscovered Speech-to-Text Apps on Your Mac</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-screen-recording-showdown-go-with-obs-studio-or-bandicam/"><u>[Updated] 2024 Approved Screen Recording Showdown Go with OBS Studio or Bandicam</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-crossfades-a-premiere-pro-guide/"><u>[Updated] Mastering Crossfades A Premiere Pro Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premier-picks-best-selling-oculus-rift-games/"><u>[Updated] Premier Picks Best-Selling Oculus Rift Games</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-rectify-facebook-video-playback-issues-chrome/"><u>[Updated] Rectify Facebook Video Playback Issues (Chrome)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-single-frame-solution-separate-and-save-pics-from-video-in-windows-photos/"><u>[Updated] Single-Frame Solution Separate and Save Pics From Video in Windows Photos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-virtual-voyage-navigating-through-immersive-entertainment/"><u>[Updated] The Virtual Voyage Navigating Through Immersive Entertainment</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-make-your-lol-gaming-memories-last-3-tips/"><u>2024 Approved How to Make Your LOL Gaming Memories Last (3 Tips)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pure-harmony-for-win-software/"><u>2024 Approved Pure Harmony for WIN Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-iphone-and-samsung-faces-examining-their-biometric-security/"><u>In 2024, IPhone & Samsung Faces Examining Their Biometric Security</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pixelperfect-toolkit-guidebook/"><u>In 2024, PixelPerfect Toolkit Guidebook</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-realme-12plus-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Realme 12+ 5G Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-start-last-epoch-successfully-on-your-pc-latest-solutions/"><u>Troubleshooting Steps to Start 'Last Epoch' Successfully on Your PC - Latest Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-essential-features-and-enhancements-the-critical-need-to-install-ios-153-today/"><u>Unlock Essential Features and Enhancements: The Critical Need to Install iOS 15.3 Today</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-substitutes-to-moviemaker-in-the-windows-realm/"><u>[New] 2024 Approved Substitutes to MovieMaker in the Windows Realm</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-easy-ways-to-record-vimeo-videos/"><u>[New] Easy Ways to Record Vimeo Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photoshops-quick-path-to-contoured-images/"><u>[New] Photoshop's Quick Path to Contoured Images</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-portrait-perfection-free-official-passport-image-generator-download/"><u>[New] Portrait Perfection Free, Official Passport Image Generator Download</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-monitors-unveiled-the-ultimate-guide-for-sourcing-a-stellar-4k-screen/"><u>[Updated] Monitors Unveiled The Ultimate Guide for Sourcing a Stellar 4K Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-zero-fee-image-upgrade-for-smartphonespcs/"><u>[Updated] Prime Zero-Fee Image Upgrade for Smartphones/PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rated-recs-prime-websites-for-grabbing-snapalert-beats/"><u>[Updated] Rated Recs Prime Websites for Grabbing SnapAlert Beats</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-upconversion-from-standard-definition-to-dynamic-range-extraordinaire/"><u>[Updated] Seamless Upconversion From Standard Definition to Dynamic Range Extraordinaire</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aggregate-attention-masterful-telegram-advertising-approaches/"><u>Aggregate Attention Masterful Telegram Advertising Approaches</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-epic-tales-of-filmmaking-8-distinct-categories/"><u>In 2024, Epic Tales of Filmmaking 8 Distinct Categories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-shadows-a-step-by-step-for-anonymous-instagram-live-viewing/"><u>In 2024, Navigating the Shadows A Step-by-Step for Anonymous Instagram Live Viewing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-novices-guide-to-vectors-insight-into-types-and-software-choices/"><u>In 2024, Novice's Guide to Vectors Insight Into Types & Software Choices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-s21-fe-5g-2023-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy S21 FE 5G (2023) Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-photo-customization-exclusive-list-of-stickers-for-ios-and-android-devices/"><u>Top Photo Customization Exclusive List of Stickers for iOS & Android Devices</u></a></li>
 </ul></div>
 

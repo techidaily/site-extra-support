@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2024-12-10T20:11:28.411Z
-updated: 2024-12-11T20:23:15.288Z
+date: 2024-12-10T21:25:48.579Z
+updated: 2024-12-17T18:35:10.539Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
@@ -63,9 +59,17 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -80,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
@@ -107,17 +111,9 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
 You read it here first, folks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -154,21 +154,16 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-exclusive-lineup-all-angle-recorders-for-2024/"><u>[New] Exclusive Lineup All-Angle Recorders for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-unlocking-swiftness-in-fb-video-transfers-with-top-tools-and-extensions/"><u>[New] In 2024, Unlocking Swiftness in FB Video Transfers with Top Tools and Extensions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-iphone-time-travel-mastering-prolonged-photo-captures/"><u>[New] IPhone Time Travel Mastering Prolonged Photo Captures</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-earning-video-visionaries/"><u>[Updated] 2024 Approved High Earning Video Visionaries</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-preserving-the-past-in-motion-photo-to-video-transition/"><u>2024 Approved Preserving the Past in Motion Photo to Video Transition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-setup-the-finest-4k-dslr-shoulder-rigs-reviewed/"><u>2024 Approved Prime Setup The Finest 4K DSLR Shoulder Rigs Reviewed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-into-high-dynamic-range-the-complete-hdr-conversion-guide/"><u>2024 Approved Step Into High Dynamic Range The Complete HDR Conversion Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-x50iplus-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor X50i+</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-seamless-workouts-and-personalized-soundtracks-using-the-innovative-garmin-vivoactive-3-tracker/"><u>Discover Seamless Workouts and Personalized Soundtracks Using the Innovative Garmin Vivoactive 3 Tracker</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-21-edition-exploration-mastering-vegas-pro-for-gambling/"><u>In 2024, '21 Edition Exploration – Mastering Vegas Pro for Gambling</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-smart-selections-the-premier-list-of-costless-streamers-apps-and-software/"><u>In 2024, Smart Selections The Premier List of Costless Streamers Apps & Software</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/orchestrating-a-journey-through-hidden-youtube-archives/"><u>Orchestrating a Journey Through Hidden YouTube Archives</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photoshop-and-beyond-unlocking-visual-potential-with-luts-for-2024/"><u>Photoshop and Beyond Unlocking Visual Potential with Luts for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-quick-insight-for-pics-on-win-11-for-2024/"><u>Premium Quick Insight for Pics on Win 11 for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-out-of-date-error-a-guide-to-updating-your-minecraft-graphics-card-driver/"><u>Resolving the 'Out-of-Date' Error: A Guide to Updating Your Minecraft Graphics Card Driver</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-essential-5-points-to-think-about-prior-to-purchasing-a-fitness-device/"><u>The Essential 5 Points to Think About Prior to Purchasing a Fitness Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ranking-premium-free-excellence-the-finest-free-lut-selections/"><u>[New] Ranking Premium-Free Excellence The Finest Free LUT Selections</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionizing-operations-with-virtual-engineering/"><u>[New] Revolutionizing Operations with Virtual Engineering</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-naming-excellence-tips-and-strategies/"><u>[Updated] 2024 Approved Channel Naming Excellence Tips & Strategies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-pixelpranks-mememakermarket/"><u>[Updated] 2024 Approved PixelPranks MemeMakerMarket</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-voice-logger-innovations-for-mac-users-unveiling-the-best-5-apps-for-2024/"><u>[Updated] Voice Logger Innovations for Mac Users Unveiling the Best 5 Apps for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-k70-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi K70 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/enable-or-disable-browser-pop-ups-a-comprehensive-guide-by-yl-software-experts/"><u>Enable or Disable Browser Pop-Ups: A Comprehensive Guide by YL Software Experts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-gear-vr-a-comprehensive-phone-compatibility-list-2023/"><u>In 2024, Mastering Gear VR A Comprehensive Phone Compatibility List 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snapchat-spotlight-unveiled-usage-explained/"><u>In 2024, Snapchat Spotlight Unveiled Usage Explained</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-solo-journey-through-the-world-of-3d-printing-in-3dr/"><u>In 2024, Solo Journey Through the World of 3D Printing in '3DR'</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/translating-languages-in-real-time-how-chatgpt-works-its-magic/"><u>Translating Languages in Real-Time: How ChatGPT Works Its Magic</u></a></li>
 </ul></div>
 

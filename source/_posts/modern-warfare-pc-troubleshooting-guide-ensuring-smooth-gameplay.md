@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare PC Troubleshooting Guide: Ensuring Smooth Gameplay"
-date: 2024-12-10T16:01:32.609Z
-updated: 2024-12-11T16:57:33.721Z
+date: 2024-12-13T21:45:38.664Z
+updated: 2024-12-17T18:15:36.649Z
 tags:
   - win11
   - win10
@@ -31,11 +31,7 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Allow your game through Windows Firewall
@@ -56,10 +52,6 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 If this doesn’t do the trick, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run your game launcher as administrator
 
  In some circumstances, programs would not start properly when they lack administrative rights. To check if that’s what’s happening to you, try running Steam or Battle.net as an administrator by right-clicking on the desktop app. Then see how it goes.
@@ -71,10 +63,6 @@ If this doesn’t do the trick, try the next fix below.
 3. When the Properties window opens, select the Compatibility tab. Then check the box next to Run this program as an administrator. Then click Apply > OK to save the changes.
 
  After this, try to launch Warfare II and see how it works. If your problem persists, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Close conflicting or non-essential programs
 
@@ -88,11 +76,23 @@ If this doesn’t do the trick, try the next fix below.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you’re done, launch your game. If your problem persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Repair corrupted game files
 
@@ -115,10 +115,14 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-properties-steam.png)
 2. Choose the **LOCAL FILES**  tab. Then click on the **Verify integrity of game files…**  button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
@@ -145,7 +149,7 @@ If this doesn’t do the trick, try the next fix below.
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
@@ -171,10 +175,6 @@ If this doesn’t do the trick, try the next fix below.
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -213,20 +213,20 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unlocking-your-fb-watchlist-access-liked-movies-and-shows/"><u>[New] 2024 Approved Unlocking Your FB Watchlist Access Liked Movies & Shows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-robotic-skies-varieties/"><u>[New] Robotic Skies' Varieties</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-latest-techniques-for-ios-iphoneipad-screen-capture-2023-update/"><u>[Updated] 2024 Approved Latest Techniques for iOS (iPhone/iPad) Screen Capture - 2023 Update</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-thriving-as-a-novice-youtuber-sidestep-these-8-crucial-pitfalls/"><u>[Updated] 2024 Approved Thriving as a Novice YouTuber? Sidestep These 8 Crucial Pitfalls!</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-commanding-the-screen-top-10-women-gamers-yt/"><u>[Updated] Commanding the Screen Top 10 Women Gamers YT</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-solutions-to-decipher-muted-facebook-videos/"><u>[Updated] In 2024, Solutions to Decipher Muted Facebook Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-past-perspectives-unencumbered-visual-splendors/"><u>[Updated] Past Perspectives Unencumbered Visual Splendors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pivot-producer-system/"><u>[Updated] Pivot Producer System</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-techniques-building-animation-with-movie-maker/"><u>[Updated] Step-by-Step Techniques Building Animation with Movie Maker</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-empowering-your-business-communication-google-meet-to-youtube-steps/"><u>2024 Approved Empowering Your Business Communication Google Meet to YouTube Steps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/home-speaker-maintenebration-a-step-by-step-cleaning-process-for-optimal-audio-performance/"><u>Home Speaker Maintenebration: A Step-by-Step Cleaning Process for Optimal Audio Performance</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-skip-past-fb-video-ads-effectively/"><u>In 2024, Skip Past FB Video Ads Effectively</u></a></li>
-<li><a href="https://extra-support.techidaily.com/key-destinations-enhancing-youtube-video-impact-for-2024/"><u>Key Destinations Enhancing YouTube Video Impact for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mastering-instagrams-qanda-feature-beyond-the-basics-for-2024/"><u>Mastering Instagram's Q&A Feature Beyond the Basics for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sideways-vids-phenomenon-anomaly-or-feature-on-instagram-in-2024/"><u>Sideways Vids Phenomenon Anomaly or Feature on Instagram, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-eliminating-noise-fixing-silent-sounds-in-obs-streams-for-2024/"><u>[Updated] Eliminating Noise Fixing Silent Sounds in OBS Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-a-step-by-step-for-delving-into-fb-archives/"><u>[Updated] In 2024, A Step-by-Step for Delving Into FB Archives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-screenplay-blueprint-unveiled/"><u>[Updated] Screenplay Blueprint Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-catalog-of-livestreaming-cameras-review/"><u>[Updated] The Complete Catalog of Livestreaming Cameras Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-video-paths-in-modern-education-systems/"><u>2024 Approved No-Video Paths in Modern Education Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-npc-details-with-zoom-in-on-roblox/"><u>2024 Approved Perfecting NPC Details with Zoom In on Roblox</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reinforcing-photo-viewing-functionality-with-windows-10-solutions/"><u>2024 Approved Reinforcing Photo Viewing Functionality with Windows 10 Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210028092-9781250781789-before/"><u>Before | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-gaming-with-newest-geforce-rtx-2070-driver-version-for-windows-operating-systems-win11-win8-win7/"><u>Enhance Gaming with Newest GeForce RTX 2070 Driver Version for Windows Operating Systems (Win11, Win8, Win7)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximize-your-inspiration-free-pinterest-video-downloaders-for-2024/"><u>Maximize Your Inspiration Free Pinterest Video Downloaders for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/radiant-palette-adjuster-for-2024/"><u>Radiant Palette Adjuster for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essential-technology-ranging-from-audio-devices-to-wearable-trackers-that-fuels-my-monthly-marathon-goals/"><u>The Essential Technology, Ranging From Audio Devices to Wearable Trackers, That Fuels My Monthly Marathon Goals</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-6-indicators-its-time-to-upgrade-transitioning-from-mobile-games-to-cutting-edge-portable-consoles/"><u>Top 6 Indicators It's Time to Upgrade: Transitioning From Mobile Games to Cutting-Edge Portable Consoles</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-sketch-to-screen-top-cartoon-video-maker-apps-for-android-and-ios/"><u>Updated In 2024, From Sketch to Screen Top Cartoon Video Maker Apps for Android and iOS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating and Utilizing Preview for Mac Efficiently"
-date: 2024-12-06T20:11:34.635Z
-updated: 2024-12-11T20:20:23.731Z
+date: 2024-12-12T16:03:49.719Z
+updated: 2024-12-17T19:26:10.340Z
 tags: 
   - screen-recording
   - ai video
@@ -50,10 +50,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -84,6 +80,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -97,7 +97,7 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
@@ -116,6 +116,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -131,10 +135,6 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -153,7 +153,7 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -167,10 +167,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -206,6 +202,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -221,15 +221,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-podcast-powered-by-seo-dominating-search-engine-landscapes/"><u>[New] Podcast Powered by SEO Dominating Search Engine Landscapes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-full-exploration-of-googles-voice-to-text-speech-recognition-tool/"><u>[Updated] 2024 Approved Full Exploration of Google's Voice-to-Text Speech Recognition Tool</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smilesliceart-funnyphotofacility/"><u>2024 Approved SmileSliceArt FunnyPhotoFacility</u></a></li>
-<li><a href="https://article-helps.techidaily.com/bright-ideas-maximizing-iphone-camera-exposure-for-2024/"><u>Bright Ideas Maximizing iPhone Camera Exposure for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-14-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 14 Plus Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-easily-alter-video-velocity-youtubes-playback-speed-mastery/"><u>In 2024, Easily Alter Video Velocity YouTube's Playback Speed Mastery</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-six-steps-to-a-color-rich-photographic-world/"><u>In 2024, Six Steps to a Color-Rich Photographic World</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mobile-and-desktop-audiospeed-alteration-essentials-for-2024/"><u>Mobile & Desktop Audiospeed Alteration Essentials for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-13-pro-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 13 Pro Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-social-media-to-monetary-success-the-roadmap-for-instagram-sponsorship/"><u>[New] From Social Media to Monetary Success The Roadmap for Instagram Sponsorship</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-pros-recommendation-top-10-apps-for-high-quality-vimeo-downloads/"><u>[New] In 2024, Pro's Recommendation Top 10 Apps for High-Quality Vimeo Downloads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photography-tips-for-iphone/"><u>[New] Photography Tips for iPhone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-richest-ringtone-repositories-online/"><u>[New] Richest Ringtone Repositories Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-ions-bold-step-forward-with-pro-3-a-comprehensive-camera-review/"><u>[Updated] ION's Bold Step Forward with Pro 3 - A Comprehensive Camera Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-toward-unauthorized-access-a-c-span-journey/"><u>2024 Approved Navigating Toward Unauthorized Access A C-Span Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reviewing-yuneecs-powerful-typhoon-aerodrone/"><u>2024 Approved Reviewing Yuneec's Powerful Typhoon AeroDrone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-poco-c55-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Poco C55 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/how-to-fix-a-windows-pc-when-it-wont-detect-the-internal-hdd-expert-advice-from-yl-computing/"><u>How to Fix a Windows PC When It Won't Detect the Internal HDD: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-90-gt-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor 90 GT</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-interpreting-differences-360-and-virtual-reality-cinematography/"><u>In 2024, Interpreting Differences 360° and Virtual Reality Cinematography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-purity-extract-background-from-your-photos-at-home/"><u>In 2024, Perfect Purity Extract Background From Your Photos at Home</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/lumafusion-for-macbook-how-to-install-and-best-alternatives/"><u>Lumafusion for MacBook How to Install and Best Alternatives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigate-new-walls-insiders-guide-to-wallpapers-in-win11-for-2024/"><u>Navigate New Walls Insider's Guide to Wallpapers in Win11 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfecting-your-iphone-video-shortening-and-altering-size-for-2024/"><u>Perfecting Your iPhone Video Shortening and Altering Size for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-restoring-a-failed-graphics-card-driver-system/"><u>Step-by-Step Solution for Restoring a Failed Graphics Card Driver System</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/thriving-on-youtube-the-guide-to-affiliates-for-2024/"><u>Thriving on YouTube The Guide to Affiliates for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-7-port-usb-30-hub-by-amazon-basics-features-and-performance/"><u>Top Rated 7-Port USB 3.0 Hub by Amazon Basics: Features and Performance</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-filmora-free-download-legit-and-virus-free-options/"><u>Updated 2024 Approved Filmora Free Download Legit and Virus-Free Options</u></a></li>
 </ul></div>
 

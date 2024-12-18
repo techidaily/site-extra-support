@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Performance Issues with Football Manager 2022 on Your PC
-date: 2024-12-06T16:05:59.259Z
-updated: 2024-12-11T20:36:31.811Z
+date: 2024-12-17T00:02:41.710Z
+updated: 2024-12-17T20:02:34.013Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 Football Manager 2021 is by far one of the most popular management simulator games. However, many players still reported the game keeps crashing and constantly becomes unplayable. If you have the same problem, don’t worry. We’ve put together a full list of solutions for Football Manager 2021 crashing on PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not try them all. Simply work your way down the list until you find the one that works for you.
@@ -28,6 +32,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 5. **[Set launch options](https://tools.techidaily.com/drivereasy/download/)**
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
 
@@ -50,10 +58,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Verify the integrity of game files
 
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
@@ -62,20 +66,20 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
- Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -105,7 +109,7 @@ If this method doesn’t help, go ahead with the next fix below.
 So does the crash go away now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
@@ -116,19 +120,15 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
@@ -159,15 +159,18 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-oculus-rift-vs-htc-vive-vs-playstation-vr-whats-the-best-for-gaming/"><u>[New] Oculus Rift vs HTC Vive vs PlayStation VR What’s the Best for Gaming?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-techniques-for-easy-video-recording-on-youtube/"><u>[New] Techniques for Easy Video Recording on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pearlescent-pictures-brighten-with-android/"><u>[Updated] Pearlescent Pictures Brighten with Android</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mold-memorable-memes-via-giphy/"><u>2024 Approved Mold Memorable Memes via Giphy</u></a></li>
-<li><a href="https://common-error.techidaily.com/banish-error-0x887a0006-with-these-swift-and-simple-troubleshooting-steps/"><u>Banish Error 0X887A0006 with These Swift and Simple Troubleshooting Steps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-effortless-elite-status-in-the-instagram-sphere/"><u>In 2024, Effortless Elite Status in the Instagram Sphere</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-elite-meme-conceptualization-tools/"><u>In 2024, Elite Meme Conceptualization Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/iphones-best-5-podcast-audio-platforms-for-2024/"><u>IPhone's Best 5 Podcast Audio Platforms for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximizing-4k-imaging-top-lens-choices-for-2024/"><u>Maximizing 4K Imaging Top Lens Choices for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-choosing-the-finest-small-tablets-of-2024-as-tested-by-tech-gurus-insights-from-zdnet/"><u>Ultimate Guide to Choosing the Finest Small Tablets of 2024, as Tested by Tech Gurus | Insights From ZDNET</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mavic-air-vs-spark-the-gamers-edition-comparison/"><u>[New] Mavic Air Vs. Spark The Gamer's Edition Comparison</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-power-of-persuasion-hire-success-stories-1-10/"><u>[New] The Power of Persuasion Hire Success Stories #1-10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ascend-youtube-rankings-through-optimal-dating/"><u>[Updated] 2024 Approved Ascend YouTube Rankings Through Optimal Dating</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pictureweaver-pro-online-illustration-hub/"><u>2024 Approved PictureWeaver Pro Online Illustration Hub</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-setting-up-seamless-network-video-broadcasts-with-vlc/"><u>2024 Approved Setting Up Seamless Network Video Broadcasts with VLC</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/channel-charisma-strategies-to-skyrocket-your-youtube-visibility-for-2024/"><u>Channel Charisma Strategies to Skyrocket Your YouTube Visibility for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/engaging-the-audience-in-new-ways-with-facebook-hub/"><u>Engaging the Audience in New Ways with Facebook Hub</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-infinix-hot-40-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Infinix Hot 40 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-nokia-150-2023-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Nokia 150 (2023)? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/kinemasters-guide-to-fluid-film-segments-for-2024/"><u>Kinemaster's Guide to Fluid Film Segments for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1640825-9780698176928-mrs-wakeman-vs-the-antichrist/"><u>Mrs. Wakeman vs. the Antichrist | Free Book</u></a></li>
+<li><a href="https://fox-place.techidaily.com/resolving-missing-photos-on-your-sd-card-camera-step-by-step-recovery-guide/"><u>Resolving Missing Photos on Your SD Card Camera - Step-by-Step Recovery Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/samsungs-virtual-world-enhanced-by-compatible-smartphones-2023-guide-for-2024/"><u>Samsung's Virtual World Enhanced by Compatible Smartphones - 2023 Guide for 2024</u></a></li>
 </ul></div>
 

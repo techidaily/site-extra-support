@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Precise Age Settings  The Essential Guide for TikTok Profiles\""
-date: 2024-12-06T20:35:51.176Z
-updated: 2024-12-11T18:51:34.517Z
+date: 2024-12-12T18:47:24.523Z
+updated: 2024-12-17T17:36:13.439Z
 tags: 
   - screen-recording
   - ai video
@@ -31,7 +31,7 @@ The 13-year age restriction on TikTok is not only to protect minors from the har
 It has also made all the accounts of those under 16 privates. If your account has been age-restricted by mistake, below are two possible methods on **how** **to edit age on TikTok**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 1: Contact TikTok Support Team to Change Your Age (Recommended)
@@ -42,17 +42,9 @@ Since TikTok has removed the feature to edit your birthdate from its app, you wi
 
 ![select settings and privacy](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Now navigate to the "Support & About" section and tap “Report a Problem.” Press "Account and Profile" on the next screen and tap "Editing Profile."
 
 ![select report a problem option](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Here, choose "Other," and on the next window, press “Need More Help?” It will open a feedback form where you can mention your problem and request the support team to solve it.
 
@@ -68,6 +60,10 @@ If you are underage, you should not try to create a new account with a false age
 
 ![access the profile tab](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** If you choose “Email or Phone,” you will need to provide your “Email” or “Phone” on the next screen. You will need to go through a verification CAPTCHA and, on the next screen, create a password for your account. Provide your correct birthdate and press "Next" to complete the account creation.
 
 ![confirm your birthdate](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-6.jpg)
@@ -77,7 +73,7 @@ If you are underage, you should not try to create a new account with a false age
 ![select social media to sign up](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: TikTok Video Editor – Filmora for Mobile
@@ -98,14 +94,10 @@ Protecting underage teens and kids from the negative side of the internet is imp
 
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -114,7 +106,15 @@ Protecting underage teens and kids from the negative side of the internet is imp
 
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -152,16 +152,24 @@ Protecting underage teens and kids from the negative side of the internet is imp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-exclusive-top-quintessential-4k-hd-gear-list/"><u>[New] 2024 Approved Exclusive Top Quintessential 4K HD Gear List</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-efficient-reliable-and-free-your-ultimate-guide-to-videodownloading-pins/"><u>[Updated] Efficient, Reliable & Free! Your Ultimate Guide to Videodownloading Pins</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pixels-to-populations-best-windowsmac-software-conversion/"><u>[Updated] Pixels to Populations Best Windows/Mac Software Conversion</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-select-and-download-exclusive-tailored-audio-templates/"><u>2024 Approved Select & Download Exclusive Tailored Audio Templates</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210063987-9781071545041-come-sopra-cosi-sotto/"><u>Come sopra, così sotto | Free Book</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-powerful-narratives-with-these-30-video-plans/"><u>Crafting Powerful Narratives with These 30 Video Plans</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-canon-mx490-printer-drivers-for-windows-10-8-and-7-step-by-step-guide/"><u>Download Canon MX490 Printer Drivers for Windows 10, 8 & 7: Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-cost-vs-benefit-rtx-4090-dilemna/"><u>Evaluating Cost Vs. Benefit: RTX 4090 Dilemna</u></a></li>
-<li><a href="https://extra-support.techidaily.com/podcastpivot-avoiding-dacasts-pitfalls-for-2024/"><u>PodcastPivot Avoiding DaCast's Pitfalls for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/strategic-electrical-power-choices-for-drones-success-for-2024/"><u>Strategic Electrical Power Choices for Drones' Success for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tips-for-securing-your-chats-as-pinned-posts-on-instagram/"><u>Ultimate Tips for Securing Your Chats as Pinned Posts on Instagram</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-image-illumination-the-essential-list-of-frame-enhancing-apps-for-2024/"><u>[New] Image Illumination The Essential List of Frame-Enhancing Apps for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-compelling-book-trail-creations/"><u>[New] In 2024, Compelling Book Trail Creations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-memes-top-ten-template-showcase/"><u>[New] Mastering Memes Top Ten Template Showcase</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-zooms-filters-for-clear-premium-calls/"><u>[Updated] Mastering Zoom's Filters for Clear, Premium Calls</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-gaming-systems-high-performance-meets-style/"><u>[Updated] Premium Gaming Systems High Performance Meets Style</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-hue-harmonies-crafting-visual-balance/"><u>2024 Approved Hue Harmonies Crafting Visual Balance</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-20-unrestricted-pubg-captures-array/"><u>2024 Approved Premium 20 Unrestricted PUBG Captures Array</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-significant-concepts-in-interactive-tale-design/"><u>2024 Approved Significant Concepts in Interactive Tale Design</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-speech-recognition-a-game-changer-for-visual-presentations/"><u>2024 Approved Speech Recognition A Game Changer for Visual Presentations</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-itel-a60s-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Itel A60s To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-optimal-online-sound-snatching/"><u>In 2024, Optimal Online Sound Snatching</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-a05s-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy A05s</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-soundstage-narratives-for-radio-for-2024/"><u>Prime Soundstage Narratives for Radio for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seeing-more-than-ever-samsungs-galaxy-s8-and-4k-breakthrough-for-2024/"><u>Seeing More Than Ever Samsung's Galaxy S8 and 4K Breakthrough for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/silence-zoom-distortion-swift-remedies-unveiled-for-2024/"><u>Silence Zoom Distortion Swift Remedies Unveiled for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/staying-unseen-in-the-world-of-instagram-live-broadcasts-for-2024/"><u>Staying Unseen in the World of Instagram Live Broadcasts for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-leading-choices-for-graphical-voicemail-services/"><u>The Leading Choices for Graphical Voicemail Services</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-capabilities-of-photoscape-your-free-editing-tool-reviewed/"><u>Unboxing the Capabilities of PhotoScape - Your FREE Editing Tool Reviewed!</u></a></li>
 </ul></div>
 

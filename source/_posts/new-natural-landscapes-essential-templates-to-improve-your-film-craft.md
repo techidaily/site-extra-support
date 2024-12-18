@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Natural Landscapes  Essential Templates to Improve Your Film Craft\""
-date: 2024-12-07T18:04:20.309Z
-updated: 2024-12-11T18:26:33.633Z
+date: 2024-12-17T02:53:09.290Z
+updated: 2024-12-17T17:42:35.753Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ The green screen is the underlying background for post-production effects in vid
 
 ![green screen](https://images.wondershare.com/filmora/article-images/2022/07/green_screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Green screen templates are ready-made effects free for use and downloadable. Unlike advanced videography, green screen templates do not require installation or a combination of software. You can use green-screen effects even from Filmora: an online video and image facilitating website.
 
 Advantages of green screen templates include easy application, smooth editing, beginner-friendly, and cost-efficiency. A simple video editing costs a reasonable amount and effort; however, using a green screen template reduces cost and time. Many green screen templates are free on the web; learning about individual green screen templates and their unique feature improves productivity.
@@ -34,6 +38,10 @@ Advantages of green screen templates include easy application, smooth editing, b
 
 Green screen templates are available on reliable sources (for example, Filmora); you can create your green background yourself. The best way to use green screen templates is to apply ready-made templates on a platform; however, there are conditions where the right green template you want is unavailable. In this case, you must create the green screen video yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.1 Download green screen templates
 
 Downloading a suitable green screen template is the first thing to do. Ensure the green screen template fits the original video you want to overlay. Visit a template source, search “green screen” from the search space and select the right video that best represents your need/original video.
@@ -41,6 +49,10 @@ Downloading a suitable green screen template is the first thing to do. Ensure th
 ![filmstock green screen image](https://images.wondershare.com/filmora/article-images/2022/07/filmstock_green_screen.jpg)
 
 You skip shooting the green background video yourself if you use a template. However, the ready-made video template may reduce quality production if you do not use the right green screen template. Keep the movement and element in mind while selecting a green screen template for your project: ensure the speed/movement aligns with the original video elements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 Import the video background and green screen videos
 
@@ -56,6 +68,10 @@ Import the two videos on Filmora: background and green screen; the background vi
 
 * You will see two tracks on the Filmora edit page: drag and paste the background video into the first track, and drag the green screen into the second track. Proceed to the Chroma key: right click on the “green screen” option on the menu and select “green screen.” You can also activate the edit panel by double clicking on the “green screen video” you imported.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.3 Set the green screen edit panel
 
 The edit panel option opens upon activating the panel; the edit panel option includes color, offset, edge thickness, alpha tolerance, edge feather, and tolerance. Each feature contributes directly to your final result. Offset, tolerance, and alpha channel affect the video clarity; edge thickness and edge feather affect the edge appearance: shadow, transparency, and edges.
@@ -63,7 +79,11 @@ The edit panel option opens upon activating the panel; the edit panel option inc
 ![set the green screen edit panel](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.4 Background positioning
@@ -99,10 +119,6 @@ Kapwing is similar to Filmstock because it permits customization and free green 
 Pikbest provides templates both in videos and images. For effective video overlay, you need a video for this process; however, if you need a green screen template in picture format, the program provides it. Pikbest provides services for individuals, premium users, and enterprises. You can subscribe to the option that best fits your need. For example, the enterprise is a Pro user who uses green screen templates in bulk or for commercial purposes. If you do not always use the platform, you may use the free version or subscribe to the premium package.
 
 ![pikbest green screen](https://images.wondershare.com/filmora/article-images/2022/07/pikbest.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. [**Mixkit**](https://mixkit.co/free-stock-video/green-screen/)
 
@@ -127,7 +143,7 @@ Using a green screen template for your project outweighs other processes. Howeve
 * You will see two tracks on the Filmora edit page: drag and paste the background video into the first track, and drag the green screen into the second track. Proceed to the Chroma key: right click on the “green screen” option on the menu and select “green screen.” You can also activate the edit panel by double clicking on the “green screen video” you imported.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.3 Set the green screen edit panel
@@ -137,16 +153,12 @@ The edit panel option opens upon activating the panel; the edit panel option inc
 ![set the green screen edit panel](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.4 Background positioning
 
 You have to position the background video on the green screen: the green screen will disappear, and the ground video will replace the green overlay. All the applications you added in 2.3 will appear. That is, transparency, movements, and video manipulation will be saved. Lastly, you should save your work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Best green screen templates
 
@@ -160,10 +172,6 @@ Filmstock, via the editor, gives you access to advanced settings and manipulatio
 
 ![filmsstock home page](https://images.wondershare.com/filmora/article-images/2022/07/filmstock-green.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. [**Videezy**](https://www.videezy.com/free-video/green-screen)
 
 Although Filmstock has an editor, Videezy only supplies green screen templates for free download. Videezy support clean videography via the contents available on the official web page. You do not need any logins to download green screen templates from the site, nor does it work with limited download. Videezy gives premium treatment to Pro Users, although all basic features are equally given to all users. You may download by categories: stock effects, after effects, resolution, size, and format. The more you narrow your search filter on the website, the more you are exposed to excellent stock pictures.
@@ -176,10 +184,6 @@ Kapwing is similar to Filmstock because it permits customization and free green 
 
 ![kapwing green screen](https://images.wondershare.com/filmora/article-images/2022/07/kapwing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. [**Pikbest**](https://pikbest.com/)
 
 Pikbest provides templates both in videos and images. For effective video overlay, you need a video for this process; however, if you need a green screen template in picture format, the program provides it. Pikbest provides services for individuals, premium users, and enterprises. You can subscribe to the option that best fits your need. For example, the enterprise is a Pro user who uses green screen templates in bulk or for commercial purposes. If you do not always use the platform, you may use the free version or subscribe to the premium package.
@@ -187,7 +191,7 @@ Pikbest provides templates both in videos and images. For effective video overla
 ![pikbest green screen](https://images.wondershare.com/filmora/article-images/2022/07/pikbest.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. [**Mixkit**](https://mixkit.co/free-stock-video/green-screen/)
@@ -195,10 +199,6 @@ Pikbest provides templates both in videos and images. For effective video overla
 Mixkit has one of the best green screen descriptions, allowing you to locate the right video easily. It supports unlimited download, free access to all files, and a final cut pro option: this allows you to download files for a specific purpose. For example, if you need content for Instagram, the final cut pro allows you to download green screen templates for Instagram screen resolution. Other features include sound effects, premier pro, after effects, and licensing.
 
 ![mixkit green screen](https://images.wondershare.com/filmora/article-images/2022/07/mixkit.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -232,24 +232,24 @@ Using a green screen template for your project outweighs other processes. Howeve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-leading-10-capture-applications-for-online-tutorials/"><u>[Updated] 2024 Approved Leading 10 Capture Applications for Online Tutorials</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-introducing-windows-xps-media-production-hub/"><u>[Updated] Introducing Windows XP's Media Production Hub</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sci-fis-virtual-quest-the-best-movies-to-discover-alien-universes/"><u>[Updated] Sci-Fi's Virtual Quest The Best Movies to Discover Alien Universes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-seamlessly-shift-focus-with-picart-clear-borders/"><u>[Updated] Seamlessly Shift Focus with PicArt Clear Borders</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-smart-selections-top-10-apps-for-in-the-moment-baseball-and-soccer-viewing/"><u>[Updated] Smart Selections Top 10 Apps for In-the-Moment Baseball and Soccer Viewing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-powerful-path-to-stellar-videos-top-free-intro-makers-for-2024/"><u>[Updated] The Powerful Path to Stellar Videos Top Free Intro Makers for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mediamagic-8-edition/"><u>2024 Approved MediaMagic 8 Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-open-access-to-the-masters-oeuvre/"><u>2024 Approved Open Access to the Masters' Oeuvre</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-mastering-ppros-full-screen-preview/"><u>2024 Approved Step-by-Step Mastering PPro's Full Screen Preview</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-evolution-of-business-embracing-vr-tech/"><u>2024 Approved The Evolution of Business Embracing VR Tech</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-thumbnail-enhancement-strategies-for-higher-clickthrough-rates-on-youtube/"><u>2024 Approved Thumbnail Enhancement Strategies for Higher Clickthrough Rates on YouTube</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/avi-to-wmv-movavi-online-tool/"><u>無料変換ソフト AVI to WMV - MOVAVI ONLINE TOOL</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hero5-vs-yi-4k-updated-battle-for-best-action-cam-for-2024/"><u>Hero5 Vs. Yi 4K Updated Battle for Best Action Cam for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-focus-the-top-10-high-res-shoulder-rigs/"><u>In 2024, Prime Focus The Top 10 High-Res Shoulder Rigs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sierra-users-the-ultimate-list-for-video-editing-apps/"><u>In 2024, Sierra Users The Ultimate List for Video Editing Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862866297-protect-your-system-with-msis-latest-fix-agesa-120-updates-tackle-amd-zenbleed-issue-once-and-for-all/"><u>Protect Your System with MSI's Latest Fix: AGESA 1.2.0 Updates Tackle AMD Zenbleed Issue Once and For All!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/secrets-of-skillful-navigation-around-edgenuity-videos-for-2024/"><u>Secrets of Skillful Navigation Around Edgenuity Videos for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/smartwatch-showdown-apple-watch-gps-only-versus-the-cellular-option/"><u>Smartwatch Showdown: Apple Watch GPS-Only Versus the Cellular Option</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ultimate-guide-to-selecting-a-superior-camcorder/"><u>Ultimate Guide to Selecting a Superior Camcorder</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-become-an-iconic-crafter-kapwings-meme-toolkit/"><u>[New] Become an Iconic Crafter Kapwing's Meme Toolkit</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-expert-shortcuts-for-savvy-screen-capture-on-your-pc/"><u>[New] In 2024, Expert Shortcuts for Savvy Screen Capture on Your PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-focus-zooming-in-msteams/"><u>[New] Maximizing Focus Zooming In MSTEAMS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-snaps-a-guide-to-optimal-video-and-image-zoom/"><u>[New] Perfecting Snaps A Guide to Optimal Video and Image Zoom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photoshop-facebackground-anonymity-guide/"><u>[New] Photoshop Face/Background Anonymity Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elite-groups-top-12-camcorders-featuring-gps-mapping-capabilities/"><u>[Updated] Elite Group's Top 12 Camcorders Featuring GPS Mapping Capabilities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfecting-iphones-close-up-shots-with-ease-and-precision/"><u>[Updated] Perfecting iPhone's Close-Up Shots with Ease and Precision</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snapseed-basics-unlock-your-image-editing-potential/"><u>[Updated] Snapseed Basics Unlock Your Image-Editing Potential</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-financial-anatomy-of-youtube-shorts-money-splitting-for-2024/"><u>[Updated] The Financial Anatomy of YouTube Shorts Money Splitting for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-microphone-reviews-podcastings-best/"><u>2024 Approved Leading Microphone Reviews Podcasting's Best</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-huawei-nova-y91-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Huawei Nova Y91 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-s21-fe-5g-2023-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-the-art-of-striking-gopro-time-lapse-videos/"><u>In 2024, Master the Art of Striking GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-midnight-tales-in-motion-evaluating-parental-choices-for-kids/"><u>In 2024, Midnight Tales in Motion Evaluating Parental Choices for Kids</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-unlocked-10-online-retailers-specializing-in-puzzle-boxes/"><u>In 2024, Secrets Unlocked 10 Online Retailers Specializing in Puzzle Boxes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-ultimate-list-of-10-vectors-stock-pics-websites-for-2024/"><u>The Ultimate List of 10 Vectors Stock Pics Websites for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/time-travel-with-your-phones-videos-for-2024/"><u>Time Travel with Your Phone's Videos for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-started-with-filmora-13-free-video-editor-download/"><u>Updated Get Started with Filmora 13 Free Video Editor Download</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/wie-schaut-man-dvds-mit-der-ps5-an-erlauterung-des-abspielprozesses-fur-spielekonsolenbenutzer/"><u>Wie Schaut Man DVDs Mit Der PS5 an - Erläuterung Des Abspielprozesses Für Spielekonsolenbenutzer</u></a></li>
 </ul></div>
 

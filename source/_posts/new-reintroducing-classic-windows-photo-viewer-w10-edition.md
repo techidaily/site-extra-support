@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reintroducing Classic Windows Photo Viewer - W10 Edition\""
-date: 2024-12-07T17:53:44.853Z
-updated: 2024-12-11T20:24:21.330Z
+date: 2024-12-11T22:34:55.111Z
+updated: 2024-12-17T16:29:37.752Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -61,6 +57,10 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -70,16 +70,12 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -100,7 +96,11 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -110,7 +110,7 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -130,17 +130,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-everything-you-need-to-know-before-upgrading-to-windows-10/"><u>[New] Everything You Need To Know Before Upgrading To Windows 10</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ow-to-trim-youtube-videos-like-a-pro/"><u>[New] How to Trim YouTube Videos Like a Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-no-8-advanced-online-photographic-merge-suite/"><u>[New] No. 8 Advanced Online Photographic Merge Suite</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pushing-boundaries-for-fb-video-performance/"><u>[New] Pushing Boundaries for FB Video Performance</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-12-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 12 Pro Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-impact-innovative-fb-strategies-for-handc-marketing/"><u>In 2024, Maximizing Impact Innovative FB Strategies for H&C Marketing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-most-innovative-arvr-iphoneandroid-apps/"><u>In 2024, Most Innovative AR/VR iPhone/Android Apps</u></a></li>
-<li><a href="https://facebook.techidaily.com/master-the-art-of-data-analysis-with-8-crowdflower-features/"><u>Master the Art of Data Analysis with 8 CrowdFlower Features</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-digital-distortion-in-minutes-for-2024/"><u>Mastering the Art of Digital Distortion in Minutes for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/overriding-defenders-firewall-restrictions-in-win11/"><u>Overriding Defender's Firewall Restrictions in Win11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/precision-and-artistry-the-ultimate-crossfade-playbook-with-audacity-for-2024/"><u>Precision and Artistry The Ultimate Crossfade Playbook with Audacity for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/the-legacy-of-drugs-in-diplomacy-exploring-how-the-chinese-opium-wars-shaped-history-educational-perspectives-from-yl-systems/"><u>The Legacy of Drugs in Diplomacy: Exploring How the Chinese Opium Wars Shaped History - Educational Perspectives From YL Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-zoom-interface-like-a-pro-in-win11/"><u>[New] Navigating the Zoom Interface Like a Pro in Win11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-panoramic-lenses-and-fixed-angle-gear/"><u>[New] Panoramic Lenses & Fixed-Angle Gear</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-skirting-watermarks-in-stock-photography/"><u>[New] Skirting Watermarks in Stock Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinterest-vid-lifting-the-top-free-online-tools-list/"><u>2024 Approved Pinterest Vid Lifting The Top Free, Online Tools List</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-hard-drive-efficiency-the-leading-free-defragmentation-apps-of-july-24/"><u>Boosting Hard Drive Efficiency: The Leading Free Defragmentation Apps of July '24</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-f34-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy F34 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/g-youtube-playback-tips-for-ios-and-android-for-2024/"><u>Hiding YouTube Playback Tips for iOS and Android for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-htc-u23-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on HTC U23 Pro?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-tecno-pova-6-pro-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Tecno Pova 6 Pro 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimize-your-storage-without-spending-a-penny-best-30-clouds-with-1tb-included/"><u>In 2024, Optimize Your Storage Without Spending a Penny Best 30 Clouds with 1TB Included</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-play-nba-anytime-anywhere-with-these-15-livestream-tips/"><u>In 2024, Play NBA Anytime, Anywhere with These 15 Livestream Tips</u></a></li>
+<li><a href="https://win-bits.techidaily.com/komplette-installation-von-windows-10-auf-ihrem-neuen-laptop-professionelle-tipps-and-tricks/"><u>Komplette Installation Von Windows 10 Auf Ihrem Neuen Laptop - Professionelle Tipps & Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/link-audio-clips-to-powerpoint-slides-for-2024/"><u>Link Audio Clips to PowerPoint Slides for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reviews-of-razers-gaming-accessory-unleashing-powerful-wi-fi-connectivity/"><u>Reviews of Razer's Gaming Accessory - Unleashing Powerful Wi-Fi Connectivity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-leading-virtual-reality-titles-for-your-smartphone/"><u>The Leading Virtual Reality Titles for Your Smartphone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-ultimate-driver-update-strategy-for-windows-8-enthusiasts/"><u>The Ultimate Driver Update Strategy for Windows 8 Enthusiasts</u></a></li>
 </ul></div>
 
