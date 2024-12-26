@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Guide to Mastering Windows Media Player for CD Management\""
-date: 2024-07-30T05:13:05.575Z
-updated: 2024-07-31T05:13:05.575Z
+date: 2024-12-22T16:31:18.939Z
+updated: 2024-12-26T18:08:20.707Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
 # How to use windows media player to rip and burn cd
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -31,9 +28,105 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
 
  If you want to Rip and Burn your CD with new data using Windows Media Player then prefer to follow these simple steps:
 
+## 1: How to use Window Media Player to Rip CD?
+
+ **Step 1: Quick Rip Vs Normal Rip:**
+
+ If you are accessing CDs for the very first time then you must be searching hard about how to rip music from a CD. Don’t worry! The tutorial below can help you to understand this process. First of all you must install latest version of Windows Media Player on your device (V12); it is much improved as compared to that old V11 platform addition of preview functions and library.
+
+![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-1.jpg
+)
+
+ **Quick Rip:**
+
+ Users are advised to start ripping process from “AutoPlay” menu. It will appear right after you insert your CD/DVD drive inside computer. Below AutoPlay menu, you will find “Rip Music from CD – using Window Media Player” option. Once you click on this option, it will automatically open the WMP timeline on your system. Never forget to uncheck that “Always do this for audio CDs” option otherwise it will perform the same operation every time whenever a new CD will be detected. Now you need to hit “Start Rip Button”. The software tool performs ripping task with WMA file format and you can save it directly to Music Folder.
+
+ **Step 2: Normal Ripping with Windows Media Player:**
+
+ If you want to do ripping task with customizable settings then prefer to go for Normal Ripping technique. To complete this task: simply launch Window Media Player on your system. Now insert your CD but never use that AutoPlay option this time. As soon as you reach at Rip Menu then hit Rip Tab available on screen. From the drop down menu, you have to select “Formats”. It will assist users to pick audio files with WAV and MP3 file formats. Note that both these media file formats come under lossless format category so ripping process will not cause any quality reduction for your actual data. You can also enter your desired bit rate value to ensure right content quality. But note that, better content quality means larger file size.
+
+![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-2.jpg
+)
+
+ **Step 3: Additional CD ripping options:**
+
+ When you hit “More Options” then it will provide you many choices below. In the “Rip Options” section, you can easily enter your desired destination folder from change button that is available below “Rip Music to this Location” section. Users are also allowed to change their file format and bit rate settings. As soon as you are done with all the settings then press “OK” button.
+
+![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-3.jpg
+)
+
+ **Step 4: Changing Album and Track Info in Windows Media Player:**
+
+ In case if you want your software to automatically search for complete information of album online then simply right click on CD icon. Here you will find a submenu that asks for “Find Album Info”. Select your file and then press Next. On the verification screen, hit Finish.
+
+![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-4.jpg
+)
+
+ **Step 5: Let “Er Rip: Manual Album and Track Editing”:**
+
+ As soon as you are done with the ripping task, your software will show a message “Ripped to Library” and it will appear with each song. Now you can use Window Media Player to move these songs to any destination media like CD or music player etc. Now your media content is ready with you and you can access it easily on other players.
+
+![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-5.jpg
+)
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## 2: How to Use Windows Media Player to Burn CD?
+
+ So now, you are ready to learn the CD burning process. Great! Start following these simple steps:
+
+ **Step 1: Check for the music tracks that you want to burn:**
+
+ Note that, if you want to burn a CD then it must be ripped in advanced using Window Media Player.
+
+* In case if you have not yet uploaded or ripped your CD then insert it into the CD drive. As soon as your Windows Media Player recognises this new insert, hit the “Rip CD” option that is visible at upper left portion of media player. System will take few minutes to copy this CD onto computer.
+* Those who want to assemble a mix or need to store songs from various CDs and need to create a playlist then go to upper left portion of media player and here press “create playlist” button. Enter name for your playlist and then drag and drop your desired songs over there.
+* If you want to create list from internet then you can directly download them from YouTube. Prefer to use URL to MP3 website to get it done faster. Enter your recently downloaded songs into playlist.
+
+ **Step 2: Insert your blank CD:**
+
+ It is time to put your CD into Computer Disk Drive and it will soon burn your CD while copying its original content. Note that, All CDs use to have specific storage space, you can enter data accordingly.
+
+ **Step 3: Locate Burn Tab on top Right corner of Media Player:**
+
+ You will not find any list of songs at this place and CD will also be reflected as Empty.
+
+ **Step 4: Drag your media files:**
+
+ Now as you are done with all these steps now you can start burning your CD. Simply drag the playlist or album that you have recently created for burning needs and place them on Burn tab. Now you will be able to see the complete list of songs over there.
+
+ **Step 5: Manipulate burn settings:**
+
+ Go to burn option button for this feature can be located on extreme right corner of your screen. Use this feature to set particular length between songs. Note that you can also adjust burn speed as well as quality of songs manually. Soon you will be able to create your track list.
+
+ **Step 6: Press Start Button:**
+
+ Go to burn tab and then hit start button. It will soon start the burning process and a green progress window will appear on screen.
+
+ **Step 7: Wait till the time process finishes:**
+
+ As soon as this burning process will complete, your system will immediately eject your CD from CD space.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ If you want to Rip and Burn your CD with new data using Windows Media Player then prefer to follow these simple steps:
+
 ## 1: How to use Window Media Player to Rip CD?
 
  **Step 1: Quick Rip Vs Normal Rip:**
@@ -112,6 +205,10 @@ thumbnail: https://thmb.techidaily.com/eeef901d1f6e0f72044944aeb5612974e0f0cbfc3
  As soon as this burning process will complete, your system will immediately eject your CD from CD space.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -167,9 +264,9 @@ Follow @Ollie Mattison
 )
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2: How to Use Windows Media Player to Burn CD?
 
  So now, you are ready to learn the CD burning process. Great! Start following these simple steps:
@@ -208,6 +305,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -220,18 +321,6 @@ Follow @Ollie Mattison
 
  If you want to Rip and Burn your CD with new data using Windows Media Player then prefer to follow these simple steps:
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1: How to use Window Media Player to Rip CD?
 
  **Step 1: Quick Rip Vs Normal Rip:**
@@ -309,103 +398,6 @@ Follow @Ollie Mattison
 
  As soon as this burning process will complete, your system will immediately eject your CD from CD space.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- If you want to Rip and Burn your CD with new data using Windows Media Player then prefer to follow these simple steps:
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 1: How to use Window Media Player to Rip CD?
-
- **Step 1: Quick Rip Vs Normal Rip:**
-
- If you are accessing CDs for the very first time then you must be searching hard about how to rip music from a CD. Don’t worry! The tutorial below can help you to understand this process. First of all you must install latest version of Windows Media Player on your device (V12); it is much improved as compared to that old V11 platform addition of preview functions and library.
-
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-1.jpg
-)
-
- **Quick Rip:**
-
- Users are advised to start ripping process from “AutoPlay” menu. It will appear right after you insert your CD/DVD drive inside computer. Below AutoPlay menu, you will find “Rip Music from CD – using Window Media Player” option. Once you click on this option, it will automatically open the WMP timeline on your system. Never forget to uncheck that “Always do this for audio CDs” option otherwise it will perform the same operation every time whenever a new CD will be detected. Now you need to hit “Start Rip Button”. The software tool performs ripping task with WMA file format and you can save it directly to Music Folder.
-
- **Step 2: Normal Ripping with Windows Media Player:**
-
- If you want to do ripping task with customizable settings then prefer to go for Normal Ripping technique. To complete this task: simply launch Window Media Player on your system. Now insert your CD but never use that AutoPlay option this time. As soon as you reach at Rip Menu then hit Rip Tab available on screen. From the drop down menu, you have to select “Formats”. It will assist users to pick audio files with WAV and MP3 file formats. Note that both these media file formats come under lossless format category so ripping process will not cause any quality reduction for your actual data. You can also enter your desired bit rate value to ensure right content quality. But note that, better content quality means larger file size.
-
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-2.jpg
-)
-
- **Step 3: Additional CD ripping options:**
-
- When you hit “More Options” then it will provide you many choices below. In the “Rip Options” section, you can easily enter your desired destination folder from change button that is available below “Rip Music to this Location” section. Users are also allowed to change their file format and bit rate settings. As soon as you are done with all the settings then press “OK” button.
-
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-3.jpg
-)
-
- **Step 4: Changing Album and Track Info in Windows Media Player:**
-
- In case if you want your software to automatically search for complete information of album online then simply right click on CD icon. Here you will find a submenu that asks for “Find Album Info”. Select your file and then press Next. On the verification screen, hit Finish.
-
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-4.jpg
-)
-
- **Step 5: Let “Er Rip: Manual Album and Track Editing”:**
-
- As soon as you are done with the ripping task, your software will show a message “Ripped to Library” and it will appear with each song. Now you can use Window Media Player to move these songs to any destination media like CD or music player etc. Now your media content is ready with you and you can access it easily on other players.
-
-![ ](https://images.wondershare.com/filmora/article-images/wmp-burn-cd-5.jpg
-)
-
-## 2: How to Use Windows Media Player to Burn CD?
-
- So now, you are ready to learn the CD burning process. Great! Start following these simple steps:
-
- **Step 1: Check for the music tracks that you want to burn:**
-
- Note that, if you want to burn a CD then it must be ripped in advanced using Window Media Player.
-
-* In case if you have not yet uploaded or ripped your CD then insert it into the CD drive. As soon as your Windows Media Player recognises this new insert, hit the “Rip CD” option that is visible at upper left portion of media player. System will take few minutes to copy this CD onto computer.
-* Those who want to assemble a mix or need to store songs from various CDs and need to create a playlist then go to upper left portion of media player and here press “create playlist” button. Enter name for your playlist and then drag and drop your desired songs over there.
-* If you want to create list from internet then you can directly download them from YouTube. Prefer to use URL to MP3 website to get it done faster. Enter your recently downloaded songs into playlist.
-
- **Step 2: Insert your blank CD:**
-
- It is time to put your CD into Computer Disk Drive and it will soon burn your CD while copying its original content. Note that, All CDs use to have specific storage space, you can enter data accordingly.
-
- **Step 3: Locate Burn Tab on top Right corner of Media Player:**
-
- You will not find any list of songs at this place and CD will also be reflected as Empty.
-
- **Step 4: Drag your media files:**
-
- Now as you are done with all these steps now you can start burning your CD. Simply drag the playlist or album that you have recently created for burning needs and place them on Burn tab. Now you will be able to see the complete list of songs over there.
-
- **Step 5: Manipulate burn settings:**
-
- Go to burn option button for this feature can be located on extreme right corner of your screen. Use this feature to set particular length between songs. Note that you can also adjust burn speed as well as quality of songs manually. Soon you will be able to create your track list.
-
- **Step 6: Press Start Button:**
-
- Go to burn tab and then hit start button. It will soon start the burning process and a green progress window will appear on screen.
-
- **Step 7: Wait till the time process finishes:**
-
- As soon as this burning process will complete, your system will immediately eject your CD from CD space.
-
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -436,5 +428,23 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discovering-8-ultimate-mirrorless-vlogging-cameras/"><u>[New] 2024 Approved Discovering 8 Ultimate Mirrorless Vlogging Cameras</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-ryan-kajis-riches-the-tale-of-youtubes-youngest-mogul/"><u>[New] 2024 Approved Ryan Kaji’s Riches The Tale of YouTube's Youngest Mogul</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-effortlessly-edit-images-using-snapseed-tips/"><u>[New] In 2024, Effortlessly Edit Images Using Snapseed Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-online-repositories-for-typography/"><u>[New] Premier Online Repositories for Typography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-winpodcast-solutions-roundup/"><u>[New] Premium WinPodcast Solutions Roundup</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-compilation-of-hd-android-video-apps/"><u>[Updated] In 2024, The Ultimate Compilation of Hd Android Video Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterpiece-makers-leading-ios-draw-tools/"><u>2024 Approved Masterpiece Makers Leading iOS Draw Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rapid-revamp-of-images-navigating-the-photos-editor-in-win10/"><u>2024 Approved Rapid Revamp of Images Navigating the Photos Editor in WIN10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stepping-into-the-unseen-mastering-windows-11-through-less-known-tips/"><u>2024 Approved Stepping Into the Unseen Mastering Windows 11 Through Less-Known Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-google-pixel-fold-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Google Pixel Fold to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/cosmic-feline-desktop-scenes-stunning-space-themed-wallpapers-hd-backgrounds-and-vivid-imagery-by-yl-computing/"><u>Cosmic Feline Desktop Scenes: Stunning Space-Themed Wallpapers, HD Backgrounds & Vivid Imagery by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-vivo-t2-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Vivo T2 5G?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-overcome-dimness-with-easy-iphone-editing/"><u>In 2024, Overcome Dimness with Easy iPhone Editing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/peek-behind-ustreams-curtain-and-more-for-2024/"><u>Peek Behind Ustream's Curtain and More for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-conversion-a-step-by-step-guide-to-transferring-dvds-onto-your-iphone-7-or-7-plus/"><u>Seamless Conversion: A Step-by-Step Guide to Transferring DVDs Onto Your iPhone 7 or 7 Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shield-your-digital-domain-stop-bot-harvesters/"><u>Shield Your Digital Domain: Stop Bot Harvesters</u></a></li>
+</ul></div>
 

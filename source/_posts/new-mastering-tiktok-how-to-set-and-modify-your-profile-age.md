@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering TikTok  How to Set & Modify Your Profile Age\""
-date: 2024-12-12T19:32:55.846Z
-updated: 2024-12-17T22:27:52.715Z
+date: 2024-12-24T18:36:11.648Z
+updated: 2024-12-26T18:36:10.062Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,10 @@ The accounts of teens from 13 to 16 have been made private to minimize the negat
 
 ![change age on tiktok featured image](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Change Your Age on TikTok
 
 The 13-year age restriction on TikTok is not only to protect minors from the harmful side of the internet. It is to comply with Children's Online Privacy Protection Act (COPPA) in the United States. To ensure that users don't cheat with age-requirement, TikTok has removed the option to edit the birthdate from the app.
@@ -39,7 +43,7 @@ Since TikTok has removed the feature to edit your birthdate from its app, you wi
 ![select settings and privacy](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Now navigate to the "Support & About" section and tap “Report a Problem.” Press "Account and Profile" on the next screen and tap "Editing Profile."
@@ -68,6 +72,10 @@ If you are underage, you should not try to create a new account with a false age
 
 ![select social media to sign up](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: TikTok Video Editor – Filmora for Mobile
 
 Are you an avid TikTok user who likes creating fun and stunning videos to share with your followers? If yes, then we have a great TikTok video editor, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), formerly known as Filmora, for you. Filmora is a must-have video editor for any passionate content creator on TikTok due to its amazing features and simple editing process. It has over 1000 music tracks and over 5000 stickers and filters for you to use in your [TikTok videos](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -79,13 +87,13 @@ With its help, you can trim clips, add transition effects, insert music, and cha
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -93,22 +101,6 @@ We have prepared you a video to help you better start your video editing journey
 Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
 
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
-
-We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Conclusion
-
-Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
-
-![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
@@ -120,8 +112,16 @@ Protecting underage teens and kids from the negative side of the internet is imp
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
+## Conclusion
+
+Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
+
+![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
+
+We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -152,24 +152,20 @@ Protecting underage teens and kids from the negative side of the internet is imp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-navigating-youtubes-seo-landscape-key-techniques/"><u>[New] 2024 Approved Navigating YouTube's SEO Landscape Key Techniques</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-where-is-youtube-video-manager-all-you-need-to-know/"><u>[New] 2024 Approved Where Is Youtube Video Manager? [All You Need to Know]</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-peak-business-sky-storage-for-firms/"><u>[New] Peak Business Sky-Storage for Firms</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-personalizing-your-ig-experience-blocking-tactics-for-2024/"><u>[New] Personalizing Your IG Experience Blocking Tactics for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-stopwatch-like-pauses-tackling-frozen-photobooths/"><u>[New] Stopwatch-Like Pauses Tackling Frozen Photobooths</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-affordable-asmr-capturing-selecting-premium-gear-for-budget-conscious-users-for-2024/"><u>[Updated] Affordable ASMR Capturing Selecting Premium Gear for Budget-Conscious Users for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-intro-to-photo-editing-mastering-lunapic-basics/"><u>[Updated] Intro to Photo Editing Mastering LunaPic Basics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-content-by-merging-apple-music-to-videos/"><u>2024 Approved Maximize Content by Merging Apple Music to Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-strategies-for-superior-film-production-using-movie-maker-in-windows-8/"><u>2024 Approved Step-by-Step Strategies for Superior Film Production Using Movie Maker in Windows 8</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-11-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 11 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-tecno-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Tecno</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-resolution-addressing-the-windows-resource-protection-error/"><u>Error Resolution: Addressing the 'Windows Resource Protection Error'</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oneplus-open-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your OnePlus Open Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-eco-friendly-cities-redefining-urban-spaces-for-nature/"><u>In 2024, Eco-Friendly Cities Redefining Urban Spaces for Nature</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-microscopic-views-on-ms-teams-chat/"><u>In 2024, Mastering Microscopic Views on MS Teams Chat</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-precision-editing-in-photopea-sculpting-cleaner-visual-space/"><u>In 2024, Precision Editing in Photopea Sculpting Cleaner Visual Space</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-netconfig-a-guide-to-connectivity/"><u>Mastering Window's NetConfig: A Guide to Connectivity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-skating-moments-from-the-world-cup-22-for-2024/"><u>Prime Skating Moments From the World Cup '22 for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quick-and-easy-guide-to-exquisite-collage-artistry-for-2024/"><u>Quick & Easy Guide to Exquisite Collage Artistry for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-from-novice-to-expert-free-lut-techniques-for-color-grading/"><u>[New] In 2024, From Novice to Expert Free LUT Techniques for Color Grading</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pivotal-moments-in-figure-skating-22-highlights/"><u>[New] Pivotal Moments in Figure Skating '22 Highlights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-identifying-instagram-disconnects-for-2024/"><u>[Updated] Identifying Instagram Disconnects for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inventory-guide-to-photographic-and-videography-units/"><u>[Updated] Inventory Guide to Photographic and Videography Units</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-revolutionizing-gift-reveal-innovative-ideas-for-2024/"><u>[Updated] Revolutionizing Gift Reveal Innovative Ideas for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-podcast-pioneers-effortless-livestream-tips/"><u>2024 Approved Podcast Pioneers Effortless Livestream Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-lava-blaze-2-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Lava Blaze 2 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-reasons-why-pcs-outshine-macs-9/"><u>Essential Reasons Why PCs Outshine Macs (#9)</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/exploring-pc-specs-with-ease-unveiling-system-information-in-the-control-panel-by-yl-software/"><u>Exploring PC Specs with Ease: Unveiling System Information in the Control Panel by YL Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-how-to-get-your-discord-webcam-functioning-again/"><u>Fixing the Issue: How to Get Your Discord Webcam Functioning Again</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revive-faded-iphone-hdri-select-4-effective-methods-in-premiere-pro/"><u>In 2024, Revive Faded iPhone HDRI Select 4 Effective Methods in Premiere Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-ibuypower-tailored-gamers-dream-machine-affordability-meets-high-end-specs/"><u>In-Depth Analysis of the iBuypower Tailored Gamer's Dream Machine: Affordability Meets High-End Specs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/insight-into-excellence-a-detailed-guide-to-mastering-vivacut-editing-for-2024/"><u>Insight Into Excellence A Detailed Guide to Mastering VivaCut Editing for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/net-laugh-builder-for-2024/"><u>Net Laugh Builder for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Moto G23 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2024-12-10T21:25:48.579Z
-updated: 2024-12-17T18:35:10.539Z
+date: 2024-12-19T17:42:45.915Z
+updated: 2024-12-26T17:28:37.887Z
 tags:
   - chatgpt
   - open-ai
@@ -41,12 +41,16 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
@@ -59,16 +63,12 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -82,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  None of our models could respond that the correct term for a pea-shaped object is "pisiform," with ChatGPT going so far as to suggest that peas have a "three-dimensional geometric shape that is perfectly round and symmetrical."
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
 
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
  Fortunately for comedians everywhere and the human race at large, none of the models were capable of generating an original joke.
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 You read it here first, folks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
@@ -154,16 +154,16 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-ranking-premium-free-excellence-the-finest-free-lut-selections/"><u>[New] Ranking Premium-Free Excellence The Finest Free LUT Selections</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-revolutionizing-operations-with-virtual-engineering/"><u>[New] Revolutionizing Operations with Virtual Engineering</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-naming-excellence-tips-and-strategies/"><u>[Updated] 2024 Approved Channel Naming Excellence Tips & Strategies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-pixelpranks-mememakermarket/"><u>[Updated] 2024 Approved PixelPranks MemeMakerMarket</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-voice-logger-innovations-for-mac-users-unveiling-the-best-5-apps-for-2024/"><u>[Updated] Voice Logger Innovations for Mac Users Unveiling the Best 5 Apps for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-k70-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi K70 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/enable-or-disable-browser-pop-ups-a-comprehensive-guide-by-yl-software-experts/"><u>Enable or Disable Browser Pop-Ups: A Comprehensive Guide by YL Software Experts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-gear-vr-a-comprehensive-phone-compatibility-list-2023/"><u>In 2024, Mastering Gear VR A Comprehensive Phone Compatibility List 2023</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-snapchat-spotlight-unveiled-usage-explained/"><u>In 2024, Snapchat Spotlight Unveiled Usage Explained</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-solo-journey-through-the-world-of-3d-printing-in-3dr/"><u>In 2024, Solo Journey Through the World of 3D Printing in '3DR'</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/translating-languages-in-real-time-how-chatgpt-works-its-magic/"><u>Translating Languages in Real-Time: How ChatGPT Works Its Magic</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-shattering-periscope-leading-video-alternatives-on-smartphones/"><u>[New] 2024 Approved Shattering Periscope Leading Video Alternatives on Smartphones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-forming-your-instagram-company-identity/"><u>[New] In 2024, The Ultimate Guide to Forming Your Instagram Company Identity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lightning-fast-visualization-for-win11-users/"><u>[New] Lightning-Fast Visualization for Win11 Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ptimizing-online-identity-through-yt-profile-refinement-for-2024/"><u>[New] Optimizing Online Identity Through YT Profile Refinement for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-audio-records-with-our-step-by-step-guide/"><u>[New] Perfecting Audio Records with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-iconic-after-effects-techniques-for-impressive-titles/"><u>[Updated] Iconic After Effects Techniques for Impressive Titles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-dominance-plan-studio-protocol-vs-beta-update/"><u>[Updated] In 2024, Channel Dominance Plan Studio Protocol Vs. Beta Update</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-accessible-stopwatches/"><u>2024 Approved Premier Accessible Stopwatches</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smileslice-studio-memomaestrospace/"><u>2024 Approved SmileSlice Studio MemoMaestroSpace</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-proven-methods-for-obtaining-free-picture-screens/"><u>In 2024, Proven Methods for Obtaining Free Picture Screens</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
 </ul></div>
 

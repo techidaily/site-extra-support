@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Periscope  A Comprehensive Tutorial\""
-date: 2024-07-30T05:04:43.997Z
-updated: 2024-07-31T05:04:43.997Z
+date: 2024-12-20T16:15:28.440Z
+updated: 2024-12-26T16:07:00.507Z
 tags: 
   - screen-recording
   - ai video
@@ -36,121 +36,10 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
 
  The second list contains information about all those broadcasts that you have viewed within last 24 hours.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![use-periscope-1 ](https://images.wondershare.com/filmora/article-images/use-periscope-1.jpg)
 
  2\. **The second tab** on application is used to display list of public broadcasts on global level and users are free to join all of them. They are developed on the basis of your geographical location.
 
-![use-periscope-2 ](https://images.wondershare.com/filmora/article-images/use-periscope-2.jpg)
-
- 3\. **The third tab** again contains the information about list of live public broadcasts in list format.
-
-![use-periscope-3 ](https://images.wondershare.com/filmora/article-images/use-periscope-3.jpg)
-
- 4\. **The fourth tab** is designed to assist users with easy search for followers. It also displays settings for your own profile and allows users to make basic adjustments for followers.
-
-![use-periscope-4 ](https://images.wondershare.com/filmora/article-images/use-periscope-4.jpg)
-
-## How to watch Periscope Video?
-
- If you want to enjoy a live broadcast on Periscope then you can either try the list format or go for the map version on global broadcast tab; simply touch over the ongoing event that seems interesting to you. It also allows real time interactions with the broadcasters as well as other users that are connected during a particular live event.
-
-**The lists of features include:**
-
- 1\. You will find a say something field on your application at bottom portion; whenever you want to comment for any event, you can put your text in this field.
-
- 2\. On the right side, you will observe hearts and they keep on floating upward. Whenever you find something very interesting or just want to appreciate the efforts of broadcaster on channel then you can use these hearts as token for your words of appreciation. You need to tap on the screen to send this heart to broadcaster.
-
- 3\. There is a little person on bottom right corner of your app screen; it provides information about number of viewers on your broadcast. If you touch this tiny icon, it will take you to another page.
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![use-periscope-5 ](https://images.wondershare.com/filmora/article-images/use-periscope-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## How to Broadcast on Periscope?
-
- As per the default setting, broadcasts stay public that means anyone can watch what you have uploaded. But in case if you want to prioritize your audience then Periscope application offers easy personalization. Use private broadcast feature to invite selected audience on your broadcasts. This broadcast setting icon is actually a small camera like shape that can be used from first as well as second tab easily.
-
- During your very first visit to broadcast screen, you will find a permission required pop up. Here you have to hit on allow permissions option. Now enable all three options that appear on screen.
-
-![use-periscope-6 ](https://images.wondershare.com/filmora/article-images/use-periscope-6.jpg)
-
- Now you are at broadcast screen where you have to enter name or title of your broadcast event. Users can adjust their location preferences while converting broadcasts from private to public or vice versa view. Adjust the chat options and finally you will reach at your Twitter link. If you want to capture feeds from webcam then it can be switched easily by simply double tapping on device screen. Once all these controls have been adjusted then your app provides an event summery, you can approve it or edit before making your post live. It will also provide you details about how many hearts you have received from viewers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![use-periscope-7 ](https://images.wondershare.com/filmora/article-images/use-periscope-7.jpg)
-
- Once your broadcast becomes live then it will stay online for next 24 hours and all viewers and followers will be able to replay, watch as well as share the information with other users. The collection of hearts as viewer’s response may go on.
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
-![use-periscope-8 ](https://images.wondershare.com/filmora/article-images/use-periscope-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
-## Tips to get more followers or viewers on Periscope
-
- There is no doubt to say that Periscope is a wonderful tool if you want to make your career as a live streaming and want to grow size of your followers fast. Below are few important tips to gain more followers/viewers on Periscope:
-
- 1\. Once you have gained lots of knowledge and expertise in a particular area then it is good to develop few scopes so that you can easily share your hints and tips related to that topic. The #hash tag feature helps to attract more audience towards your posts.
-
- 2\. The most essential task that you need to focus upon during your upload is to add eye catching titles for your content. Words of your title can make huge difference as few have power to grab more audience whereas others can suffer more ignorance. The rule is to follow relevant content marketing boosted titles phrases.
-
- 3\. Make some efforts to encourage viewers to send more hearts for your broadcasts. More hearts means you will achieve higher rank on periscope. If you share your scope then viewers can go through it for next 24 hours.
-
- 4\. The powerful solution to grow size of your audience is to stay active to collaborate with other Periscope users. This tip can add more value to your business when you start working in collaboration with other experts.
-
- 5\. Never forget to turn on that Twitter sign while posting your content on scope.
-
- 6\. Update your location details time to time.
-
- 7\. Try to build a strong community and always share a valuable content as per interest of your viewers.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-Richard Bennett
-
-Richard Bennett is a writer and a lover of all things video.
-
-Follow @Richard Bennett
-
-##### Richard Bennett
-
- Mar 27, 2024• Proven solutions
-
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Knowing the functions and settings
-
- Periscope is a Twitter special application for live streaming needs and the best part is it works on mobile platforms. Viewers can add comments on videos and they can also forward “hearts” to streamers as a token of appreciation for their impressive work. The app is actually very interaction with four major tabs:
-
- 1\. You will find two lists on **first tab:**
-
- First one is the Teleport option that takes broadcaster to any random place in world and reflects that place as your active broadcast location.
-
- The second list contains information about all those broadcasts that you have viewed within last 24 hours.
-
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![use-periscope-1 ](https://images.wondershare.com/filmora/article-images/use-periscope-1.jpg)
-
- 2\. **The second tab** on application is used to display list of public broadcasts on global level and users are free to join all of them. They are developed on the basis of your geographical location.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![use-periscope-2 ](https://images.wondershare.com/filmora/article-images/use-periscope-2.jpg)
 
  3\. **The third tab** again contains the information about list of live public broadcasts in list format.
@@ -181,21 +70,23 @@ Follow @Richard Bennett
 
  During your very first visit to broadcast screen, you will find a permission required pop up. Here you have to hit on allow permissions option. Now enable all three options that appear on screen.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![use-periscope-6 ](https://images.wondershare.com/filmora/article-images/use-periscope-6.jpg)
 
  Now you are at broadcast screen where you have to enter name or title of your broadcast event. Users can adjust their location preferences while converting broadcasts from private to public or vice versa view. Adjust the chat options and finally you will reach at your Twitter link. If you want to capture feeds from webcam then it can be switched easily by simply double tapping on device screen. Once all these controls have been adjusted then your app provides an event summery, you can approve it or edit before making your post live. It will also provide you details about how many hearts you have received from viewers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![use-periscope-7 ](https://images.wondershare.com/filmora/article-images/use-periscope-7.jpg)
 
  Once your broadcast becomes live then it will stay online for next 24 hours and all viewers and followers will be able to replay, watch as well as share the information with other users. The collection of hearts as viewer’s response may go on.
 
 ![use-periscope-8 ](https://images.wondershare.com/filmora/article-images/use-periscope-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips to get more followers or viewers on Periscope
 
@@ -227,9 +118,6 @@ Follow @Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Knowing the functions and settings
 
  Periscope is a Twitter special application for live streaming needs and the best part is it works on mobile platforms. Viewers can add comments on videos and they can also forward “hearts” to streamers as a token of appreciation for their impressive work. The app is actually very interaction with four major tabs:
@@ -240,32 +128,31 @@ Follow @Richard Bennett
 
  The second list contains information about all those broadcasts that you have viewed within last 24 hours.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use-periscope-1 ](https://images.wondershare.com/filmora/article-images/use-periscope-1.jpg)
 
  2\. **The second tab** on application is used to display list of public broadcasts on global level and users are free to join all of them. They are developed on the basis of your geographical location.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use-periscope-2 ](https://images.wondershare.com/filmora/article-images/use-periscope-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. **The third tab** again contains the information about list of live public broadcasts in list format.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![use-periscope-3 ](https://images.wondershare.com/filmora/article-images/use-periscope-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. **The fourth tab** is designed to assist users with easy search for followers. It also displays settings for your own profile and allows users to make basic adjustments for followers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![use-periscope-4 ](https://images.wondershare.com/filmora/article-images/use-periscope-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to watch Periscope Video?
 
@@ -282,8 +169,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![use-periscope-5 ](https://images.wondershare.com/filmora/article-images/use-periscope-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Broadcast on Periscope?
 
  As per the default setting, broadcasts stay public that means anyone can watch what you have uploaded. But in case if you want to prioritize your audience then Periscope application offers easy personalization. Use private broadcast feature to invite selected audience on your broadcasts. This broadcast setting icon is actually a small camera like shape that can be used from first as well as second tab easily.
@@ -294,22 +182,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Now you are at broadcast screen where you have to enter name or title of your broadcast event. Users can adjust their location preferences while converting broadcasts from private to public or vice versa view. Adjust the chat options and finally you will reach at your Twitter link. If you want to capture feeds from webcam then it can be switched easily by simply double tapping on device screen. Once all these controls have been adjusted then your app provides an event summery, you can approve it or edit before making your post live. It will also provide you details about how many hearts you have received from viewers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![use-periscope-7 ](https://images.wondershare.com/filmora/article-images/use-periscope-7.jpg)
 
  Once your broadcast becomes live then it will stay online for next 24 hours and all viewers and followers will be able to replay, watch as well as share the information with other users. The collection of hearts as viewer’s response may go on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![use-periscope-8 ](https://images.wondershare.com/filmora/article-images/use-periscope-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips to get more followers or viewers on Periscope
 
  There is no doubt to say that Periscope is a wonderful tool if you want to make your career as a live streaming and want to grow size of your followers fast. Below are few important tips to gain more followers/viewers on Periscope:
@@ -362,14 +244,8 @@ Follow @Richard Bennett
 
  4\. **The fourth tab** is designed to assist users with easy search for followers. It also displays settings for your own profile and allows users to make basic adjustments for followers.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use-periscope-4 ](https://images.wondershare.com/filmora/article-images/use-periscope-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to watch Periscope Video?
 
  If you want to enjoy a live broadcast on Periscope then you can either try the list format or go for the map version on global broadcast tab; simply touch over the ongoing event that seems interesting to you. It also allows real time interactions with the broadcasters as well as other users that are connected during a particular live event.
@@ -384,15 +260,108 @@ Follow @Richard Bennett
 
 ![use-periscope-5 ](https://images.wondershare.com/filmora/article-images/use-periscope-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Broadcast on Periscope?
 
  As per the default setting, broadcasts stay public that means anyone can watch what you have uploaded. But in case if you want to prioritize your audience then Periscope application offers easy personalization. Use private broadcast feature to invite selected audience on your broadcasts. This broadcast setting icon is actually a small camera like shape that can be used from first as well as second tab easily.
 
  During your very first visit to broadcast screen, you will find a permission required pop up. Here you have to hit on allow permissions option. Now enable all three options that appear on screen.
 
+![use-periscope-6 ](https://images.wondershare.com/filmora/article-images/use-periscope-6.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now you are at broadcast screen where you have to enter name or title of your broadcast event. Users can adjust their location preferences while converting broadcasts from private to public or vice versa view. Adjust the chat options and finally you will reach at your Twitter link. If you want to capture feeds from webcam then it can be switched easily by simply double tapping on device screen. Once all these controls have been adjusted then your app provides an event summery, you can approve it or edit before making your post live. It will also provide you details about how many hearts you have received from viewers.
+
+![use-periscope-7 ](https://images.wondershare.com/filmora/article-images/use-periscope-7.jpg)
+
+ Once your broadcast becomes live then it will stay online for next 24 hours and all viewers and followers will be able to replay, watch as well as share the information with other users. The collection of hearts as viewer’s response may go on.
+
+![use-periscope-8 ](https://images.wondershare.com/filmora/article-images/use-periscope-8.jpg)
+
+## Tips to get more followers or viewers on Periscope
+
+ There is no doubt to say that Periscope is a wonderful tool if you want to make your career as a live streaming and want to grow size of your followers fast. Below are few important tips to gain more followers/viewers on Periscope:
+
+ 1\. Once you have gained lots of knowledge and expertise in a particular area then it is good to develop few scopes so that you can easily share your hints and tips related to that topic. The #hash tag feature helps to attract more audience towards your posts.
+
+ 2\. The most essential task that you need to focus upon during your upload is to add eye catching titles for your content. Words of your title can make huge difference as few have power to grab more audience whereas others can suffer more ignorance. The rule is to follow relevant content marketing boosted titles phrases.
+
+ 3\. Make some efforts to encourage viewers to send more hearts for your broadcasts. More hearts means you will achieve higher rank on periscope. If you share your scope then viewers can go through it for next 24 hours.
+
+ 4\. The powerful solution to grow size of your audience is to stay active to collaborate with other Periscope users. This tip can add more value to your business when you start working in collaboration with other experts.
+
+ 5\. Never forget to turn on that Twitter sign while posting your content on scope.
+
+ 6\. Update your location details time to time.
+
+ 7\. Try to build a strong community and always share a valuable content as per interest of your viewers.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+Richard Bennett
+
+Richard Bennett is a writer and a lover of all things video.
+
+Follow @Richard Bennett
+
+##### Richard Bennett
+
+ Mar 27, 2024• Proven solutions
+
+## Knowing the functions and settings
+
+ Periscope is a Twitter special application for live streaming needs and the best part is it works on mobile platforms. Viewers can add comments on videos and they can also forward “hearts” to streamers as a token of appreciation for their impressive work. The app is actually very interaction with four major tabs:
+
+ 1\. You will find two lists on **first tab:**
+
+ First one is the Teleport option that takes broadcaster to any random place in world and reflects that place as your active broadcast location.
+
+ The second list contains information about all those broadcasts that you have viewed within last 24 hours.
+
+![use-periscope-1 ](https://images.wondershare.com/filmora/article-images/use-periscope-1.jpg)
+
+ 2\. **The second tab** on application is used to display list of public broadcasts on global level and users are free to join all of them. They are developed on the basis of your geographical location.
+
+![use-periscope-2 ](https://images.wondershare.com/filmora/article-images/use-periscope-2.jpg)
+
+ 3\. **The third tab** again contains the information about list of live public broadcasts in list format.
+
+![use-periscope-3 ](https://images.wondershare.com/filmora/article-images/use-periscope-3.jpg)
+
+ 4\. **The fourth tab** is designed to assist users with easy search for followers. It also displays settings for your own profile and allows users to make basic adjustments for followers.
+
+![use-periscope-4 ](https://images.wondershare.com/filmora/article-images/use-periscope-4.jpg)
+
+## How to watch Periscope Video?
+
+ If you want to enjoy a live broadcast on Periscope then you can either try the list format or go for the map version on global broadcast tab; simply touch over the ongoing event that seems interesting to you. It also allows real time interactions with the broadcasters as well as other users that are connected during a particular live event.
+
+**The lists of features include:**
+
+ 1\. You will find a say something field on your application at bottom portion; whenever you want to comment for any event, you can put your text in this field.
+
+ 2\. On the right side, you will observe hearts and they keep on floating upward. Whenever you find something very interesting or just want to appreciate the efforts of broadcaster on channel then you can use these hearts as token for your words of appreciation. You need to tap on the screen to send this heart to broadcaster.
+
+ 3\. There is a little person on bottom right corner of your app screen; it provides information about number of viewers on your broadcast. If you touch this tiny icon, it will take you to another page.
+
+![use-periscope-5 ](https://images.wondershare.com/filmora/article-images/use-periscope-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## How to Broadcast on Periscope?
+
+ As per the default setting, broadcasts stay public that means anyone can watch what you have uploaded. But in case if you want to prioritize your audience then Periscope application offers easy personalization. Use private broadcast feature to invite selected audience on your broadcasts. This broadcast setting icon is actually a small camera like shape that can be used from first as well as second tab easily.
+
+ During your very first visit to broadcast screen, you will find a permission required pop up. Here you have to hit on allow permissions option. Now enable all three options that appear on screen.
+
 ![use-periscope-6 ](https://images.wondershare.com/filmora/article-images/use-periscope-6.jpg)
 
  Now you are at broadcast screen where you have to enter name or title of your broadcast event. Users can adjust their location preferences while converting broadcasts from private to public or vice versa view. Adjust the chat options and finally you will reach at your Twitter link. If you want to capture feeds from webcam then it can be switched easily by simply double tapping on device screen. Once all these controls have been adjusted then your app provides an event summery, you can approve it or edit before making your post live. It will also provide you details about how many hearts you have received from viewers.
@@ -401,9 +370,6 @@ Follow @Richard Bennett
 
  Once your broadcast becomes live then it will stay online for next 24 hours and all viewers and followers will be able to replay, watch as well as share the information with other users. The collection of hearts as viewer’s response may go on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use-periscope-8 ](https://images.wondershare.com/filmora/article-images/use-periscope-8.jpg)
 
 ## Tips to get more followers or viewers on Periscope
@@ -454,5 +420,16 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-speech-to-text-powered-by-microsoft-word-your-pathway-to-efficient-workflow-management/"><u>[New] Speech to Text Powered by Microsoft Word Your Pathway to Efficient Workflow Management</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-simple-path-to-enhanced-youtube-sign-ups-create-animated-subscription-bar-using-filmora/"><u>[Updated] In 2024, A Simple Path to Enhanced YouTube Sign-Ups - Create Animated Subscription Bar Using Filmora</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-headline-economy-utilizing-slug-lines-smartly/"><u>[Updated] Mastering Headline Economy Utilizing Slug Lines Smartly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-moviemeld-editor-review-in-depth-analysis/"><u>[Updated] MovieMeld Editor Review – In-Depth Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-tips-for-effortless-photos-and-videos-in-windows-11/"><u>[Updated] Pro Tips for Effortless Photos & Videos in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/circumventing-windows-admin-blacklist/"><u>Circumventing Windows Admin Blacklist</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-transform-vob-files-into-mpeg-format-with-movavi/"><u>Free Online Converter: Transform VOB Files Into MPEG Format with Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/showdowns-and-stunts-the-best-of-snowboard-cross-for-2024/"><u>Showdowns and Stunts The Best of Snowboard Cross for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step Strategies for Splendid Colors in GoPro Videos\""
-date: 2024-07-30T05:09:45.752Z
-updated: 2024-07-31T05:09:45.752Z
+date: 2024-12-25T16:11:38.907Z
+updated: 2024-12-26T16:15:34.396Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
 [Color Grading and Correction in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Color Correction in GoPro Studio
 
  One of the easiest and most convenient ways of making the most out of your action camera is to use the ["Protune"](https://gopro.com/support/articles/how-to-use-protune) setting. The Protune among other things is capable of enhancing the dynamic recording range. The enhanced dynamic range would offer you a flat log like image which appears more vigorous while during color grading.
@@ -47,10 +44,11 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
 **Step 2:** Split the Image- On the right of the screen there is a split button. You need to shift the point almost halfway. Doing this would split the window in ½ though you will not be able to see that. When the color profile of the image is changed the right side is going to change without affecting the left side. This would allow you to compare the image as it was before and after correcting the color. In order to view the original image or the edited one you have to draw the pointer to the right or left.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Color Correction- On the right hand side of your window the color correction can be done just by hitting on the arrow beside the White Balance button and the Image button. Now you can see the options which needed to be changed in order to correct the color. You will be able to view all the options like temperature, exposure, sharpness, contrast, tint and saturation. You can also choose to apply different preset overlays to give the footage a special filter.
 
@@ -67,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 3. It fully supports  encoded MP4 format, MTS and Mov videos shot on any action cams, camcorders and phones.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## GoPro Footage Color Correction in Wondershare Filmora
 
  In order to do the color correction in Filmora you just need to follow the 3 easy steps.
@@ -79,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
 **Step 2:** Color Tuning. Now you need to choose the Color Tab on the left of your control panel. Here you will be able to drag the individual slider so as to alter the contrast, brightness, tint, vignette and saturation.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![correct gopro footage color](https://images.wondershare.com/filmora/article-images/color-corretion-in-gopro-studio-3.jpg)
 
  The compare button located on the top right lets you check all the segments before and after the correction simultaneously. While the Reset button ![color-tuning-reset-button](https://images.wondershare.com/filmora/guide/color-tuning-reset-button.png) would allow you to clear all the color corrections anytime.
@@ -90,14 +86,156 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
 ![Export](https://images.wondershare.com/filmora/guide/8-action-cam-tool-export.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ GoPro Action Cameras are ideal for capturing any outdoor moving scenes and for shooting superb vantage points. By making use of the [GoPro Studio](https://tools.techidaily.com/wondershare/filmora/download/) you will be able to add a lot of creative touches to your video. In today's post we are about to discuss how to do the perfect color correction on GoPro Studio and how to edit the footage captured on your action camera.
+
+**You may also like:**
+
+[Color Grading and Correction in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Color Correction in GoPro Studio
+
+ One of the easiest and most convenient ways of making the most out of your action camera is to use the ["Protune"](https://gopro.com/support/articles/how-to-use-protune) setting. The Protune among other things is capable of enhancing the dynamic recording range. The enhanced dynamic range would offer you a flat log like image which appears more vigorous while during color grading.
+
+ No matter whether you are recording with Protune turned on or off, you will be required to adjust the colors during the time of the edit. Color Correction in GoPro Studio is simple and intuitive.
+
+ Just follow the steps below:
+
+**Step 1:** The first thing you have to do is setting the cam to the Protune shooting mode. Now just import and get your Protune footage converted.
+
+**Step 2:** Split the Image- On the right of the screen there is a split button. You need to shift the point almost halfway. Doing this would split the window in ½ though you will not be able to see that. When the color profile of the image is changed the right side is going to change without affecting the left side. This would allow you to compare the image as it was before and after correcting the color. In order to view the original image or the edited one you have to draw the pointer to the right or left.
+
+![Color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-0.jpg)
+
+**Step 3:** Color Correction- On the right hand side of your window the color correction can be done just by hitting on the arrow beside the White Balance button and the Image button. Now you can see the options which needed to be changed in order to correct the color. You will be able to view all the options like temperature, exposure, sharpness, contrast, tint and saturation. You can also choose to apply different preset overlays to give the footage a special filter.
+
+![how to do color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-1.jpg)
+
+ The GoPro Studio is very user friendly and effective video editing software but in order to use it you need to convert the format of your video before you start to edit. There aren't many options especially when you require enhanced controls on the GoPro recordings. This is why we would recommend you to use the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) editing software. It is equipped with a special action cam tool which not only allows the user to alter the color by changing the brightness, saturation, vignette, tint or temp but even comes with loads of 3D LUT filters which adds a nice effect.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ The all new version of the Wondershare Filmora editing software for Windows and Mac is packed with exciting features meant exclusively for action cameras. These features include:
+
+1. [Video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), advanced speed control (slow motion, fast motion, replay, freeze frame and reverse), audio de-noise, along with color correction features (3D, white balance, LUT etc).
+2. The Instant Cutter tool would give the users the option of trimming and merging video files without any loss of quality. It would allow you to cut a 8GB footage within just a minutes time.
+3. It fully supports  encoded MP4 format, MTS and Mov videos shot on any action cams, camcorders and phones.
+
+## GoPro Footage Color Correction in Wondershare Filmora
+
+ In order to do the color correction in Filmora you just need to follow the 3 easy steps.
+
+**Step 1:** Import the file. After opening the Filmora app go to the Action Cam Tool right on the interface of the software. Now click on the import button or just drag and drop your clip shot on any action cam into the middle of your timeline.
+
+![color correction](https://images.wondershare.com/filmora/guide/1-action-cam-tool-fix-entrance.jpg)
+
+**Step 2:** Color Tuning. Now you need to choose the Color Tab on the left of your control panel. Here you will be able to drag the individual slider so as to alter the contrast, brightness, tint, vignette and saturation.
+
+![correct gopro footage color](https://images.wondershare.com/filmora/article-images/color-corretion-in-gopro-studio-3.jpg)
+
+ The compare button located on the top right lets you check all the segments before and after the correction simultaneously. While the Reset button ![color-tuning-reset-button](https://images.wondershare.com/filmora/guide/color-tuning-reset-button.png) would allow you to clear all the color corrections anytime.
+
+**Step 3:** Save and Share- Once the edit is finished you need to hit the Export button in order to save the edited clip as MOV or MP4 format. You can also alter the video res and the frames per sec. Now just hit the OK button to start the export.
+
+![Export](https://images.wondershare.com/filmora/guide/8-action-cam-tool-export.jpg)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ GoPro Action Cameras are ideal for capturing any outdoor moving scenes and for shooting superb vantage points. By making use of the [GoPro Studio](https://tools.techidaily.com/wondershare/filmora/download/) you will be able to add a lot of creative touches to your video. In today's post we are about to discuss how to do the perfect color correction on GoPro Studio and how to edit the footage captured on your action camera.
+
+**You may also like:**
+
+[Color Grading and Correction in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## Color Correction in GoPro Studio
+
+ One of the easiest and most convenient ways of making the most out of your action camera is to use the ["Protune"](https://gopro.com/support/articles/how-to-use-protune) setting. The Protune among other things is capable of enhancing the dynamic recording range. The enhanced dynamic range would offer you a flat log like image which appears more vigorous while during color grading.
+
+ No matter whether you are recording with Protune turned on or off, you will be required to adjust the colors during the time of the edit. Color Correction in GoPro Studio is simple and intuitive.
+
+ Just follow the steps below:
+
+**Step 1:** The first thing you have to do is setting the cam to the Protune shooting mode. Now just import and get your Protune footage converted.
+
+**Step 2:** Split the Image- On the right of the screen there is a split button. You need to shift the point almost halfway. Doing this would split the window in ½ though you will not be able to see that. When the color profile of the image is changed the right side is going to change without affecting the left side. This would allow you to compare the image as it was before and after correcting the color. In order to view the original image or the edited one you have to draw the pointer to the right or left.
+
+![Color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-0.jpg)
+
+**Step 3:** Color Correction- On the right hand side of your window the color correction can be done just by hitting on the arrow beside the White Balance button and the Image button. Now you can see the options which needed to be changed in order to correct the color. You will be able to view all the options like temperature, exposure, sharpness, contrast, tint and saturation. You can also choose to apply different preset overlays to give the footage a special filter.
+
+![how to do color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ The GoPro Studio is very user friendly and effective video editing software but in order to use it you need to convert the format of your video before you start to edit. There aren't many options especially when you require enhanced controls on the GoPro recordings. This is why we would recommend you to use the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) editing software. It is equipped with a special action cam tool which not only allows the user to alter the color by changing the brightness, saturation, vignette, tint or temp but even comes with loads of 3D LUT filters which adds a nice effect.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ The all new version of the Wondershare Filmora editing software for Windows and Mac is packed with exciting features meant exclusively for action cameras. These features include:
+
+1. [Video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), advanced speed control (slow motion, fast motion, replay, freeze frame and reverse), audio de-noise, along with color correction features (3D, white balance, LUT etc).
+2. The Instant Cutter tool would give the users the option of trimming and merging video files without any loss of quality. It would allow you to cut a 8GB footage within just a minutes time.
+3. It fully supports  encoded MP4 format, MTS and Mov videos shot on any action cams, camcorders and phones.
+
+## GoPro Footage Color Correction in Wondershare Filmora
+
+ In order to do the color correction in Filmora you just need to follow the 3 easy steps.
+
+**Step 1:** Import the file. After opening the Filmora app go to the Action Cam Tool right on the interface of the software. Now click on the import button or just drag and drop your clip shot on any action cam into the middle of your timeline.
+
+![color correction](https://images.wondershare.com/filmora/guide/1-action-cam-tool-fix-entrance.jpg)
+
+**Step 2:** Color Tuning. Now you need to choose the Color Tab on the left of your control panel. Here you will be able to drag the individual slider so as to alter the contrast, brightness, tint, vignette and saturation.
+
+![correct gopro footage color](https://images.wondershare.com/filmora/article-images/color-corretion-in-gopro-studio-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ The compare button located on the top right lets you check all the segments before and after the correction simultaneously. While the Reset button ![color-tuning-reset-button](https://images.wondershare.com/filmora/guide/color-tuning-reset-button.png) would allow you to clear all the color corrections anytime.
+
+**Step 3:** Save and Share- Once the edit is finished you need to hit the Export button in order to save the edited clip as MOV or MP4 format. You can also alter the video res and the frames per sec. Now just hit the OK button to start the export.
+
+![Export](https://images.wondershare.com/filmora/guide/8-action-cam-tool-export.jpg)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -132,179 +270,11 @@ Follow @Max Wales
 
 **Step 3:** Color Correction- On the right hand side of your window the color correction can be done just by hitting on the arrow beside the White Balance button and the Image button. Now you can see the options which needed to be changed in order to correct the color. You will be able to view all the options like temperature, exposure, sharpness, contrast, tint and saturation. You can also choose to apply different preset overlays to give the footage a special filter.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to do color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-1.jpg)
 
- The GoPro Studio is very user friendly and effective video editing software but in order to use it you need to convert the format of your video before you start to edit. There aren't many options especially when you require enhanced controls on the GoPro recordings. This is why we would recommend you to use the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) editing software. It is equipped with a special action cam tool which not only allows the user to alter the color by changing the brightness, saturation, vignette, tint or temp but even comes with loads of 3D LUT filters which adds a nice effect.
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
- The all new version of the Wondershare Filmora editing software for Windows and Mac is packed with exciting features meant exclusively for action cameras. These features include:
-
-1. [Video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), advanced speed control (slow motion, fast motion, replay, freeze frame and reverse), audio de-noise, along with color correction features (3D, white balance, LUT etc).
-2. The Instant Cutter tool would give the users the option of trimming and merging video files without any loss of quality. It would allow you to cut a 8GB footage within just a minutes time.
-3. It fully supports  encoded MP4 format, MTS and Mov videos shot on any action cams, camcorders and phones.
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## GoPro Footage Color Correction in Wondershare Filmora
-
- In order to do the color correction in Filmora you just need to follow the 3 easy steps.
-
-**Step 1:** Import the file. After opening the Filmora app go to the Action Cam Tool right on the interface of the software. Now click on the import button or just drag and drop your clip shot on any action cam into the middle of your timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
-![color correction](https://images.wondershare.com/filmora/guide/1-action-cam-tool-fix-entrance.jpg)
-
-**Step 2:** Color Tuning. Now you need to choose the Color Tab on the left of your control panel. Here you will be able to drag the individual slider so as to alter the contrast, brightness, tint, vignette and saturation.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
-![correct gopro footage color](https://images.wondershare.com/filmora/article-images/color-corretion-in-gopro-studio-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
- The compare button located on the top right lets you check all the segments before and after the correction simultaneously. While the Reset button ![color-tuning-reset-button](https://images.wondershare.com/filmora/guide/color-tuning-reset-button.png) would allow you to clear all the color corrections anytime.
-
-**Step 3:** Save and Share- Once the edit is finished you need to hit the Export button in order to save the edited clip as MOV or MP4 format. You can also alter the video res and the frames per sec. Now just hit the OK button to start the export.
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
-![Export](https://images.wondershare.com/filmora/guide/8-action-cam-tool-export.jpg)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- GoPro Action Cameras are ideal for capturing any outdoor moving scenes and for shooting superb vantage points. By making use of the [GoPro Studio](https://tools.techidaily.com/wondershare/filmora/download/) you will be able to add a lot of creative touches to your video. In today's post we are about to discuss how to do the perfect color correction on GoPro Studio and how to edit the footage captured on your action camera.
-
-**You may also like:**
-
-[Color Grading and Correction in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-## Color Correction in GoPro Studio
-
- One of the easiest and most convenient ways of making the most out of your action camera is to use the ["Protune"](https://gopro.com/support/articles/how-to-use-protune) setting. The Protune among other things is capable of enhancing the dynamic recording range. The enhanced dynamic range would offer you a flat log like image which appears more vigorous while during color grading.
-
- No matter whether you are recording with Protune turned on or off, you will be required to adjust the colors during the time of the edit. Color Correction in GoPro Studio is simple and intuitive.
-
- Just follow the steps below:
-
-**Step 1:** The first thing you have to do is setting the cam to the Protune shooting mode. Now just import and get your Protune footage converted.
-
-**Step 2:** Split the Image- On the right of the screen there is a split button. You need to shift the point almost halfway. Doing this would split the window in ½ though you will not be able to see that. When the color profile of the image is changed the right side is going to change without affecting the left side. This would allow you to compare the image as it was before and after correcting the color. In order to view the original image or the edited one you have to draw the pointer to the right or left.
-
-![Color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-0.jpg)
-
-**Step 3:** Color Correction- On the right hand side of your window the color correction can be done just by hitting on the arrow beside the White Balance button and the Image button. Now you can see the options which needed to be changed in order to correct the color. You will be able to view all the options like temperature, exposure, sharpness, contrast, tint and saturation. You can also choose to apply different preset overlays to give the footage a special filter.
-
-![how to do color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-1.jpg)
-
- The GoPro Studio is very user friendly and effective video editing software but in order to use it you need to convert the format of your video before you start to edit. There aren't many options especially when you require enhanced controls on the GoPro recordings. This is why we would recommend you to use the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) editing software. It is equipped with a special action cam tool which not only allows the user to alter the color by changing the brightness, saturation, vignette, tint or temp but even comes with loads of 3D LUT filters which adds a nice effect.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
- The all new version of the Wondershare Filmora editing software for Windows and Mac is packed with exciting features meant exclusively for action cameras. These features include:
-
-1. [Video stabilization](https://tools.techidaily.com/wondershare/filmora/download/), advanced speed control (slow motion, fast motion, replay, freeze frame and reverse), audio de-noise, along with color correction features (3D, white balance, LUT etc).
-2. The Instant Cutter tool would give the users the option of trimming and merging video files without any loss of quality. It would allow you to cut a 8GB footage within just a minutes time.
-3. It fully supports  encoded MP4 format, MTS and Mov videos shot on any action cams, camcorders and phones.
-
-## GoPro Footage Color Correction in Wondershare Filmora
-
- In order to do the color correction in Filmora you just need to follow the 3 easy steps.
-
-**Step 1:** Import the file. After opening the Filmora app go to the Action Cam Tool right on the interface of the software. Now click on the import button or just drag and drop your clip shot on any action cam into the middle of your timeline.
-
-![color correction](https://images.wondershare.com/filmora/guide/1-action-cam-tool-fix-entrance.jpg)
-
-**Step 2:** Color Tuning. Now you need to choose the Color Tab on the left of your control panel. Here you will be able to drag the individual slider so as to alter the contrast, brightness, tint, vignette and saturation.
-
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![correct gopro footage color](https://images.wondershare.com/filmora/article-images/color-corretion-in-gopro-studio-3.jpg)
-
- The compare button located on the top right lets you check all the segments before and after the correction simultaneously. While the Reset button ![color-tuning-reset-button](https://images.wondershare.com/filmora/guide/color-tuning-reset-button.png) would allow you to clear all the color corrections anytime.
-
-**Step 3:** Save and Share- Once the edit is finished you need to hit the Export button in order to save the edited clip as MOV or MP4 format. You can also alter the video res and the frames per sec. Now just hit the OK button to start the export.
-
-![Export](https://images.wondershare.com/filmora/guide/8-action-cam-tool-export.jpg)
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- GoPro Action Cameras are ideal for capturing any outdoor moving scenes and for shooting superb vantage points. By making use of the [GoPro Studio](https://tools.techidaily.com/wondershare/filmora/download/) you will be able to add a lot of creative touches to your video. In today's post we are about to discuss how to do the perfect color correction on GoPro Studio and how to edit the footage captured on your action camera.
-
-**You may also like:**
-
-[Color Grading and Correction in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
-## Color Correction in GoPro Studio
-
- One of the easiest and most convenient ways of making the most out of your action camera is to use the ["Protune"](https://gopro.com/support/articles/how-to-use-protune) setting. The Protune among other things is capable of enhancing the dynamic recording range. The enhanced dynamic range would offer you a flat log like image which appears more vigorous while during color grading.
-
- No matter whether you are recording with Protune turned on or off, you will be required to adjust the colors during the time of the edit. Color Correction in GoPro Studio is simple and intuitive.
-
- Just follow the steps below:
-
-**Step 1:** The first thing you have to do is setting the cam to the Protune shooting mode. Now just import and get your Protune footage converted.
-
-**Step 2:** Split the Image- On the right of the screen there is a split button. You need to shift the point almost halfway. Doing this would split the window in ½ though you will not be able to see that. When the color profile of the image is changed the right side is going to change without affecting the left side. This would allow you to compare the image as it was before and after correcting the color. In order to view the original image or the edited one you have to draw the pointer to the right or left.
-
-![Color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-0.jpg)
-
-**Step 3:** Color Correction- On the right hand side of your window the color correction can be done just by hitting on the arrow beside the White Balance button and the Image button. Now you can see the options which needed to be changed in order to correct the color. You will be able to view all the options like temperature, exposure, sharpness, contrast, tint and saturation. You can also choose to apply different preset overlays to give the footage a special filter.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
-![how to do color correction in GoPro Studio](https://images.wondershare.com/filmora/article-images/color-correction-in-gopro-studio-1.jpg)
 
  The GoPro Studio is very user friendly and effective video editing software but in order to use it you need to convert the format of your video before you start to edit. There aren't many options especially when you require enhanced controls on the GoPro recordings. This is why we would recommend you to use the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) editing software. It is equipped with a special action cam tool which not only allows the user to alter the color by changing the brightness, saturation, vignette, tint or temp but even comes with loads of 3D LUT filters which adds a nice effect.
 
@@ -328,24 +298,27 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![correct gopro footage color](https://images.wondershare.com/filmora/article-images/color-corretion-in-gopro-studio-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The compare button located on the top right lets you check all the segments before and after the correction simultaneously. While the Reset button ![color-tuning-reset-button](https://images.wondershare.com/filmora/guide/color-tuning-reset-button.png) would allow you to clear all the color corrections anytime.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Save and Share- Once the edit is finished you need to hit the Export button in order to save the edited clip as MOV or MP4 format. You can also alter the video res and the frames per sec. Now just hit the OK button to start the export.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Export](https://images.wondershare.com/filmora/guide/8-action-cam-tool-export.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -375,5 +348,21 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-unlocking-the-secrets-of-text-styling-in-discord/"><u>[New] Unlocking the Secrets of Text Styling in Discord</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-learn-to-harness-funimates-downloading-power/"><u>In 2024, Learn to Harness Funimate's Downloading Power</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-master-hashtag-dynamics-on-igtv-for-follower-surge/"><u>In 2024, Master Hashtag Dynamics on IGTV for Follower Surge</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-real-time-collage-wizardry-tips-and-tricks/"><u>In 2024, Real-Time Collage Wizardry Tips & Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reel-in-rave-6-top-rated-music-video-apps-for-android/"><u>In 2024, Reel in Rave 6 Top-Rated Music Video Apps for Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-skyrocketing-your-subscriber-count/"><u>In 2024, Secrets to Skyrocketing Your Subscriber Count</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sky-cameras-battle-dji-pro-versus-gopro-fury/"><u>In 2024, Sky Cameras Battle DJI Pro Versus GoPro Fury</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-smart-8-hdfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Smart 8 HDFRP Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-quits-tackle-persistent-crashing-on-any-platform-with-these-diablo-4-solutions/"><u>No More Quits! Tackle Persistent Crashing on Any Platform with These Diablo 4 Solutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pioneering-your-path-in-youtube-livestreams-on-mobiles-for-2024/"><u>Pioneering Your Path in YouTube Livestreams on Mobiles for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-f5-pro-5g-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from F5 Pro 5G.</u></a></li>
+<li><a href="https://win-great.techidaily.com/problemas-para-acceder-a-archivos-inactivos-durante-la-sincronizacion-en-sistemas-operativos-windows-11/"><u>Problemas Para Acceder a Archivos Inactivos Durante La Sincronización en Sistemas Operativos Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-inaudible-audio-in-powerpoint-captures/"><u>Steps to Resolve Inaudible Audio in PowerPoint Captures</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-discover-the-best-free-video-editing-apps-for-32-bit-windows/"><u>Updated In 2024, Discover the Best Free Video Editing Apps for 32-Bit Windows</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Performance Issues with Football Manager 2022 on Your PC
-date: 2024-12-17T00:02:41.710Z
-updated: 2024-12-17T20:02:34.013Z
+date: 2024-12-23T18:29:47.745Z
+updated: 2024-12-26T16:40:37.926Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 Football Manager 2021 is by far one of the most popular management simulator games. However, many players still reported the game keeps crashing and constantly becomes unplayable. If you have the same problem, don’t worry. We’ve put together a full list of solutions for Football Manager 2021 crashing on PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -34,7 +34,7 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
@@ -69,17 +69,17 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -109,7 +109,7 @@ If this method doesn’t help, go ahead with the next fix below.
 So does the crash go away now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
@@ -123,12 +123,12 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
@@ -159,18 +159,20 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mavic-air-vs-spark-the-gamers-edition-comparison/"><u>[New] Mavic Air Vs. Spark The Gamer's Edition Comparison</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-power-of-persuasion-hire-success-stories-1-10/"><u>[New] The Power of Persuasion Hire Success Stories #1-10</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ascend-youtube-rankings-through-optimal-dating/"><u>[Updated] 2024 Approved Ascend YouTube Rankings Through Optimal Dating</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pictureweaver-pro-online-illustration-hub/"><u>2024 Approved PictureWeaver Pro Online Illustration Hub</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-setting-up-seamless-network-video-broadcasts-with-vlc/"><u>2024 Approved Setting Up Seamless Network Video Broadcasts with VLC</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/channel-charisma-strategies-to-skyrocket-your-youtube-visibility-for-2024/"><u>Channel Charisma Strategies to Skyrocket Your YouTube Visibility for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/engaging-the-audience-in-new-ways-with-facebook-hub/"><u>Engaging the Audience in New Ways with Facebook Hub</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-infinix-hot-40-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Infinix Hot 40 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-nokia-150-2023-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Nokia 150 (2023)? Fixed | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/kinemasters-guide-to-fluid-film-segments-for-2024/"><u>Kinemaster's Guide to Fluid Film Segments for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1640825-9780698176928-mrs-wakeman-vs-the-antichrist/"><u>Mrs. Wakeman vs. the Antichrist | Free Book</u></a></li>
-<li><a href="https://fox-place.techidaily.com/resolving-missing-photos-on-your-sd-card-camera-step-by-step-recovery-guide/"><u>Resolving Missing Photos on Your SD Card Camera - Step-by-Step Recovery Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/samsungs-virtual-world-enhanced-by-compatible-smartphones-2023-guide-for-2024/"><u>Samsung's Virtual World Enhanced by Compatible Smartphones - 2023 Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-preeminent-5-photo-background-changer-tools-iphone-x87-edition/"><u>[New] Preeminent 5 Photo Background Changer Tools IPhone X/8/7 Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-tips-on-podcast-titling-and-a-collection-of-over-50-engaging-names/"><u>[New] Pro Tips on Podcast Titling & A Collection of Over 50 Engaging Names</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-engineer-eerie-gifs-using-giphy/"><u>[Updated] In 2024, Engineer Eerie Gifs Using Giphy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-visual-impact-the-best-ae-title-methods/"><u>2024 Approved Mastering Visual Impact The Best AE Title Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-must-know-windows-11-tips-and-tricks/"><u>2024 Approved Must-Know Windows 11 Tips and Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-share-audio-waves-with-followers-on-instagram/"><u>2024 Approved Share Audio Waves with Followers on Instagram</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solution-for-resolving-stop-error-0x0000007b-and-bsod-crashes/"><u>Comprehensive Solution for Resolving Stop Error 0X0000007B and BSOD Crashes</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/elite-sound-mixers-for-superior-stream-quality/"><u>Elite Sound Mixers for Superior Stream Quality</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-find-and-upgrade-your-hp-deskjet-2540-printers-drivers-for-optimal-performance/"><u>How to Find and Upgrade Your HP Deskjet 2540 Printer's Drivers for Optimal Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-your-way-to-the-perfect-4k-lens-purchase-for-2024/"><u>Navigating Your Way to the Perfect 4K Lens Purchase for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/professionelle-methoden-zur-wiederherstellung-von-sql-backup-datenbankdateien/"><u>Professionelle Methoden Zur Wiederherstellung Von SQL-Backup-Datenbankdateien</u></a></li>
+<li><a href="https://media-tips.techidaily.com/whos-streaming-or-listening-track-user-activity-across-popular-platforms-including-netflix-and-spotify/"><u>Who's Streaming or Listening? Track User Activity Across Popular Platforms Including Netflix & Spotify</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-x-fold-2-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo X Fold 2? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

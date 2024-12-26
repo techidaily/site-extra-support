@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick DIY Filming Fixes  The Top 5 Hacks to Try Now\""
-date: 2024-12-14T22:06:21.287Z
-updated: 2024-12-17T23:30:53.223Z
+date: 2024-12-23T18:23:02.564Z
+updated: 2024-12-26T18:17:00.511Z
 tags: 
   - screen-recording
   - ai video
@@ -33,7 +33,7 @@ You can buy it from a nearby stationery store. Ensure the cardboard is not too b
 ![cardboard used for diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. A Black T-shirt
@@ -47,16 +47,24 @@ After managing all the required things, you must wrap and secure the t-shirt aro
 ![process for making diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 With this DIY flag, you can now easily give shape and block the light while filming at home. **Warnings:** Some fabrics are not fireproof, so always keep an eye on the flag.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Final Results for the Flag Light Shaping
 
 After filming the video, see the precise results before using the flag, when the light is dispersed everywhere, which makes a euphoric effect. While after using the flag, the light is only glimpsing the subject.
 
 ![results after using diy flag for lighting control](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Hack. DIY Black Wrap or Cinewrap
 
@@ -71,7 +79,7 @@ You can take any LED bulb present at our home. Ensure that the bulb size is mana
 ![lightbulb used for cinewrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Foil Paper
@@ -88,6 +96,10 @@ Step2 Then, you need to install the bulb on the lamp.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** During wrapping, you don't have to allow the foil to touch the bottom part of the bulb.
 
 Step3 Leave a small part of the bulb open from the top and cover the part from the side.
@@ -96,15 +108,7 @@ Step4 Ensure the lamp switch is off, and install the light bulb.
 
 ![process of creating a black wrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When you turn on the lamp, the light has been shaped into a smaller light source.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Final Results for the Black Wrap or Cinewrap
 
@@ -112,21 +116,17 @@ You can observe that the light is only at the required place, with no dispersion
 
 ![results after using cinewrap](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-8.png)
 
-After experimenting with light shaping and blocking hacks, we will move toward the light reflector hack!
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+After experimenting with light shaping and blocking hacks, we will move toward the light reflector hack!
 
 ## Part 3\. Hack. DIY Light Reflector
 
 A reflector is a spontaneous or specialized reflective surface that diverts the light to our subject or object. Professional filming setups usually use a large reflector to get a glowing effect on a subject or even more than two.
 
 ![light reflector used in a professional setup](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When applied to flat surfaces, the foil has a reflective surface. It makes it the best alternative to a professional reflector. To make your one, you will need
 
@@ -139,22 +139,21 @@ When applied to flat surfaces, the foil has a reflective surface. It makes it th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-lightning-lanes-moving-iphone-photos-to-pc/"><u>[New] Lightning Lanes Moving iPhone Photos to PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-simplify-your-story-instagram-collage-techniques/"><u>[New] Simplify Your Story Instagram Collage Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-podcasters-guide-to-the-10-finest-mic-options/"><u>[Updated] Podcaster's Guide to the 10 Finest Mic Options</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-snicker-snapshots-jokeframe/"><u>[Updated] Snicker Snapshots JokeFrame</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-transform-your-youtube-presence-effortlessly/"><u>2024 Approved Transform Your YouTube Presence Effortlessly</u></a></li>
-<li><a href="https://article-tips.techidaily.com/decoding-the-perfection-of-hp-envy-27s-design/"><u>Decoding the Perfection of HP Envy 27'S Design</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y02twithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y02Twith/without a PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-kickstart-cinematic-craft-install-xp-movie-maker/"><u>In 2024, Kickstart Cinematic Craft Install XP Movie Maker</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-obtain-pristine-photo-sets-for-free-use/"><u>In 2024, Obtain Pristine Photo Sets for Free Use</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-selection-incredible-platform-compatible-free-streaming-apps/"><u>In 2024, Premier Selection Incredible, Platform-Compatible Free Streaming Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-transition-from-skype-to-zoom-quick-tips/"><u>In 2024, Seamless Transition From Skype to Zoom Quick Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-voice-to-text-conversion-in-ms-word-a-step-by-step-guide-for-2024/"><u>Mastering Voice-to-Text Conversion in MS Word A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pinnacle-music-organizer-for-android-users/"><u>Pinnacle Music Organizer for Android Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-mic-woes-fix-it-now-five-essential-steps-for-headset-audio-troubleshooting-success/"><u>Razer Mic Woes? Fix It Now: Five Essential Steps for Headset Audio Troubleshooting Success</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pioneering-viewer-retention-discovering-6-video-forms/"><u>[New] Pioneering Viewer Retention Discovering 6 Video Forms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-propel-your-cinematic-vision-with-advanced-windows-10-video-tools/"><u>[New] Propel Your Cinematic Vision with Advanced Windows 10 Video Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spinning-stars-olympic-ice-celebrations/"><u>[New] Spinning Stars Olympic Ice Celebrations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-how-to-transform-your-shopping-adventures-into-haul-masterpieces/"><u>[Updated] 2024 Approved How to Transform Your Shopping Adventures Into Haul Masterpieces</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-seamless-transitions-in-vlogs-with-jump-cuts-magic/"><u>[Updated] 2024 Approved Seamless Transitions in Vlogs with Jump Cuts Magic</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-troubleshooting-mute-reviving-sound-in-obs-recordings/"><u>[Updated] 2024 Approved Troubleshooting Mute Reviving Sound in OBS Recordings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-audiovisual-innovators-best-portable-devices-for-editors/"><u>2024 Approved Audiovisual Innovators Best Portable Devices for Editors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-3d-text-illustration-in-adobe-illustrator/"><u>2024 Approved Mastering 3D Text Illustration in Adobe Illustrator</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-one-device-one-storage-transferring-files-smoothly/"><u>2024 Approved One Device, One Storage Transferring Files Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-freeze-comprehensive-solutions-for-steam-malfunctions/"><u>Beat the Freeze: Comprehensive Solutions for Steam Malfunctions</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-image-editing-with-ipatch/"><u>Effortless Image Editing with IPatch</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-of-gadgets-and-components-toms-hardware-unveiled/"><u>Expert Review of Gadgets and Components - Tom's Hardware Unveiled</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unmasking-the-vanished-youtube-recommendations-on-facebook/"><u>In 2024, Unmasking the Vanished YouTube Recommendations on Facebook</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-itel-s23plus-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Itel S23+ FRP Without Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-instagrams-live-feature-without-your-identity-for-2024/"><u>Mastering Instagram's Live Feature Without Your Identity for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-musical-virtuoso-sessions-for-2024/"><u>Prime Musical Virtuoso Sessions for 2024</u></a></li>
 </ul></div>
 

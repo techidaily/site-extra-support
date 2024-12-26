@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Pro Video Illumination  Top Strategies for Immaculate Cinematography\""
-date: 2024-07-30T05:03:59.557Z
-updated: 2024-07-31T05:03:59.557Z
+date: 2024-12-23T17:31:57.310Z
+updated: 2024-12-26T17:18:26.262Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -52,18 +56,16 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ##### Step2 Set the Fill Light
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -78,12 +80,17 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -93,23 +100,18 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -142,5 +144,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ndie-filmmakers-online-youtube-tutorials-for-growth/"><u>[New] Indie Filmmakers Online YouTube Tutorials for Growth</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-movie-magic-for-editing-select-excerpts-handpicked/"><u>[New] Movie Magic for Editing Select Excerpts Handpicked</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snapshots-of-progress-windows-10s-new-features/"><u>[New] Snapshots of Progress Windows 10'S New Features</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-instagram-video-editing-tips-with-fcpx/"><u>[Updated] In 2024, Mastering Instagram Video Editing Tips with FCPX</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterful-sound-note-taking-a-roadmap-to-excellence/"><u>[Updated] Masterful Sound Note-Taking A Roadmap to Excellence</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-your-iphones-selfie-experience-the-10-finest-free-apps/"><u>[Updated] Perfect Your iPhone’s Selfie Experience The 10 Finest Free Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-spinning-and-stitching-an-android-videographers-handbook/"><u>[Updated] Seamless Spinning & Stitching An Android Videographer's Handbook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-tale-bearers-school-distinguished-dothee-for-2024/"><u>[Updated] Tale Bearers School - Distinguished Dothee for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-music-for-imovie/"><u>2024 Approved Music for iMovie</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-starters-guide-to-optimal-gopro-accessories-list/"><u>2024 Approved Starter’s Guide to Optimal GoPro Accessories List</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-driven-success-boost-your-sites-performance/"><u>Cookiebot-Driven Success: Boost Your Site's Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-14-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 14 Pro?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-digital-space-with-ease-via-onestream-platform/"><u>In 2024, Navigating the Digital Space with Ease via OneStream Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mac-users-guide-watching-dvds-without-a-built-in-disc-player/"><u>Mac Users Guide: Watching DVDs without a Built-In Disc Player</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-auditory-interface-win-for-2024/"><u>Ultimate Auditory Interface, WIN for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-essential-websites-for-accessing-lofi-artwork-and-soundtracks/"><u>Updated 2024 Approved Essential Websites for Accessing Lofi Artwork and Soundtracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-openais-shap-e-and-what-can-it-do/"><u>What Is OpenAI's Shap-E, and What Can It Do?</u></a></li>
+</ul></div>
 
