@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reactivating Windows Photo Viewer in Windows 10 - Methods Unveiled\""
-date: 2024-12-19T16:19:22.129Z
-updated: 2024-12-26T18:22:13.237Z
+date: 2025-01-03T00:57:56.067Z
+updated: 2025-01-04T19:42:59.583Z
 tags: 
   - screen-recording
   - ai video
@@ -37,7 +37,7 @@ Stay tuned to learn more!
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why you prefer Windows Photo Viewer
@@ -70,12 +70,16 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -91,17 +95,13 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -110,7 +110,7 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -130,21 +130,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-soundscapes-in-stories-instagram-video-techniques/"><u>[New] Soundscapes in Stories Instagram Video Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-curate-visual-content-for-playback-syncopation-for-2024/"><u>[Updated] Curate Visual Content for Playback Syncopation for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-enhancing-profile-clips-for-impact-for-2024/"><u>[Updated] Enhancing Profile Clips for Impact for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easy-process-extracting-youtube-media-directly/"><u>[Updated] In 2024, Easy Process Extracting YouTube Media Directly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-osblend-the-vmix-alternative/"><u>[Updated] OSBlend The VMix Alternative</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-new-realities-metaverse-meets-omniverse/"><u>2024 Approved Navigating New Realities Metaverse Meets Omniverse</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-payment-structure-behind-item-assessment-videos/"><u>2024 Approved Payment Structure Behind Item Assessment Videos?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-15-luts-to-perfect-gopro-cinematic-shots/"><u>2024 Approved Prime 15 LUTs to Perfect GoPro Cinematic Shots</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comprendre-lamplification-des-disques-dursssds-bootables-outils-et-guides-integraux-pour-les-nouveaux-utilisateurs/"><u>Comprendre L'Amplification Des Disques Durs/SSDs Bootables: Outils Et Guides Intégraux Pour Les Nouveaux Utilisateurs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-swiftly-find-and-access-lost-reddit-discussions/"><u>How to Swiftly Find and Access Lost Reddit Discussions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-15-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 15 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-inshots-ecosystem-a-detailed-editor-app-study/"><u>In 2024, InShot’s Ecosystem A Detailed Editor App Study</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/infinite-gaming-space-10-ssds-hdds-for-ps5/"><u>Infinite Gaming Space #10 SSDs, HDDs for PS5</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantly-install-logitechs-enhanced-mouse-for-windows-10/"><u>Instantly Install Logitech's Enhanced Mouse for Windows 10</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-unlocking-os-x-mavericks-video-editing-potential/"><u>New Unlocking OS X Mavericks Video Editing Potential</u></a></li>
-<li><a href="https://extra-support.techidaily.com/no-fee-all-the-music-top-10-sites-for-coprwyfree-soundtracks-for-2024/"><u>No Fee, All the Music Top 10 Sites for Coprwyfree Soundtracks for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/net-framework-35-installation-woes-heres-how-to-fix-error-code-0x800f081f/"><u>.NET Framework 3.5 Installation Woes? Here's How to Fix Error Code 0X800F081F</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-ultimate-examination-unveiling-the-360-camera-wonders/"><u>[New] In 2024, Ultimate Examination Unveiling the 360 Camera Wonders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prodigious-story-making-worlds-top-8-institutions/"><u>[New] Prodigious Story Making World's Top 8 Institutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-tech-savvy-strategies-recording-gotomeeting-on-any-gear/"><u>[Updated] 2024 Approved Tech-Savvy Strategies Recording GoToMeeting on Any Gear</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-split-screen-simplicity-mastering-picture-in-picture-videos-on-apple-devices/"><u>[Updated] Split-Screen Simplicity Mastering Picture in Picture Videos on Apple Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-actors-deal-for-downloadable-movie-content/"><u>In 2024, Actors' Deal for Downloadable Movie Content</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-motorola-moto-g-stylus-5g-2023-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Motorola Moto G Stylus 5G (2023) Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instagram-the-reason-behind-video-upside-down-for-2024/"><u>Instagram The Reason Behind Video Upside-Down for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-googles-text-conversion-service-a-detailed-walkthrough-for-2024/"><u>Mastering Google's Text Conversion Service A Detailed Walkthrough for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/melodies-of-the-night-king-recommended-sites-for-tts-downloads-for-2024/"><u>Melodies of the Night King Recommended Sites for TTS Downloads for 2024</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-m34-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy M34 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlock-your-photography-potential-with-lightzones-free-darkroom-tool-windows-mac-and-linux-friendly/"><u>Unlock Your Photography Potential with Lightzone's Free Darkroom Tool – Windows, Mac & Linux Friendly.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-of-instagram-browsing-privately-without-signing-up/"><u>Unlocking the Secrets of Instagram: Browsing Privately without Signing Up</u></a></li>
 </ul></div>
 

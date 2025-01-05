@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Speed Up Photobooks  Instructions for Faster Google Collage Creation\""
-date: 2024-07-30T05:02:57.063Z
-updated: 2024-07-31T05:02:57.063Z
+date: 2024-12-30T23:00:50.611Z
+updated: 2025-01-05T01:53:39.731Z
 tags: 
   - screen-recording
   - ai video
@@ -44,9 +44,6 @@ And just, to be thorough, we’ve supplied a tutorial that would work for creati
 
 First up is our tutorial on how to **make a collage in Google Photos** (web version) Technically, this can be done on just about any device (your computer, tablet, smartphone, etc.) It can also be done on most OS Systems (Windows and Mac included.) However, our demonstration will be focused on examples that show using it on your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### 01**Step 1\. Go to Google Photos & Log-In**
 
 To start, open up your desktop browser and go to the Google Photos website. You can also just open it up after logging in to your Google Account and opening the ‘Photos’ app.
@@ -57,15 +54,8 @@ To start, open up your desktop browser and go to the Google Photos website. You 
 
 Next up, in order to be able to make a **Google collage photo**, you need to head to the ‘Utilities’ page (which you can access through the side menu under ‘LIBRARY’ — as is shown in the image provided.)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Open Utilities Page Under ‘LIBRARY’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 03**Step 3\. Create New ‘Collage’**
 
 Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ option under the ‘Create New’ section.
@@ -73,53 +63,40 @@ Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ opt
 ![Choose to Create New ‘Collage’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 04**Step 4\. Select 2-9 Items for Collage**
 
 For the next part, you’ll be prompted to choose the photos you want to make a **Google Photos collage** out of. This is relatively easy. You can scroll through your gallery (starting from the most recent), or you can search your photos for specific images that you want using the toolbar provided.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select Photos for Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo4.png)
 
 ### 05**Step 5\. Create Google Photos Collage**
 
 When you’ve finished selecting all the photos that you want for your **Google Collage Photo**, select the ‘Create’ button (it can be found on the upper right-hand corner of the screen.)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Create Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 06**Step 6\. Open Settings Menu for Options**
 
 Your **Google Photos collage** should now be complete To see available share options, open the ‘Settings’ menu on the upper-right hand corner (it’s the three-descending dots the furthest to the right.)
 
 ![Open Settings Menu for Download and Share Options](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### 07**Step 7\. Download Completed Google Photos Collage**
 
 Whether you’re hoping to share the **Google Photos collage** with friends and family or print it out for your own enjoyment, make sure to remember to ‘Download’ it or ‘Add to Album’
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Download Completed Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 08**Step 8\. (Optional) Edit**
 
 If there are any changes that you want to make before downloading it or sending it over to friends and family, Google Photos, thankfully, offers an ‘Edit’ Function that has basic photo editing features that you can use to make some minor changes to the collage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2 **How to Make a Photo Collage with Google Photos on Google Photos Application**
 
@@ -135,18 +112,12 @@ In order to proceed, you’ll need to give Google Photos permission to access al
 
 ![Allow Google Photos Access to ‘All Photos’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 03**Step 3\. Go to the Library Page**
 
 Unlike the web version of Google Photos, the app version has the **make collage in Google photos** feature under the ‘Library’ page (which you can find on the bottom-right corner of the interface.
 
 ![Open Library Page to Find Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 04**Step 4\. Utilities > Collage**
 
 Back to similar surroundings. Select the ‘Utilities’ option and then click the ‘Collage’ feature in order to move forward.
@@ -166,8 +137,9 @@ The basic edit features we talked about on the web version of Google Photos is a
 ![Edit Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 07**Step 7\. Download and Share**
 
 When you’re happy with the look of your collage, you can move on by selecting the ‘share’ option on the toolbar at the bottom of the interface
@@ -188,9 +160,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## **●** Key Takeaways from This Episode **→**
 
 **●** Interested in learning **how to make a collage in Google Photos**? No problem We’ve included both a tutorial for the web version and on the app version of Google Photos.
@@ -221,21 +190,12 @@ First up is our tutorial on how to **make a collage in Google Photos** (web vers
 
 To start, open up your desktop browser and go to the Google Photos website. You can also just open it up after logging in to your Google Account and opening the ‘Photos’ app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Log-In to Google Photos to Make Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### 02**Step 2\. Open 'Utilities’**
 
 Next up, in order to be able to make a **Google collage photo**, you need to head to the ‘Utilities’ page (which you can access through the side menu under ‘LIBRARY’ — as is shown in the image provided.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![Open Utilities Page Under ‘LIBRARY’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo2.png)
 
 ### 03**Step 3\. Create New ‘Collage’**
@@ -244,55 +204,30 @@ Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ opt
 
 ![Choose to Create New ‘Collage’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 04**Step 4\. Select 2-9 Items for Collage**
 
 For the next part, you’ll be prompted to choose the photos you want to make a **Google Photos collage** out of. This is relatively easy. You can scroll through your gallery (starting from the most recent), or you can search your photos for specific images that you want using the toolbar provided.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Select Photos for Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 05**Step 5\. Create Google Photos Collage**
 
 When you’ve finished selecting all the photos that you want for your **Google Collage Photo**, select the ‘Create’ button (it can be found on the upper right-hand corner of the screen.)
 
 ![Create Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### 06**Step 6\. Open Settings Menu for Options**
 
 Your **Google Photos collage** should now be complete To see available share options, open the ‘Settings’ menu on the upper-right hand corner (it’s the three-descending dots the furthest to the right.)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Settings Menu for Download and Share Options](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 07**Step 7\. Download Completed Google Photos Collage**
 
 Whether you’re hoping to share the **Google Photos collage** with friends and family or print it out for your own enjoyment, make sure to remember to ‘Download’ it or ‘Add to Album’
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![Download Completed Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### 08**Step 8\. (Optional) Edit**
 
 If there are any changes that you want to make before downloading it or sending it over to friends and family, Google Photos, thankfully, offers an ‘Edit’ Function that has basic photo editing features that you can use to make some minor changes to the collage.
@@ -301,16 +236,10 @@ If there are any changes that you want to make before downloading it or sending 
 
 Up, next we’ll be teaching you **how to make a collage in Google Photos** (app version) Specifically, we’ll be demonstrating with an iPhone — but you can do this with just about any smartphone or tablet. All you need is a log-in for Google.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 01**Step 1\. Download Google Photos App**
 
 First of all, in order to have **Google Photos make collage**s for you, you need the app. You can download this on the App-Store. It’s FREE-to-use.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 02**Step 2\. Allow Google Access to ‘All Photos’**
 
 In order to proceed, you’ll need to give Google Photos permission to access all the photos on your device.
@@ -321,14 +250,8 @@ In order to proceed, you’ll need to give Google Photos permission to access al
 
 Unlike the web version of Google Photos, the app version has the **make collage in Google photos** feature under the ‘Library’ page (which you can find on the bottom-right corner of the interface.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![Open Library Page to Find Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 04**Step 4\. Utilities > Collage**
 
 Back to similar surroundings. Select the ‘Utilities’ option and then click the ‘Collage’ feature in order to move forward.
@@ -336,8 +259,9 @@ Back to similar surroundings. Select the ‘Utilities’ option and then click t
 ![Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 05**Step 5\. Create Google Photos Collage**
 
 Again, just like before, you must first select the images that you want for your collage (either by scrolling for them or using the search option) and then click the ‘Create’ button to finish up.
@@ -350,18 +274,12 @@ The basic edit features we talked about on the web version of Google Photos is a
 
 ![Edit Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 07**Step 7\. Download and Share**
 
 When you’re happy with the look of your collage, you can move on by selecting the ‘share’ option on the toolbar at the bottom of the interface
 
 ![Share Completed Photo Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo15.png)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Part 3 **How to Make a Photo Collage in Google Photos on iPhone and iPad**
 
 Bonus tip If you want to **make a collage in Google Photos** for another purpose (either for a personal project or a professional project), we suggest that you check out **[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**’s Stock Media This includes photos, videos, sounds, etc. that you can use both for personal reasons and commercial reasons (without incurring any fees or being penalized.) As a bonus, Filmora is also one of the best video editors out in the market right now.
@@ -376,9 +294,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## **●** Key Takeaways from This Episode **→**
 
 **●** Interested in learning **how to make a collage in Google Photos**? No problem We’ve included both a tutorial for the web version and on the app version of Google Photos.
@@ -409,13 +324,6 @@ First up is our tutorial on how to **make a collage in Google Photos** (web vers
 
 To start, open up your desktop browser and go to the Google Photos website. You can also just open it up after logging in to your Google Account and opening the ‘Photos’ app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![Log-In to Google Photos to Make Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo1.png)
 
 ### 02**Step 2\. Open 'Utilities’**
@@ -424,41 +332,18 @@ Next up, in order to be able to make a **Google collage photo**, you need to hea
 
 ![Open Utilities Page Under ‘LIBRARY’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 03**Step 3\. Create New ‘Collage’**
 
 Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ option under the ‘Create New’ section.
 
 ![Choose to Create New ‘Collage’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### 04**Step 4\. Select 2-9 Items for Collage**
 
 For the next part, you’ll be prompted to choose the photos you want to make a **Google Photos collage** out of. This is relatively easy. You can scroll through your gallery (starting from the most recent), or you can search your photos for specific images that you want using the toolbar provided.
 
 ![Select Photos for Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 05**Step 5\. Create Google Photos Collage**
 
 When you’ve finished selecting all the photos that you want for your **Google Collage Photo**, select the ‘Create’ button (it can be found on the upper right-hand corner of the screen.)
@@ -466,9 +351,9 @@ When you’ve finished selecting all the photos that you want for your **Google 
 ![Create Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 06**Step 6\. Open Settings Menu for Options**
 
 Your **Google Photos collage** should now be complete To see available share options, open the ‘Settings’ menu on the upper-right hand corner (it’s the three-descending dots the furthest to the right.)
@@ -506,8 +391,9 @@ Unlike the web version of Google Photos, the app version has the **make collage 
 ![Open Library Page to Find Google Photos Collage Feature](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 04**Step 4\. Utilities > Collage**
 
 Back to similar surroundings. Select the ‘Utilities’ option and then click the ‘Collage’ feature in order to move forward.
@@ -518,31 +404,23 @@ Back to similar surroundings. Select the ‘Utilities’ option and then click t
 
 Again, just like before, you must first select the images that you want for your collage (either by scrolling for them or using the search option) and then click the ‘Create’ button to finish up.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create Google Collages Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### 06**Step 6\. (Optional) Edit Photos**
 
 The basic edit features we talked about on the web version of Google Photos is also available on the app (you can find it on the toolbar on the bottom of the interface.)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Edit Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo14.png)
 
 ### 07**Step 7\. Download and Share**
 
 When you’re happy with the look of your collage, you can move on by selecting the ‘share’ option on the toolbar at the bottom of the interface
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Share Completed Photo Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo15.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3 **How to Make a Photo Collage in Google Photos on iPhone and iPad**
 
@@ -558,9 +436,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## **●** Key Takeaways from This Episode **→**
 
 **●** Interested in learning **how to make a collage in Google Photos**? No problem We’ve included both a tutorial for the web version and on the app version of Google Photos.
@@ -587,39 +462,18 @@ And just, to be thorough, we’ve supplied a tutorial that would work for creati
 
 First up is our tutorial on how to **make a collage in Google Photos** (web version) Technically, this can be done on just about any device (your computer, tablet, smartphone, etc.) It can also be done on most OS Systems (Windows and Mac included.) However, our demonstration will be focused on examples that show using it on your desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 01**Step 1\. Go to Google Photos & Log-In**
 
 To start, open up your desktop browser and go to the Google Photos website. You can also just open it up after logging in to your Google Account and opening the ‘Photos’ app.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![Log-In to Google Photos to Make Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo1.png)
 
 ### 02**Step 2\. Open 'Utilities’**
 
 Next up, in order to be able to make a **Google collage photo**, you need to head to the ‘Utilities’ page (which you can access through the side menu under ‘LIBRARY’ — as is shown in the image provided.)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open Utilities Page Under ‘LIBRARY’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### 03**Step 3\. Create New ‘Collage’**
 
 Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ option under the ‘Create New’ section.
@@ -627,8 +481,9 @@ Up next, once you’re on the ‘Utilities’ page, locate the ‘Collage’ opt
 ![Choose to Create New ‘Collage’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 04**Step 4\. Select 2-9 Items for Collage**
 
 For the next part, you’ll be prompted to choose the photos you want to make a **Google Photos collage** out of. This is relatively easy. You can scroll through your gallery (starting from the most recent), or you can search your photos for specific images that you want using the toolbar provided.
@@ -639,24 +494,18 @@ For the next part, you’ll be prompted to choose the photos you want to make a 
 
 When you’ve finished selecting all the photos that you want for your **Google Collage Photo**, select the ‘Create’ button (it can be found on the upper right-hand corner of the screen.)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create Google Photos Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo5.png)
 
 ### 06**Step 6\. Open Settings Menu for Options**
 
 Your **Google Photos collage** should now be complete To see available share options, open the ‘Settings’ menu on the upper-right hand corner (it’s the three-descending dots the furthest to the right.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![Open Settings Menu for Download and Share Options](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 07**Step 7\. Download Completed Google Photos Collage**
 
 Whether you’re hoping to share the **Google Photos collage** with friends and family or print it out for your own enjoyment, make sure to remember to ‘Download’ it or ‘Add to Album’
@@ -667,9 +516,6 @@ Whether you’re hoping to share the **Google Photos collage** with friends and 
 
 If there are any changes that you want to make before downloading it or sending it over to friends and family, Google Photos, thankfully, offers an ‘Edit’ Function that has basic photo editing features that you can use to make some minor changes to the collage.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2 **How to Make a Photo Collage with Google Photos on Google Photos Application**
 
 Up, next we’ll be teaching you **how to make a collage in Google Photos** (app version) Specifically, we’ll be demonstrating with an iPhone — but you can do this with just about any smartphone or tablet. All you need is a log-in for Google.
@@ -678,17 +524,15 @@ Up, next we’ll be teaching you **how to make a collage in Google Photos** (app
 
 First of all, in order to have **Google Photos make collage**s for you, you need the app. You can download this on the App-Store. It’s FREE-to-use.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 02**Step 2\. Allow Google Access to ‘All Photos’**
 
 In order to proceed, you’ll need to give Google Photos permission to access all the photos on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![Allow Google Photos Access to ‘All Photos’](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 03**Step 3\. Go to the Library Page**
 
@@ -708,25 +552,16 @@ Again, just like before, you must first select the images that you want for your
 
 ![Create Google Collages Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 06**Step 6\. (Optional) Edit Photos**
 
 The basic edit features we talked about on the web version of Google Photos is also available on the app (you can find it on the toolbar on the bottom of the interface.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Edit Google Collage Photo](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo14.png)
 
 ### 07**Step 7\. Download and Share**
 
 When you’re happy with the look of your collage, you can move on by selecting the ‘share’ option on the toolbar at the bottom of the interface
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Share Completed Photo Collage](https://images.wondershare.com/filmora/article-images/2022/02/top-tip-how-to-create-a-quick-and-easy-google-collage-photo15.png)
 
 ## Part 3 **How to Make a Photo Collage in Google Photos on iPhone and iPad**
@@ -773,5 +608,18 @@ For macOS 10.12 or later
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-screening-success-10-movies-that-energize-and-empower/"><u>[New] Screening Success 10 Movies That Energize & Empower</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-achieving-smooth-volume-decreases-using-lumafusion/"><u>2024 Approved Achieving Smooth Volume Decreases Using Lumafusion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prelude-playlists-navigating-auditory-sources-for-podcasts/"><u>2024 Approved Prelude Playlists Navigating Auditory Sources for Podcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snapcutxp-review-complete-evaluation-of-video-editing-software/"><u>2024 Approved SnapCutXp Review – Complete Evaluation of Video Editing Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-substituting-periscope-6-premium-video-apps-for-iphones-and-ipads/"><u>2024 Approved Substituting Periscope 6 Premium Video Apps for iPhones & iPads</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-compatible-epson-ds-ebr-drivers-for-your-windows-11-pc-x64/"><u>Download the Latest Compatible Epson DS-Ebr Drivers for Your Windows 11 PC (X64)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/instructions-removing-videos-from-youtubes-watchlater/"><u>Instructions Removing Videos From YouTube's Watchlater</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-color-change-pro-methods-uncovered-for-2024/"><u>Navigating Color Change Pro Methods Uncovered for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/oddworld-soulstorm-pc-game-crash-no-more-discover-effective-fix-strategies-here/"><u>Oddworld: Soulstorm PC Game Crash No More? Discover Effective Fix Strategies Here</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-repair-the-scheduler-glitch-on-your-windows-10-device-for-smooth-video-calls/"><u>Step-by-Step Guide to Repair the Scheduler Glitch on Your Windows 10 Device for Smooth Video Calls</u></a></li>
+</ul></div>
 

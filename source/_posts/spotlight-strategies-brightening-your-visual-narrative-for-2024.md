@@ -1,7 +1,7 @@
 ---
 title: "\"Spotlight Strategies  Brightening Your Visual Narrative for 2024\""
-date: 2024-12-17T02:00:52.124Z
-updated: 2024-12-17T20:20:09.004Z
+date: 2024-12-29T21:00:50.396Z
+updated: 2025-01-04T17:56:58.572Z
 tags: 
   - screen-recording
   - ai video
@@ -21,10 +21,6 @@ thumbnail: https://www.lifewire.com/thmb/Nev8LKp-o6j1texwntaEutDxy8Y=/400x300/fi
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -52,6 +48,10 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
@@ -59,7 +59,7 @@ The key light is the main light that illuminates the subject. You can place it i
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -81,12 +81,16 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -95,7 +99,7 @@ After setting up all the lighting above, you can take a look at the comparison b
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
@@ -107,10 +111,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,19 +146,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-rising-stars-choices-top-5-hmds-for-drone-enthusiasts/"><u>[New] Rising Stars' Choices Top 5 HMDs for Drone Enthusiasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-single-frame-snipping-capturing-stillness-from-videos-in-photos/"><u>[New] Single-Frame Snipping Capturing Stillness From Videos in Photos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-subtitle-integration-a-complete-guide-for-social-media-platforms/"><u>[Updated] Mastering Subtitle Integration A Complete Guide for Social Media Platforms</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-max-360-or-hero-11-a-comparative-look-at-gopro-cameras-footage/"><u>[Updated] Max 360 or Hero 11? A Comparative Look at GoPro Cameras' Footage</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726226601801-oggmp3-movavi/"><u>「網路直接免費轉OGG成MP3 - 利用Movavi的音頻編譯器」</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-investigating-whether-sns-hdr-offers-superior-ux/"><u>2024 Approved Investigating Whether SNS HDR Offers Superior UX</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-toggle-between-normal-and-pip-views-for-youtube-app-on-ios/"><u>2024 Approved Toggle Between Normal and PIP Views for Youtube App on iOS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhance-video-editing-on-mobile-with-top-8-apple-software/"><u>Enhance Video Editing on Mobile with Top #8 Apple Software</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expert-picks-8-superior-linux-snapshot-tools/"><u>Expert Picks 8 Superior Linux Snapshot Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/iphone-tricks-capturing-and-editing-high-speed-visual-storytelling-for-2024/"><u>IPhone Tricks Capturing & Editing High-Speed Visual Storytelling for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-the-art-of-editing-on-sierra-with-1-5-tools-for-2024/"><u>Master the Art of Editing on Sierra with #1-#5 Tools for 2024</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/step-by-step-tutorial-on-how-to-install-winx-video-converter-deluxe-free-version-with-complete-functionality-accessible/"><u>Step-by-Step Tutorial on How to Install WinX Video Converter Deluxe Free Version with Complete Functionality Accessible</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-12-mini-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 12 mini lock with iCloud</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-swift-sketching-for-fortnite-game-titles/"><u>[New] In 2024, Swift Sketching for Fortnite Game Titles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-introducing-the-apple-m1-max-clip/"><u>[New] Introducing the Apple M1 Max Clip</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ranked-10-best-low-cost-user-friendly-passport-photo-services/"><u>[New] Ranked 10 Best Low-Cost, User-Friendly Passport Photo Services</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rewind-on-the-fly-ios-video-flip/"><u>[New] Rewind on the Fly IOS Video Flip</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-maximizing-video-impact-fairly-and-effectively/"><u>[Updated] 2024 Approved Maximizing Video Impact Fairly and Effectively</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-engaging-podcast-openers-captivating-intro-lines-for-2024/"><u>[Updated] Engaging Podcast Openers Captivating Intro Lines for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterclass-choosing-the-pinnacle-in-hdr-cameras/"><u>[Updated] Masterclass Choosing the Pinnacle in HDR Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-curving-techniques-for-modern-photoshop-artists/"><u>[Updated] Quick Curving Techniques for Modern Photoshop Artists</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-under-the-lens-hero-4-meets-hero-5-for-2024/"><u>[Updated] Under the Lens Hero 4 Meets Hero 5 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-inside-hand-tracking-techniques-and-varieties/"><u>2024 Approved Inside Hand Tracking Techniques & Varieties</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigate-to-new-horizinas-top-win11-gaming-delights/"><u>2024 Approved Navigate to New Horizinas Top Win11 Gaming Delights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-resolving-srt-export-woes-in-adobe-premiere/"><u>2024 Approved Resolving SRT Export Woes in Adobe Premiere</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-130-music-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia 130 Music FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-data.techidaily.com/effiziente-methode-zum-klonen-einer-sql-server-datenbank-doppelte-ansatze-vergleichen/"><u>Effiziente Methode Zum Klonen Einer SQL Server-Datenbank - Doppelte Ansätze Vergleichen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/luminance-hd-evaluation-the-ultimate-decision-for-2024/"><u>Luminance-HD Evaluation The Ultimate Decision for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/potential-phasing-out-the-future-of-roku-streambar-pro-in-question/"><u>Potential Phasing Out: The Future of Roku Streambar Pro in Question</u></a></li>
+<li><a href="https://facebook.techidaily.com/power-play-enhance-page-oversight-by-appointing-an-admin/"><u>Power Play: Enhance Page Oversight by Appointing an Admin</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamped-firmware-packages-for-hp-printer-p-4630/"><u>Revamped Firmware Packages for HP Printer P-4630</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Nostalgic Shots  IPhone X Retro Photo Session\""
-date: 2024-12-21T16:39:27.809Z
-updated: 2024-12-26T16:45:32.993Z
+date: 2025-01-01T23:05:27.165Z
+updated: 2025-01-04T19:48:08.458Z
 tags: 
   - screen-recording
   - ai video
@@ -31,17 +31,13 @@ Until recently, iPhone cameras didn't have lenses that enabled its users to prod
 In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips for iPhone portrait photos
 
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
 
@@ -80,7 +76,7 @@ If there is not enough light or if you are too far away from the camera, the app
 ![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.
@@ -93,6 +89,10 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
 #### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
@@ -104,7 +104,7 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
@@ -118,7 +118,7 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
@@ -140,20 +140,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-windows-11-photo-and-video-import-magic/"><u>[New] Mastering Windows 11 Photo & Video Import Magic</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-step-by-step-creating-timelapse-videos-with-ipad/"><u>[New] Step-by-Step Creating Timelapse Videos with iPad</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-drones-key-parts-for-peak-performance/"><u>[Updated] Mastering Drones Key Parts for Peak Performance</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-steadicam-devices-for-drones-in-filmmaking/"><u>[Updated] Prime Steadicam Devices for Drones in Filmmaking</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revel-in-reality-an-extensive-review-of-lgs-high-fidelity-monitor-31mu97-b/"><u>[Updated] Revel in Reality - An Extensive Review of LG's High-Fidelity Monitor, 31MU97-B</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sparkle-with-style-personalize-brands-using-pre-set-graphics/"><u>[Updated] Sparkle with Style Personalize Brands Using Pre-Set Graphics</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-crafting-powerful-thumbnails-with-top-20-font-options/"><u>2024 Approved Crafting Powerful Thumbnails with Top 20 Font Options</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-no-cost-ai-programs-for-image-generation/"><u>Discover the Ultimate List of No-Cost AI Programs for Image Generation</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-extended-wait-periods-while-playing-fallout-4/"><u>Fixing Extended Wait Periods While Playing Fallout 4</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-tecno-spark-20-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Tecno Spark 20 PIN</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pioneering-techniques-for-superior-fullscreen-presentation-in-premiere/"><u>In 2024, Pioneering Techniques for Superior Fullscreen Presentation in Premiere</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-speedy-upgrade-leading-android-video-tuners/"><u>In 2024, Speedy Upgrade Leading Android Video Tuners</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-storage-sizing-film-duration-in-gb/"><u>In 2024, Storage Sizing Film Duration in GB</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-z-fold-5-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy Z Fold 5? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-redmi-a2-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Redmi A2 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-connecting-a-deep-dive-into-instagram-live/"><u>[New] In 2024, The Art of Connecting A Deep Dive Into Instagram Live</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-google-photos-your-ultimate-tutorial/"><u>[New] Mastering Google Photos Your Ultimate Tutorial</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snap-to-success-top-pixlr-editing-methods-unveiled/"><u>[New] Snap to Success Top Pixlr Editing Methods Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instagrams-sideways-scenario-a-visual-glitch-examined/"><u>[Updated] Instagram's Sideways Scenario A Visual Glitch Examined</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-composers-guide-to-creating-youtube-music-cohorts/"><u>[Updated] The Composer's Guide to Creating YouTube Music Cohorts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-metaverse-explorers-best-virtual-reality-list/"><u>2024 Approved Metaverse Explorers Best Virtual Reality List</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-seamless-srt-and-mp4-fusion-the-ultimate-guide/"><u>2024 Approved Seamless SRT & MP4 Fusion – The Ultimate Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-motorola-edge-40-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Motorola Edge 40 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-seamless-inshot-video-cuts/"><u>In 2024, Mastering Seamless Inshot Video Cuts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proving-ideal-for-iphone-users-9-photo-watermarking-tools-for-2024/"><u>Proving Ideal for iPhone Users 9 Photo Watermarking Tools for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-list-10-innovative-chatgpt-variants-for-superior-performance/"><u>The Ultimate List: 10 Innovative ChatGPT Variants for Superior Performance</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-infinix-hot-40i-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Infinix Hot 40i</u></a></li>
 </ul></div>
 

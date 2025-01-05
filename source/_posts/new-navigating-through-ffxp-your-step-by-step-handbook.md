@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Navigating Through FFXP  Your Step-by-Step Handbook\""
-date: 2024-12-20T16:15:21.156Z
-updated: 2024-12-26T16:50:30.377Z
+date: 2025-01-03T23:14:17.664Z
+updated: 2025-01-04T20:42:16.577Z
 tags: 
   - screen-recording
   - ai video
@@ -23,10 +23,6 @@ Using your PC to watch films while working on something else has recently been p
 This feature is an important tool to help you multitask by dragging videos from web pages and navigating to another tab so you can continue working on other tabs while the video keeps playing. In this article, you will understand everything about this feature and how to enable this feature.
 
 ![the firefox]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. How Picture-in-Picture Mode Works
 
@@ -59,7 +55,7 @@ Here's how to activate picture-in-picture video control in Firefox**:**
 ![choose the options/settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Scroll down in the General mode to locate the **Browsing** settings option.
@@ -81,6 +77,10 @@ You can load only a single video using the above guideline. Suppose you want to 
 
 ![the new video above the first]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 By following these steps, videos appear on the screen at the same time. For all tabs containing open videos, the main Firefox window shows a "play" symbol. Even if you dismiss Firefox, numerous videos will continue to play in other programs or on your desktop.
 
 ## Part 3\. How to Disable the Picture-in-Picture Mode
@@ -89,25 +89,29 @@ Sometimes, the PiP mode can disturb necessary research or task that needs your f
 
 ![click the following icon]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. Other tips about Picture-in-Picture Mode in Firefox
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4.1 Picture-in-Picture extension in Firefox
 
 Another mode of having your picture-in-picture mode on Firefox is using the available add-on features. You can access several add-on extensions available on Firefox by tapping the **Menu** button. Locate the [add-on menu item](https://addons.mozilla.org/en-US/firefox/) and click it. Once it loads, you can use the search bar at the top right corner to select your preferred picture-in-picture add-on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4.2 Keyboard shortcuts about Picture-in-Picture in Firefox
 
 It is also possible to enable and disable the picture-in-picture mode using keyboard shortcuts. To get this done, use the key combination of **'Ctrl + Shift + \]'**. By simultaneously holding these keys, Firefox will launch the relevant video on the web page into a picture-in-picture mode. However, if the feature has been enabled before pressing the key combination, it automatically disables the feature.
 
 ![the key combination]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5\. FAQs
 
@@ -120,16 +124,12 @@ After opening the tab, drag the application up, then scroll down to the bottom r
 On Firefox, this mode is always on by default, but when the picture-in-picture feature is not working; follow the step-by-step guideline explained above to enable it manually. Once you perform these procedures using the keyboard shortcut or settings mode, it will start working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I resize the picture-in-picture window in Firefox?
 
 You can, of course, resize it and move it wherever you want. Hold down the left click and move it with your mouse to do this. Simply place your cursor in a corner to expand or shrink the window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -165,18 +165,20 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-scripting-journalisms-closing-statements-for-2024/"><u>[Updated] Scripting Journalism's Closing Statements for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-world-of-srt-alteration-in-macos-systems/"><u>2024 Approved Navigating the World of SRT Alteration in macOS Systems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-technologies-vr-applications/"><u>2024 Approved Pioneering Technologies VR Applications</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-puzzle-prints-crafting-hilarity-in-minutes/"><u>2024 Approved Puzzle Prints Crafting Hilarity in Minutes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-computer-component-analysis-by-toms-hardware-gurus/"><u>Comprehensive Computer Component Analysis by Tom's Hardware Gurus</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-lava-blaze-2-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/innovate-your-farming-journey-with-these-stardews-top-7-mods/"><u>Innovate Your Farming Journey with These Stardew's Top 7 Mods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/newbies-necessities-for-capturing-with-gopro-for-2024/"><u>Newbies Necessities for Capturing with GoPro for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfect-hues-at-your-fingertips-the-essential-11-tutorial-list-for-2024/"><u>Perfect Hues at Your Fingertips The Essential 11 Tutorial List for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-software-for-photo-based-videography-for-2024/"><u>Premier Software for Photo-Based Videography for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revamping-your-img-messages-expert-advice-for-on-the-go-corrections/"><u>Revamping Your IMG Messages: Expert Advice for On-The-Go Corrections</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sketched-snicker-fits-kapwing-meme-artisan-for-2024/"><u>Sketched Snicker-Fits Kapwing Meme Artisan for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-s23plus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy S23+? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-inside-look-making-most-of-firefox-picture-in-picture/"><u>[New] Inside Look Making Most of Firefox Picture-in-Picture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reinstate-your-airdrop-linkages-simple-fixes-for-iosmacos-issues/"><u>[New] Reinstate Your AirDrop Linkages Simple Fixes for iOS/macOS Issues</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spotlight-on-professional-shoots-innovative-lighting-techniques/"><u>[New] Spotlight on Professional Shoots Innovative Lighting Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-inside-the-innovative-world-of-intova-x/"><u>[Updated] In 2024, Inside the Innovative World of Intova X</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-nail-the-next-best-thing-youtube-studio-editing-mastery/"><u>[Updated] In 2024, Nail the Next Best Thing YouTube Studio Editing Mastery</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-seeking-authentic-ps2-play-check-out-the-5-best-android-simulators/"><u>[Updated] In 2024, Seeking Authentic PS2 Play? Check Out the 5 Best Android Simulators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-starting-and-participating-in-zoom-meetings-from-android-devices/"><u>[Updated] Starting and Participating in Zoom Meetings From Android Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-music-service-migration-keeping-playlists-intact/"><u>2024 Approved Music Service Migration Keeping Playlists Intact</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-picturemeld-pro/"><u>2024 Approved PictureMeld Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-autonomous-vehicle-unveiled-latest-insights-on-cost-launch-timeline-and-specifications/"><u>Apple's Autonomous Vehicle Unveiled: Latest Insights on Cost, Launch Timeline & Specifications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-compact-and-cost-effective-features-of-the-propella-7s-4-paddleboard-reviews-unveiled/"><u>Exploring the Compact & Cost-Effective Features of the Propella 7S 4 Paddleboard - Reviews Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/fortnite-performance-boost-a-complete-guide-to-eliminate-lag/"><u>Fortnite Performance Boost: A Complete Guide to Eliminate Lag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-compress-your-audio-files-efficiently-and-maintain-high-quality-sound/"><u>How To Compress Your Audio Files Efficiently and Maintain High-Quality Sound</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-tecno-phantom-v-fold-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Tecno Phantom V Fold to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-digital-creation-complete-guide-to-picsart/"><u>In 2024, Mastering Digital Creation Complete Guide to PicsArt</u></a></li>
 </ul></div>
 

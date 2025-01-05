@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigate iPhone's Dual-Task Capabilities Effortlessly\""
-date: 2024-07-30T05:04:32.699Z
-updated: 2024-07-31T05:04:32.699Z
+date: 2024-12-30T18:04:32.865Z
+updated: 2025-01-04T16:03:50.510Z
 tags: 
   - screen-recording
   - ai video
@@ -28,77 +28,6 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 
  Video or picture capturing these days are plainly one of the frequently done tasks at various instants be it for recording a birthday party or a dance performance. And often times, you might have experienced the urge to take a picture out of the video recording so that the precious moment can be captured. But, switching to photo mode again for this will break the flow and the desired moment will be missed in the next second. And considering this situation, we have brought this article where you will learn to take photos and videos simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
-## How to shoot a still photo and record a video simultaneously on your iPhone
-
- The feature of simultaneous photo and video recording had begun since the coming of iPhone 5\. So, iPhone 5 and later model users can enjoy taking photos while recording videos while if we talk about other iOS devices, iPad makes this feature available with its fourth generation as well as iPod touch sixth generation started supporting the feature of capturing stills when recording videos.
-
- Here are the steps to take photos and videos simultaneously.
-
-* Start with launching camera in your iOS device.
-* Look for the video mode and switch to it for initiating video recording.
-* Tap the red button located at the bottom and it will start the video recording.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
-
- Image resource: igeeksblog.com
-
-* Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
-
-### The drawbacks of taking photos and videos simultaneously
-
-*  One of the major drawbacks you can face is being unable to take stills from a time-lapse video in your iPhone.
-*  The resolution of the photos taken while recording video will not be the same as the picture captured by the camera of your iPhone. The taken picture's resolution is based on the video's resolution for example; the pictures taken during 4k videos will have more resolution than 1080p. Although they both will lie lower than the standard photo resolution.
-
- Nevertheless, the resolution loss will increase when taking still from slow motion recording. On one hand where people find standard resolution beyond satisfaction, losing some amount of digits from the resolution won't make difference too for many at the same time.
-
-| iPhone Model         | Standard Photo Resolution | Phone Resolution While Recording Video-1080p | Photo Resolution While Recording Video-4K | Photo Resolution While Recording Video-Slo Mo |
-| -------------------- | ------------------------- | -------------------------------------------- | ----------------------------------------- | --------------------------------------------- |
-| **iPhone 5 & 5S**    | 3264 × 2448               | 1280 × 720                                   | n/a                                       | n/a                                           |
-| **iPhone 6 series**  | 3264 × 2448               | 2720 × 1532                                  | n/a                                       | n/a                                           |
-| **iPhone SE**        | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
-| **iPhone 6S series** | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
-| **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
-
-## Extract frames from video
-
- If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
-### Why Choose Wondershare Filmora?
-
-* It supports a wide range of video formats and can help in extracting the desired frame out from any file format while keeping the quality intact as the original file.
-* The software is also able to extract the frames directly without any trouble.
-* With Wondershare Filmora, you can export as well as share your files over a large range. For instance, you can publish your video projects on Vimeo, YouTube or Facebook if there is a need or export the file to mobile, DVD or Blu-Ray disc.
-
- Check this video to see how to extract photos from a video with Filmora:
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- Video or picture capturing these days are plainly one of the frequently done tasks at various instants be it for recording a birthday party or a dance performance. And often times, you might have experienced the urge to take a picture out of the video recording so that the precious moment can be captured. But, switching to photo mode again for this will break the flow and the desired moment will be missed in the next second. And considering this situation, we have brought this article where you will learn to take photos and videos simultaneously.
-
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to shoot a still photo and record a video simultaneously on your iPhone
 
  The feature of simultaneous photo and video recording had begun since the coming of iPhone 5\. So, iPhone 5 and later model users can enjoy taking photos while recording videos while if we talk about other iOS devices, iPad makes this feature available with its fourth generation as well as iPod touch sixth generation started supporting the feature of capturing stills when recording videos.
@@ -110,6 +39,10 @@ Follow @Ollie Mattison
 * Tap the red button located at the bottom and it will start the video recording.
 
 ![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image resource: igeeksblog.com
 
@@ -131,8 +64,9 @@ Follow @Ollie Mattison
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Extract frames from video
 
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
@@ -145,90 +79,11 @@ Follow @Ollie Mattison
 
  Check this video to see how to extract photos from a video with Filmora:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- Video or picture capturing these days are plainly one of the frequently done tasks at various instants be it for recording a birthday party or a dance performance. And often times, you might have experienced the urge to take a picture out of the video recording so that the precious moment can be captured. But, switching to photo mode again for this will break the flow and the desired moment will be missed in the next second. And considering this situation, we have brought this article where you will learn to take photos and videos simultaneously.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
-## How to shoot a still photo and record a video simultaneously on your iPhone
-
- The feature of simultaneous photo and video recording had begun since the coming of iPhone 5\. So, iPhone 5 and later model users can enjoy taking photos while recording videos while if we talk about other iOS devices, iPad makes this feature available with its fourth generation as well as iPod touch sixth generation started supporting the feature of capturing stills when recording videos.
-
- Here are the steps to take photos and videos simultaneously.
-
-* Start with launching camera in your iOS device.
-* Look for the video mode and switch to it for initiating video recording.
-* Tap the red button located at the bottom and it will start the video recording.
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
-
- Image resource: igeeksblog.com
-
-* Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
-
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### The drawbacks of taking photos and videos simultaneously
-
-*  One of the major drawbacks you can face is being unable to take stills from a time-lapse video in your iPhone.
-*  The resolution of the photos taken while recording video will not be the same as the picture captured by the camera of your iPhone. The taken picture's resolution is based on the video's resolution for example; the pictures taken during 4k videos will have more resolution than 1080p. Although they both will lie lower than the standard photo resolution.
-
- Nevertheless, the resolution loss will increase when taking still from slow motion recording. On one hand where people find standard resolution beyond satisfaction, losing some amount of digits from the resolution won't make difference too for many at the same time.
-
-| iPhone Model         | Standard Photo Resolution | Phone Resolution While Recording Video-1080p | Photo Resolution While Recording Video-4K | Photo Resolution While Recording Video-Slo Mo |
-| -------------------- | ------------------------- | -------------------------------------------- | ----------------------------------------- | --------------------------------------------- |
-| **iPhone 5 & 5S**    | 3264 × 2448               | 1280 × 720                                   | n/a                                       | n/a                                           |
-| **iPhone 6 series**  | 3264 × 2448               | 2720 × 1532                                  | n/a                                       | n/a                                           |
-| **iPhone SE**        | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
-| **iPhone 6S series** | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
-| **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
-
-## Extract frames from video
-
- If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
-### Why Choose Wondershare Filmora?
-
-* It supports a wide range of video formats and can help in extracting the desired frame out from any file format while keeping the quality intact as the original file.
-* The software is also able to extract the frames directly without any trouble.
-* With Wondershare Filmora, you can export as well as share your files over a large range. For instance, you can publish your video projects on Vimeo, YouTube or Facebook if there is a need or export the file to mobile, DVD or Blu-Ray disc.
-
- Check this video to see how to extract photos from a video with Filmora:
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -256,13 +111,14 @@ Follow @Ollie Mattison
 
 ![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: igeeksblog.com
 
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### The drawbacks of taking photos and videos simultaneously
 
 *  One of the major drawbacks you can face is being unable to take stills from a time-lapse video in your iPhone.
@@ -278,9 +134,6 @@ Follow @Ollie Mattison
 | **iPhone 6S series** | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Extract frames from video
 
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
@@ -293,9 +146,144 @@ Follow @Ollie Mattison
 
  Check this video to see how to extract photos from a video with Filmora:
 
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ Video or picture capturing these days are plainly one of the frequently done tasks at various instants be it for recording a birthday party or a dance performance. And often times, you might have experienced the urge to take a picture out of the video recording so that the precious moment can be captured. But, switching to photo mode again for this will break the flow and the desired moment will be missed in the next second. And considering this situation, we have brought this article where you will learn to take photos and videos simultaneously.
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to shoot a still photo and record a video simultaneously on your iPhone
+
+ The feature of simultaneous photo and video recording had begun since the coming of iPhone 5\. So, iPhone 5 and later model users can enjoy taking photos while recording videos while if we talk about other iOS devices, iPad makes this feature available with its fourth generation as well as iPod touch sixth generation started supporting the feature of capturing stills when recording videos.
+
+ Here are the steps to take photos and videos simultaneously.
+
+* Start with launching camera in your iOS device.
+* Look for the video mode and switch to it for initiating video recording.
+* Tap the red button located at the bottom and it will start the video recording.
+
+![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
+
+ Image resource: igeeksblog.com
+
+* Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### The drawbacks of taking photos and videos simultaneously
+
+*  One of the major drawbacks you can face is being unable to take stills from a time-lapse video in your iPhone.
+*  The resolution of the photos taken while recording video will not be the same as the picture captured by the camera of your iPhone. The taken picture's resolution is based on the video's resolution for example; the pictures taken during 4k videos will have more resolution than 1080p. Although they both will lie lower than the standard photo resolution.
+
+ Nevertheless, the resolution loss will increase when taking still from slow motion recording. On one hand where people find standard resolution beyond satisfaction, losing some amount of digits from the resolution won't make difference too for many at the same time.
+
+| iPhone Model         | Standard Photo Resolution | Phone Resolution While Recording Video-1080p | Photo Resolution While Recording Video-4K | Photo Resolution While Recording Video-Slo Mo |
+| -------------------- | ------------------------- | -------------------------------------------- | ----------------------------------------- | --------------------------------------------- |
+| **iPhone 5 & 5S**    | 3264 × 2448               | 1280 × 720                                   | n/a                                       | n/a                                           |
+| **iPhone 6 series**  | 3264 × 2448               | 2720 × 1532                                  | n/a                                       | n/a                                           |
+| **iPhone SE**        | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
+| **iPhone 6S series** | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
+| **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
+
+## Extract frames from video
+
+ If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Why Choose Wondershare Filmora?
+
+* It supports a wide range of video formats and can help in extracting the desired frame out from any file format while keeping the quality intact as the original file.
+* The software is also able to extract the frames directly without any trouble.
+* With Wondershare Filmora, you can export as well as share your files over a large range. For instance, you can publish your video projects on Vimeo, YouTube or Facebook if there is a need or export the file to mobile, DVD or Blu-Ray disc.
+
+ Check this video to see how to extract photos from a video with Filmora:
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ Video or picture capturing these days are plainly one of the frequently done tasks at various instants be it for recording a birthday party or a dance performance. And often times, you might have experienced the urge to take a picture out of the video recording so that the precious moment can be captured. But, switching to photo mode again for this will break the flow and the desired moment will be missed in the next second. And considering this situation, we have brought this article where you will learn to take photos and videos simultaneously.
+
+## How to shoot a still photo and record a video simultaneously on your iPhone
+
+ The feature of simultaneous photo and video recording had begun since the coming of iPhone 5\. So, iPhone 5 and later model users can enjoy taking photos while recording videos while if we talk about other iOS devices, iPad makes this feature available with its fourth generation as well as iPod touch sixth generation started supporting the feature of capturing stills when recording videos.
+
+ Here are the steps to take photos and videos simultaneously.
+
+* Start with launching camera in your iOS device.
+* Look for the video mode and switch to it for initiating video recording.
+* Tap the red button located at the bottom and it will start the video recording.
+
+![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
+
+ Image resource: igeeksblog.com
+
+* Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
+
+### The drawbacks of taking photos and videos simultaneously
+
+*  One of the major drawbacks you can face is being unable to take stills from a time-lapse video in your iPhone.
+*  The resolution of the photos taken while recording video will not be the same as the picture captured by the camera of your iPhone. The taken picture's resolution is based on the video's resolution for example; the pictures taken during 4k videos will have more resolution than 1080p. Although they both will lie lower than the standard photo resolution.
+
+ Nevertheless, the resolution loss will increase when taking still from slow motion recording. On one hand where people find standard resolution beyond satisfaction, losing some amount of digits from the resolution won't make difference too for many at the same time.
+
+| iPhone Model         | Standard Photo Resolution | Phone Resolution While Recording Video-1080p | Photo Resolution While Recording Video-4K | Photo Resolution While Recording Video-Slo Mo |
+| -------------------- | ------------------------- | -------------------------------------------- | ----------------------------------------- | --------------------------------------------- |
+| **iPhone 5 & 5S**    | 3264 × 2448               | 1280 × 720                                   | n/a                                       | n/a                                           |
+| **iPhone 6 series**  | 3264 × 2448               | 2720 × 1532                                  | n/a                                       | n/a                                           |
+| **iPhone SE**        | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
+| **iPhone 6S series** | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
+| **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
+
+## Extract frames from video
+
+ If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Why Choose Wondershare Filmora?
+
+* It supports a wide range of video formats and can help in extracting the desired frame out from any file format while keeping the quality intact as the original file.
+* The software is also able to extract the frames directly without any trouble.
+* With Wondershare Filmora, you can export as well as share your files over a large range. For instance, you can publish your video projects on Vimeo, YouTube or Facebook if there is a need or export the file to mobile, DVD or Blu-Ray disc.
+
+ Check this video to see how to extract photos from a video with Filmora:
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -328,5 +316,23 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-reimagining-receipt-a-new-approach-to-package-revelation/"><u>[New] Reimagining Receipt A New Approach to Package Revelation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-periscope-broadcasting-101/"><u>[New] Step-by-Step Periscope Broadcasting 101</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-comprehensively-reviews-easeus-experts-unite-for-2024/"><u>[Updated] Comprehensively Reviews EaseUS, Experts Unite for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-image-haven-best-10-sites-reviewed/"><u>[Updated] Free Image Haven Best 10 Sites Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spectral-photography-takes-a-quantum-leap-with-blade-4k/"><u>[Updated] Spectral Photography Takes a Quantum Leap with Blade 4K</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stealthy-styles-easy-color-corrections-techniques/"><u>[Updated] Stealthy Styles Easy Color Corrections Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-legal-side-to-posting-videos-on-digital-platforms-like-fb/"><u>[Updated] The Legal Side to Posting Videos on Digital Platforms Like FB</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-skyrocket-your-streaming-status-three-winning-techniques-for-newbies/"><u>2024 Approved Skyrocket Your Streaming Status Three Winning Techniques for Newbies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snapshot-innovations-an-exploration-of-samsung-photo-editor/"><u>2024 Approved Snapshot Innovations An Exploration of Samsung PHOTO EDITOR</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-integrating-video-calls-combining-gmail-and-zoom-for-effective-communication/"><u>In 2024, Integrating Video Calls Combining Gmail & Zoom for Effective Communication</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jest-journal-chronicles-of-timely-laughter/"><u>In 2024, Jest Journal Chronicles of Timely Laughter</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-the-features-of-the-gaomon-pd1560-pen-display-drawing-tablet-an-authoritative-guide/"><u>Navigating the Features of the Gaomon PD1560 Pen Display Drawing Tablet - An Authoritative Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-assembling-impactful-insta-colleagues-for-2024/"><u>Step-by-Step Assembling Impactful Insta Colleagues for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-10-ignoring-seagate-external-drive-fix-tips/"><u>Windows 10 Ignoring Seagate External Drive - Fix Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-touchpad-not-scrolling-heres-how-to-solve-it/"><u>Windows 10 Touchpad Not Scrolling? Here’s How to Solve It!</u></a></li>
+</ul></div>
 

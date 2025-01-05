@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Overcoming the Loading Stick in Among Us Gameplay"
-date: 2024-12-19T17:41:41.218Z
-updated: 2024-12-26T16:38:34.530Z
+date: 2024-12-29T22:34:43.948Z
+updated: 2025-01-05T02:26:30.764Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 5. **[End the runtime broker](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Uninstall your antivirus software
 
@@ -68,16 +72,8 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -85,7 +81,7 @@ There are mainly two ways to update your device drivers:
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Remove the adware
@@ -98,10 +94,6 @@ There are mainly two ways to update your device drivers:
 4. Restart the computer and see if Minecraft launches then.
 
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: End the runtime broker
 
@@ -116,6 +108,10 @@ There are mainly two ways to update your device drivers:
 
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
@@ -147,12 +143,16 @@ If this method doesn’t work for you, then try the next fix, below.
 2. Right-click Minecraft, and select**Uninstall** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Once done, delete the**.Minecraft** folder.
 6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
@@ -180,21 +180,21 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capture-the-world-through-the-lens-of-mi-11/"><u>[New] 2024 Approved Capture the World Through the Lens of Mi 11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-enhance-film-magic-with-final-cuts-top-10-effect-tools/"><u>[New] 2024 Approved Enhance Film Magic with Final Cut's Top 10 Effect Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-the-path-to-prominence-9-proven-strategies-for-instagram-stars/"><u>[New] Navigating the Path to Prominence 9 Proven Strategies for Instagram Stars</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-professionals-palette-prowess-color-command-secrets/"><u>[Updated] Professionals' Palette Prowess - Color Command Secrets</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-inshots-competitors-for-pclaptop-editors/"><u>2024 Approved Inshot's Competitors for PC/Laptop Editors</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-voice-alteration-techniques-for-enhanced-competitive-play-in-the-world-of-free-fire-gaming/"><u>2024 Approved Mastering Voice Alteration Techniques for Enhanced Competitive Play in the World of Free Fire Gaming</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimal-zoom-settings-for-microsoft-teams-communication/"><u>2024 Approved Optimal Zoom Settings for Microsoft Teams Communication</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-simplify-aquatic-footage-7-key-shooting-strategies/"><u>2024 Approved Simplify Aquatic Footage 7 Key Shooting Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-no-more-crashes-optimizing-pc-performance-for-the-latest-update/"><u>Call of Duty: Black Ops Cold War - No More Crashes! Optimizing PC Performance for the Latest Update</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-gaming-and-productivity-download-new-amd-rx-570-windows-driver/"><u>Enhance Gaming & Productivity: Download New AMD RX 570 Windows Driver</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-asus-rog-phone-8-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Asus ROG Phone 8 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-15-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 15 with 3 Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-kinetic-illustration-101-core-skills-and-concepts/"><u>In 2024, Kinetic Illustration 101 Core Skills & Concepts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-new-steer-clear-of-these-8-windows-11-faux-pas/"><u>Navigating the New: Steer Clear of These 8 Windows 11 Faux Pas</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimize-stream-quality-instantly/"><u>Optimize Stream Quality Instantly!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-galaxy-f15-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Galaxy F15 5G</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fb-activity-preview-insight-or-intrusion-whats-safer/"><u>[New] FB Activity Preview Insight or Intrusion – What's Safer?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-google-chromes-picture-in-picture-feature/"><u>[New] Navigating Google Chrome's Picture In Picture Feature</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-voice-mods-for-pubg-top-easy-techniques/"><u>[New] Quick Voice Mods for PUBG Top Easy Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-comprehensible-guide-to-marketing-on-snapchat/"><u>[Updated] 2024 Approved The Comprehensible Guide to Marketing on Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-tempo-a-guide-to-instagram-story-adjustments/"><u>[Updated] Mastering Tempo A Guide to Instagram Story Adjustments</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-the-premier-5-online-title-crafters/"><u>2024 Approved Spotlight The Premier 5 Online Title Crafters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726029643359-aacwav5/"><u>音楽形式を簡単に切り替える！AACからWAVへ変換する最適なフリープログラム5つ</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) with IMEI Code?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sifting-through-inshots-features-for-best-edits/"><u>In 2024, Sifting Through InShot's Features for Best Edits</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-x9b-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor X9b to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/resolved-issue-unrecognizable-disk-drive-error/"><u>Resolved Issue: Unrecognizable Disk Drive Error</u></a></li>
+<li><a href="https://extra-support.techidaily.com/snickerslide-social-media-memes-made-simple-for-2024/"><u>SnickerSlide Social Media Memes Made Simple for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speedy-pace-fb-videos-innovative-apps-and-proxies-ensuring-faster-uploaddownload-for-2024/"><u>Speedy Pace FB Videos Innovative Apps & Proxies Ensuring Faster Upload/Download for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-sharing-mobile-apps-among-android-gadgets/"><u>Step-by-Step Guide to Sharing Mobile Apps Among Android Gadgets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-atandt-mobile-offers-in-may-2024-exclusive-selection-curated-by-zdnet/"><u>Top AT&T Mobile Offers in May 2024: Exclusive Selection Curated by ZDNet</u></a></li>
 </ul></div>
 

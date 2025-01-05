@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare PC Troubleshooting Guide: Ensuring Smooth Gameplay"
-date: 2024-12-22T18:19:45.520Z
-updated: 2024-12-26T18:17:40.430Z
+date: 2024-12-29T18:46:34.585Z
+updated: 2025-01-04T19:53:48.963Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Allow your game through Windows Firewall
 
  When a program fails to load properly, chances are your firewall is blocking it, even though the program you’re starting is legitimate and doesn’t do harm to your system. To ensure your game has access to your connection, take the steps as follows.
@@ -46,7 +42,15 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
@@ -76,19 +80,19 @@ If this doesn’t do the trick, try the next fix below.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you’re done, launch your game. If your problem persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Repair corrupted game files
 
@@ -113,16 +117,12 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
  Once the verification process is complete, close the window and check if it solves your problem. If your game still fails to launch properly, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Update your graphics driver
@@ -143,6 +143,10 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
 
@@ -165,16 +169,12 @@ If this doesn’t do the trick, try the next fix below.
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -213,22 +213,16 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-making-text-pop-in-instagram-stories-with-simple-animations/"><u>[New] Making Text Pop in Instagram Stories with Simple Animations</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-core-auditory-stimulation-channels-for-2024/"><u>[Updated] Core Auditory Stimulation Channels for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leaders-in-the-evolution-of-vr-experiences/"><u>[Updated] Leaders in the Evolution of VR Experiences</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premier-tools-for-image-transformation-framecraft-pro/"><u>[Updated] Premier Tools for Image Transformation FrameCraft Pro</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-step-by-step-process-for-screening-web-tv-episodes/"><u>[Updated] The Step-by-Step Process for Screening Web TV Episodes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-screenplay-foundations-a-guide/"><u>2024 Approved Screenplay Foundations A Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-fileshift-android-media-to-iphone/"><u>2024 Approved Seamless Fileshift Android Media to iPhone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-11-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme 11 5G without App | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/come-installare-windows-11-con-supporto-legacy-e-nessun-requisito-per-tpm-20/"><u>Come Installare Windows 11 Con Supporto Legacy E Nessun Requisito per TPM 2.0</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/easy-guide-to-extracting-and-downloading-mp3-tracks-from-youtube-music/"><u>Easy Guide to Extracting and Downloading MP3 Tracks From YouTube Music</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-m54-5g-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-magic-6-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor Magic 6 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-hue-shifts-a-guide-to-efficient-photoshop-corrections/"><u>In 2024, Mastering Hue Shifts A Guide to Efficient Photoshop Corrections</u></a></li>
-<li><a href="https://extra-support.techidaily.com/reviewing-the-gopro-hero5-session-series-for-2024/"><u>Reviewing the GoPro Hero5 Session Series for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-apple-techniques-for-high-quality-interviews-on-air-for-2024/"><u>Step-by-Step Apple Techniques for High-Quality Interviews on Air for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/bes-top-tools-studio-vs-latest-beta-features/"><u>YouTube's Top Tools Studio Vs. Latest Beta Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-free-art-online-a-guide-and-top-sites/"><u>[New] Navigating Free Art Online A Guide & Top Sites</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-slomo-videography-the-complete-app-analysis/"><u>[New] SloMo Videography The Complete App Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-startups-and-crypto-learn-nfts-with-no-hassle/"><u>[New] Startups & Crypto Learn NFTs with No Hassle</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-tips-for-fixing-stalled-video-posts-on-the-social-media-platform-iosandroid/"><u>[Updated] In 2024, Tips for Fixing Stalled Video Posts on the Social Media Platform iOS/Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-productivity-innovative-windows-10-tips/"><u>2024 Approved Maximize Productivity Innovative Windows 10 Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-discovering-6-distinct-icon-and-logo-providers/"><u>In 2024, Discovering 6 Distinct Icon and Logo Providers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-m14-4g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy M14 4G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-radiant-recording-two-simple-steps-for-enhanced-iphone-video-lighting/"><u>In 2024, Radiant Recording Two Simple Steps for Enhanced iPhone Video Lighting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionary-drone-editing-for-visual-storytellers/"><u>In 2024, Revolutionary Drone Editing for Visual Storytellers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mint-magic-in-depth-analysis-and-instructions-for-ice-cream-cam/"><u>Mint Magic In-Depth Analysis & Instructions for Ice Cream Cam</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-compatibility-issues-with-call-of-duty-modern-warfare-updates/"><u>Resolving Compatibility Issues with Call of Duty: Modern Warfare Updates</u></a></li>
 </ul></div>
 

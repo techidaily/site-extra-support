@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reintroducing Classic Windows Photo Viewer - W10 Edition\""
-date: 2024-12-20T16:33:59.056Z
-updated: 2024-12-26T16:24:31.732Z
+date: 2025-01-01T17:05:39.851Z
+updated: 2025-01-05T01:51:45.178Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -58,7 +62,7 @@ Here is why they want to restore Windows Photo Viewer –
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -70,7 +74,7 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
@@ -91,21 +95,9 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -113,7 +105,15 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -130,16 +130,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-easy-download-of-youtube-preview-pictures-for-2024/"><u>[New] Easy Download of YouTube Preview Pictures for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-professionals-choice-top-10-afx-templates-for-free/"><u>[New] Professionals' Choice Top 10 AFX Templates for FREE</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-visual-prodigies-top-4k-monitors-for-cutting-edge-work-for-2024/"><u>[New] Visual Prodigies Top 4K Monitors for Cutting-Edge Work for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-fade-perfection-quick-tips-and-tricks/"><u>[Updated] In 2024, Fade Perfection Quick Tips and Tricks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-real-time-broadcasting-step-by-step-guide/"><u>[Updated] Mastering Real-Time Broadcasting Step by Step Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-edge-of-screen-innovation-with-benq-sw320/"><u>2024 Approved Exploring the Edge of Screen Innovation with BenQ SW320</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-18-webcam-recorders-your-ultimate-tech-companion/"><u>2024 Approved Prime 18 Webcam Recorders Your Ultimate Tech Companion</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/creative-sound-blaster-zxr-review-a-comprehensive-look-at-the-top-2013-gaming-audio-card/"><u>Creative Sound Blaster ZXR Review - A Comprehensive Look at the Top 2013 Gaming Audio Card.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-recover-invisible-airpods-using-the-find-my-feature-a-step-by-step-guide/"><u>How to Recover Invisible AirPods Using the 'Find My' Feature: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photography-revolution-toolwizs-2023-app-insights/"><u>In 2024, Photography Revolution Toolwiz's 2023 App Insights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-5-toy-drones-reviewed/"><u>In 2024, Prime 5 Toy Drones Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reimagining-the-role-of-titles-in-after-effects-media/"><u>[New] Reimagining the Role of Titles in After Effects Media</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-skyrocket-your-marketing-game-on-reddit-proven-success-techniques/"><u>[New] Skyrocket Your Marketing Game on Reddit Proven Success Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elevating-your-work-with-dynamic-hdr-techniques/"><u>[Updated] 2024 Approved Elevating Your Work with Dynamic HDR Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-free-secure-stylish-discover-the-top-10-premium-feeling-video-call-apps-for-smartphones/"><u>[Updated] 2024 Approved Free, Secure, Stylish Discover the Top 10 Premium-Feeling Video Call Apps for Smartphones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-superior-class-of-8-best-4k-high-definition-players/"><u>[Updated] Superior Class of 8 Best 4K High Definition Players</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-panoramic-portals-cutting-edge-filmscapes/"><u>2024 Approved Panoramic Portals Cutting-Edge Filmscapes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/demystifying-absence-no-recommended-video-content-on-facebook-for-2024/"><u>Demystifying Absence No Recommended Video Content on Facebook for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-guide-crafting-perfect-collages/"><u>In 2024, Master Guide Crafting Perfect Collages</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-fix-in-digital-dimensions/"><u>In 2024, Pinnacle Fix in Digital Dimensions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-secrets-unveiled-successful-podcast-on-apple-store/"><u>In 2024, Secrets Unveiled Successful Podcast on Apple Store</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oneplus-nord-n30-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock OnePlus Nord N30 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-iphone-watermark-apps-reviewed-for-2024/"><u>Premier iPhone Watermark Apps Reviewed for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultimate-guide-to-harnessing-the-power-of-goal-seek-in-excel/"><u>Ultimate Guide to Harnessing the Power of Goal Seek in Excel</u></a></li>
 </ul></div>
 

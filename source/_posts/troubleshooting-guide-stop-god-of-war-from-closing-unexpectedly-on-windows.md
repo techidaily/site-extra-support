@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Stop God of War From Closing Unexpectedly On Windows"
-date: 2024-12-22T17:21:00.213Z
-updated: 2024-12-26T16:07:19.317Z
+date: 2024-12-30T16:29:16.755Z
+updated: 2025-01-04T22:47:35.476Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you have GeForce Experience installed, and you find that you can’t record y
 4. **[Enable desktop capture](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1: Restart NVIDIA Streamer service
@@ -32,22 +32,30 @@ In some cases, the culprit is NVIDA Streamer service, especially when it’s off
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b3de585a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Right-click **NVIDIA Streamer Service**  and click **Restart**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2314a11508.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) See if your Shadowplay can record now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2: Reinstall NVIDIA Driver
 
 In some cases, GeForce Experience install programs that are not graphics driver on your PC. So you should reinstall NVIDIA display driver all over again. You can go to NVIDIA support website to search for and download the latest version of display driver available. Or you can update your video card driver via Device Manager or Windows Update. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9a8fa563d.png)3) Click the**Update**button next to the flagged NVIDIA device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b0348294.jpg)4) Restart your PC for the change to take effect. See if Shadowplay works well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3: Upgrade GeForce Experience
@@ -62,19 +70,11 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4: Enable desktop capture
 
 If desktop capture is disabled, Shadowplay won’t detect if you play the game full-screen. You can enable this feature for the recording to work again: 1) Open your Shadowplay. Click**Preference**. 2) Make sure the box for**Allow desktop capture**is ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c238e4810b3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
 
@@ -95,21 +95,24 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-new-lens-on-sony-s3700-blu-ray-play-reviews/"><u>[New] New Lens on Sony S3700 Blu-Ray PLAY Reviews</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-the-perfect-resolution-for-immersive-vr/"><u>[New] The Perfect Resolution for Immersive VR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novices-to-vectors-grasping-the-basics-and-choices/"><u>[Updated] From Novices to Vectors Grasping the Basics and Choices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-how-to-add-motion-blur-effect-to-photos-in-photoshop/"><u>[Updated] In 2024, How to Add Motion Blur Effect to Photos in Photoshop</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-ultimate-series-top-tier-webcam-grips/"><u>[Updated] In 2024, Ultimate Series Top-Tier Webcam Grips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-drone-racing-insights-and-best-fpv-models/"><u>[Updated] Mastering Drone Racing Insights & Best FPV Models</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-refining-images-how-to-use-the-eraser-tool-in-psx/"><u>2024 Approved Refining Images How to Use the Eraser Tool in PSX</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-shining-through-hd-is-it-a-wise-pick-for-hdr/"><u>2024 Approved Shining Through HD Is It a Wise Pick for HDR?</u></a></li>
-<li><a href="https://games-able.techidaily.com/classic-console-fun-playing-nintendo-on-iphone/"><u>Classic Console Fun: Playing Nintendo on iPhone</u></a></li>
-<li><a href="https://win-top.techidaily.com/defining-cold-email-blasts-with-massmail-software-efficient-strategies-for-impersonal-bulk-messaging/"><u>Defining Cold Email Blasts with MassMail Software: Efficient Strategies for Impersonal Bulk Messaging</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-a15-4g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-rate-free-excellence-criteria-for-top-10-lut-tools/"><u>In 2024, Premium-Rate Free Excellence Criteria for Top 10 LUT Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-proven-techniques-for-enhancing-viewability-of-participants-in-google-meets/"><u>In 2024, Proven Techniques for Enhancing Viewability of Participants in Google Meets</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-connection-lost-5-easy-steps-for-a-fixed-usb-wi-fi-adapter/"><u>Seamless Connection Lost? 5 Easy Steps for a Fixed USB Wi-Fi Adapter</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-recommended-vpn-services-for-students-in-2er-2023-expert-review-by-zdnet/"><u>Top 5 Recommended VPN Services for Students in 2Er 2023 - Expert Review by ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-k70-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi K70 Pro Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-content-youtube-thumbnail-artistry-on-mac/"><u>[New] In 2024, Elevate Your Content YouTube Thumbnail Artistry on Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-learn-how-to-change-number-on-tiktok-with-working-methods/"><u>[New] In 2024, Learn How to Change Number on TikTok with Working Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-budget-friendly-high-definition-action-cams/"><u>[New] Ultimate Budget-Friendly High Definition Action Cams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mobile-tools-optimize-and-enhance-audio-faster/"><u>[Updated] Mobile Tools Optimize and Enhance Audio Faster</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reviewing-changes-in-the-sony-s6500-blu-ray-system/"><u>2024 Approved Reviewing Changes in the Sony S6500 Blu-Ray System</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shockingly-simple-steps-for-suddenly-massive-video-views/"><u>2024 Approved Shockingly Simple Steps for Suddenly Massive Video Views</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-to-periscope-video-preservation/"><u>2024 Approved Step-by-Step Guide to Periscope Video Preservation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloading-and-updating-your-razer-driver-for-various-windows-os-versions/"><u>Downloading and Updating Your Razer Driver for Various Windows OS Versions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/expanding-possibilities-with-virtual-reality/"><u>Expanding Possibilities with Virtual Reality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/grit-vs-glory-hitbox-versus-twitch-titans/"><u>Grit vs Glory Hitbox Versus Twitch Titans</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-into-the-depths-mastering-gopros-time-lapse-techniques/"><u>In 2024, Into the Depths Mastering GoPro's Time-Lapse Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-virtual-presentations-using-video-filters-on-zoom/"><u>In 2024, Perfect Virtual Presentations Using Video Filters on Zoom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-pioneering-soundtracks-for-stellar-instagram-reels/"><u>In 2024, Pioneering Soundtracks for Stellar Instagram Reels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-thumbnail-packs-free-pubg-montages/"><u>In 2024, Premier Thumbnail Packs Free PUBG Montages</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-6-web-spaces-for-corporate-social-connections/"><u>In 2024, Prime 6 Web Spaces for Corporate Social Connections</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-filmmaking-made-simple-phones-with-advanced-ois-features/"><u>In 2024, Professional Filmmaking Made Simple Phones With Advanced OIS Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-behavioral-techniques-with-gpt-assistance/"><u>Streamlining Behavioral Techniques with GPT Assistance</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/troubleshooting-tips-how-to-overcome-video-import-problems-in-capcut/"><u>Troubleshooting Tips: How to Overcome Video Import Problems in CapCut</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/standing-the-key-of-youtube-aspect-ratios-for-success/"><u>Understanding the Key of YouTube Aspect Ratios for Success</u></a></li>
 </ul></div>
 

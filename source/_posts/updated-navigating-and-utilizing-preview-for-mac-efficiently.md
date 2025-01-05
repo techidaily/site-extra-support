@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating and Utilizing Preview for Mac Efficiently"
-date: 2024-12-12T16:03:49.719Z
-updated: 2024-12-17T19:26:10.340Z
+date: 2025-01-03T17:54:24.233Z
+updated: 2025-01-04T21:27:59.578Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -49,6 +53,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
 
@@ -81,7 +89,7 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
@@ -95,10 +103,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -115,10 +119,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -153,7 +153,7 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -167,6 +167,10 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -202,10 +206,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -221,24 +221,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-social-media-to-monetary-success-the-roadmap-for-instagram-sponsorship/"><u>[New] From Social Media to Monetary Success The Roadmap for Instagram Sponsorship</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-pros-recommendation-top-10-apps-for-high-quality-vimeo-downloads/"><u>[New] In 2024, Pro's Recommendation Top 10 Apps for High-Quality Vimeo Downloads</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-photography-tips-for-iphone/"><u>[New] Photography Tips for iPhone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-richest-ringtone-repositories-online/"><u>[New] Richest Ringtone Repositories Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-ions-bold-step-forward-with-pro-3-a-comprehensive-camera-review/"><u>[Updated] ION's Bold Step Forward with Pro 3 - A Comprehensive Camera Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-toward-unauthorized-access-a-c-span-journey/"><u>2024 Approved Navigating Toward Unauthorized Access A C-Span Journey</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-reviewing-yuneecs-powerful-typhoon-aerodrone/"><u>2024 Approved Reviewing Yuneec's Powerful Typhoon AeroDrone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-poco-c55-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Poco C55 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-fix-a-windows-pc-when-it-wont-detect-the-internal-hdd-expert-advice-from-yl-computing/"><u>How to Fix a Windows PC When It Won't Detect the Internal HDD: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-90-gt-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor 90 GT</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-interpreting-differences-360-and-virtual-reality-cinematography/"><u>In 2024, Interpreting Differences 360° and Virtual Reality Cinematography</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfect-purity-extract-background-from-your-photos-at-home/"><u>In 2024, Perfect Purity Extract Background From Your Photos at Home</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/lumafusion-for-macbook-how-to-install-and-best-alternatives/"><u>Lumafusion for MacBook How to Install and Best Alternatives</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigate-new-walls-insiders-guide-to-wallpapers-in-win11-for-2024/"><u>Navigate New Walls Insider's Guide to Wallpapers in Win11 for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfecting-your-iphone-video-shortening-and-altering-size-for-2024/"><u>Perfecting Your iPhone Video Shortening and Altering Size for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-restoring-a-failed-graphics-card-driver-system/"><u>Step-by-Step Solution for Restoring a Failed Graphics Card Driver System</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/thriving-on-youtube-the-guide-to-affiliates-for-2024/"><u>Thriving on YouTube The Guide to Affiliates for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-7-port-usb-30-hub-by-amazon-basics-features-and-performance/"><u>Top Rated 7-Port USB 3.0 Hub by Amazon Basics: Features and Performance</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-filmora-free-download-legit-and-virus-free-options/"><u>Updated 2024 Approved Filmora Free Download Legit and Virus-Free Options</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-recording-techniques-for-firaxis-age-of-empires-ii/"><u>[New] 2024 Approved Quick Recording Techniques for Firaxis' Age of Empires II</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-ranking-action-cameras-seventh-to-leading-wet-proof/"><u>[New] Ranking Action Cameras, Seventh to Leading Wet-Proof</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seamless-creation-with-xp-movie-maker-features/"><u>[New] Seamless Creation with XP Movie Maker Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sightline-synopsis-study/"><u>[New] Sightline Synopsis Study</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-flip-the-script-on-classic-films-7-list/"><u>[Updated] In 2024, Flip the Script on Classic Films, #7 List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-peak-choice-top-five-high-definition-cameras/"><u>[Updated] Peak Choice Top Five High Definition Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stabilizing-snapshots-preventing-blurry-results/"><u>[Updated] Stabilizing Snapshots Preventing Blurry Results</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-strategies-for-successful-facebook-giving/"><u>[Updated] Step-by-Step Strategies for Successful Facebook Giving</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-videoblogging-victory-surviving-ten-frequent-phobias/"><u>[Updated] Videoblogging Victory Surviving Ten Frequent Phobias</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-microsoft-virtual-wifi-miniport-adapter-issue-on-windows-7-solved/"><u>Fix Microsoft Virtual Wifi Miniport Adapter Issue on Windows 7 [Solved]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-error-x80780119-in-windows-image-id/"><u>How To Resolve Error X80780119 in Windows Image ID</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-v30-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo V30 PC | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-tutorial-how-to-add-personalized-fonts-for-a-unique-touch/"><u>IPhone Tutorial: How to Add Personalized Fonts for a Unique Touch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/journey-through-updates-unveiling-lg-bp550-new-for-2024/"><u>Journey Through Updates Unveiling LG BP550 New for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimizing-video-playback-with-pip-on-safari-devices-for-2024/"><u>Optimizing Video Playback with PIP on Safari Devices for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-with-hp-monitors-a-complete-fix-guide/"><u>Resolving Issues with HP Monitors - A Complete Fix Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/smooth-transitions-with-illustrators-blur-effects-for-2024/"><u>Smooth Transitions with Illustrator's Blur Effects for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tailoring-photos-with-photoshops-dynamic-motion-blur-feature/"><u>Tailoring Photos with Photoshop's Dynamic Motion Blur Feature</u></a></li>
 </ul></div>
 

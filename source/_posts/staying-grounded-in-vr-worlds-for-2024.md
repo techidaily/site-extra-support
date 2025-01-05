@@ -1,7 +1,7 @@
 ---
 title: "Staying Grounded in VR Worlds for 2024"
-date: 2024-07-30T04:55:51.906Z
-updated: 2024-07-31T04:55:51.906Z
+date: 2024-12-31T17:04:46.573Z
+updated: 2025-01-04T19:43:04.062Z
 tags: 
   - screen-recording
   - ai video
@@ -20,18 +20,12 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
 # 10 tips to prevent Oculus Rift VR motion sickness
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 10 ways to prevent Oculus Rift motion sickness
 
  While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
@@ -75,9 +69,9 @@ Follow @Benjamin Arango
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10 ways to prevent Oculus Rift motion sickness
 
  While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
@@ -108,62 +102,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## 10 ways to prevent Oculus Rift motion sickness
-
- While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
-
-**1\. Use Q/E in games when available.** Since motion sickness is a big time issue for the developers, Oculus Rift games have this enhanced feature which can quickly move your character while turning by pressing Q or E key.
-
-**2\. Lock your eyes.** When we move around in real life, our eyes do not run in parallel with our body. So the same should happen inside the virtual environment. Locking your eyes at a fixed point while turning in a game can avoid the issue.
-
-**3\. Reduce the speed of your character.** By moving your game character at a slow speed might just help you reduce nausea and sick feeling. Excitement increases the brain activity and thus increases the chance of feeling sick.
-
-**4\. Take breaks.** When we play video games we do not realize how time flies and how much time we have spent in a VR environment. More exposure would tend to cause more sickness. It is suggested that you take frequent breaks during your games and give your brain the time to relax
-
-**5\. Close your eyes when the camera is not controlled by head movements.** This may sound silly but it truly helps since motion sickness is eventually tied to misunderstanding between body and brain. Body thinks you are moving, and your brain doesn’t.
-
-**6\. Don’t play games that make you sick.** Some of the blame game can be put on the nature of games as well. Playing intense games for longer period of time might give you some dizziness when you stop.
-
-**7\. Correctly calibrate Oculus Rift for your eyes.** When you play games, you might get blurriness and you don’t know how to fix it. That is probably due to your head gear that isn’t calibrated accordingly. That can also be a reason that gives you headaches.
-
-**8\. Lower the brightness.** Some users say that lowering the brightness can help you reduce the sickness level. Some games have brightness adjuster that you can use to your choice.
-
-**9\. Eat or drink products containing ginger.** Ginger has been used as a treatment for motion sickness for centuries. Although it does not work for everyone, people have been using it with high success rate.
-
-**10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
-
-## What Oculus have done to reduce motion sickness
-
- With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
-
- Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
 
@@ -199,6 +142,10 @@ Follow @Benjamin Arango
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -206,6 +153,56 @@ Follow @Benjamin Arango
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 10 ways to prevent Oculus Rift motion sickness
+
+ While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
+
+**1\. Use Q/E in games when available.** Since motion sickness is a big time issue for the developers, Oculus Rift games have this enhanced feature which can quickly move your character while turning by pressing Q or E key.
+
+**2\. Lock your eyes.** When we move around in real life, our eyes do not run in parallel with our body. So the same should happen inside the virtual environment. Locking your eyes at a fixed point while turning in a game can avoid the issue.
+
+**3\. Reduce the speed of your character.** By moving your game character at a slow speed might just help you reduce nausea and sick feeling. Excitement increases the brain activity and thus increases the chance of feeling sick.
+
+**4\. Take breaks.** When we play video games we do not realize how time flies and how much time we have spent in a VR environment. More exposure would tend to cause more sickness. It is suggested that you take frequent breaks during your games and give your brain the time to relax
+
+**5\. Close your eyes when the camera is not controlled by head movements.** This may sound silly but it truly helps since motion sickness is eventually tied to misunderstanding between body and brain. Body thinks you are moving, and your brain doesn’t.
+
+**6\. Don’t play games that make you sick.** Some of the blame game can be put on the nature of games as well. Playing intense games for longer period of time might give you some dizziness when you stop.
+
+**7\. Correctly calibrate Oculus Rift for your eyes.** When you play games, you might get blurriness and you don’t know how to fix it. That is probably due to your head gear that isn’t calibrated accordingly. That can also be a reason that gives you headaches.
+
+**8\. Lower the brightness.** Some users say that lowering the brightness can help you reduce the sickness level. Some games have brightness adjuster that you can use to your choice.
+
+**9\. Eat or drink products containing ginger.** Ginger has been used as a treatment for motion sickness for centuries. Although it does not work for everyone, people have been using it with high success rate.
+
+**10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
+
+## What Oculus have done to reduce motion sickness
+
+ With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
+
+ Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -235,5 +232,18 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-in-depth-look-at-engaging-with-youtube-comment-threads/"><u>2024 Approved In-Depth Look at Engaging with YouTube Comment Threads</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-new-charms-of-fortnite-the-thrilling-insights-into-the-current-chapter-update/"><u>Discover New Charms of Fortnite: The Thrilling Insights Into the Current Chapter Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-amateurs-to-experts-kinemasters-step-guide-for-2024/"><u>From Amateurs to Experts KineMaster’s Step Guide for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-filmmaking-moves-with-kinemaster/"><u>In 2024, Masterful Filmmaking Moves with Kinemaster</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-new-frontiers-metaverses-vs-omniverse/"><u>In 2024, Navigating New Frontiers Metaverses Vs. Omniverse</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-photography-hacks-perfecting-motion-blur-with-adobe-tools/"><u>In 2024, Professional Photography Hacks Perfecting Motion Blur with Adobe Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stabilizing-shaky-images-a-realistic-benefit-or-hype/"><u>In 2024, Stabilizing Shaky Images A Realistic Benefit or Hype?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/master-image-correction-in-just-5-essential-android-editing-tools-for-2024/"><u>Master Image Correction in Just 5 Essential Android Editing Tools for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/transforming-footage-editing-videos-seamlessly-on-windows-11-and-storyremix/"><u>Transforming Footage Editing Videos Seamlessly on Windows 11 and StoryRemix</u></a></li>
+</ul></div>
 

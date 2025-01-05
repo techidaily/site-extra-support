@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2024-12-19T17:42:45.915Z
-updated: 2024-12-26T17:28:37.887Z
+date: 2024-12-31T23:26:44.776Z
+updated: 2025-01-05T00:59:15.690Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
  AGI exhibits intelligence similar to human cognitive capabilities, and[the Turing Test](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/) —a test of a machine's ability to exhibit intelligent behavior indistinguishable from that of a human—remained almost unchallenged in the seven decades since it was first laid out.
@@ -35,22 +39,22 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
@@ -63,13 +67,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -107,13 +111,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -126,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
 You read it here first, folks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -154,16 +154,20 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-shattering-periscope-leading-video-alternatives-on-smartphones/"><u>[New] 2024 Approved Shattering Periscope Leading Video Alternatives on Smartphones</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-forming-your-instagram-company-identity/"><u>[New] In 2024, The Ultimate Guide to Forming Your Instagram Company Identity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-lightning-fast-visualization-for-win11-users/"><u>[New] Lightning-Fast Visualization for Win11 Users</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ptimizing-online-identity-through-yt-profile-refinement-for-2024/"><u>[New] Optimizing Online Identity Through YT Profile Refinement for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-audio-records-with-our-step-by-step-guide/"><u>[New] Perfecting Audio Records with Our Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-iconic-after-effects-techniques-for-impressive-titles/"><u>[Updated] Iconic After Effects Techniques for Impressive Titles</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-dominance-plan-studio-protocol-vs-beta-update/"><u>[Updated] In 2024, Channel Dominance Plan Studio Protocol Vs. Beta Update</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premier-accessible-stopwatches/"><u>2024 Approved Premier Accessible Stopwatches</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smileslice-studio-memomaestrospace/"><u>2024 Approved SmileSlice Studio MemoMaestroSpace</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-proven-methods-for-obtaining-free-picture-screens/"><u>In 2024, Proven Methods for Obtaining Free Picture Screens</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-optimize-capture-smooth-screenshots-with-dell-models-for-2024/"><u>[New] Optimize Capture Smooth Screenshots with Dell Models for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-insert-sound-clips-to-enhance-visual-presentations/"><u>[Updated] 2024 Approved Insert Sound Clips to Enhance Visual Presentations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inside-secrets-to-stunning-photography-with-canva/"><u>[Updated] Inside Secrets to Stunning Photography with Canva</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-one-minute-color-concealment/"><u>[Updated] One-Minute Color Concealment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-choice-devices-turn-pics-to-films/"><u>[Updated] Prime Choice Devices Turn Pics to Films</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sculpting-the-digital-experience-through-zooming/"><u>[Updated] Sculpting the Digital Experience Through Zooming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-of-text-effects-best-practices-in-ae/"><u>2024 Approved Mastery of Text Effects Best Practices in AE</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premiere-sneak-peeks-cinema-edition/"><u>2024 Approved Premiere Sneak Peeks - Cinema Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-youtube-earning-blueprint-achieving-bank-balances/"><u>2024 Approved YouTube Earning Blueprint Achieving Bank Balances</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-top-6-digital-engagement-channels-for-companies/"><u>Essential Top 6 Digital Engagement Channels for Companies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/exploring-vlcs-screen-recorder-features/"><u>Exploring VLC's Screen Recorder Features</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone XS Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplified-guide-to-creating-movies-in-windows-8-movie-maker/"><u>In 2024, Simplified Guide to Creating Movies in Windows 8 Movie Maker</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-the-world-of-instagram-puzzles-for-peak-performance/"><u>Navigating the World of Instagram Puzzles for Peak Performance</u></a></li>
 </ul></div>
 
