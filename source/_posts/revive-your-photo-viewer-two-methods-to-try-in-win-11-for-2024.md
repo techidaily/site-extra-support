@@ -1,7 +1,7 @@
 ---
 title: "\"Revive Your Photo Viewer  Two Methods to Try in Win 11 for 2024\""
-date: 2024-12-31T20:42:50.518Z
-updated: 2025-01-04T17:53:14.772Z
+date: 2025-01-08T20:37:11.275Z
+updated: 2025-01-11T16:43:16.729Z
 tags: 
   - screen-recording
   - ai video
@@ -58,7 +58,7 @@ Here is why they want to restore Windows Photo Viewer –
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -74,7 +74,7 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
@@ -92,7 +92,7 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
@@ -100,7 +100,7 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -109,11 +109,11 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -130,22 +130,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-seamless-filming-experience-the-10-devices-that-make-every-shot-perfect/"><u>[New] Seamless Filming Experience The 10 Devices That Make Every Shot Perfect</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-seamless-network-broadcast-adopting-the-vlc-way/"><u>[New] Seamless Network Broadcast Adopting the VLC Way</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-pursuit-of-perfection-online-tv-capture-made-simple-for-2024/"><u>[Updated] In Pursuit of Perfection - Online TV Capture Made Simple for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-slide-show-software-xi-to-xrxs-max-edition/"><u>[Updated] Premium Slide Show Software XI to Xr/Xs Max Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-zoom-incorporating-video-effects-step-by-step/"><u>2024 Approved Mastering Zoom Incorporating Video Effects Step by Step</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-13t-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Xiaomi 13T Pro Phone</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/1728489815489-windows/"><u>解決Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-g24-power-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola G24 Power Phone without Google Account?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-meme-tacular-iphone-hacks/"><u>In 2024, Meme-Tacular iPhone Hacks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-snapping-multiple-images-on-iphone-in-a-blink/"><u>In 2024, Snapping Multiple Images on iPhone in a Blink</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/masterful-podcast-descriptions-strategies-and-case-studies-for-2024/"><u>Masterful Podcast Descriptions Strategies and Case Studies for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-game-induced-pc-shutdowns-on-various-windows-platforms-win11-win1n-win7-win81-and-win8/"><u>Overcoming Game-Induced PC Shutdowns on Various Windows Platforms: Win11, Win1n, Win7, Win8.1 & Win8</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-platforms-for-personalized-present-packaging-for-2024/"><u>Premier Platforms for Personalized Present Packaging for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/professional-gamers-guide-logistics-and-download-the-logitech-g-pro-gamepad-for-windows-users/"><u>Professional Gamers Guide: [Logistics & Download] The Logitech G Pro Gamepad for Windows Users</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-essentials-everyone-needs-to-know-about-youtube-tv-services/"><u>The Essentials Everyone Needs to Know About YouTube TV Services</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-tech-the-toms-hardware-experience/"><u>Unveiling the Latest in Tech: The Tom's Hardware Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximize-your-footage-pro-level-tips-for-gopro-studio-users/"><u>[New] Maximize Your Footage Pro-Level Tips for GoPro Studio Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/asty-talent-a-filmmakers-recipe-for-success-for-2024/"><u>[New] Tasty Talent A Filmmaker's Recipe for Success for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-best-20-words-for-marketing-success-for-2024/"><u>[New] The Best 20 Words for Marketing Success for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-integrity-of-format-with-ffmpegs-audio-recapture-methods/"><u>[New] The Integrity of Format with FFmpeg's Audio Recapture Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-game-on-unlock-the-secrets-of-effective-lol-recording/"><u>[Updated] In 2024, Game-On! - Unlock the Secrets of Effective LOL Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sky-sprinting-guide-plus-mastering-the-art-of-fpv-drone-racing/"><u>[Updated] Sky Sprinting Guide + Mastering the Art of FPV Drone Racing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-optimizing-video-focus-in-virtual-collaboration-spaces-google-meet-edition/"><u>2024 Approved Optimizing Video Focus in Virtual Collaboration Spaces Google Meet Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photo-zoom-pro-7-the-image-resizer/"><u>2024 Approved Photo Zoom Pro 7- the Image Resizer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-steps-to-identify-your-dream-livestream-platform/"><u>2024 Approved Steps to Identify Your Dream Livestream Platform</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-storyboard-sovereignty-ranking-the-premier-schools-1-8/"><u>2024 Approved Storyboard Sovereignty Ranking the Premier Schools (#1-#8)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-se-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone SE and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-selecting-your-streaming-choice-podcast-or-video-platform/"><u>In 2024, Selecting Your Streaming Choice Podcast or Video Platform</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unleash-creativity-androids-leading-drawing-software-selection/"><u>In 2024, Unleash Creativity Android's Leading Drawing Software Selection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-microsofts-family-safety-landscape/"><u>Navigating Microsoft's Family Safety Landscape</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-steps-to-freshly-update-windows-laptopdesktop-battery-drivers/"><u>Simple Steps to Freshly Update Windows Laptop/Desktop Battery Drivers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/social-strategies-for-disseminating-health-information-for-2024/"><u>Social Strategies for Disseminating Health Information for 2024</u></a></li>
 </ul></div>
 

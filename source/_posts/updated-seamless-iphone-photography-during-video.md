@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seamless iPhone Photography During Video"
-date: 2024-12-31T23:09:40.866Z
-updated: 2025-01-04T18:22:21.239Z
+date: 2025-01-04T19:27:10.457Z
+updated: 2025-01-11T17:14:06.196Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
  Video or picture capturing these days are plainly one of the frequently done tasks at various instants be it for recording a birthday party or a dance performance. And often times, you might have experienced the urge to take a picture out of the video recording so that the precious moment can be captured. But, switching to photo mode again for this will break the flow and the desired moment will be missed in the next second. And considering this situation, we have brought this article where you will learn to take photos and videos simultaneously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to shoot a still photo and record a video simultaneously on your iPhone
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 ![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image resource: igeeksblog.com
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The drawbacks of taking photos and videos simultaneously
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Extract frames from video
@@ -89,11 +89,11 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -110,15 +110,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-navigating-legal-aspects-of-recording-whatsapp-talks/"><u>[New] In 2024, Navigating Legal Aspects of Recording WhatsApp Talks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-picture-in-picture-feature-in-chrome-anywhere/"><u>[New] Mastering Picture In Picture Feature in Chrome, Anywhere</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/onetizing-success-a-strategic-approach-for-2024/"><u>[New] Monetizing Success A Strategic Approach for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-your-chromebooks-pitch-and-tone-with-our-top-5-web-tools/"><u>[Updated] Master Your Chromebook's Pitch and Tone with Our Top 5 Web Tools</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-and-guide-pubg-building-loading-problems-solved/"><u>Fix & Guide: PUBG Building Loading Problems Solved</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-x-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone X?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/how-to-use-phantom-slow-motion-camera-for-2024/"><u>How to Use Phantom Slow Motion Camera for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-world-of-videomosaic-androids-8-freepaid-selection/"><u>In 2024, Navigating the World of Videomosaic Android's #8-Free/Paid Selection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolve-your-iphone-remote-woes-with-these-proven-solutions/"><u>Resolve Your iPhone Remote Woes with These Proven Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-blueprinting-a-buzz-creating-movie-snippet/"><u>[New] 2024 Approved Blueprinting a Buzz-Creating Movie Snippet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-inside-track-full-adobe-cloud-storage-guide-and-why-other-solutions-matter/"><u>[New] Inside Track Full Adobe Cloud Storage Guide and Why Other Solutions Matter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snappy-cinema-stories-to-supercharge-edits/"><u>[New] Snappy Cinema Stories to Supercharge Edits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-metaphorical-realities-30plus-inspirational-vr-expressions/"><u>[Updated] Metaphorical Realities 30+ Inspirational VR Expressions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-next-gen-camera-showcase-2024-edition/"><u>[Updated] Next-Gen Camera Showcase - 2024 Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-your-videos-captions-with-10plus-top-free-converters/"><u>[Updated] Perfect Your Videos' Captions with 10+ Top FREE Converters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-screen-solidarities-picking-the-right-media-company/"><u>[Updated] Screen Solidarities Picking the Right Media Company</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-revolutionize-your-image-layouts-with-these-tools/"><u>2024 Approved Revolutionize Your Image Layouts with These Tools</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/depanner-comment-liberer-une-memoire-tamponnee-sur-votre-lecteur-psp-pour-des-jeux-sans-problemes/"><u>Dépanner : Comment Libérer Une Mémoire Tamponnée Sur Votre Lecteur PSP Pour Des Jeux Sans Problèmes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-lut-application-in-adobe-premiere/"><u>In 2024, Navigating LUT Application in Adobe Premiere</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-virtual-landscape-of-xbox-zoom-for-2024/"><u>Navigating the Virtual Landscape of Xbox Zoom for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-ultimate-vocal-evasion-software-catalog-essential-applications-for-singers-recording-studios-and-beyond/"><u>New In 2024, The Ultimate Vocal Evasion Software Catalog Essential Applications for Singers, Recording Studios, & Beyond</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photopony-pro-exploring-affordable-filters-for-2024/"><u>PhotoPony Pro Exploring Affordable Filters for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pushing-boundaries-with-dells-revolutionary-p2715q-monitor-review-for-2024/"><u>Pushing Boundaries with Dell's Revolutionary P2715Q Monitor Review for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionize-online-speech-discover-the-best-chrome-extensions-for-change-for-2024/"><u>Revolutionize Online Speech Discover the Best Chrome Extensions for Change for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/smoothscreensaver-lightweight-recording-tool/"><u>SmoothScreenSaver Lightweight Recording Tool</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/g-screen-grabs-compliance-on-youtube-for-2024/"><u>Taking Screen Grabs Compliance on YouTube for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-d3dx924dll-file-not-found-issue/"><u>Troubleshooting the d3dx9_24.dll File Not Found Issue</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/unexpected-pc-lock-ups-and-system-crashes-understanding-the-causes-expert-advice-from-yl-tech/"><u>Unexpected PC Lock-Ups and System Crashes: Understanding the Causes - Expert Advice From YL Tech</u></a></li>
 </ul></div>
 

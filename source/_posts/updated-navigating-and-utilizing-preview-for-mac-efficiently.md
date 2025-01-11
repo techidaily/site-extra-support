@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating and Utilizing Preview for Mac Efficiently"
-date: 2025-01-03T17:54:24.233Z
-updated: 2025-01-04T21:27:59.578Z
+date: 2025-01-06T16:55:16.830Z
+updated: 2025-01-11T16:36:18.360Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -54,10 +50,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -71,6 +63,10 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -89,7 +85,7 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
@@ -103,6 +99,10 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -119,6 +119,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -153,7 +157,7 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -167,10 +171,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -221,24 +221,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-recording-techniques-for-firaxis-age-of-empires-ii/"><u>[New] 2024 Approved Quick Recording Techniques for Firaxis' Age of Empires II</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-ranking-action-cameras-seventh-to-leading-wet-proof/"><u>[New] Ranking Action Cameras, Seventh to Leading Wet-Proof</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-seamless-creation-with-xp-movie-maker-features/"><u>[New] Seamless Creation with XP Movie Maker Features</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sightline-synopsis-study/"><u>[New] Sightline Synopsis Study</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-flip-the-script-on-classic-films-7-list/"><u>[Updated] In 2024, Flip the Script on Classic Films, #7 List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-peak-choice-top-five-high-definition-cameras/"><u>[Updated] Peak Choice Top Five High Definition Cameras</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-stabilizing-snapshots-preventing-blurry-results/"><u>[Updated] Stabilizing Snapshots Preventing Blurry Results</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-strategies-for-successful-facebook-giving/"><u>[Updated] Step-by-Step Strategies for Successful Facebook Giving</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-videoblogging-victory-surviving-ten-frequent-phobias/"><u>[Updated] Videoblogging Victory Surviving Ten Frequent Phobias</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-microsoft-virtual-wifi-miniport-adapter-issue-on-windows-7-solved/"><u>Fix Microsoft Virtual Wifi Miniport Adapter Issue on Windows 7 [Solved]</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-resolve-error-x80780119-in-windows-image-id/"><u>How To Resolve Error X80780119 in Windows Image ID</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-v30-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo V30 PC | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-tutorial-how-to-add-personalized-fonts-for-a-unique-touch/"><u>IPhone Tutorial: How to Add Personalized Fonts for a Unique Touch</u></a></li>
-<li><a href="https://extra-support.techidaily.com/journey-through-updates-unveiling-lg-bp550-new-for-2024/"><u>Journey Through Updates Unveiling LG BP550 New for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimizing-video-playback-with-pip-on-safari-devices-for-2024/"><u>Optimizing Video Playback with PIP on Safari Devices for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-issues-with-hp-monitors-a-complete-fix-guide/"><u>Resolving Issues with HP Monitors - A Complete Fix Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/smooth-transitions-with-illustrators-blur-effects-for-2024/"><u>Smooth Transitions with Illustrator's Blur Effects for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tailoring-photos-with-photoshops-dynamic-motion-blur-feature/"><u>Tailoring Photos with Photoshop's Dynamic Motion Blur Feature</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-humorhub-generate-hilarious-jokes-and-gifs-easily/"><u>[New] 2024 Approved HumorHub Generate Hilarious Jokes and GIFs Easily</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-prime-hashtag-combinations-driving-view-count-higher/"><u>[New] 2024 Approved Prime Hashtag Combinations Driving View Count Higher</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-art-of-capturing-attention-top-6-videos-to-watch/"><u>[New] In 2024, The Art of Capturing Attention Top 6 Videos to Watch</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-your-journey-to-curating-an-impressive-youtube-collection/"><u>[New] In 2024, Your Journey to Curating an Impressive YouTube Collection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-sharpened-internet-video-views/"><u>[New] Mastering the Art of Sharpened Internet Video Views</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-online-gag-artist/"><u>[New] Online Gag Artist</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-instagrams-rising-stars-discover-the-magic-behind-their-growth-in-9-steps/"><u>[Updated] Instagram's Rising Stars Discover the Magic Behind Their Growth in 9 Steps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-youtube-to-facebook-sharing-pathways-for-2024/"><u>[Updated] Navigating YouTube to Facebook Sharing Pathways for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premiere-visionary-film-glimpses/"><u>2024 Approved Premiere Visionary Film Glimpses</u></a></li>
+<li><a href="https://extra-support.techidaily.com/securing-a-spotlight-with-zoom-and-fb-live-integration-for-2024/"><u>Securing a Spotlight with ZOOM & FB Live Integration for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-document-production-mastering-chatgpt-integration-with-microsoft-word/"><u>Streamline Document Production: Mastering ChatGPT Integration with Microsoft Word</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-creating-impactful-ae-titles-for-2024/"><u>The Art of Creating Impactful AE Titles for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-toolkit-for-srt-format-mastery/"><u>The Ultimate Toolkit for SRT Format Mastery</u></a></li>
 </ul></div>
 

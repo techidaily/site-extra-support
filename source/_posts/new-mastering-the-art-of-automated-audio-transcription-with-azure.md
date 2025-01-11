@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering the Art of Automated Audio Transcription with Azure"
-date: 2024-12-30T18:37:11.881Z
-updated: 2025-01-04T20:31:55.509Z
+date: 2025-01-06T20:35:18.785Z
+updated: 2025-01-11T19:32:08.651Z
 tags: 
   - screen-recording
   - ai video
@@ -27,7 +27,7 @@ Are you tired of manually typing texts into document editors like Word and Notep
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What is Microsoft Azure and Speech Studio?
@@ -54,10 +54,6 @@ Step3The program will take a while to deploy an instance. Now tap Keys and endpo
 
 ![micrsoft azure speech to text copy key and region](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4Download and install Microsoft Visual C++ and .NET Core 3.1 Runtime. Next, install Speech CL on .NET by running this command “**dotnet tool install -global Microsoft.CognitiveServices.Speech.CLI.**” Alternatively, download and install Speech CLI for Windows PCs as a [ZIP file](https://aka.ms/speech/spx-windows).
 
 Step5Now enter the Azure regional identifier and subscription key on Windows Terminal or PowerShell. To configure the region and key, run these commands; “**spx config @key --set SUBSCRIPTION-KEY** and **spx config @region --set REGION.**”
@@ -67,7 +63,7 @@ Step6Now it's time to convert speech to text using Azure STT Service. To do that
 ![icon note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** Click [this video](https://docs.microsoft.com/en-us/shows/one-dev-minute/how-to-use-the-azure-cognitive-services-net-speech-sdk-for-recognition) for a detailed guide on how to use Azure Speech Services with Visual Basic (SDK).
@@ -79,7 +75,7 @@ We should all agree that using Microsoft Azures Speech Service is not a walk in 
 Fortunately, there's no shortage of free speech to text converters for beginners. So, in this part, we'll discuss some free Microsoft Azure STT alternatives for beginners.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -100,6 +96,10 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 
 [Make STT Videos](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use Filmora To Make STT videos
 
 ##### Step 1
@@ -109,7 +109,7 @@ Select the audio asset in the timeline, and click the "Speech-to-Text" icon in t
 ![toolbar stt](https://images.wondershare.com/filmora/guide/guide-win/toolbar-stt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 2
@@ -117,10 +117,6 @@ Select the audio asset in the timeline, and click the "Speech-to-Text" icon in t
 Click the "Speech-to-Text" icon, and it will show the parameter settings. You can choose the languages to be transcribed and to be transcribed to. Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription
 
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Google Docs - Free
 
@@ -168,6 +164,10 @@ In that case, use a more straightforward option like Google Docs to dictate text
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -177,17 +177,16 @@ In that case, use a more straightforward option like Google Docs to dictate text
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-master-the-art-of-streamlined-screen-recordings-on-mac/"><u>[Updated] Master the Art of Streamlined Screen Recordings on Mac</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-shifting-spectrum-skills-pro-tips-unveiled/"><u>[Updated] Shifting Spectrum Skills - Pro Tips Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-skyrocket-mobile-images-flawlessly-free/"><u>2024 Approved Skyrocket Mobile Images Flawlessly, Free</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-windows-10s-premier-choice-of-video-grabber-software/"><u>2024 Approved Windows 10'S Premier Choice of Video Grabber Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-live-cricket-livestreams/"><u>In 2024, Mastering the Art of Live Cricket Livestreams</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-photo-perfection-best-practices-for-integrating-frames-online/"><u>In 2024, Photo Perfection Best Practices for Integrating Frames Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-selection-highest-quality-stands/"><u>In 2024, Prime Selection Highest Quality Stands</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/insta-strategies-uncovering-the-veiled-elements-of-social-media/"><u>Insta Strategies Uncovering the Veiled Elements of Social Media</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-online-marketing-for-newcomers-for-2024/"><u>Mastering the Art of Online Marketing for Newcomers for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726226527265-gifflv-movavi/"><u>オンライン無料GIF/FLV変換 - 動画をスムーズにMovaviでコンバートします!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-10-iphone-camera-features-you-should-know-in-ios-11/"><u>[New] 2024 Approved 10 iPhone Camera Features You Should Know in iOS 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-comprehensive-hand-tracking-explained/"><u>[New] 2024 Approved Comprehensive Hand Tracking Explained</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-cinematic-tools-the-leading-camera-selections/"><u>[Updated] Cinematic Tools The Leading Camera Selections</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-crafting-ae-titles-with-maximum-impression-for-2024/"><u>[Updated] Crafting AE Titles with Maximum Impression for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-money-making-the-top-13-reddit-strategies-no-experience/"><u>[Updated] Master Money Making The Top 13 Reddit Strategies (No Experience)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplified-guide-enhancing-skype-experience-via-zoom/"><u>2024 Approved Simplified Guide Enhancing Skype Experience via Zoom</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-p40-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Itel P40 Phone | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-12-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme 12 Pro 5G?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterful-approaches-to-applying-digital-video-effects-online-for-2024/"><u>Masterful Approaches to Applying Digital Video Effects Online for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-pairing-of-podcast-apps-and-android-top-6-recommendations-for-2024/"><u>Perfect Pairing of Podcast Apps & Android Top 6 Recommendations for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/propel-your-cinematic-vision-with-advanced-windows-10-video-tools-for-2024/"><u>Propel Your Cinematic Vision with Advanced Windows 10 Video Tools for 2024</u></a></li>
 </ul></div>
 

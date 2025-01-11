@@ -1,7 +1,7 @@
 ---
 title: "\"Sprint Through Style  Speedy Tips for Enhancing Photos in Windows App for 2024\""
-date: 2025-01-01T18:30:13.780Z
-updated: 2025-01-04T16:22:58.166Z
+date: 2025-01-10T17:10:02.472Z
+updated: 2025-01-11T18:30:32.348Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ The Photos app in Windows 10 is one of the best and with the addition of the dra
 * [**Part1: How to Draw On Photos App in Windows 10**](#part1)
 * [**Part2: How to Draw on Photos Online**](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Draw On Photos App in Windows 10
 
 When you can add a personal touch to your videos and photos, it becomes all the way more special. Many times, it becomes essential to add a note to explain a video in a better way. Here are the steps to draw on photos in Windows 10 –
@@ -40,18 +44,10 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/draw-on-photos-in-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * You can see a Windows Ink Toolbar, select your preferred pen from the options available
 * Select the size and color of the fonts you wish to use from a range of palette
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/start-drawing-on-photos-in-windows-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Draw on the images and videos effortlessly
 * You can also find an eraser tool with various sizes of erasers that allows you to erase your entire drawing or a part of it as per your choice when required
@@ -70,7 +66,7 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the color from the range of palette available
@@ -79,11 +75,11 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/editing-drawings-on-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -91,10 +87,14 @@ The Photos app has an interface that is restructured with dark theme options and
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -112,19 +112,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-streamlined-processes-for-swift-comment-removal-on-youtube/"><u>[New] 2024 Approved Streamlined Processes for Swift Comment Removal on YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-resident-evil-village-not-launching/"><u>[SOLVED] 'Resident Evil Village Not Launching'</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-color-contrast-reimagined-choosing-hdr-for-better-videos/"><u>[Updated] In 2024, Color Contrast Reimagined Choosing HDR for Better Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-multiformat-manual-effortless-conversion-of-srt-files/"><u>[Updated] Multiformat Manual Effortless Conversion of SRT Files</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/19-best-anime-inspirations-for-tiktok-stars-for-2024/"><u>19 Best Anime Inspirations for TikTok Stars for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-guide-crafting-a-facebook-photo-mosaic/"><u>2024 Approved Quick Guide Crafting a Facebook Photo Mosaic</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smart-image-management-adjusting-iphone-photo-sizes/"><u>2024 Approved Smart Image Management Adjusting iPhone Photo Sizes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/hisense-50-inch-4k-uhd-smart-led-tv-high-fidelity-visuals-affordable-price/"><u>Hisense 50-Inch 4K UHD Smart LED TV - High Fidelity Visuals, Affordable Price</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-7-how-to-unlock-a-disabled-apple-iphone-7-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 7 How to Unlock a Disabled Apple iPhone 7?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 14 Pro?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/ipads-artistic-haven-top-8-sketch-innovators-for-2024/"><u>IPad's Artistic Haven Top 8 Sketch Innovators for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigate-to-the-top-5-mac-livestream-choices-for-2024/"><u>Navigate to the Top 5 Mac Livestream Choices for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/privacy-rankings-which-is-safer-meta-or-fb-for-rift-2/"><u>Privacy Rankings: Which Is Safer, Meta or FB for Rift 2?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-ip-addressing-on-your-win11-pc/"><u>Streamline IP Addressing on Your Win11 PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-art-of-deformed-text-display/"><u>[New] In 2024, The Art of Deformed Text Display</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-hero5-black-meets-yi-4k-the-ultimate-update-for-action-camera-fans/"><u>[Updated] 2024 Approved Hero5 Black Meets Yi 4K - The Ultimate Update for Action Camera Fans</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-market-dominance-keyphrases-for-successful-advertising/"><u>[Updated] Market Dominance Keyphrases for Successful Advertising</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-close-up-filmmaking-tips-for-a-standout-videography-career/"><u>[Updated] Mastering Close-Up Filmmaking Tips for a Standout Videography Career</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photoshop-stabilization-technique-utility-perspective/"><u>[Updated] Photoshop Stabilization Technique Utility Perspective</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-15-plus-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 15 Plus without Security Questions?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nokia-c300-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Nokia C300</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-how-to-use-snapchat-to-send-a-snap-with-cartoon-face-lens/"><u>In 2024, How to Use Snapchat to Send a Snap with Cartoon Face Lens</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/melodious-modulation-techniques-in-free-fire-for-2024/"><u>Melodious Modulation Techniques in Free Fire for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-voice-processing-software-solutions-for-2024/"><u>Optimal Voice Processing Software Solutions for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professionally-speaking-the-top-5-drone-recommendations-for-2024/"><u>Professionally Speaking The Top 5 Drone Recommendations for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speedy-audio-on-phone-ultimate-list-of-tools-for-2024/"><u>Speedy Audio on Phone Ultimate List of Tools for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210367958-9781612834801-the-art-of-breathing/"><u>The Art of Breathing | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-why-is-fallout-3-failing-to-load/"><u>Troubleshooting Guide: Why Is Fallout 3 Failing to Load ?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On OnePlus 11R? | Dr.fone</u></a></li>
 </ul></div>
 

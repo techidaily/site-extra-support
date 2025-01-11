@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering TikTok  How to Set & Modify Your Profile Age\""
-date: 2024-12-30T16:47:32.024Z
-updated: 2025-01-05T01:14:59.055Z
+date: 2025-01-07T18:24:34.274Z
+updated: 2025-01-11T20:17:37.245Z
 tags: 
   - screen-recording
   - ai video
@@ -38,21 +38,21 @@ Since TikTok has removed the feature to edit your birthdate from its app, you wi
 
 ![select settings and privacy](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now navigate to the "Support & About" section and tap “Report a Problem.” Press "Account and Profile" on the next screen and tap "Editing Profile."
 
 ![select report a problem option](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Here, choose "Other," and on the next window, press “Need More Help?” It will open a feedback form where you can mention your problem and request the support team to solve it.
 
 ![tap on need more help](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 2: Create a New TikTok Account to Change Your Age (Not-Recommended)
 
@@ -64,16 +64,12 @@ If you are underage, you should not try to create a new account with a false age
 
 ![access the profile tab](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** If you choose “Email or Phone,” you will need to provide your “Email” or “Phone” on the next screen. You will need to go through a verification CAPTCHA and, on the next screen, create a password for your account. Provide your correct birthdate and press "Next" to complete the account creation.
 
 ![confirm your birthdate](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** You can also use your Google, Facebook, Apple, or Twitter account to create your TikTok account. Pressing any of these will take you to the respective app for login verification. Provide the confirmation, and your TikTok account will be created.
@@ -90,8 +86,20 @@ With its help, you can trim clips, add transition effects, insert music, and cha
 
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
 
+We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Conclusion
+
+Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
+
+![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
@@ -110,19 +118,11 @@ Protecting underage teens and kids from the negative side of the internet is imp
 
 ![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
 
+We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
-
-## Conclusion
-
-Protecting underage teens and kids from the negative side of the internet is important. A simple online search can show many examples where harmful TikTok content affected minors to the extent of severe physical injuries. Thus, you should only learn **how to change your age on TikTok** if you are older than 16.
-
-![filmora for mobile features](https://images.wondershare.com/filmora/article-images/2023/02/how-to-change-age-on-tiktok-8.jpg)
-
-We have prepared you a video to help you better start your video editing journey with Filmora! If you any interests, please don’t miss it:
 
 ## Conclusion
 
@@ -152,20 +152,21 @@ Protecting underage teens and kids from the negative side of the internet is imp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-video-wisdom-strategies-that-score-big/"><u>[New] Instagram Video Wisdom Strategies That Score Big</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-melodic-monitor-gathering-tracks-for-evaluation/"><u>[New] Melodic Monitor Gathering Tracks for Evaluation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premier-sound-recognition-technology/"><u>[New] Premier Sound Recognition Technology</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-proper-techniques-to-snag-free-secure-vlc-on-a-mac-device/"><u>[New] Proper Techniques to Snag Free, Secure VLC on a Mac Device</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-introduction-to-vlogging-tools-for-getting-started/"><u>[Updated] Introduction to Vlogging Tools for Getting Started</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-light-and-color-interplay-for-images/"><u>[Updated] Light & Color Interplay for Images</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-maze-of-fs-mode-in-ppro/"><u>[Updated] Navigating the Maze of FS Mode in PPro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leading-online-tools-select-your-new-photo-background/"><u>2024 Approved Leading Online Tools Select Your New Photo Background</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/chortlecraft-customize-funny-digital-images/"><u>ChortleCraft Customize Funny Digital Images</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-podcast-promotion-unlocked-the-seo-guide-to-top-spotings/"><u>In 2024, Podcast Promotion Unlocked The SEO Guide to Top Spotings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sea-to-sea-recording-best-action-cameras-for-anglers/"><u>In 2024, Sea-to-Sea Recording Best Action Cameras for Anglers</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/offne-heic-dateien-auf-windows-11-10-8-und-7-losungen-und-tipps/"><u>Öffne HEIC-Dateien Auf Windows 11, 10, 8 Und 7 - Lösungen Und Tipps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/peeling-away-at-sharex-comparative-views-and-substitutes-for-2024/"><u>Peeling Away at ShareX Comparative Views & Substitutes for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-best-buy-offers-in-june-2024-find-savings-on-tech-gadgets-guide/"><u>Top-Rated Best Buy Offers in June 2024: Find Savings on Tech Gadgets Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/tutorials-detailles-pour-la-stabilisation-de-videos-dans-les-plus-grandes-plates-formes-windowsmacandroidiphone/"><u>Tutorials Détaillés Pour La Stabilisation De Vidéos Dans Les Plus Grandes Plates-Formes – Windows/Mac/Android/iPhone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-ultimate-checklist-for-growing-youtube-subscribers/"><u>[New] In 2024, The Ultimate Checklist for Growing YouTube Subscribers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-techniques-for-swiftly-finding-deleted-reddit-contributions/"><u>[Updated] 2024 Approved Techniques for Swiftly Finding Deleted Reddit Contributions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphone-podcast-downloading-essentials-a-complete-walkthrough/"><u>[Updated] IPhone Podcast Downloading Essentials A Complete Walkthrough</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-mobile-videography-the-10-best-phones/"><u>[Updated] Mastering Mobile Videography - The 10 Best Phones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stepwise-training-for-effective-transcription-with-gdoc/"><u>[Updated] Stepwise Training for Effective Transcription with GDoc</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-livestreaming-hacks-every-broadcaster-should-know/"><u>2024 Approved Livestreaming Hacks Every Broadcaster Should Know</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reel-of-triumph-celebrating-fig-skaters-in-22/"><u>2024 Approved Reel of Triumph - Celebrating Fig Skaters in '22</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/compreeved-tips-on-using-vlcs-video-tools/"><u>Compreeved Tips on Using VLC's Video Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-hot-40-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Hot 40</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-digital-communities-an-in-depth-overview-of-facebook-twitter-instagram-and-youtube/"><u>Exploring Digital Communities - An In-Depth Overview of Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/huawei-enhances-user-experience-with-mondly/"><u>Huawei Enhances User Experience with Mondly</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-your-digital-talk-leading-web-based-text-to-speech-apps-for-chrome-for-2024/"><u>Mastering Your Digital Talk Leading Web-Based Text-to-Speech Apps for Chrome for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-instagrams-pathway-to-picture-posting-for-2024/"><u>Navigating Instagram's Pathway to Picture Posting for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-warning-message-hurdle-during-voice-communication-sessions/"><u>Overcoming the 'Warning Message' Hurdle During Voice Communication Sessions</u></a></li>
 </ul></div>
 

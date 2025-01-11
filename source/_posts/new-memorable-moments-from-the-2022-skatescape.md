@@ -1,7 +1,7 @@
 ---
 title: "[New] Memorable Moments From the 2022 Skatescape"
-date: 2024-12-29T02:34:32.217Z
-updated: 2025-01-05T02:41:54.692Z
+date: 2025-01-05T18:15:05.532Z
+updated: 2025-01-11T21:00:17.984Z
 tags: 
   - screen-recording
   - ai video
@@ -30,17 +30,9 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
@@ -51,12 +43,16 @@ Shoma Uno of Japan won the bronze medal with a combined score of 293 points and 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
@@ -69,7 +65,7 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
@@ -92,6 +88,10 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
@@ -99,7 +99,7 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
@@ -121,18 +121,14 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-ultimate-how-to-for-navigating-old-features-on-fb-mobilepc/"><u>[New] In 2024, The Ultimate How-To for Navigating Old Features on FB, Mobile/PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-kinemaster-for-everyday-memers/"><u>[New] KineMaster for Everyday Memers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-secrets-to-successful-scrape-mass-tiktok-videos/"><u>[New] Secrets to Successful Scrape Mass TikTok Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-slow-motion-showcase-top-cameras-with-unparalleled-snapshot-power/"><u>[New] Slow-Motion Showcase Top Cameras with Unparalleled Snapshot Power</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-snap-into-hilarity-meme-creation-made-simple/"><u>[New] Snap Into Hilarity Meme Creation Made Simple</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-lead-the-way-in-the-metaverse-your-tech-checklist/"><u>[Updated] Lead the Way in the Metaverse Your Tech Checklist</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-master-list-of-8-gratis-cutting-edge-video-players-for-pcmac-os-for-2024/"><u>[Updated] Master List of 8 Gratis, Cutting-Edge Video Players for PC/Mac OS for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/copilot-comparison-essential-features-and-upgrades/"><u>CoPilot Comparison: Essential Features & Upgrades</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-motorola-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Motorola online without jailbreak</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-netflixs-split-screen-functionality-for-2024/"><u>Mastering Netflix's Split Screen Functionality for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/multicamera-wonders-mastering-online-broadcasts-with-manycam-technology/"><u>MultiCamera Wonders: Mastering Online Broadcasts with ManyCam Technology</u></a></li>
-<li><a href="https://extra-support.techidaily.com/no-more-glue-techniques-to-free-tiktok-video-from-stickers-for-2024/"><u>No More Glue Techniques to Free TikTok Video From Stickers for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-the-winwordexe-file-not-working-issue/"><u>Quick Solutions: Resolving the winword.exe File Not Working Issue</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-pnpdetectedfatalerror-error-on-windows-11/"><u>[Fixed] PNP_Detected_Fatal_Error Error on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-proportional-adjustments-online/"><u>[New] Mastering Proportional Adjustments Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prophotomaster-the-ai-enhanced-editing-edge/"><u>[Updated] ProPhotoMaster The AI-Enhanced Editing Edge</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-securing-your-videos-on-facebook-pc-plus-android-methods/"><u>[Updated] Securing Your Videos on Facebook PC + Android Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-magix-vpx-review-transforming-media-with-ease/"><u>2024 Approved Magix VPX Review Transforming Media with Ease</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-tiktok-updating-numbers-effectively/"><u>In 2024, Mastering TikTok Updating Numbers Effectively</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-recording-tech-the-leaders-choice/"><u>Innovative Recording Tech The Leaders' Choice</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-g54-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola G54 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsuccessful-graphic-device-connection-in-windows-11/"><u>Unsuccessful Graphic Device Connection in Windows 11</u></a></li>
 </ul></div>
 

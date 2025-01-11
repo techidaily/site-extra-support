@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Overcoming the Loading Stick in Among Us Gameplay"
-date: 2024-12-29T22:34:43.948Z
-updated: 2025-01-05T02:26:30.764Z
+date: 2025-01-08T19:06:43.220Z
+updated: 2025-01-11T19:23:33.032Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 5. **[End the runtime broker](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Uninstall your antivirus software
 
@@ -72,6 +68,10 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
@@ -81,7 +81,7 @@ There are mainly two ways to update your device drivers:
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Remove the adware
@@ -109,14 +109,14 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Restart your PC to see if Minecraft can load normally.
 
@@ -132,6 +132,10 @@ If this method doesn’t work for you, then try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-all.jpg)
 4. Click**Apply** \>**OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
 ### Fix 7: Perform a clean reinstall
@@ -142,16 +146,12 @@ If this method doesn’t work for you, then try the next fix, below.
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 2. Right-click Minecraft, and select**Uninstall** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Once done, delete the**.Minecraft** folder.
@@ -180,21 +180,14 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fb-activity-preview-insight-or-intrusion-whats-safer/"><u>[New] FB Activity Preview Insight or Intrusion – What's Safer?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-google-chromes-picture-in-picture-feature/"><u>[New] Navigating Google Chrome's Picture In Picture Feature</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quick-voice-mods-for-pubg-top-easy-techniques/"><u>[New] Quick Voice Mods for PUBG Top Easy Techniques</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-comprehensible-guide-to-marketing-on-snapchat/"><u>[Updated] 2024 Approved The Comprehensible Guide to Marketing on Snapchat</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-tempo-a-guide-to-instagram-story-adjustments/"><u>[Updated] Mastering Tempo A Guide to Instagram Story Adjustments</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-the-premier-5-online-title-crafters/"><u>2024 Approved Spotlight The Premier 5 Online Title Crafters</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726029643359-aacwav5/"><u>音楽形式を簡単に切り替える！AACからWAVへ変換する最適なフリープログラム5つ</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oneplus-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) with IMEI Code?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sifting-through-inshots-features-for-best-edits/"><u>In 2024, Sifting Through InShot's Features for Best Edits</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-x9b-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor X9b to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/resolved-issue-unrecognizable-disk-drive-error/"><u>Resolved Issue: Unrecognizable Disk Drive Error</u></a></li>
-<li><a href="https://extra-support.techidaily.com/snickerslide-social-media-memes-made-simple-for-2024/"><u>SnickerSlide Social Media Memes Made Simple for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/speedy-pace-fb-videos-innovative-apps-and-proxies-ensuring-faster-uploaddownload-for-2024/"><u>Speedy Pace FB Videos Innovative Apps & Proxies Ensuring Faster Upload/Download for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-sharing-mobile-apps-among-android-gadgets/"><u>Step-by-Step Guide to Sharing Mobile Apps Among Android Gadgets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-atandt-mobile-offers-in-may-2024-exclusive-selection-curated-by-zdnet/"><u>Top AT&T Mobile Offers in May 2024: Exclusive Selection Curated by ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-8-sites-offering-free-access-to-3d-text-psdfiles/"><u>[New] Leading 8 Sites Offering Free Access to 3D Text PSDFiles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-meeting-visibility-in-microsoft-teams/"><u>[New] Maximizing Meeting Visibility in Microsoft Teams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-snagging-stunning-pexels-pictures/"><u>[New] Step-by-Step Snagging Stunning Pexels Pictures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-infusing-watermarks-in-youtube-content-for-trademarks/"><u>[Updated] Infusing Watermarks in YouTube Content for Trademarks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professionals-picks-the-top-5-drones-to-invest-in/"><u>2024 Approved Professional's Picks The Top 5 Drones to Invest In</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-guide-how-to-perform-a-master-reset-on-your-iphone-models-iphone-15-11-xs-series-and-earlier/"><u>Complete Guide: How to Perform a Master Reset on Your iPhone Models (iPhone 15-11, XS-Series, and Earlier)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/digital-painting-made-easy-with-free-online-editors/"><u>Digital Painting Made Easy with Free Online Editors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-your-iphone-upgraded-with-ios-18-step-by-step-download-instructions-and-supported-devices-insights/"><u>Get Your iPhone Upgraded with iOS 18! Step-by-Step Download Instructions and Supported Devices | Insights</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-iphone-7-plus-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About iPhone 7 Plus Activation Lock</u></a></li>
 </ul></div>
 

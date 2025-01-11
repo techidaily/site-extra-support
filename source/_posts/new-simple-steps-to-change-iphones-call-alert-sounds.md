@@ -1,7 +1,7 @@
 ---
 title: "[New] Simple Steps to Change iPhones' Call Alert Sounds"
-date: 2024-07-30T04:54:00.729Z
-updated: 2024-07-31T04:54:00.729Z
+date: 2025-01-04T19:00:36.346Z
+updated: 2025-01-11T18:53:39.412Z
 tags: 
   - screen-recording
   - ai video
@@ -32,23 +32,29 @@ Step1 Unlock your iPhone and tap **"Settings"** from the Home screen.
 
 ![unlock iphone tap settings](https://images.wondershare.com/filmora/article-images/2023/03/unlock-iphone-tap-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Scroll below and tap the **"Sounds & Haptics"** option.
 
 ![tap sounds and haptics option](https://images.wondershare.com/filmora/article-images/2023/03/tap-sounds-and-haptics-option.PNG)
 
 Step3 Tap **"Ringtone."**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![tap ringtone option](https://images.wondershare.com/filmora/article-images/2023/03/tap-ringtone-option.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Select any ringtone from the list**,** and you are done.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select ringtone](https://images.wondershare.com/filmora/article-images/2023/03/select-ringtone.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Customized Sound and Set it as your iPhone's Ringtone?
 
@@ -56,10 +62,11 @@ To add a custom sound and set it as the iPhone's ringtone using the **iTunes Sto
 
 Step1 Open **"Settings."**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![open settings iphone](https://images.wondershare.com/filmora/article-images/2023/03/open-settings-iphone.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Scroll below and tap the **"iTunes and App Store"** option.
 
@@ -69,20 +76,29 @@ Step3 Tap the **"More"** option at the bottom-right corner.
 
 ![more option iphone](https://images.wondershare.com/filmora/article-images/2023/03/tap-more-option.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Tap the **"Tones"** option. Browse the library of ringtones and sounds and make your selection. When selected, tap the **"Price"** option.
 
 ![browse library price itunes](https://images.wondershare.com/filmora/article-images/2023/03/tap-tones-browse-library-tap-price.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 The download will start immediately if a payment method is linked with your Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![payment method download start](https://images.wondershare.com/filmora/article-images/2023/03/payment-method-download-start.PNG)
 
 Step6 After downloading, you will see four options; **"Set as Default Ringtone,"** **"Set as Default Text Tone,"** **"Assign to a Contact,"** and **"Done."**
 
 ![ringtone texttone contact done](https://images.wondershare.com/filmora/article-images/2023/03/ringtone-texttone-contact-done.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step7 Tap **"Done"** to add a customized iPhone ringtone in the library.
 
@@ -95,9 +111,9 @@ To **make a ringtone from a video file for iPhone**, [Wondershare Filmora](https
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Features
 
 Here is why **Wondershare Filmora** is a full-fledged option for **making ringtones from video files using an iPhone**:
@@ -126,25 +142,14 @@ Step1 **Download** Wondershare Filmora and launch the software on your PC. Click
 
 Step2 Add the video file to the **Timeline.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![adding video timeline panel filmora](https://images.wondershare.com/filmora/article-images/2023/03/adding-video-timeline-panel-filmora.png)
 
 Step3 Right-click on the video file and select **"Detach Audio."**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![detach audio filmora](https://images.wondershare.com/filmora/article-images/2023/03/detach-audio-filmora.png)
 
 Step4 The detached audio clip will automatically be on the audio track.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![detach audio track filmora](https://images.wondershare.com/filmora/article-images/2023/03/detach-audio-track-filmora.png)
 
 Step5 Delete the video clip by right-clicking. Now click on the **"Export"** option to save the audio clip on your PC.
@@ -155,9 +160,6 @@ Step6 Repeat the steps mentioned earlier to reduce the length and for the conver
 
 Step7 On your iPhone, navigate to **"Settings"> "Sounds & Haptics"> "Ringtone,"** and select the transferred MP3 file to use as a ringtone**.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 In this detailed article, we explored a simple yet effective method to **change or customize the ringtones on an iPhone**. We mentioned a super-easy trick to detach audio from videos to use them as a ringtone, keeping a crystal-clear quality of the output using **Wondershare Filmora**.
@@ -168,9 +170,6 @@ Hopefully, you will find our article thoughtful, and now you can **customize rin
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Features
 
 Here is why **Wondershare Filmora** is a full-fledged option for **making ringtones from video files using an iPhone**:
@@ -195,24 +194,14 @@ To **make a ringtone from a video file on an iPhone**, follow the below-mentione
 
 Step1 **Download** Wondershare Filmora and launch the software on your PC. Click the icon in the center to add a video file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![adding video file filmora](https://images.wondershare.com/filmora/article-images/2023/03/adding-video-file-filmora.png)
 
 Step2 Add the video file to the **Timeline.**
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adding video timeline panel filmora](https://images.wondershare.com/filmora/article-images/2023/03/adding-video-timeline-panel-filmora.png)
 
 Step3 Right-click on the video file and select **"Detach Audio."**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![detach audio filmora](https://images.wondershare.com/filmora/article-images/2023/03/detach-audio-filmora.png)
 
 Step4 The detached audio clip will automatically be on the audio track.
@@ -222,6 +211,10 @@ Step4 The detached audio clip will automatically be on the audio track.
 Step5 Delete the video clip by right-clicking. Now click on the **"Export"** option to save the audio clip on your PC.
 
 ![export save filmora](https://images.wondershare.com/filmora/article-images/2023/03/export-save-filmora.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step6 Repeat the steps mentioned earlier to reduce the length and for the conversion process. Transfer the MP3 file to your iPhone using a USB cable.
 
@@ -257,5 +250,16 @@ Hopefully, you will find our article thoughtful, and now you can **customize rin
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-innovative-ways-to-implement-b-roll-in-productions/"><u>[New] Innovative Ways to Implement B Roll in Productions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-googles-podcast-uploading-guide/"><u>[New] Navigating Google's Podcast Uploading Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-instagram-savvy-strategists-guide-to-understanding-engagement-figures/"><u>[Updated] 2024 Approved The Instagram Savvy Strategist’s Guide to Understanding Engagement Figures</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-profits-how-much-do-creators-earn-from-each-ad-for-2024/"><u>[Updated] Unveiling Profits How Much Do Creators Earn From Each Ad for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smartphone-showcase-the-very-best-for-artistic-endeavors/"><u>2024 Approved Smartphone Showcase The Very Best for Artistic Endeavors</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/1728484400184-aomei/"><u>AOMEI異機還原與不相似硬體還原:實用指南</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-effortlessly-update-your-lenovo-t420-with-the-latest-windows-drivers/"><u>How to Effortlessly Update Your Lenovo T420 with the Latest Windows Drivers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/key-challenges-and-concerns-facing-the-new-iphone-xs-insider-information-for-consumers/"><u>Key Challenges and Concerns Facing the New iPhone XS – Insider Information for Consumers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/periscope-filming-made-easy-the-ultimate-how-to-for-2024/"><u>Periscope Filming Made Easy The Ultimate How-To for 2024</u></a></li>
+</ul></div>
 

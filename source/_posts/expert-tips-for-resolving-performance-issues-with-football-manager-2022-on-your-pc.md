@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Performance Issues with Football Manager 2022 on Your PC
-date: 2025-01-02T20:19:11.869Z
-updated: 2025-01-05T02:38:33.188Z
+date: 2025-01-09T18:22:42.151Z
+updated: 2025-01-11T17:04:33.540Z
 tags:
   - win11
   - win10
@@ -43,14 +43,14 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -67,11 +67,15 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
@@ -90,6 +94,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -104,6 +112,10 @@ If this method doesn’t help, go ahead with the next fix below.
 
 So does the crash go away now? If not, there is the last fix to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -115,22 +127,10 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -159,24 +159,22 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-reinstating-old-school-windows-photo-viewer-on-modern-win10/"><u>[New] Reinstating Old-School Windows Photo Viewer on Modern Win10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-for-font-integration-in-ae/"><u>[New] Step-by-Step Guide for Font Integration in AE</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-simplify-stream-sideswapping-youtube-playlist-tips/"><u>[Updated] 2024 Approved Simplify Stream-Sideswapping Youtube Playlist Tips</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-boosting-vimeo-playback-speed/"><u>[Updated] In 2024, Boosting Vimeo Playback Speed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-episodes-your-guide-to-gpodc-mastery/"><u>[Updated] Prime Episodes Your Guide to GPodC Mastery</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-photography-and-videography-leading-tech-on-the-market/"><u>2024 Approved Photography & Videography Leading Tech on the Market</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-school-media-creation-advanced-editing-tips/"><u>2024 Approved School Media Creation Advanced Editing Tips</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-error-with-file-history-on-a-windows-system/"><u>Eliminating “Error with File History” On a Windows System</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-v27-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo V27? Try These Fixes</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/how-to-choose-the-right-mesh-network-a-deep-dive-into-the-features-of-tp-link-deco-p9-revealed/"><u>How to Choose the Right Mesh Network: A Deep Dive Into the Features of TP-Link Deco P9 Revealed</u></a></li>
-<li><a href="https://article-files.techidaily.com/image-illumination-incor-writings-on-visual-canvases-online-for-2024/"><u>Image Illumination Incor Writings on Visual Canvases Online for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-infinix-note-30-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Infinix Note 30 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-masterful-windows-melodies/"><u>In 2024, Masterful Windows Melodies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-visual-impact-the-best-ae-title-methods/"><u>In 2024, Mastering Visual Impact The Best AE Title Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-noise-free-auditory-shifts/"><u>In 2024, Navigating Noise-Free Auditory Shifts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-fundamentals-of-gif-design-and-creation/"><u>In 2024, The Fundamentals of GIF Design and Creation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-the-switch-making-your-graphic-style-a-sticker-on-every-platform-for-2024/"><u>Master the Switch Making Your Graphic Style a Sticker on Every Platform for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-put-an-end-to-recurring-ark-application-crashes/"><u>Troubleshooting Guide: Put an End to Recurring ARK Application Crashes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reviewing-videoshow-in-its-fullest-for-24-edition/"><u>[New] Reviewing VideoShow in Its Fullest for '24 Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-propel-your-workflow-final-cut-pros-must-have-tools/"><u>[Updated] Propel Your Workflow Final Cut Pro’s Must-Have Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-6-ways-to-record-mov-files-on-windows-11/"><u>2024 Approved 6 Ways to Record .mov Files on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boosting-media-throughput-in-microsoft-presentations-for-2024/"><u>Boosting Media Throughput in Microsoft Presentations for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypass-the-buffering-how-to-fix-and-prevent-packet-loss-in-discord-chat/"><u>Bypass the Buffering: How To Fix and Prevent Packet Loss in Discord Chat</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-apples-latest-innovation-the-apple-tv-4k-a-deep-dive-into-ultra-high-definition-and-voice-command-technology-2021-edition/"><u>Exploring Apple's Latest Innovation: The Apple TV 4K - A Deep Dive Into Ultra-High-Definition and Voice Command Technology, 2021 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-vcruntime140dll-missing-file-issue-a-comprehensive-guide/"><u>Fixing VCRUNTIME140.dll Missing File Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-use-windows-media-player-to-enjoy-dvd-movies-on-your-windows-10-pc/"><u>How to Use Windows Media Player to Enjoy DVD Movies on Your Windows 10 PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/immersive-demo-of-lenovos-cutting-edge-auto-swivel-laptop-at-ifa-2024-what-zdnet-found-intriguing/"><u>Immersive Demo of Lenovo's Cutting-Edge Auto-Swivel Laptop at IFA 2024 – What ZDNet Found Intriguing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-360-camera-options-for-social-media-broadcasts/"><u>In 2024, Premium 360° Camera Options for Social Media Broadcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/layer-audio-onto-video-clips-in-premiere-pro-for-2024/"><u>Layer Audio Onto Video Clips in Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/listen-and-write-the-gratis-method-for-2024/"><u>Listen and Write – The Gratis Method for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/msi-gs65-latest-windows-driver-download-optimize-your-laptops-performance/"><u>MSI GS65 Latest Windows Driver Download - Optimize Your Laptop's Performance</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-10-converters-free-apps-for-efficient-srt-file-transformations-for-2024/"><u>Prime 10 Converters FREE Apps for Efficient SRT File Transformations for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-sites-to-propel-youtube-content-reach-for-2024/"><u>Prime Sites to Propel YouTube Content Reach for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sky-high-improvement-ultimate-video-rescale-for-2024/"><u>Sky-High Improvement Ultimate Video Rescale for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-selfie-wand-expert-advice-on-choosing-a-top-notch-extension-rod/"><u>The Best Selfie Wand: Expert Advice on Choosing a Top-Notch Extension Rod</u></a></li>
 </ul></div>
 

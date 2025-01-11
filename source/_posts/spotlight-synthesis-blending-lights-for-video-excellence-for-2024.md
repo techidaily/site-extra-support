@@ -1,7 +1,7 @@
 ---
 title: "\"Spotlight Synthesis  Blending Lights for Video Excellence for 2024\""
-date: 2025-01-01T17:21:56.319Z
-updated: 2025-01-04T17:02:44.405Z
+date: 2025-01-10T17:27:45.537Z
+updated: 2025-01-11T18:46:26.586Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/ea90fc8c45e04f560568c92780cb489093bd55fc4
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -48,10 +52,6 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
@@ -64,10 +64,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
 ##### Step4 Use Practical Lights
@@ -77,16 +73,24 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -95,7 +99,7 @@ After setting up all the lighting above, you can take a look at the comparison b
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
@@ -107,10 +111,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,16 +146,17 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/pc-prowess-solving-dll-errors-in-win/"><u>[PC Prowess] Solving DLL Errors in Win</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-a-step-by-step-approach-for-flawless-instagrams/"><u>[Updated] In 2024, A Step-by-Step Approach for Flawless Instagrams</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfecting-fading-audio-tracks-through-audacitys-tools/"><u>[Updated] Perfecting Fading Audio Tracks Through Audacity's Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-simplifying-visual-transformations-utilizing-luts-for-obs-videos/"><u>2024 Approved Simplifying Visual Transformations Utilizing LUTs for OBS Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-srt-shift-magic-subtitles-subc-conversion-guide/"><u>2024 Approved SRT Shift Magic Subtitles (SUBC) Conversion Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-process-for-formulating-perfect-podcast-names/"><u>2024 Approved Step-by-Step Process for Formulating Perfect Podcast Names</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/contrasting-titans-of-tech-the-unique-advantages-of-google-palm-2-over-openai-gpt-4/"><u>Contrasting Titans of Tech: The Unique Advantages of Google PaLM 2 Over OpenAI GPT-4</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-k11x-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo K11x to Another | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-stepwise-unveiling-effect/"><u>In 2024, Stepwise Unveiling Effect</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-what-to-do-if-your-qbittorrent-freezes-or-stalls/"><u>Troubleshooting Steps: What to Do If Your qBittorrent Freezes or Stalls</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-fix-blurry-facebook-videos-in-smartphones-and-chromebooks/"><u>[New] In 2024, Fix Blurry Facebook Videos in Smartphones & Chromebooks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mastering-the-art-of-facebook-seo-top-ten-must-knows/"><u>[Updated] 2024 Approved Mastering the Art of Facebook SEO Top Ten Must-Knows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-fourfold-guide-to-podcasting-in-education-via-mac-for-2024/"><u>[Updated] Fourfold Guide to Podcasting in Education via Mac for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-harness-your-view-count-cross-platform-studio-methods/"><u>[Updated] Harness Your View Count Cross-Platform Studio Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-understanding-av1-your-initial-compre-point/"><u>[Updated] Understanding AV1 Your Initial Compre Point</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-sound-design-for-canva-video-templates/"><u>2024 Approved Perfecting Sound Design for Canva Video Templates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pixel-perfect-video-modifier/"><u>2024 Approved Pixel-Perfect Video Modifier</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevate-your-career-path-essential-facebook-uses/"><u>Elevate Your Career Path: Essential Facebook Uses</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-film-quality-the-seven-top-cameras-for-action/"><u>In 2024, Pro Film Quality The Seven Top Cameras for Action</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-quality-on-a-shoe-string-10-best-free-lut-picks/"><u>In 2024, Selecting Quality on a Shoe String 10 Best Free LUT Picks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/path-to-professionalism-morphvox-transformation-guide-for-2024/"><u>Path to Professionalism MorphVOX Transformation Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-resources-for-text-style-adjustment-files-for-2024/"><u>Prime Resources for Text Style Adjustment Files for 2024</u></a></li>
 </ul></div>
 
