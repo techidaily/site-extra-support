@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating and Utilizing Preview for Mac Efficiently"
-date: 2025-01-06T16:55:16.830Z
-updated: 2025-01-11T16:36:18.360Z
+date: 2025-01-14T19:35:43.922Z
+updated: 2025-01-17T03:30:56.856Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -50,6 +54,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -65,7 +73,7 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Crop in Preview
@@ -84,10 +92,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -99,10 +103,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -121,7 +121,7 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -140,6 +140,10 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -155,10 +159,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -221,18 +221,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-humorhub-generate-hilarious-jokes-and-gifs-easily/"><u>[New] 2024 Approved HumorHub Generate Hilarious Jokes and GIFs Easily</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-prime-hashtag-combinations-driving-view-count-higher/"><u>[New] 2024 Approved Prime Hashtag Combinations Driving View Count Higher</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-art-of-capturing-attention-top-6-videos-to-watch/"><u>[New] In 2024, The Art of Capturing Attention Top 6 Videos to Watch</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-your-journey-to-curating-an-impressive-youtube-collection/"><u>[New] In 2024, Your Journey to Curating an Impressive YouTube Collection</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-sharpened-internet-video-views/"><u>[New] Mastering the Art of Sharpened Internet Video Views</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-online-gag-artist/"><u>[New] Online Gag Artist</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instagrams-rising-stars-discover-the-magic-behind-their-growth-in-9-steps/"><u>[Updated] Instagram's Rising Stars Discover the Magic Behind Their Growth in 9 Steps</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-navigating-youtube-to-facebook-sharing-pathways-for-2024/"><u>[Updated] Navigating YouTube to Facebook Sharing Pathways for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premiere-visionary-film-glimpses/"><u>2024 Approved Premiere Visionary Film Glimpses</u></a></li>
-<li><a href="https://extra-support.techidaily.com/securing-a-spotlight-with-zoom-and-fb-live-integration-for-2024/"><u>Securing a Spotlight with ZOOM & FB Live Integration for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-document-production-mastering-chatgpt-integration-with-microsoft-word/"><u>Streamline Document Production: Mastering ChatGPT Integration with Microsoft Word</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-creating-impactful-ae-titles-for-2024/"><u>The Art of Creating Impactful AE Titles for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-toolkit-for-srt-format-mastery/"><u>The Ultimate Toolkit for SRT Format Mastery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-meaningful-conversations-an-interviewers-journey/"><u>[New] Leading Meaningful Conversations An Interviewer's Journey</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-conquer-the-art-of-slow-motion-expert-guide-to-making-beautifully-extended-video-online-using-photo-apps/"><u>[Updated] Conquer the Art of Slow Motion Expert Guide to Making Beautifully Extended Video Online Using Photo Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-cutting-edge-liquid-simulations-for-gamers/"><u>[Updated] Cutting Edge Liquid Simulations for Gamers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-solo-podcast-production-for-top-spots/"><u>[Updated] Mastering Solo Podcast Production for Top Spots</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-storyboard-designers-den-for-2024/"><u>[Updated] Ultimate Storyboard Designer's Den for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-zero-cost-expertise-in-analyzing-youtube-videos-frame-by-frame-for-2024/"><u>[Updated] Zero-Cost Expertise in Analyzing YouTube Videos Frame by Frame for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-live-techniques-lowering-volume-gradually/"><u>2024 Approved Live Techniques Lowering Volume Gradually</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-instructions-for-using-telegram-online-professionally/"><u>2024 Approved Step-By-Step Instructions For Using Telegram Online Professionally</u></a></li>
+<li><a href="https://article-helps.techidaily.com/computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting/"><u>Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/emergency-techniques-for-mobile-power-what-to-do-if-youre-out-of-juice-and-out-of-chargers/"><u>Emergency Techniques for Mobile Power: What To Do If You're Out of Juice and Out of Chargers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-scale-your-iphones-viewport/"><u>In 2024, Quick Scale Your iPhone's Viewport</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-setup-guide-connect-obs-and-streamlabs-on-your-mac/"><u>In 2024, Setup Guide Connect OBS and Streamlabs on Your Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-airtunes-on-your-apple-devices-quick-guide-to-repairs-for-2024/"><u>Mastering Airtunes on Your Apple Devices - Quick Guide to Repairs for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/optimal-language-learning-platforms-for-success/"><u>Optimal Language Learning Platforms for Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-computing-solutions-on-desktops-for-2024/"><u>Premium Computing Solutions on Desktops for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-impact-on-telegram-from-facebook-outage-a-study/"><u>The Impact on Telegram From Facebook Outage: A Study</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ling-mr-beasts-cash-flow-for-2024/"><u>Unveiling Mr. Beast's Cash Flow for 2024</u></a></li>
 </ul></div>
 

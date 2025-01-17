@@ -1,7 +1,7 @@
 ---
 title: Battlefield 2042 PC Issues? Discover Effective Fixes to Stop the Crashes!
-date: 2025-01-05T17:03:08.531Z
-updated: 2025-01-11T17:32:42.210Z
+date: 2025-01-09T18:21:32.914Z
+updated: 2025-01-16T23:16:30.926Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a7
 5. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlay](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Deathloop as an administrator
 
  By default, Windows runs a program as a regular user, but this may prevent it from accessing necessary permissions. To make sure Deathloop works properly, you should run it as an administrator.
@@ -41,7 +45,15 @@ thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Select the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-the-game-as-an-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart the game to test. If the crashes reoccur, continue to the second fix.
 
@@ -56,21 +68,21 @@ thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-2.jpg)
 3. Navigate to the game’s installation folder and add the Deathloop.exe file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card.jpg)
 4. Click**Options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-3.jpg)
 5. Select**High performance** and click**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -89,14 +101,10 @@ thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Reboot your computer after the driver update completes, and check if Deathloop still crashes. If so, try the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Temporarily disable third-party software
 
@@ -109,7 +117,7 @@ You can also close all unnecessary apps in the background. Here is how:
 2. Under the Process tab, right-click a program you’d like to close and click **End task** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-unnecessary-programs-running-in-the-background.jpg)
@@ -118,10 +126,6 @@ You can also close all unnecessary apps in the background. Here is how:
 
  Now that you should only leave Deathloop and your game launcher running. Test if you’re able to play the game as expected. If not, check out two more fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5 – Verify the integrity of game files
 
  Missing or corrupted games file is one of the most known reasons for game crashes. If Deathloop keeps crashing, you can do an integrity check to see if there is anything wrong with the game files.
@@ -129,6 +133,10 @@ You can also close all unnecessary apps in the background. Here is how:
 1. Launch Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Deathloop and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-3.jpg)
 3. Click**Local Files** on the left and click**Verify integrity of game files** .  
@@ -149,7 +157,7 @@ You can also close all unnecessary apps in the background. Here is how:
 3. Select**In-Game** from the left. Then untick**Enable the Steam Overlay while in-game** , and click **OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
@@ -161,15 +169,7 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Deathloop should be back to normal after you applied the settings as above.
 
@@ -192,20 +192,16 @@ You can also close all unnecessary apps in the background. Here is how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-quick-guide-to-infusing-new-flair-in-old-content-using-instagram-features/"><u>[Updated] 2024 Approved Quick Guide to Infusing New Flair in Old Content Using Instagram Features</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-numbers-game-estimating-income-from-viral-content/"><u>[Updated] 2024 Approved The Numbers Game Estimating Income From Viral Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-vlc-mp4-and-various-format-conversion-techniques/"><u>2024 Approved Mastering VLC MP4 & Various Format Conversion Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-measuring-movie-gb-usage-over-a-day/"><u>2024 Approved Measuring Movie GB Usage Over a Day</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-no-cost-treasures-aplus-ae-template-collections/"><u>2024 Approved No-Cost Treasures A+ AE Template Collections</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-portable-balancing-system-for-video-capture/"><u>2024 Approved Portable Balancing System for Video Capture</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-s17t-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo S17t in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-total-byte-requirement-for-a-days-movie-watching/"><u>In 2024, Total Byte Requirement for a Day's Movie Watching</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-leisure-moments-here-are-the-cream-of-the-crop-15-great-android-apps-to-pass-the-time-quickly/"><u>Limited Leisure Moments? Here Are The Cream of the Crop: 15 Great Android Apps to Pass the Time Quickly!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-collage-creation-for-2024/"><u>Mastering the Art of Collage Creation for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-your-way-in-graphic-design-careers-for-2024/"><u>Navigating Your Way in Graphic Design Careers for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sharing-joy-iphone-memes-for-2024/"><u>Sharing Joy IPhone Memes for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-comprehensive-way-to-empty-your-gmail-box-from-your-smartphone/"><u>The Comprehensive Way to Empty Your Gmail Box From Your Smartphone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-user-configuration-options-easily/"><u>Troubleshooting Unresponsive User Configuration Options Easily</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-s-best-stop-motion-animation-programs-for-creatives/"><u>Updated In 2024, S Best Stop Motion Animation Programs for Creatives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-optimizing-screen-recording-on-iphoneipad/"><u>[New] 2024 Approved Optimizing Screen Recording on iPhone/iPad</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-eliminating-shake-effects-photographyvideo-guide/"><u>[New] In 2024, Eliminating Shake Effects Photography/Video Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-from-creation-your-guide-to-googles-audio-upload/"><u>[Updated] In 2024, From Creation Your Guide to Google's Audio Upload</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-live-stream-to-facebook-from-dji-drone/"><u>[Updated] In 2024, How to Live Stream to Facebook From DJI Drone?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-virtual-realms-iphone-vr-video-playback/"><u>2024 Approved Navigating Virtual Realms IPhone VR Video Playback</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mizing-your-channel-icon-banner-and-thumbnail-ideas-for-2024/"><u>Customizing Your Channel Icon, Banner & Thumbnail Ideas for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fix-your-playstation-4s-unresponsive-disc-drive-simple-solutions-inside/"><u>Fix Your PlayStation 4'S Unresponsive Disc Drive - Simple Solutions Inside!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-elite-photography-narrative-assembler-kit/"><u>In 2024, Elite Photography Narrative Assembler Kit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-moving-data-quick-techniques-to-send-files-to-your-computer/"><u>In 2024, Moving Data Quick Techniques to Send Files to Your Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/must-have-settings-for-online-broadcasting-for-2024/"><u>Must-Have Settings for Online Broadcasting for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/rgbs-legacy-and-how-srgb-is-paving-the-way-forward-for-2024/"><u>RGB's Legacy and How Srgb Is Paving the Way Forward for 2024</u></a></li>
 </ul></div>
 

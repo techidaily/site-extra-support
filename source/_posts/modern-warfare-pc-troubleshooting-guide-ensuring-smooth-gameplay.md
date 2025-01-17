@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare PC Troubleshooting Guide: Ensuring Smooth Gameplay"
-date: 2025-01-08T17:25:26.433Z
-updated: 2025-01-11T20:23:57.529Z
+date: 2025-01-10T09:12:51.921Z
+updated: 2025-01-17T00:42:09.170Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Allow your game through Windows Firewall
 
  When a program fails to load properly, chances are your firewall is blocking it, even though the program you’re starting is legitimate and doesn’t do harm to your system. To ensure your game has access to your connection, take the steps as follows.
@@ -44,7 +40,7 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
@@ -53,7 +49,7 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
@@ -89,7 +85,7 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you’re done, launch your game. If your problem persists, try the next fix below.
@@ -121,12 +117,16 @@ If this doesn’t do the trick, try the next fix below.
 
  Once the verification process is complete, close the window and check if it solves your problem. If your game still fails to launch properly, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Update your graphics driver
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to update your graphics driver
@@ -144,15 +144,7 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you find out the brand of your graphics card, visit the manufacturer’s website to get the most up-to-date driver. All you have to do is follow the on-screen instructions to download and install the driver for your system.
 
@@ -180,6 +172,10 @@ If this doesn’t do the trick, try the next fix below.
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Run a full system scan
 
  If none of the methods outlined above work, it’s time to make some tweaks on the system level. It’s that you need to check if you have any corrupted system files, which may be the culprit of your certain programs not functioning properly. To verify if that’s your case, you can use the**System File Checker** tool by running the sfc /scannow command. However, most of the time, it only scans major files and may miss minor issues that could also make your PC error-prone.
@@ -191,6 +187,10 @@ If this doesn’t do the trick, try the next fix below.
 3. If it detects any issues on your PC, click**Start Repair** to let it start the repairing process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the repair, try to launch Modern Warfare II and you should be able to enjoy your game to the fullest without much unexpected interruptions.
 
@@ -213,20 +213,22 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-transform-your-fb-vids-to-full-screen/"><u>[New] 2024 Approved Transform Your FB Vids to Full Screen</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-screen-space-enlargement-on-youtube/"><u>[Updated] Navigating Screen Space Enlargement on YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-prime-list-best-free-video-transcript-harvesters/"><u>[Updated] Prime List Best Free Video Transcript Harvesters</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-red-carpet-rollouts-top-picks-for-iphone-filmmakers-choices/"><u>[Updated] Red Carpet Rollouts Top Picks for iPhone Filmmakers' Choices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-maximize-your-cricket-viewing-with-premium-livestreams/"><u>2024 Approved How to Maximize Your Cricket Viewing with Premium Livestreams</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-opening-overtures-10-superior-tunes-to-pique-interest/"><u>2024 Approved Opening Overtures 10 Superior Tunes to Pique Interest</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-fixes-to-fabricate-impactful-social-media-collage-posts/"><u>2024 Approved Quick Fixes to Fabricate Impactful Social Media Collage Posts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-starting-up-key-gopro-add-ons-unveiled/"><u>2024 Approved Starting Up Key GoPro Add-Ons Unveiled</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-amd-ryzen-5-2600-drivers-streamlined-process/"><u>Download and Install AMD Ryzen 5 2600 Drivers - Streamlined Process</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/get-ready-to-save-space-with-these-38-exceptional-android-compressor-apps-for-2024/"><u>Get Ready to Save Space with These 38 Exceptional Android Compressor Apps for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-efficiently-handling-youtube-short-issues/"><u>In 2024, Efficiently Handling YouTube Short Issues</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/picture-perfectionism-top-tools-and-sites-for-adding-frame-elements-for-2024/"><u>Picture Perfectionism Top Tools & Sites for Adding Frame Elements for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210664378-9782889059782-souvrir-a-soi-grace-au-pendule/"><u>S'ouvrir à soi grâce au pendule | Free Book</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-you-to-8-superior-zero-cost-3d-videos-solutions/"><u>[New] Leading You to 8 Superior, Zero-Cost 3D Videos Solutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/avigating-the-new-norm-earnings-in-vlogging/"><u>[New] Navigating the New Norm Earnings in Vlogging</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-review-magix-editing-suite/"><u>[New] Review MAGIX Editing Suite</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-videos-integrating-into-ppt-4-techniques/"><u>[Updated] Mastering YouTube Videos Integrating Into PPT (4 Techniques)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-original-design-potential-utilize-free-logo-templates-and-customization-tools/"><u>[Updated] Original Design Potential Utilize FREE Logo Templates & Customization Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spectacular-hooks-title-crafter/"><u>2024 Approved Spectacular Hooks Title Crafter</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-intro-video-guide-for-iphone-and-android-users/"><u>2024 Approved The Ultimate Intro Video Guide for iPhone and Android Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/googles-foray-into-next-gen-language-processing-with-palm-2/"><u>Google's Foray Into Next-Gen Language Processing with PaLM 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-programs-for-creating-video-from-pictures-for-2024/"><u>Ideal Programs for Creating Video From Pictures for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-base-to-pro-gopro-hero5-blacks-clash-with-hero4-silver/"><u>In 2024, From Base to Pro GoPro Hero5 Black's Clash with Hero4 Silver</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-samsungs-new-edge-the-2023-bd-j5900-reviewed/"><u>In 2024, Samsung's New Edge The 2023 BD-J5900 Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-and-economical-selecting-the-top-free-webm-playback-options-for-2024/"><u>Optimal and Economical Selecting the Top Free WebM Playback Options for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/palette-perfection-unveiling-top-5-premium-color-tvs-for-2024/"><u>Palette Perfection Unveiling Top 5 Premium Color TVs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-shortcuts-quick-paste-pre-snippets-in-windows-11/"><u>Personalizing Shortcuts: Quick Paste Pre-Snippets in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/skys-finest-cameras-clash-dji-air-2-vs-gopro-hero9-k4-for-2024/"><u>Sky's Finest Cameras Clash DJi Air 2 VS GoPro HERO9 K4 for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/ultimate-guide-the-5-greatest-complimentary-windows-11-video-player-options/"><u>Ultimate Guide: The 5 Greatest Complimentary Windows 11 Video Player Options</u></a></li>
 </ul></div>
 

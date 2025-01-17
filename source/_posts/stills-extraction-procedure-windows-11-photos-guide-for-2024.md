@@ -1,7 +1,7 @@
 ---
 title: "\"Stills Extraction Procedure  Windows 11 Photos Guide for 2024\""
-date: 2025-01-06T19:32:18.789Z
-updated: 2025-01-11T18:52:26.779Z
+date: 2025-01-14T10:08:05.936Z
+updated: 2025-01-17T06:13:54.462Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,6 @@ In this article, you will learn how to save photo from Windows 10 Photos app and
 * [**Part2: Why I can’t save photo from video**](#part2)
 * [**Part3: Alternative way to save photo from video**](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to save photo from Windows 10 Photos app
 
 In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
@@ -61,13 +57,13 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Why I can’t save photo from video
@@ -76,20 +72,20 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 
 We are explaining the solutions here –
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
@@ -113,6 +109,10 @@ We provided you some knowledge on how to save a photo from video Windows 10 Phot
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -128,24 +128,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-igniting-interest-how-to-elevate-your-instagram-contents-impact/"><u>[Updated] 2024 Approved Igniting Interest How to Elevate Your Instagram Content's Impact</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sideways-scene-understanding-igs-upside-down-issue/"><u>[Updated] Sideways Scene Understanding IG's Upside-Down Issue</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-roadmap-for-spotify-ad-mastery/"><u>[Updated] The Ultimate Roadmap for Spotify Ad Mastery</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unveiling-4k-clarity-with-a-look-at-the-dell-p2715q-screen/"><u>[Updated] Unveiling 4K Clarity with a Look at the Dell P2715Q Screen</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-what-is-the-best-frame-rate-for-slow-motion-video/"><u>[Updated] What Is The Best Frame Rate For Slow Motion Video?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-invisible-edits-hide-elements-with-sharpen-mask/"><u>2024 Approved Invisible Edits Hide Elements with Sharpen Mask</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-professional-camera-spin-360-edition-2023/"><u>2024 Approved Mastering Professional Camera Spin 360° Edition, 2023</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-reigniting-creativity-a-comprehensive-look-at-windows-10-for-editors/"><u>2024 Approved Reigniting Creativity A Comprehensive Look at Windows 10 for Editors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harness-the-full-power-of-google-photos/"><u>Harness the Full Power of Google Photos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-your-brother-hl-l2380dw-ready-on-pc-download-the-latest-driver-pack/"><u>How to Get Your Brother HL-L2380DW Ready on PC - Download the Latest Driver Pack</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-lava-agni-2-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Lava Agni 2 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-restful-reelings-audiovisual-storytelling/"><u>In 2024, Restful Reelings Audiovisual Storytelling</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sculpted-smiles-and-eyes-introducing-facial-movement-with-motion-blur-in-picsart/"><u>In 2024, Sculpted Smiles and Eyes Introducing Facial Movement with Motion Blur in Picsart</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-the-clouds-of-video-editing-best-drones-tools-ranked-for-2024/"><u>Navigating the Clouds of Video Editing Best Drones Tools Ranked for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pivot-from-srt-to-professional-audio-standards-with-confidence/"><u>Pivot From SRT to Professional Audio Standards with Confidence</u></a></li>
-<li><a href="https://extra-support.techidaily.com/rhythm-raiders-your-guide-to-downloading-skype-melodies-for-2024/"><u>Rhythm Raiders Your Guide to Downloading Skype Melodies for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rocket-league-troubleshooting-solving-game-freeze-problems/"><u>Rocket League Troubleshooting - Solving Game Freeze Problems</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screenshots-no-more-blank-spells-on-my-laptop/"><u>Screenshots No More Blank Spells on My Laptop</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unlock-creativity-adding-borders-in-video-stories/"><u>Unlock Creativity Adding Borders in Video Stories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimize-space-compelling-selection-of-20-top-free-cloud-storages-up-to-1tb/"><u>[New] Optimize Space Compelling Selection of 20 Top FREE Cloud Storages (Up To 1TB)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-fixing-non-operational-srt-exports/"><u>[New] Step-by-Step Guide Fixing Non-Operational SRT Exports</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-vault-convert-videos-to-mp4-in-seconds-for-2024/"><u>[Updated] Facebook Vault Convert Videos to MP4 in Seconds for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-master-windows-11-a-treasure-trove-of-undisclosed-features/"><u>[Updated] In 2024, Master Windows 11 A Treasure Trove of Undisclosed Features</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-overcoming-uneven-sound-in-fb-video-playback/"><u>[Updated] In 2024, Overcoming Uneven Sound in FB Video Playback</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inverting-screen-time-with-android-videos/"><u>[Updated] Inverting Screen Time with Android Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-securing-youtube-srt-files-a-threefold-procedure/"><u>[Updated] Securing YouTube SRT Files A Threefold Procedure</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-showcase-spectacatives-the-best-ice-artistry-22/"><u>[Updated] Showcase Spectacatives The Best Ice Artistry '22</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professional-stabilizers-roundup-securing-smooth-cinematography/"><u>2024 Approved Professional Stabilizers Roundup Securing Smooth Cinematography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-record-a-podcast-on-iphone-or-ipad-best-for-interviews-and-travel/"><u>In 2024, How To Record a Podcast on iPhone or iPad (Best for Interviews & Travel)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 6s</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-peek-at-windows-files-heres-how-for-2024/"><u>Quick Peek at Windows Files, Here's How for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sideways-vids-phenomenon-anomaly-or-feature-on-instagram-for-2024/"><u>Sideways Vids Phenomenon Anomaly or Feature on Instagram for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-10-ios-videos-premier-iphone-and-ipad-players-for-2024/"><u>Top 10 iOS Videos Premier iPhone & iPad Players for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-steadicam-models-compatible-with-dslr-cameras/"><u>Top Steadicam Models Compatible with DSLR Cameras</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/topo-das-5-criadoras-de-letreiros-mais-influentes-do-youtube-acesse-online/"><u>Topo Das 5 Criadoras De Letreiros Mais Influentes Do YouTube: Acesse Online</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-a05s-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy A05s Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

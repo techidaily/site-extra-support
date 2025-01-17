@@ -1,7 +1,7 @@
 ---
 title: "Innovative Ways to Decrease Audio Levels for 2024"
-date: 2024-07-30T04:48:45.785Z
-updated: 2024-07-31T04:48:45.785Z
+date: 2025-01-13T23:56:12.583Z
+updated: 2025-01-17T04:12:43.726Z
 tags: 
   - screen-recording
   - ai video
@@ -32,11 +32,12 @@ To avoid any clicks, turn on Create Fades on Clip Edges in the Record/Warp/Launc
 
 ![create fades warp fades](https://images.wondershare.com/filmora/article-images/2022/08/create-fades-warp-fades.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You must disable the automated mode in order to alter the clip fades. You may accomplish this by doing the following:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![disable automated mode ableton](https://images.wondershare.com/filmora/article-images/2022/08/disable-automated-mode-ableton.jpg)
 
 The fade-in and fade-out handles should display when you hover the mouse icon over the audio clip you want to fade. In case, if they don't, hit 'A' on your keyboard to make them appear. Then, you hold down the mouse button while left-clicking on the handle you wish to fade and lowering the fader.
@@ -66,20 +67,21 @@ Available for free, Filmora is the simple platform to begin modifying your audio
 
 We'll walk you through the process of utilizing this platform for audio fade-in/fade-out in the following step. You can quickly launch Filmora from your desktop or the search bar and open it as follows to get started. You may now examine the fundamental structure of editing by selecting the Video Editor option from the software's beginning screen. This will take you to Filmora's primary interface. Simply choose the Import button from the software's main interface as shown below to import your audio and video files:
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launch and import audios in filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3Open up Audio Editor of Filmora
 
 Following the import of your media files into Filmora, you must drag the files onto the program's timeline. Your media files may be edited using all available methods in the timeline. Simply right-click on the particular audio file and choose "Edit Audio" from the list to use Filmora's audio editor as seen below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![open up audio editor of filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4Fade-in/Fade-out Audio
 
@@ -96,25 +98,27 @@ Filmora features a built-in video editing toolbox in addition to an audio editor
 On that note, if you are happy with how your voice has changed, right now could be the greatest moment to preserve it or perhaps record it. All popular video and audio formats, including MP3, are supported. To do this, click "Export" and choose "File Format." Select the necessary configuration from the rundown by clicking the Format button. The specific document will be saved to the specified directory on a computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3\. Related FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Can you fade in Ableton Live Lite?
 
 For budding music producers and performers, the Ableton Live Lite edition's free assortment of keyboards and midi controllers makes it a fantastic starting place. Fades may also be initiated in Live Lite by pressing the Clip Fade button. Drag the square icon in the upper left or right of an audio clip to manually change the duration of the Fades.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### 2\. How to Fade in Ableton?
 
 We can create Fade in or Fade Out, which induce a progressive rise or drop in loudness, using audio clips. The little white squares at each corner of the clip allow you to adjust these two settings. The Fade In, which can be found at the start of each clip, enables a progressive rise in loudness. For this, we will drag a corner of a clip that is directly next to another clip to the clip we want.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Why can't I fade in Ableton?
 
 In essence, Ableton just refuses to display fades on certain songs. Fades won't function with automation mode activated. You should be able to use fades if you off track automation. Fades are present on all audio clips, however, if you have that setting turned on. Since they are off by default, you must create them.
@@ -133,9 +137,6 @@ Available for free, Filmora is the simple platform to begin modifying your audio
 
 We'll walk you through the process of utilizing this platform for audio fade-in/fade-out in the following step. You can quickly launch Filmora from your desktop or the search bar and open it as follows to get started. You may now examine the fundamental structure of editing by selecting the Video Editor option from the software's beginning screen. This will take you to Filmora's primary interface. Simply choose the Import button from the software's main interface as shown below to import your audio and video files:
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launch and import audios in filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 ##### Step3Open up Audio Editor of Filmora
@@ -144,14 +145,19 @@ Following the import of your media files into Filmora, you must drag the files o
 
 ![open up audio editor of filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4Fade-in/Fade-out Audio
 
 The primary step in this respect is how to begin fading-in/fading-out your audio files using Filmora, which is presented here. The nicest feature of the Filmora is how easy you can use these methods from the timeline. To do so, center your attention on your audio file inside the timeline; after you've chosen it, the two icons will appear above the audio file. Drag the first one to the length you want to conduct the audio fade-in option, as shown:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![fade in or fade out audio](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step5Edit and Export Your Video/Sound
 
@@ -161,14 +167,8 @@ Filmora features a built-in video editing toolbox in addition to an audio editor
 
 On that note, if you are happy with how your voice has changed, right now could be the greatest moment to preserve it or perhaps record it. All popular video and audio formats, including MP3, are supported. To do this, click "Export" and choose "File Format." Select the necessary configuration from the rundown by clicking the Format button. The specific document will be saved to the specified directory on a computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Part 3\. Related FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Can you fade in Ableton Live Lite?
 
 For budding music producers and performers, the Ableton Live Lite edition's free assortment of keyboards and midi controllers makes it a fantastic starting place. Fades may also be initiated in Live Lite by pressing the Clip Fade button. Drag the square icon in the upper left or right of an audio clip to manually change the duration of the Fades.
@@ -177,9 +177,6 @@ For budding music producers and performers, the Ableton Live Lite edition's free
 
 We can create Fade in or Fade Out, which induce a progressive rise or drop in loudness, using audio clips. The little white squares at each corner of the clip allow you to adjust these two settings. The Fade In, which can be found at the start of each clip, enables a progressive rise in loudness. For this, we will drag a corner of a clip that is directly next to another clip to the clip we want.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Why can't I fade in Ableton?
 
 In essence, Ableton just refuses to display fades on certain songs. Fades won't function with automation mode activated. You should be able to use fades if you off track automation. Fades are present on all audio clips, however, if you have that setting turned on. Since they are off by default, you must create them.
@@ -210,5 +207,24 @@ In essence, Ableton just refuses to display fades on certain songs. Fades won't 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-short-track-speed-skating-olympics-2022-highlights/"><u>[New] Short Track Speed Skating Olympics 2022 Highlights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-free-video-wizardry-top-8-editing-programs-for-youtube-enthusiasts/"><u>[Updated] 2024 Approved Free Video Wizardry Top 8 Editing Programs for YouTube Enthusiasts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-navigating-the-viral-internet-landscape/"><u>[Updated] In 2024, Navigating the Viral Internet Landscape</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mixing-masterclass-elevate-drone-audio-with-20-complimentary-luts/"><u>[Updated] Mixing Masterclass - Elevate Drone Audio with 20 Complimentary LUTs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-non-profit-gaming-soundtrack-sources/"><u>[Updated] Non-Profit Gaming Soundtrack Sources</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-getting-to-grips-with-graphic-animation-basics/"><u>2024 Approved Getting to Grips with Graphic Animation Basics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pitch-modulation-techniques-in-free-fire/"><u>2024 Approved Pitch Modulation Techniques in Free Fire</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-pace-champions-2022-edition/"><u>2024 Approved Quick Pace Champions 2022 Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-on-distinguished-videographer-reputations/"><u>2024 Approved Spotlight on Distinguished Videographer Reputations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-comprehensive-guide-to-bringing-vividness-to-your-videos-sdr-hdr-conversion/"><u>A Comprehensive Guide to Bringing Vividness to Your Videos SDR-HDR Conversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conceptual-canvas-the-freshest-visual-suggestions-with-dall-e-3/"><u>Conceptual Canvas: The Freshest Visual Suggestions with DALL-E 3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-innovation-to-action-google-reveals-revolutionary-ai-bard/"><u>From Innovation to Action: Google Reveals Revolutionary AI, 'Bard'</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-reno-9a-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo Reno 9A to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-iphone-camera-mastery-x8-series-essential-tools/"><u>In 2024, IPhone Camera Mastery X/8 Series Essential Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-viewing-for-artists-best-monitor-guide/"><u>In 2024, Masterful Viewing for Artists – Best Monitor Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-to-tiktok-sound-as-your-phones-ringtone-for-2024/"><u>Step-by-Step Guide to TikTok Sound as Your Phone's Ringtone for 2024</u></a></li>
+</ul></div>
 

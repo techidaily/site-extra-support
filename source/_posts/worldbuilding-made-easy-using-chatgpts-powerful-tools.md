@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2025-01-08T17:06:47.601Z
-updated: 2025-01-11T18:27:24.968Z
+date: 2025-01-13T20:41:42.545Z
+updated: 2025-01-16T18:27:51.749Z
 tags:
   - chatgpt
   - open-ai
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ## Bard Versus ChatGPT versus Alpaca: Ranking the Leading Large Language Models
 
  Large language models (LLMs) come in all shapes and sizes, and will assist you in any way you see fit. But which is best? We put the dominant AIs from Alphabet, OpenAI, and Meta to the test.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What You Need to Know About AI Chatbots
 
@@ -45,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
@@ -59,13 +59,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -79,16 +79,12 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -102,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  Bard identified the correct colors for the wires and instructed us to connect them to Live, Neutral, and Earth terminals. It gave no instructions on how to identify these.
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which LLM Is Good for Writing Code?
 
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 You read it here first, folks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
@@ -154,21 +154,24 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-laptop-editing-avoiding-inshot-dependence/"><u>[New] Laptop Editing Avoiding Inshot Dependence</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-slo-mo-video-app-complete-review-2024/"><u>[Updated] Slo Mo Video App - Complete Review 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-art-of-3d-text-rendering-in-ps/"><u>2024 Approved Navigating the Art of 3D Text Rendering in PS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-tips-for-hitting-the-jackpot-in-pexels/"><u>2024 Approved Quick Tips for Hitting the Jackpot in Pexels</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seeking-optimal-video-player-vlc-meets-mx/"><u>2024 Approved Seeking Optimal Video Player VLC Meets MX</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-easiest-path-to-personalizing-your-pubg-characters-speech/"><u>2024 Approved The Easiest Path to Personalizing Your PUBG Character’s Speech</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 12 without Losing Data? | Stellar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-vip-racing-edition-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Note 30 VIP Racing Edition Phone without Any Data Loss</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/immersive-cinematography-anchors-for-2024/"><u>Immersive Cinematography Anchors for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-honor-x50i-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Honor X50i Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-no-cost-endless-chuckles-the-meme-makers-manual/"><u>In 2024, No Cost, Endless Chuckles The Meme Makers' Manual</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mastering-printer-management-a-comprehensive-tutorial-for-windows-11-users/"><u>Mastering Printer Management: A Comprehensive Tutorial for Windows 11 Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-infinix-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Infinix has been deleted.</u></a></li>
-<li><a href="https://extra-support.techidaily.com/scale-up-snaps-no-loss-in-detail-for-2024/"><u>Scale Up Snaps - No Loss in Detail for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-science-of-luts-elevating-photo-aesthetics-for-2024/"><u>The Science of LUTs Elevating Photo Aesthetics for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/vapor-3-showdown-veil-4-steps-forward/"><u>Vapor 3 Showdown Veil 4 Steps Forward</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-eclipsing-fears-in-your-first-10-videos/"><u>[New] 2024 Approved Eclipsing Fears in Your First 10 Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhance-watchability-with-full-screen-on-fb-videos-for-2024/"><u>[New] Enhance Watchability with Full-Screen on FB Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-champion-firefox-capture-extensions/"><u>[New] In 2024, Champion FireFox Capture Extensions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-recover-lost-watch-visual-preview/"><u>[New] In 2024, Recover Lost Watch Visual Preview</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-ultimate-guide-11-seo-strategies-for-youtube-video-ranking/"><u>[New] In 2024, Ultimate Guide 11 SEO Strategies for YouTube Video Ranking</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-modern-360-camera-purchases-2enas/"><u>[New] Mastering the Art of Modern 360 Camera Purchases (2Enas)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-advanced-features-in-obs-studio-android/"><u>[New] Navigating Advanced Features in OBS Studio (Android)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pre-purchase-key-facts-every-drone-buyer-should-know/"><u>[New] Pre-Purchase Key Facts Every Drone Buyer Should Know</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-secure-stock-images-avoiding-watermarks/"><u>[New] Secure Stock Images Avoiding Watermarks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-20-unrestricted-pubg-montage-samples/"><u>[Updated] Premier 20 Unrestricted PUBG Montage Samples</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-redefining-virtual-adventure-with-jaunt-vr/"><u>[Updated] Redefining Virtual Adventure with Jaunt VR</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-converting-pinterest-vids-to-mp3-audio/"><u>[Updated] Step-by-Step Converting Pinterest Vids to MP3 Audio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-up-in-the-metaverse-game-with-these-critical-devices-top-7/"><u>2024 Approved Step Up in the Metaverse Game with These Critical Devices (Top 7)</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1726026727722-windows-11/"><u>限定的なオーディオ設定でWindows 11スクリーンを効果的に録画するテクニック</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-make-a-youtube-reaction-video-for-2024/"><u>How to Make a YouTube Reaction Video for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimize-editing-efficiency-using-xps-capabilities/"><u>In 2024, Optimize Editing Efficiency Using XP's Capabilities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-power-up-with-these-20-top-songs-that-elevate-your-exercise-routine/"><u>In 2024, Power-Up with These 20 Top Songs that Elevate Your Exercise Routine</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sky-hdr-perfection-top-website-reviews/"><u>In 2024, Sky HDR Perfection - Top Website Reviews</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-resource-audio-recommendations-for-unboxing-content-creators/"><u>Ultimate Resource Audio Recommendations for Unboxing Content Creators</u></a></li>
 </ul></div>
 

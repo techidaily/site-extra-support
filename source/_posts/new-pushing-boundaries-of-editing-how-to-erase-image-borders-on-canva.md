@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pushing Boundaries of Editing  How to Erase Image Borders on Canva\""
-date: 2024-07-30T04:47:18.780Z
-updated: 2024-07-31T04:47:18.780Z
+date: 2025-01-13T19:28:49.797Z
+updated: 2025-01-17T08:04:24.148Z
 tags: 
   - screen-recording
   - ai video
@@ -42,17 +42,21 @@ Step1
 
 Step2 Click **"Create a Design"** and select **"Edit Photo."** Click the **"Use in a Design"** option from the top right corner of the pop-up screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![remove an image background in canva on pc](https://images.wondershare.com/filmora/article-images/2023/03/remove-an-image-background-in-canva-on-pc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Now, you will be directed to a new tab. Select your image and click the **"Edit Image"** option from the top ribbon.
 
 Step4 From the left side menu, click **"Background Remover."** Wait for the background to be processed and click **"Erase."** You can also use the cursor brush to remove the sides manually.
 
 ![background remover in canva](https://images.wondershare.com/filmora/article-images/2023/03/background-remover-in-canva.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once the background is disappeared, click **"Apply"** to save your changes.
 
@@ -62,21 +66,19 @@ The following steps will help you remove the image's background in Canva using i
 
 Step1 Install Canva from [App Store](https://apps.apple.com/us/app/canva-design-photo-video/id897446215) or [Google Play Store](https://play.google.com/store/apps/details?id=com.canva.editor&hl=en&gl=US) in first step. Launch the app and tap the purple "Plus" icon at the bottom-right of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove an image background in canva on mobile](https://images.wondershare.com/filmora/article-images/2023/03/remove-an-image-background-in-canva-on-mobile.png)
 
 Step2 Go to the **"More Ways To Create"** section and tap the **"See All"** option. Select your image and tap **"Create"** at the top right corner of the screen.
 
 Step3 Next, tap the **"Effects"** option from the menu below and select **"BG Remover."** Wait for the tool to process your image and remove the background.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** The **"Background Remover"** is available only in the premium version, letting you remove BG from up to 500 images daily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Facilitate Functions Of Removing Image's Background More Accurately
 
@@ -84,10 +86,11 @@ Follwing the above guidance, you can remove the image's background with Canva wi
 
 Canva's Erase and Restore function makes it easy to remove image backgrounds. [With **Erase**](#%5FTo%5Ferase%5Fan), you can select and erase specific elements from an image. [With **Restore**](#%5FTo%5Fundo%5Fan), you can undo any accidental erasures. Here's a quick overview of how to use these two functions:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![erase and restore options in canva](https://images.wondershare.com/filmora/article-images/2023/03/erase-and-restore-options-in-canva.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### To erase an element from an image
 
@@ -96,6 +99,10 @@ Step1 Select the **Erase** brush from the left panel under the **Background Remo
 Step2 Adjust the size of the **erase tool** to fit the element you want to remove.
 
 Step3 Select the **element** you want to remove.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### To undo an erase
 
@@ -107,9 +114,6 @@ Step2 Click on the **area** you want to restore.
 
 **Note:** These tools are only available in the Canva web and desktop version.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## The Best Alternative Of Canva To Remove Images' Backgrounds
 
 Since Canva offers the "Background Remover" tool only in the premium version, you might want to use the best free alternative to Canva to help remove an image's Background. Therefore, [Wondershare Pixcut](https://pixcut.wondershare.com/) may be a good option for you.
@@ -117,8 +121,9 @@ Since Canva offers the "Background Remover" tool only in the premium version, yo
 This online tool offers several advantages over similar devices, including a user-friendly interface, a wide range of editing options, and the ability to save edited images in up to 2000\*1502p quality.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Why Is PixCut The Best Option?
 
 Following are some of the features of the PixCut tool that makes it a better choice:
@@ -155,9 +160,6 @@ Step1 Visit the PixCut website and click the **"Upload Image"** option to import
 
 Step2 Let the tool process your image, and the background will be removed instantly. You can click the **"Download"** option to save the file on your PC or use the **"Manual Erase & Restore"** option to edit it further.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remove an image background in pixcut](https://images.wondershare.com/filmora/article-images/2023/03/remove-an-image-background-in-pixcut.png)
 
 ## Conclusion
@@ -168,16 +170,21 @@ In the end, we've recommended PixCut as the best alternative to Canva for removi
 
 Hopefully, you've found this article helpful and can now optimize your images in any way you like!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Facilitate Functions Of Removing Image's Background More Accurately
 
 Follwing the above guidance, you can remove the image's background with Canva with ease. However, there are two must-see functions in Canva which facilitate the accuracy of background removal.
 
 Canva's Erase and Restore function makes it easy to remove image backgrounds. [With **Erase**](#%5FTo%5Ferase%5Fan), you can select and erase specific elements from an image. [With **Restore**](#%5FTo%5Fundo%5Fan), you can undo any accidental erasures. Here's a quick overview of how to use these two functions:
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![erase and restore options in canva](https://images.wondershare.com/filmora/article-images/2023/03/erase-and-restore-options-in-canva.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### To erase an element from an image
 
@@ -187,49 +194,22 @@ Step2 Adjust the size of the **erase tool** to fit the element you want to remov
 
 Step3 Select the **element** you want to remove.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### To undo an erase
 
 Step1 Select the **Restore** brush from the left panel under the **Background Remover** option
 
 Step2 Click on the **area** you want to restore.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** These tools are only available in the Canva web and desktop version.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Best Alternative Of Canva To Remove Images' Backgrounds
 
 Since Canva offers the "Background Remover" tool only in the premium version, you might want to use the best free alternative to Canva to help remove an image's Background. Therefore, [Wondershare Pixcut](https://pixcut.wondershare.com/) may be a good option for you.
 
 This online tool offers several advantages over similar devices, including a user-friendly interface, a wide range of editing options, and the ability to save edited images in up to 2000\*1502p quality.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### Why Is PixCut The Best Option?
 
 Following are some of the features of the PixCut tool that makes it a better choice:
@@ -260,6 +240,10 @@ PixCut also can remove watermarks from images, which can be handy when you want 
 
 ![wondershare pixcut](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here's how you can use the PixCut platform to remove an image's background in one click:
 
 Step1 Visit the PixCut website and click the **"Upload Image"** option to import your file. Alternatively, you can drag and drop your file on the page, copy it, and click **"Ctrl+V"** or paste the URL.
@@ -268,9 +252,6 @@ Step2 Let the tool process your image, and the background will be removed instan
 
 ![remove an image background in pixcut](https://images.wondershare.com/filmora/article-images/2023/03/remove-an-image-background-in-pixcut.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored how to remove an image's background using the web version and mobile app with quick and simple steps. However, if you want to learn more about Canva editor, [click here to learn the 10 secret tips](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -301,5 +282,20 @@ Hopefully, you've found this article helpful and can now optimize your images in
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-fb-livestream-success-on-television-four-pathways/"><u>[New] 2024 Approved FB Livestream Success on Television Four Pathways</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-how-to-add-fonts-to-after-effects-in-2024/"><u>[New] How to Add Fonts to After Effects, In 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-meditative-harmony-top-free-no-copyright-playlists-for-2024/"><u>[New] Meditative Harmony – Top Free, No-Copyright Playlists for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-making-your-photoshop-projects-pop-with-3d-text-design/"><u>[Updated] In 2024, Making Your Photoshop Projects Pop with 3D Text Design</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-4k-with-prime-lenses-for-professionals/"><u>[Updated] Mastering 4K with Prime Lenses for Professionals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximum-capacity-choices-ultimate-cloud-service-list/"><u>[Updated] Maximum Capacity Choices Ultimate Cloud Service List</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigating-small-business-video-markets-for-2024/"><u>[Updated] Navigating Small Business Video Markets for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stepwise-journey-to-excellence-in-voice-memos/"><u>[Updated] Stepwise Journey to Excellence in Voice Memos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shutter-snappiness-harnessing-edits-for-great-photos/"><u>2024 Approved Shutter Snappiness Harnessing Edits for Great Photos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-science-of-scheduling-perfect-times-for-your-ig-posts/"><u>In 2024, The Science of Scheduling Perfect Times for Your IG Posts</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/lost-images-restored-effortless-samsung-galaxy-phone-photo-retrieval/"><u>Lost Images Restored: Effortless Samsung Galaxy Phone Photo Retrieval</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/troubleshooting-your-pcs-graphics-performance-tips-from-yl-software-experts/"><u>Troubleshooting Your PC's Graphics Performance - Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-your-windows-10s-powershell-version-using-quick-methods/"><u>Unveiling Your Windows 10'S PowerShell Version Using Quick Methods</u></a></li>
+</ul></div>
 

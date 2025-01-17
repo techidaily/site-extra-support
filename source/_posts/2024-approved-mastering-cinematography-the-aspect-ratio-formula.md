@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Cinematography  The Aspect Ratio Formula\""
-date: 2024-07-30T04:48:28.736Z
-updated: 2024-07-31T04:48:28.736Z
+date: 2025-01-11T23:39:37.831Z
+updated: 2025-01-17T09:36:31.799Z
 tags: 
   - screen-recording
   - ai video
@@ -24,30 +24,33 @@ If you want to learn more about video aspect ratios, how to apply them to differ
 
 With that said, let's dive right into it!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. What is a video aspect ratio?
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Commonly used aspect ratios
 
 There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 16:9 Widescreen
 
 This aspect ratio is recognized as the worldwide reference format for film, mobile devides, DSLR cameras, streaming platforms, social media platforms, and many more. It is known as landscape viewing which include 720p, 1080p HD and 4K resolution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4:3 Standard
 
 This resolution is originally used in older television screens, which transformed into mobile use as this aspect ratio works really well for Instagram and Facebook videos, referring to the 9:16 phone resolution making a square video more pleasant to watch and to be featured in in-feed videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 9:16 Vertical
 
@@ -57,10 +60,6 @@ The 9:16 aspect ratio has become the mainstream resolution for smartphones for e
 
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Which aspect ratio should I choose?
 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
@@ -78,8 +77,9 @@ Facebook is one of the most used website across the world on both computer and t
 9:16 for Facebook stories
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### YouTube
 
 To this day, it's safe to say that YouTube is the leading platform in the video industry. Not only because of how long they have been around, but also about how much content is uploaded every minute and how many users it has each month. To give the viewers the best experience, here are the top aspect ratios we recommend when posting content onto your YouTube channel.
@@ -92,10 +92,6 @@ To this day, it's safe to say that YouTube is the leading platform in the video 
 
 21:9 for cinematic videos/shortfilms
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Instagram
 
 When talking about Instagram, which is very similar to Facebook, use these aspect ratios to ensure that your quality will be the best of the best.
@@ -128,9 +124,6 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Black bars
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
@@ -138,6 +131,10 @@ When editing your video, adding black bars is not changing the aspect ratio as y
 ### Cropping
 
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -173,5 +170,23 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-fiendish-funny-factory-for-2024/"><u>[New] Fiendish Funny Factory for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-caller-id-changers-with-enchanting-options/"><u>[New] Leading Caller ID Changers with Enchanting Options</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-peak-panzoid-structures-for-beginners/"><u>[New] Peak Panzoid Structures for Beginners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-to-create-gripping-documentary-scenes/"><u>[New] Strategies to Create Gripping Documentary Scenes</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-determining-the-price-to-film-a-melody-on-camera/"><u>[Updated] 2024 Approved Determining the Price to Film a Melody on Camera</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-unboxers-the-ultimate-channel-selection-guide-2024-edition/"><u>[Updated] Prime Unboxers The Ultimate Channel Selection Guide, 2024 Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-drawing-faces-on-snapchat-for-2024/"><u>[Updated] Step-by-Step Drawing Faces on Snapchat for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-essential-iphone-and-android-video-editor-choices/"><u>2024 Approved Essential iPhone & Android Video Editor Choices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-integrating-third-party-tools-with-your-win11-zoom-setup/"><u>2024 Approved Integrating Third-Party Tools with Your Win11 Zoom Setup</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-the-surface-hidden-post-factors-on-fb/"><u>Beyond the Surface: Hidden Post Factors on FB</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-how-an-apple-employee-found-unexpected-joy-using-the-innovative-vision-pro-a-must-read-article/"><u>Discover How an Apple Employee Found Unexpected Joy Using the Innovative Vision Pro - A Must-Read Article!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-intro-vibes-top-music-haunts-for-podcasts/"><u>In 2024, Intro Vibes Top Music Haunts for Podcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instagram-videos-wandering-why-angles-change-in-2024/"><u>Instagram Videos Wandering - Why Angles Change, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/instant-solution-a-step-by-step-process-for-a-speedy-facebook-password-change/"><u>Instant Solution: A Step-by-Step Process for a Speedy Facebook Password Change</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-mobile-artistry-top-android-collage-apps-for-2024/"><u>Mastering Mobile Artistry - Top Android Collage Apps for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-escort-max-360-the-all-in-one-solution-for-advanced-gps-speed-detection-technology/"><u>Unveiling the Escort Max 360: The All-in-One Solution for Advanced GPS Speed Detection Technology</u></a></li>
+</ul></div>
 

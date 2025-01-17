@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photo Viewer Revival Techniques for Enhanced Windows 11 Experience"
-date: 2025-01-08T16:40:23.411Z
-updated: 2025-01-11T20:20:23.373Z
+date: 2025-01-11T22:11:23.958Z
+updated: 2025-01-17T06:16:19.079Z
 tags: 
   - screen-recording
   - ai video
@@ -37,7 +37,7 @@ Stay tuned to learn more!
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why you prefer Windows Photo Viewer
@@ -59,7 +59,15 @@ Here is why they want to restore Windows Photo Viewer –
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
 
@@ -69,13 +77,13 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -91,16 +99,12 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -108,10 +112,6 @@ Here is the detailed guide –
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -130,17 +130,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-eight-elite-5k-displays-for-professional-use-for-2024/"><u>[New] Eight Elite 5K Displays for Professional Use for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-from-script-to-smile-generate-text-memes-instantly/"><u>[New] From Script to Smile Generate Text Memes Instantly</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-navigate-the-tiktok-twitter-connection/"><u>[Updated] In 2024, Navigate the TikTok-Twitter Connection</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-integrating-soundscape-with-video-narrative-in-premiere-pro/"><u>[Updated] Integrating Soundscape With Video Narrative in Premiere Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-peak-engagement-title-conjurer/"><u>[Updated] Peak Engagement Title Conjurer</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-importance-of-non-primary-footage-in-editing/"><u>[Updated] The Importance of Non-Primary Footage in Editing</u></a></li>
-<li><a href="https://win11.techidaily.com/decode-your-display-dilemmas-windows-screen-settings-guide/"><u>Decode Your Display Dilemmas: Windows' Screen Settings Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/ejecting-unsolicited-windows-updates/"><u>Ejecting Unsolicited Windows Updates</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pair-audio-with-video-webspace-hub/"><u>In 2024, Pair Audio with Video Webspace Hub</u></a></li>
-<li><a href="https://extra-support.techidaily.com/journey-to-freedom-with-free-movie-player-os-x-and-windows-for-2024/"><u>Journey to Freedom with FREE MOVIE PLAYER (OS X & Windows) for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastery-through-motion-a-garageband-guide-to-podcasting-for-2024/"><u>Mastery Through Motion A GarageBand Guide to Podcasting for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unite-audiences-amplifying-your-brand-through-facebook-linkedin-and-youtube-collaboration/"><u>Unite Audiences: Amplifying Your Brand Through Facebook, LinkedIn & YouTube Collaboration</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ritical-channels-for-asmr-lovers/"><u>[New] Critical Channels for ASMR Lovers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-google-photos-full-potential/"><u>[New] Leveraging Google Photos' Full Potential</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-melodic-matrices-crafting-top-tracks-to-initiate-your-podcasts/"><u>[New] Melodic Matrices Crafting Top Tracks to Initiate Your Podcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-single-tasking-with-background-elimination/"><u>[New] Single-Tasking with Background Elimination</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-directors-cut-answers-filmo-tips/"><u>[Updated] 2024 Approved Director's Cut Answers Filmo Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-earning-through-youtube-partnerships/"><u>[Updated] 2024 Approved Earning Through YouTube Partnerships</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-picks-scrutinizing-active-and-leading-recorders-feats/"><u>[Updated] In 2024, Top Picks Scrutinizing Active and Leading Recorder's Feats</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-photo-color-alteration-a-professionals-guide/"><u>[Updated] Mastering Photo Color Alteration A Professional's Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-nord-3-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus Nord 3 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-enhancing-iphone-selfies-with-water-surface-highlights/"><u>In 2024, Enhancing iPhone Selfies with Water Surface Highlights</u></a></li>
+<li><a href="https://fox-place.techidaily.com/securing-your-bitcoin-and-altcoins-expert-tips-from-yl-softwares-crypto-security-guide/"><u>Securing Your Bitcoin and Altcoins: Expert Tips From YL Software's Crypto Security Guide</u></a></li>
 </ul></div>
 

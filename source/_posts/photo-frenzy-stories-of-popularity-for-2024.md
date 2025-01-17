@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Frenzy  Stories of Popularity for 2024\""
-date: 2025-01-09T16:40:08.130Z
-updated: 2025-01-11T16:11:33.424Z
+date: 2025-01-10T08:09:54.181Z
+updated: 2025-01-17T06:56:25.118Z
 tags: 
   - screen-recording
   - ai video
@@ -26,10 +26,6 @@ So, what are the most popular stock photo memes, and how did they reach this sta
 
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
 
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
@@ -46,13 +42,13 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part2: Distracted Boyfriend
@@ -62,7 +58,7 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
@@ -82,14 +78,22 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part3: I Bet He's Thinking About Other Women
 
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
@@ -104,6 +108,10 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
 
 * The meme also appears in a 2017 tweet by @NFLRT, an NFL fan account, where the man questions when Colin Kaepernick will be signed.
@@ -113,10 +121,6 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part4: Bonjour Bear
 
@@ -129,10 +133,6 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 * In this version, Bonjour Bear reacts to the discovery of a wound after using hand sanitizer. The post became popular during the COVID-19 pandemic when using hand sanitizer was at its peak.
 
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
 
@@ -189,22 +189,17 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-visual-storytelling-with-free-images-from-these-esteemed-online-portals/"><u>[New] Mastering Visual Storytelling with Free Images From These Esteemed Online Portals</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-best-8-value-video-communication-programs-for-pc-and-mac/"><u>[Updated] 2024 Approved The Best 8 Value Video Communication Programs for PC and MAC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-makeup-trends-to-try-now/"><u>[Updated] Makeup Trends to Try Now</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-peeling-back-layers-of-the-apple-m1-chip/"><u>[Updated] Peeling Back Layers of the Apple M1 Chip</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capture-the-moment-idevice-screenshots-and-playback/"><u>2024 Approved Capture the Moment IDevice Screenshots & Playback</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-linked-insight-merging-instagram-and-tiktok/"><u>2024 Approved Linked Insight Merging Instagram & TikTok</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-art-of-striking-gopro-time-lapse-videos/"><u>2024 Approved Master the Art of Striking GoPro Time-Lapse Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-panoramic-precision-battle-gear-vs-lgcam-showdown/"><u>2024 Approved Panoramic Precision Battle Gear Vs LGCam Showdown</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premiere-pros-picks-professional-camera-stabilizers-reviewed/"><u>2024 Approved Premiere Pros' Picks Professional Camera Stabilizers Reviewed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-professional-drone-review-best-5-to-consider/"><u>2024 Approved Professional Drone Review Best 5 to Consider</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-productivity-in-vs-code-by-incorporating-chatgpt-a-guide-to-10-key-strategies/"><u>Boost Productivity in VS Code by Incorporating ChatGPT - A Guide to 10 Key Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-pc-wins-best-performance-fixes-ranked/"><u>Boost Your PC: Win's Best Performance Fixes Ranked</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-the-spark-selecting-top-youtube-videos-for-channels-for-2024/"><u>Igniting the Spark Selecting Top YouTube Videos for Channels for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-holistic-evaluation-full-screenflow-for-mac-functionality/"><u>In 2024, Holistic Evaluation Full ScreenFlow for Mac Functionality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-master-your-first-ps-project-10-easy-tips/"><u>In 2024, Master Your First PS Project 10 Easy Tips</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-15-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 15 Pro Max? How to Fix</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-legal-footprints-in-the-digital-age-photowatermarking-for-instagram-for-2024/"><u>[New] Legal Footprints in the Digital Age Photowatermarking for Instagram for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mythos-makers-circle-top-ten-tales/"><u>[New] Mythos Makers Circle – Top Ten Tales</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-uncharted-territory-in-facebooks-meme-landscape/"><u>[Updated] 2024 Approved Uncharted Territory in Facebook's Meme Landscape</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-master-the-art-of-file-acquisition-expert-guide-for-downloading-igtv/"><u>[Updated] Master the Art of File Acquisition Expert Guide for Downloading IGTV</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-focusfulness-selecting-online-video-augmenters/"><u>2024 Approved Focusfulness Selecting Online Video Augmenters</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-tweak-the-speed-of-your-stories-videos/"><u>2024 Approved Learn to Tweak the Speed of Your Stories' Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-selective-selection-best-bands-for-ringtones/"><u>2024 Approved Selective Selection Best Bands for Ringtones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-techniques-for-unlinking-youtube-videos-from-devices/"><u>2024 Approved Techniques for Unlinking YouTube Videos From Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-huawei-nova-y91-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Huawei Nova Y91 FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-stabilized-gimbals-for-smartphones-tablets-and-dslr-cameras/"><u>In 2024, Pro Stabilized Gimbals for Smartphones, Tablets, and DSLR Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-audio-transitions-audacity-guide-for-2024/"><u>Mastering Audio Transitions Audacity Guide for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/understanding-the-dangers-a-comprehensive-guide-to-cryptocurrency-purchase-risks-yl-computing-solutions/"><u>Understanding the Dangers: A Comprehensive Guide to Cryptocurrency Purchase Risks - YL Computing Solutions</u></a></li>
 </ul></div>
 

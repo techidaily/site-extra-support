@@ -1,7 +1,7 @@
 ---
 title: "\"Sonic Layering  A Guide to Music Vids on Instagram for 2024\""
-date: 2024-07-30T04:49:52.512Z
-updated: 2024-07-31T04:49:52.512Z
+date: 2025-01-15T17:11:04.652Z
+updated: 2025-01-16T19:28:59.992Z
 tags: 
   - screen-recording
   - ai video
@@ -40,9 +40,6 @@ This will change the game for you. So, learn how to put music on Instagram video
 
 03 [Put your music on Instagram video](#Part 3)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1 How To Create Instagram Video With Music
 
 The idea of introducing music to your video and the procedure is the same for both iOS and Android. The caveat here is that you need to have the latest version of the app to work well. Once you update the app, here's what you do when putting music to Instagram video.
@@ -53,9 +50,6 @@ Instagram Reels are the easiest way to post an Instagram video with music. With 
 
 **Step 1:** Go to your homepage and tap on the 'Story' button. This will take you to multiple options.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![open your instagram story](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-1.png)
 
 **Step 2:** Choose the 'Reels' option on your app at the bottom.
@@ -64,9 +58,6 @@ Instagram Reels are the easiest way to post an Instagram video with music. With 
 
 **Step 3:** You'll see a row of options. The first holds the 'Music' icon. Tap that icon to browse for audio tracks.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ choose from prompt list of songs](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-3.png)
 
 **Step 4:** Browse the files on your app until you select the chosen music track. Add the track to your Reel.
@@ -77,9 +68,6 @@ Instagram Reels are the easiest way to post an Instagram video with music. With 
 
 Finally, add the video, and you're ready to post! Instagram is forgiving enough to let you add the video before or after recording the Reel.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2 How To Find Music For Instagram Video
 
 ### Instagram Music Sticker
@@ -90,23 +78,14 @@ You can instantly notice a music icon whenever you swipe to add a sticker to eit
 
 You have the option to preview the audio before selecting it. This way, you can see if it matches your video well or not. Having the right audio for your video can be a make or break. The engagement metrics for your video depend on the quality of the video. For the long-term benefit of your Instagram page, you can ensure you create harmony between the right visuals and audio.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ tap on music sticker to add music ](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-6.png)
 
 You also have options like fast-forward or rewind through the soundtrack once you've decided on audio for your video. You can go the custom route and choose a soundtrack from your device. You can also opt for an audio track from the Instagram music library.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ browse for audio on instagram library](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-7.png)
 
 If you don't see the option to add music, then it's most likely because you haven't updated the app. Once you update the app, you'll be able to
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Spotify
 
 You can learn how to add [Spotify](https://www.spotify.com/) music to video Instagram Story in this section. Just follow the instructions below to know how to add Spotify music to Instagram.
@@ -119,9 +98,6 @@ You can learn how to add [Spotify](https://www.spotify.com/) music to video Inst
 
 **Step 3:** This will pop out a list of apps you can share the Spotify music on. Choose the Instagram icon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![ share audio on instagram](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-9.png)
 
 **Step 4:** This will take you to the Instagram Story page. You can now share the selected song with its album art on your Story.
@@ -131,6 +107,10 @@ You can learn how to add [Spotify](https://www.spotify.com/) music to video Inst
 **Step 5:** Add relevant text, emoji, stickers, and other effects to enhance your Story. Select the 'Your Story' button to post.
 
 So far, we've covered how to post the Spotify song on your Story. Unfortunately, you can't know how to add Spotify music to Instagram video because the feature isn't available yet. However, don't fret because we have the perfect solution for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3 Put your own music on Instagram video
 
@@ -146,10 +126,11 @@ Get started quickly with Filmora's powerful performance, intuitive interface, an
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Thanks to Filmora's new makeover, it now boasts a host of advanced editing features and advanced technology. The automated elements included helping you hone the video to a cinematic finish. The sophistication displayed by the software can help users get the best out of this video editor.
 
@@ -161,9 +142,6 @@ For instance, you can add a green screen to the video. This is an advanced editi
 
 Another option is Animation Keyframing. This lets you animate objects. Images, individual elements in a scene. The possibilities for its use are limitless with the animation feature.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![ use the animation feature on wondershare filmora](https://images.wondershare.com/filmora/guide/animation-keyframing-1.png)
 
 You have the choice of leaning into Artificial Intelligence assisted video editing. This is brought to life in options like Auto Normalization, Auto Highlight, Auto Reframe, AI Portrait, and AR Stickers.
@@ -176,10 +154,6 @@ You have the choice of leaning into Artificial Intelligence assisted video editi
 
 ● Now we get to see the cool stuff in action. The AI Portrait removes video backgrounds. Of course, it works best when you have a single subject composition. It also has provisions for adding borders, video effects, and more!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![use the animation feature on wondershare filmora](https://images.wondershare.com/filmora/guide/ai-portrait-3.png)
 
 ● AR Stickers are image-based stickers that can showcase the users' personalities by using them as reaction images to express their emotions! It can work its way on birthday cards, a digital element in your video, etc.
@@ -215,15 +189,13 @@ This will change the game for you. So, learn how to put music on Instagram video
 03 [Put your music on Instagram video](#Part 3)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1 How To Create Instagram Video With Music
 
 The idea of introducing music to your video and the procedure is the same for both iOS and Android. The caveat here is that you need to have the latest version of the app to work well. Once you update the app, here's what you do when putting music to Instagram video.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Instagram Reels
 
 Instagram Reels are the easiest way to post an Instagram video with music. With music, you can easily up your content creation game. So let's get down to it.
@@ -234,14 +206,15 @@ Instagram Reels are the easiest way to post an Instagram video with music. With 
 
 **Step 2:** Choose the 'Reels' option on your app at the bottom.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ add audio to instagram reel](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-2.png)
 
 **Step 3:** You'll see a row of options. The first holds the 'Music' icon. Tap that icon to browse for audio tracks.
 
 ![ choose from prompt list of songs](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Browse the files on your app until you select the chosen music track. Add the track to your Reel.
 
@@ -253,16 +226,10 @@ Finally, add the video, and you're ready to post! Instagram is forgiving enough 
 
 ## Part 2 How To Find Music For Instagram Video
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Instagram Music Sticker
 
 You can instantly notice a music icon whenever you swipe to add a sticker to either a video recording or image in Stories. Select it to access a music library with hundreds of tracks – you then look for a particular song, explore by mood, genre, or what's popular.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ load a video on instagram story](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-5.png)
 
 You have the option to preview the audio before selecting it. This way, you can see if it matches your video well or not. Having the right audio for your video can be a make or break. The engagement metrics for your video depend on the quality of the video. For the long-term benefit of your Instagram page, you can ensure you create harmony between the right visuals and audio.
@@ -271,14 +238,6 @@ You have the option to preview the audio before selecting it. This way, you can 
 
 You also have options like fast-forward or rewind through the soundtrack once you've decided on audio for your video. You can go the custom route and choose a soundtrack from your device. You can also opt for an audio track from the Instagram music library.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ browse for audio on instagram library](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-7.png)
 
 If you don't see the option to add music, then it's most likely because you haven't updated the app. Once you update the app, you'll be able to
@@ -291,16 +250,10 @@ You can learn how to add [Spotify](https://www.spotify.com/) music to video Inst
 
 **Step 2:**Once the song is playing. First, tap the three dots on your screen. They're located on the top right-hand side of your screen. Then, click on the 'Share' option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![ share song from spotify app](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-8.png)
 
 **Step 3:** This will pop out a list of apps you can share the Spotify music on. Choose the Instagram icon.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ share audio on instagram](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-9.png)
 
 **Step 4:** This will take you to the Instagram Story page. You can now share the selected song with its album art on your Story.
@@ -361,9 +314,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
 ### Conclusion
@@ -396,10 +346,11 @@ Instagram Reels are the easiest way to post an Instagram video with music. With 
 
 **Step 1:** Go to your homepage and tap on the 'Story' button. This will take you to multiple options.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open your instagram story](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Choose the 'Reels' option on your app at the bottom.
 
@@ -407,16 +358,10 @@ Instagram Reels are the easiest way to post an Instagram video with music. With 
 
 **Step 3:** You'll see a row of options. The first holds the 'Music' icon. Tap that icon to browse for audio tracks.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![ choose from prompt list of songs](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-3.png)
 
 **Step 4:** Browse the files on your app until you select the chosen music track. Add the track to your Reel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![ edit audio track for your video](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-4.png)
 
 **Step 5:** The song has a slider at the bottom. These sliders help you control the part of the audio you want to use in your video. Once you have that identified, you're set.
@@ -429,16 +374,10 @@ Finally, add the video, and you're ready to post! Instagram is forgiving enough 
 
 You can instantly notice a music icon whenever you swipe to add a sticker to either a video recording or image in Stories. Select it to access a music library with hundreds of tracks – you then look for a particular song, explore by mood, genre, or what's popular.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![ load a video on instagram story](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-5.png)
 
 You have the option to preview the audio before selecting it. This way, you can see if it matches your video well or not. Having the right audio for your video can be a make or break. The engagement metrics for your video depend on the quality of the video. For the long-term benefit of your Instagram page, you can ensure you create harmony between the right visuals and audio.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ tap on music sticker to add music ](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-6.png)
 
 You also have options like fast-forward or rewind through the soundtrack once you've decided on audio for your video. You can go the custom route and choose a soundtrack from your device. You can also opt for an audio track from the Instagram music library.
@@ -446,6 +385,10 @@ You also have options like fast-forward or rewind through the soundtrack once yo
 ![ browse for audio on instagram library](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-7.png)
 
 If you don't see the option to add music, then it's most likely because you haven't updated the app. Once you update the app, you'll be able to
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Spotify
 
@@ -455,14 +398,15 @@ You can learn how to add [Spotify](https://www.spotify.com/) music to video Inst
 
 **Step 2:**Once the song is playing. First, tap the three dots on your screen. They're located on the top right-hand side of your screen. Then, click on the 'Share' option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ share song from spotify app](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-8.png)
 
 **Step 3:** This will pop out a list of apps you can share the Spotify music on. Choose the Instagram icon.
 
 ![ share audio on instagram](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** This will take you to the Instagram Story page. You can now share the selected song with its album art on your Story.
 
@@ -472,9 +416,6 @@ You can learn how to add [Spotify](https://www.spotify.com/) music to video Inst
 
 So far, we've covered how to post the Spotify song on your Story. Unfortunately, you can't know how to add Spotify music to Instagram video because the feature isn't available yet. However, don't fret because we have the perfect solution for you.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3 Put your own music on Instagram video
 
 Instagram doesn't actually allow you to add music directly to your Instagram video posts. However, this shouldn't stop you from knowing how to make Instagram video with music. You can do this by editing the video yourself before posting it on your social media handles.
@@ -489,9 +430,6 @@ Get started quickly with Filmora's powerful performance, intuitive interface, an
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
 Thanks to Filmora's new makeover, it now boasts a host of advanced editing features and advanced technology. The automated elements included helping you hone the video to a cinematic finish. The sophistication displayed by the software can help users get the best out of this video editor.
@@ -504,9 +442,6 @@ For instance, you can add a green screen to the video. This is an advanced editi
 
 Another option is Animation Keyframing. This lets you animate objects. Images, individual elements in a scene. The possibilities for its use are limitless with the animation feature.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![ use the animation feature on wondershare filmora](https://images.wondershare.com/filmora/guide/animation-keyframing-1.png)
 
 You have the choice of leaning into Artificial Intelligence assisted video editing. This is brought to life in options like Auto Normalization, Auto Highlight, Auto Reframe, AI Portrait, and AR Stickers.
@@ -519,9 +454,6 @@ You have the choice of leaning into Artificial Intelligence assisted video editi
 
 ● Now we get to see the cool stuff in action. The AI Portrait removes video backgrounds. Of course, it works best when you have a single subject composition. It also has provisions for adding borders, video effects, and more!
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![use the animation feature on wondershare filmora](https://images.wondershare.com/filmora/guide/ai-portrait-3.png)
 
 ● AR Stickers are image-based stickers that can showcase the users' personalities by using them as reaction images to express their emotions! It can work its way on birthday cards, a digital element in your video, etc.
@@ -537,8 +469,9 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 So, this article explored the different methods on how to make Instagram videos with music. So far, the sticker method wins out for being user-friendly. But it's not infallible. It works best for a quick video with no fuss.
@@ -563,9 +496,6 @@ This will change the game for you. So, learn how to put music on Instagram video
 
 The idea of introducing music to your video and the procedure is the same for both iOS and Android. The caveat here is that you need to have the latest version of the app to work well. Once you update the app, here's what you do when putting music to Instagram video.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Instagram Reels
 
 Instagram Reels are the easiest way to post an Instagram video with music. With music, you can easily up your content creation game. So let's get down to it.
@@ -574,16 +504,16 @@ Instagram Reels are the easiest way to post an Instagram video with music. With 
 
 ![open your instagram story](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Choose the 'Reels' option on your app at the bottom.
 
 ![ add audio to instagram reel](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-2.png)
 
 **Step 3:** You'll see a row of options. The first holds the 'Music' icon. Tap that icon to browse for audio tracks.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![ choose from prompt list of songs](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-3.png)
 
 **Step 4:** Browse the files on your app until you select the chosen music track. Add the track to your Reel.
@@ -594,23 +524,8 @@ Instagram Reels are the easiest way to post an Instagram video with music. With 
 
 Finally, add the video, and you're ready to post! Instagram is forgiving enough to let you add the video before or after recording the Reel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Part 2 How To Find Music For Instagram Video
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Instagram Music Sticker
 
 You can instantly notice a music icon whenever you swipe to add a sticker to either a video recording or image in Stories. Select it to access a music library with hundreds of tracks – you then look for a particular song, explore by mood, genre, or what's popular.
@@ -619,9 +534,6 @@ You can instantly notice a music icon whenever you swipe to add a sticker to eit
 
 You have the option to preview the audio before selecting it. This way, you can see if it matches your video well or not. Having the right audio for your video can be a make or break. The engagement metrics for your video depend on the quality of the video. For the long-term benefit of your Instagram page, you can ensure you create harmony between the right visuals and audio.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ tap on music sticker to add music ](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-6.png)
 
 You also have options like fast-forward or rewind through the soundtrack once you've decided on audio for your video. You can go the custom route and choose a soundtrack from your device. You can also opt for an audio track from the Instagram music library.
@@ -638,10 +550,11 @@ You can learn how to add [Spotify](https://www.spotify.com/) music to video Inst
 
 **Step 2:**Once the song is playing. First, tap the three dots on your screen. They're located on the top right-hand side of your screen. Then, click on the 'Share' option.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ share song from spotify app](https://images.wondershare.com/filmora/article-images/2022/03/make-instagram-videos-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** This will pop out a list of apps you can share the Spotify music on. Choose the Instagram icon.
 
@@ -705,9 +618,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
 ### Conclusion
@@ -738,5 +648,23 @@ If you want to create a video with all the bells and whistles, you're better off
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-learn-how-to-assemble-memories-with-iphone-images/"><u>[New] Learn How to Assemble Memories with iPhone Images</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-accelerated-fortnite-visualization-steps/"><u>[Updated] Accelerated Fortnite Visualization Steps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastery-of-transferring-multitudes-of-tiktok-videos/"><u>[Updated] Mastery of Transferring Multitudes of TikTok Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-nostalgic-portraits-retold-transforming-old-prints-to-digital-for-2024/"><u>[Updated] Nostalgic Portraits Retold Transforming Old Prints to Digital for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-full-review-for-bublcam-360-camera/"><u>2024 Approved Full Review for Bublcam 360 Camera</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/effective-repository-organization-and-management-tools/"><u>Effective Repository Organization and Management Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhancing-conversations-facebooks-new-messaging-features-announced/"><u>Enhancing Conversations: Facebook's New Messaging Features Announced</u></a></li>
+<li><a href="https://fox-links.techidaily.com/exploring-pc-video-editing-substitutes/"><u>Exploring PC Video Editing Substitutes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-broadview-networks-navigating-mcn-choices/"><u>In 2024, Broadview Networks Navigating MCN Choices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-insights-proclaiming-rights-to-free-clip-art-legally/"><u>In 2024, Inside Insights Proclaiming Rights to Free Clip Art Legally</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nikon-j5-in-4k-the-ultimate-camera-review/"><u>In 2024, Nikon J5 in 4K The Ultimate Camera Review</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/nombren-de-fauna-en-espanol-60-estudios-ideales/"><u>Nombren De Fauna en Español, 60 Estudios Ideales</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-moment-for-podcast-debuts-for-2024/"><u>Perfect Moment for Podcast Debuts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/securing-top-quality-pixel-ringtones-where-to-go-for-2024/"><u>Securing Top Quality Pixel Ringtones Where to Go for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-windows-11-audio-landscape-with-dolby-atmos/"><u>Transform Your Windows 11 Audio Landscape with Dolby Atmos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-capabilities-detailed-insights-into-the-netgear-ac1200-ex6200-wi-fi-signal-booster-review/"><u>Unveiling the Capabilities: Detailed Insights Into the Netgear AC1200 (EX6200) Wi-Fi Signal Booster Review</u></a></li>
+</ul></div>
 

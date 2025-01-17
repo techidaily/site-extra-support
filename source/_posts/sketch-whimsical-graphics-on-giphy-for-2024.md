@@ -1,7 +1,7 @@
 ---
 title: "Sketch Whimsical Graphics on Giphy for 2024"
-date: 2025-01-07T17:59:25.843Z
-updated: 2025-01-11T16:18:07.015Z
+date: 2025-01-09T19:04:59.650Z
+updated: 2025-01-17T06:15:43.513Z
 tags: 
   - screen-recording
   - ai video
@@ -32,13 +32,13 @@ Step1 Download and launch the app, then register for an account or sign in if yo
 
 ![download giphy app](https://images.wondershare.com/filmora/article-images/2022/07/download-giphy-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 To upload a video to GIPHY, click Upload. To add a video from your computer or mobile device, choose ‘Choose File’ as there is an option to do so
 
 ![upload video to giphy](https://images.wondershare.com/filmora/article-images/2022/07/upload-video-to-giphy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 If you wish to upload a video from a URL, you may do so. After you've submitted your movie, you'll be sent to the next page automatically so that you may cut it.
 
@@ -73,7 +73,7 @@ The video file must then be included in the timeline. Another option is to play 
 ![include music and subtitles](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4 Edit the Meme
@@ -83,7 +83,7 @@ If you want to add additional text to your meme, use the features-list menu bar.
 ![edit the meme](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step5 Publish or Save Your Meme
@@ -107,7 +107,7 @@ To start a new meme project, open the Filmora video meme creator and choose "New
 ![import files to filmora](https://images.wondershare.com/filmora/guide/add-titles-win-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3 Include Music and Subtitles
@@ -117,7 +117,7 @@ The video file must then be included in the timeline. Another option is to play 
 ![include music and subtitles](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4 Edit the Meme
@@ -158,21 +158,24 @@ Additionally, Giphy offers a Giphy Cam software that enables users to create cus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-shines-mastering-the-art-of-content-highlights/"><u>[Updated] 2024 Approved Instagram Shines Mastering the Art of Content Highlights</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-how-to-take-long-exposure-shots-with-iphone-for-2024/"><u>[Updated] How to Take Long Exposure Shots with iPhone for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-ultimate-package-accessories-to-boost-your-yi-4k/"><u>[Updated] In 2024, The Ultimate Package Accessories to Boost Your YI 4K</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-perfecting-the-art-of-subtle-sound-enhancements-in-lumafusion/"><u>[Updated] Perfecting the Art of Subtle Sound Enhancements in Lumafusion</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-iphone-360-degrees-and-fb-sharing/"><u>[Updated] Step-by-Step IPhone, 360 Degrees, & FB Sharing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-8-plus-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 8 Plus in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi 13T? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-tales-leading-academies-for-aspiring-narrators/"><u>In 2024, Mastering Tales Leading Academies for Aspiring Narrators</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photographic-precision-against-shake/"><u>In 2024, Photographic Precision Against Shake</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-journey-to-captivating-hdr-portraits/"><u>In 2024, Step-by-Step Journey to Captivating HDR Portraits</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-samsung-galaxy-m34-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Samsung Galaxy M34.</u></a></li>
-<li><a href="https://driver-error.techidaily.com/revive-unrecognized-devices-in-windows-nt4-server/"><u>Revive Unrecognized Devices in Windows NT4 Server</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seamlesssoundcast-the-essential-steps-for-a-smooth-live-podcast-broadcast-for-2024/"><u>SeamlessSoundCast The Essential Steps for a Smooth Live Podcast Broadcast for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-gaming-experience-restored-resolving-the-assassins-creed-valhalla-pc-crash-issues/"><u>Smooth Gaming Experience Restored: Resolving the Assassin's Creed: Valhalla PC Crash Issues</u></a></li>
-<li><a href="https://extra-support.techidaily.com/solving-movie-editing-queries-with-filmora-guidance-for-2024/"><u>Solving Movie-Editing Queries with Filmora Guidance for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-guide-to-elevating-your-reddit-game-for-2024/"><u>Step-by-Step Guide to Elevating Your Reddit Game for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-web-picks-for-stylish-3d-sparkling-text/"><u>[New] Prime Web Picks for Stylish 3D Sparkling Text</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-tips-to-create-impactful-and-stunning-gopro-time-lapses/"><u>[New] Pro Tips to Create Impactful and Stunning GoPro Time-Lapses</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-permanent-linkage-to-tiktok-profiles-without-hiccups/"><u>[Updated] Permanent Linkage to TikTok Profiles Without Hiccups</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-tips-for-saving-the-world-with-a-smile/"><u>[Updated] Quick Tips for Saving the World with a Smile</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spotlight-on-revolutionary-vr-engine-software/"><u>[Updated] Spotlight on Revolutionary VR Engine Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-magic-meets-technology-the-future-of-home-studio-production/"><u>2024 Approved Magic Meets Technology The Future of Home Studio Production</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-parroting-perfection-dissecting-bebops-latest-flight-feature/"><u>2024 Approved Parroting Perfection Dissecting Bebop's Latest Flight Feature</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-peeps-funny-photos-iphones-style/"><u>2024 Approved Peeps' Funny Photos, iPhones Style</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-a18-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/avoid-frustration-expert-advice-how-to-keep-maplestory-running-smoothly-on-windows-10-new-tips/"><u>Avoid Frustration! Expert Advice: How To Keep MapleStory Running Smoothly on Windows 10 (New Tips)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-reno-11-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo Reno 11 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-asus-rog-phone-8-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Asus ROG Phone 8</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-nubia-red-magic-8s-proplus-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Nubia Red Magic 8S Pro+ Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-lut-use-in-professional-video-editing-for-2024/"><u>Navigating LUT Use in Professional Video Editing for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/patching-perfection-microsoft-resolves-issues-in-latest-windows-10-and-11-update-releases/"><u>Patching Perfection: Microsoft Resolves Issues in Latest Windows 10 & 11 Update Releases</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-startup-problems-in-microsoft-configurations-on-your-windows-10-pc-step-by-step/"><u>Resolving Startup Problems in Microsoft Configurations on Your Windows 10 PC [Step-by-Step]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/shade-adjustments-simplified-learn-with-these-11-guides-for-2024/"><u>Shade Adjustments Simplified - Learn with These 11 Guides for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/top-accessories-to-elevate-your-sj4000-experience/"><u>Top Accessories to Elevate Your SJ4000 Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-strategies-for-smart-grocery-shopping-with-ai-integration-digitalshopper-insights/"><u>Top Strategies for Smart Grocery Shopping with AI Integration | DigitalShopper Insights</u></a></li>
 </ul></div>
 
