@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smoother Rides with HTC Vive  Anti-Nausea Tips\""
-date: 2024-07-30T04:42:04.851Z
-updated: 2024-07-31T04:42:04.851Z
+date: 2025-01-18T17:15:12.386Z
+updated: 2025-01-23T16:41:48.371Z
 tags: 
   - screen-recording
   - ai video
@@ -27,15 +27,91 @@ thumbnail: https://thmb.techidaily.com/634ac9f760c3e79a9b2c54edc99fe994b8053a847
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What HTC does to reduce motion sickness
 
  HTC Vive is aiming at giving its customers the virtual reality experience so real and sick-free that they can fully have fun with the technology and make their money and time spent well. In spite of improvements to game technology in recent years, HTC is focusing heavily these days on making sure users feel correctly oriented. HTC is also at work on boosting the frame rate to match with the body movements and to clear up that nausea-inducing mismatch. The game developers are coming up with a variety of solutions to solve the problem, or at least minimize it. A new technology introduced by the Mayo Clinic is a good hope for HTC Vive to bring its headsets to a whole new level. The hospital has developed algorithms that, when paired with galvanic vestibular stimulation (GVS), can trick the brain into syncing what you're seeing in VR with physical stimulation within a tenth of a second.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## 8 Tips to reduce motion sickness
+
+ Listed below are some ways to reduce motion sickness while using your virtual reality headset.
+
+* Avoid playing racing games or any other game that rapidly throws you around.
+* Eating right before using VR tends to increase motion sickness as well. Ignore that.
+* You can actually ‘build up’ a tolerance over time and be less susceptible to motion sickness once you get used to it.
+* Search for field of view options. Lower fields of view help with motion sickness
+* Ginger tablets aid with nausea and motion sickness
+* After you have had a motion sickness, sleeping is best because it lets your inner ears completely reset themselves.
+* Just before putting on the HTC Vive headset, consume a couple of beers, sounds like a weird option but some people have reported it doing wonders for them.
+* Getting a bad frame rate can also make you easily sick, if you get yourself a beefy computer nausea can be reduced.
+
+**Warning:**These quick remedies work from person to person. Thus the best thing to do as soon as you feel the slightest tinge of nausea, stop what you're doing and remove the headset. Don't re-enter VR until you aren't feeling sick anymore. Thinking you can "tough it out" will leave you feeling dizzy and nauseated for hours and trust me it’s not worth it.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+## What HTC does to reduce motion sickness
+
+ HTC Vive is aiming at giving its customers the virtual reality experience so real and sick-free that they can fully have fun with the technology and make their money and time spent well. In spite of improvements to game technology in recent years, HTC is focusing heavily these days on making sure users feel correctly oriented. HTC is also at work on boosting the frame rate to match with the body movements and to clear up that nausea-inducing mismatch. The game developers are coming up with a variety of solutions to solve the problem, or at least minimize it. A new technology introduced by the Mayo Clinic is a good hope for HTC Vive to bring its headsets to a whole new level. The hospital has developed algorithms that, when paired with galvanic vestibular stimulation (GVS), can trick the brain into syncing what you're seeing in VR with physical stimulation within a tenth of a second.
+
+## 8 Tips to reduce motion sickness
+
+ Listed below are some ways to reduce motion sickness while using your virtual reality headset.
+
+* Avoid playing racing games or any other game that rapidly throws you around.
+* Eating right before using VR tends to increase motion sickness as well. Ignore that.
+* You can actually ‘build up’ a tolerance over time and be less susceptible to motion sickness once you get used to it.
+* Search for field of view options. Lower fields of view help with motion sickness
+* Ginger tablets aid with nausea and motion sickness
+* After you have had a motion sickness, sleeping is best because it lets your inner ears completely reset themselves.
+* Just before putting on the HTC Vive headset, consume a couple of beers, sounds like a weird option but some people have reported it doing wonders for them.
+* Getting a bad frame rate can also make you easily sick, if you get yourself a beefy computer nausea can be reduced.
+
+**Warning:**These quick remedies work from person to person. Thus the best thing to do as soon as you feel the slightest tinge of nausea, stop what you're doing and remove the headset. Don't re-enter VR until you aren't feeling sick anymore. Thinking you can "tough it out" will leave you feeling dizzy and nauseated for hours and trust me it’s not worth it.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## What HTC does to reduce motion sickness
+
+ HTC Vive is aiming at giving its customers the virtual reality experience so real and sick-free that they can fully have fun with the technology and make their money and time spent well. In spite of improvements to game technology in recent years, HTC is focusing heavily these days on making sure users feel correctly oriented. HTC is also at work on boosting the frame rate to match with the body movements and to clear up that nausea-inducing mismatch. The game developers are coming up with a variety of solutions to solve the problem, or at least minimize it. A new technology introduced by the Mayo Clinic is a good hope for HTC Vive to bring its headsets to a whole new level. The hospital has developed algorithms that, when paired with galvanic vestibular stimulation (GVS), can trick the brain into syncing what you're seeing in VR with physical stimulation within a tenth of a second.
+
 ## 8 Tips to reduce motion sickness
 
  Listed below are some ways to reduce motion sickness while using your virtual reality headset.
@@ -67,9 +143,6 @@ Follow @Benjamin Arango
 
  HTC Vive is aiming at giving its customers the virtual reality experience so real and sick-free that they can fully have fun with the technology and make their money and time spent well. In spite of improvements to game technology in recent years, HTC is focusing heavily these days on making sure users feel correctly oriented. HTC is also at work on boosting the frame rate to match with the body movements and to clear up that nausea-inducing mismatch. The game developers are coming up with a variety of solutions to solve the problem, or at least minimize it. A new technology introduced by the Mayo Clinic is a good hope for HTC Vive to bring its headsets to a whole new level. The hospital has developed algorithms that, when paired with galvanic vestibular stimulation (GVS), can trick the brain into syncing what you're seeing in VR with physical stimulation within a tenth of a second.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 8 Tips to reduce motion sickness
 
  Listed below are some ways to reduce motion sickness while using your virtual reality headset.
@@ -85,77 +158,6 @@ Follow @Benjamin Arango
 
 **Warning:**These quick remedies work from person to person. Thus the best thing to do as soon as you feel the slightest tinge of nausea, stop what you're doing and remove the headset. Don't re-enter VR until you aren't feeling sick anymore. Thinking you can "tough it out" will leave you feeling dizzy and nauseated for hours and trust me it’s not worth it.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-## What HTC does to reduce motion sickness
-
- HTC Vive is aiming at giving its customers the virtual reality experience so real and sick-free that they can fully have fun with the technology and make their money and time spent well. In spite of improvements to game technology in recent years, HTC is focusing heavily these days on making sure users feel correctly oriented. HTC is also at work on boosting the frame rate to match with the body movements and to clear up that nausea-inducing mismatch. The game developers are coming up with a variety of solutions to solve the problem, or at least minimize it. A new technology introduced by the Mayo Clinic is a good hope for HTC Vive to bring its headsets to a whole new level. The hospital has developed algorithms that, when paired with galvanic vestibular stimulation (GVS), can trick the brain into syncing what you're seeing in VR with physical stimulation within a tenth of a second.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
-## 8 Tips to reduce motion sickness
-
- Listed below are some ways to reduce motion sickness while using your virtual reality headset.
-
-* Avoid playing racing games or any other game that rapidly throws you around.
-* Eating right before using VR tends to increase motion sickness as well. Ignore that.
-* You can actually ‘build up’ a tolerance over time and be less susceptible to motion sickness once you get used to it.
-* Search for field of view options. Lower fields of view help with motion sickness
-* Ginger tablets aid with nausea and motion sickness
-* After you have had a motion sickness, sleeping is best because it lets your inner ears completely reset themselves.
-* Just before putting on the HTC Vive headset, consume a couple of beers, sounds like a weird option but some people have reported it doing wonders for them.
-* Getting a bad frame rate can also make you easily sick, if you get yourself a beefy computer nausea can be reduced.
-
-**Warning:**These quick remedies work from person to person. Thus the best thing to do as soon as you feel the slightest tinge of nausea, stop what you're doing and remove the headset. Don't re-enter VR until you aren't feeling sick anymore. Thinking you can "tough it out" will leave you feeling dizzy and nauseated for hours and trust me it’s not worth it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-## What HTC does to reduce motion sickness
-
- HTC Vive is aiming at giving its customers the virtual reality experience so real and sick-free that they can fully have fun with the technology and make their money and time spent well. In spite of improvements to game technology in recent years, HTC is focusing heavily these days on making sure users feel correctly oriented. HTC is also at work on boosting the frame rate to match with the body movements and to clear up that nausea-inducing mismatch. The game developers are coming up with a variety of solutions to solve the problem, or at least minimize it. A new technology introduced by the Mayo Clinic is a good hope for HTC Vive to bring its headsets to a whole new level. The hospital has developed algorithms that, when paired with galvanic vestibular stimulation (GVS), can trick the brain into syncing what you're seeing in VR with physical stimulation within a tenth of a second.
-
-## 8 Tips to reduce motion sickness
-
- Listed below are some ways to reduce motion sickness while using your virtual reality headset.
-
-* Avoid playing racing games or any other game that rapidly throws you around.
-* Eating right before using VR tends to increase motion sickness as well. Ignore that.
-* You can actually ‘build up’ a tolerance over time and be less susceptible to motion sickness once you get used to it.
-* Search for field of view options. Lower fields of view help with motion sickness
-* Ginger tablets aid with nausea and motion sickness
-* After you have had a motion sickness, sleeping is best because it lets your inner ears completely reset themselves.
-* Just before putting on the HTC Vive headset, consume a couple of beers, sounds like a weird option but some people have reported it doing wonders for them.
-* Getting a bad frame rate can also make you easily sick, if you get yourself a beefy computer nausea can be reduced.
-
-**Warning:**These quick remedies work from person to person. Thus the best thing to do as soon as you feel the slightest tinge of nausea, stop what you're doing and remove the headset. Don't re-enter VR until you aren't feeling sick anymore. Thinking you can "tough it out" will leave you feeling dizzy and nauseated for hours and trust me it’s not worth it.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -186,7 +188,21 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capture-with-clarity-advanced-tips-for-gopro-hero5-black/"><u>2024 Approved Capture with Clarity Advanced Tips for GoPro Hero5 Black</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-kinemaster-the-ultimate-guide-to-smooth-video-edits/"><u>2024 Approved Kinemaster The Ultimate Guide to Smooth Video Edits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-of-funny-photo-artistry/"><u>2024 Approved Pinnacle of Funny Photo Artistry</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-stabilization-solutions-for-iphoneandroiddslr/"><u>2024 Approved Premium Stabilization Solutions for iPhone/Android/DSLR</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/exploring-realms-of-patience-in-iphone-filmmaking/"><u>Exploring Realms of Patience in iPhone Filmmaking</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-to-chatting-resolving-the-skype-microphone-not-working-problem-on-windows-10/"><u>Get Back to Chatting: Resolving the 'Skype Microphone Not Working' Problem on Windows 10</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-nokia-g22-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Nokia G22 Without PUK Codes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premium-webcam-selection-for-expert-recording/"><u>In 2024, Premium Webcam Selection for Expert Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-srt-decoding-for-windows-and-mac-users/"><u>In 2024, SRT Decoding for Windows & Mac Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-transforming-movies-to-still-moments-with-windows-10-photo-viewer/"><u>In 2024, Transforming Movies to Still Moments with Windows 10 Photo Viewer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-software-solutions-for-visual-storytelling-from-pictures-for-2024/"><u>Premium Software Solutions for Visual Storytelling From Pictures for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-pc-error-0xc0000017-essential-steps-for-successful-system-repair/"><u>RESOLVED: PC Error 0Xc0000017 - Essential Steps for Successful System Repair</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-features-of-vyncs-link-trustworthy-analytics-platform-and-enigmatic-subscription-models/"><u>Unveiling the Features of Vyncs Link: Trustworthy Analytics Platform and Enigmatic Subscription Models</u></a></li>
+</ul></div>
 

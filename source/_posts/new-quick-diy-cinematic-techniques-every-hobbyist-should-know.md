@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick DIY Cinematic Techniques Every Hobbyist Should Know"
-date: 2024-09-26T18:04:42.169Z
-updated: 2024-10-03T00:02:54.455Z
+date: 2025-01-20T16:44:14.966Z
+updated: 2025-01-23T16:06:24.229Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 
 Have you ever wanted to film from home but missing some filming gear? You still haven't acted because of a limited budget. Well, in this article, we will share 5 tips and tricks to help you film at home. So let's dive into it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Hack. DIY A Flag for Lighting Control
 
 When we set up the light near the subject, the light might be leaked onto the background. So, we may need to shape it to block the light from hitting the background.
@@ -27,10 +31,7 @@ When we set up the light near the subject, the light might be leaked onto the ba
 On film sets and studios, the professionals use flags to absorb and make shapes of light. A flag is a thick black fabric that does not reflect light. To make your flag at home, you can try cardboard and a black t-shirt.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. A Cardboard
@@ -40,10 +41,7 @@ You can buy it from a nearby stationery store. Ensure the cardboard is not too b
 ![cardboard used for diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. A Black T-shirt
@@ -51,13 +49,6 @@ You can buy it from a nearby stationery store. Ensure the cardboard is not too b
 For the black t-shirt, you can use an old t-shirt that you don't wear anymore. You can also find these shirts at your local thrift shop.
 
 ![black t-shirt for lighting control](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After managing all the required things, you must wrap and secure the t-shirt around the board. If the size of the t-shirt is larger than cardboard, tie the sleeves to secure the t-shirt. Or you can also use tape to secure the t-shirt and fasten it on the backside.
 
@@ -71,6 +62,14 @@ After filming the video, see the precise results before using the flag, when the
 
 ![results after using diy flag for lighting control](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Hack. DIY Black Wrap or Cinewrap
 
 The black wrap is used in professional studios and set up to block and shape light. You can block light by directly giving shape to LED lightbulbs. The black wrap is made mainly of aluminum, so it's easy to provide forms for different lights.
@@ -78,10 +77,7 @@ The black wrap is used in professional studios and set up to block and shape lig
 The aluminum foils used in households have the same characteristics as a black wrap, so that you can use it as an alternative. Look at the following requirement to make it! To make a black wrap, you need two household tools. There is no need to get pricey things from the market. For this, follow the below outlines of the tools!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. A Light Bulb
@@ -105,10 +101,7 @@ Step2 Then, you need to install the bulb on the lamp.
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** During wrapping, you don't have to allow the foil to touch the bottom part of the bulb.
@@ -135,13 +128,6 @@ A reflector is a spontaneous or specialized reflective surface that diverts the 
 
 ![light reflector used in a professional setup](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When applied to flat surfaces, the foil has a reflective surface. It makes it the best alternative to a professional reflector. To make your one, you will need
 
 <ins class="adsbygoogle"
@@ -153,21 +139,24 @@ When applied to flat surfaces, the foil has a reflective surface. It makes it th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-cutting-edge-screen-recorders-for-professionals/"><u>[New] 2024 Approved Cutting-Edge Screen Recorders for Professionals</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-moviemaking-magic-ideal-scenes-for-video-craft/"><u>[New] Moviemaking Magic Ideal Scenes for Video Craft</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-smartphone-showdown-10-titans-of-content-creation/"><u>[New] Smartphone Showdown 10 Titans of Content Creation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-cyber-city-scenes-video-game-list-like-gta-v/"><u>[Updated] 2024 Approved Cyber City Scenes Video Game List Like GTA V</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-adhering-to-twitters-video-dimension-standards/"><u>[Updated] In 2024, Adhering to Twitter's Video Dimension Standards</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-silliest-stories-on-twitter/"><u>[Updated] In 2024, Silliest Stories on Twitter</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-new-wonders-of-windows-11/"><u>[Updated] New Wonders of Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-listing-combining-global-network-and-neighborhood-channels-2024/"><u>[Updated] Premium Listing Combining Global Network & Neighborhood Channels, 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-secrets-sharing-restricted-youtube-content-via-email/"><u>[Updated] Unveiling Secrets Sharing Restricted YouTube Content via Email</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-most-reliable-zero-price-online-photo-editors-guide/"><u>2024 Approved The Most Reliable Zero-Price Online Photo Editors Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726028592819-clipchamp/"><u>効果的な動画合成 - Clipchamp利用ガイド</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimal-energy-kits-for-gopro-hero5-genuine-and-third-party-brands/"><u>In 2024, Optimal Energy Kits for GoPro Hero5 – Genuine and Third-Party Brands</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-4k-video-mics-top-picks-list/"><u>In 2024, Premium 4K Video Mics Top Picks List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-rapid-assembly-of-google-image-mosaics/"><u>In 2024, Rapid Assembly of Google Image Mosaics</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-a-complete-guide-to-translate-video-with-google/"><u>Updated A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chuckle-chasers-your-ultimate-list-of-funny-tools/"><u>[New] Chuckle Chasers Your Ultimate List of Funny Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-flying-brain-games-top-11-knowledge-channels/"><u>[New] High-Flying Brain Games Top 11 Knowledge Channels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-path-to-prominence-9-proven-strategies-for-instagram-stars/"><u>[New] Navigating the Path to Prominence 9 Proven Strategies for Instagram Stars</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage/"><u>[New] Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smartphone-security-iphone-xs-face-id-versus-galaxy-recognition/"><u>[New] Smartphone Security IPhone X’s Face ID Versus Galaxy Recognition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-why-cant-i-see-video-on-sony-a6400/"><u>[New] Why Can’t I See Video on Sony A6400?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-reimagining-your-message-innovative-video-concepts-for-2024/"><u>[Updated] Reimagining Your Message Innovative Video Concepts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-transitions-elevating-your-drone-footage/"><u>[Updated] Seamless Transitions Elevating Your Drone Footage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-securely-installing-apple-podcasts-episodes/"><u>[Updated] Securely Installing Apple Podcasts Episodes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-audio-modification-solutions-magically-effective/"><u>2024 Approved Premium Audio Modification Solutions Magically Effective</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-10-gratis-live-streamers-on-iosandroid-devices/"><u>2024 Approved Top 10 Gratis Live Streamers on iOS/Android Devices</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-itel-a70-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-poco-x6-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Poco X6 Pro Through Google Earth?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-your-adventures-with-top-6-head-mounted-cameras-by-gopro/"><u>In 2024, Mastering Your Adventures with Top 6 Head-Mounted Cameras by GoPro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-shifting-paradigms-non-youtube-video-hosts/"><u>In 2024, Shifting Paradigms Non-Youtube Video Hosts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplified-avi-to-graphic-style-gif-transformation-using-the-power-of-filmora/"><u>In 2024, Simplified AVI to Graphic-Style GIF Transformation Using the Power of Filmora</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-index-of-digital-imagery-collections-for-2024/"><u>Premier Index of Digital Imagery Collections for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/professional-grade-winxdvd-suite-superior-dvd-ripping-cutting-edge-ai-video-enhancement-and-universal-format-conversion/"><u>Professional-Grade WinXDVD Suite: Superior DVD Ripping, Cutting-Edge AI Video Enhancement & Universal Format Conversion</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-forcing-termination-of-unresponsive-applications-in-windows-10/"><u>Step-by-Step Guide: Forcing Termination of Unresponsive Applications in Windows 10</u></a></li>
 </ul></div>
 

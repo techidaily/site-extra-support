@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2025-01-13T20:41:42.545Z
-updated: 2025-01-16T18:27:51.749Z
+date: 2025-01-16T16:46:36.057Z
+updated: 2025-01-23T17:39:06.394Z
 tags:
   - chatgpt
   - open-ai
@@ -41,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -59,13 +59,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -83,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -100,12 +96,16 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 You read it here first, folks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
@@ -154,24 +154,20 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-eclipsing-fears-in-your-first-10-videos/"><u>[New] 2024 Approved Eclipsing Fears in Your First 10 Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-enhance-watchability-with-full-screen-on-fb-videos-for-2024/"><u>[New] Enhance Watchability with Full-Screen on FB Videos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-champion-firefox-capture-extensions/"><u>[New] In 2024, Champion FireFox Capture Extensions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-recover-lost-watch-visual-preview/"><u>[New] In 2024, Recover Lost Watch Visual Preview</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-ultimate-guide-11-seo-strategies-for-youtube-video-ranking/"><u>[New] In 2024, Ultimate Guide 11 SEO Strategies for YouTube Video Ranking</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-modern-360-camera-purchases-2enas/"><u>[New] Mastering the Art of Modern 360 Camera Purchases (2Enas)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-advanced-features-in-obs-studio-android/"><u>[New] Navigating Advanced Features in OBS Studio (Android)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pre-purchase-key-facts-every-drone-buyer-should-know/"><u>[New] Pre-Purchase Key Facts Every Drone Buyer Should Know</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-secure-stock-images-avoiding-watermarks/"><u>[New] Secure Stock Images Avoiding Watermarks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premier-20-unrestricted-pubg-montage-samples/"><u>[Updated] Premier 20 Unrestricted PUBG Montage Samples</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-redefining-virtual-adventure-with-jaunt-vr/"><u>[Updated] Redefining Virtual Adventure with Jaunt VR</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-converting-pinterest-vids-to-mp3-audio/"><u>[Updated] Step-by-Step Converting Pinterest Vids to MP3 Audio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-up-in-the-metaverse-game-with-these-critical-devices-top-7/"><u>2024 Approved Step Up in the Metaverse Game with These Critical Devices (Top 7)</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1726026727722-windows-11/"><u>限定的なオーディオ設定でWindows 11スクリーンを効果的に録画するテクニック</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-make-a-youtube-reaction-video-for-2024/"><u>How to Make a YouTube Reaction Video for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimize-editing-efficiency-using-xps-capabilities/"><u>In 2024, Optimize Editing Efficiency Using XP's Capabilities</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-power-up-with-these-20-top-songs-that-elevate-your-exercise-routine/"><u>In 2024, Power-Up with These 20 Top Songs that Elevate Your Exercise Routine</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sky-hdr-perfection-top-website-reviews/"><u>In 2024, Sky HDR Perfection - Top Website Reviews</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-resource-audio-recommendations-for-unboxing-content-creators/"><u>Ultimate Resource Audio Recommendations for Unboxing Content Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-video-engagement-top-7-free-thumbnail-design-tools/"><u>[Updated] 2024 Approved Elevate Video Engagement Top 7 Free Thumbnail Design Tools</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-relaxation-playlist-20-sweetest-country-tunes-on-tiktok/"><u>[Updated] 2024 Approved Relaxation Playlist 20 Sweetest Country Tunes on TikTok</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-samsung-camera-toolkit-review-2023-edition/"><u>[Updated] Samsung Camera Toolkit Review – 2023 Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instant-gratification-boosting-fb-video-times/"><u>2024 Approved Instant Gratification Boosting FB Video Times</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-introducing-the-ultimate-intro-edits-app-of-2023/"><u>2024 Approved Introducing the Ultimate Intro Edits App of 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-naming-excellence-the-top-10-ai-powered-title-makers/"><u>2024 Approved Naming Excellence The Top 10 AI-Powered Title Makers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-premier-converters-top-8-streamline-your-subtitles-to-srt/"><u>2024 Approved Premier Converters Top 8 Streamline Your Subtitles to SRT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/compact-computers-on-the-go-minisforum-s10ns-poe-and-networking-capabilities-featuring-alder-lake-cpus/"><u>Compact Computers on the Go: Minisforum S10n's PoE and Networking Capabilities Featuring Alder Lake CPUs</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-past-iphone-games-with-legendary-titles/"><u>Embrace the Past: IPhone Games with Legendary Titles</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-google-pixel-7a-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Google Pixel 7a using Video Repair Utility?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-instagram-collage-hacks-unveiled/"><u>In 2024, Instagram Collage Hacks Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-iphone-hdr-quality-with-post-production-tricks-in-premiere-pro/"><u>In 2024, Maximizing iPhone HDR Quality with Post-Production Tricks in Premiere Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speed-kings-and-queens-key-moments-from-the-short-track-games/"><u>In 2024, Speed Kings and Queens Key Moments From the Short Track Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-podcast-editing-with-garageband-a-step-by-step-guide-for-2024/"><u>Mastering Podcast Editing with GarageBand A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bmp-png-online/"><u>무료 BMP-PNG 변환기: Online 통합 - 모바이비</u></a></li>
 </ul></div>
 

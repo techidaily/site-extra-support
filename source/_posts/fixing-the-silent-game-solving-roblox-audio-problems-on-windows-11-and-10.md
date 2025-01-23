@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Silent Game: Solving Roblox Audio Problems on Windows 11 and 10"
-date: 2024-09-29T23:56:56.131Z
-updated: 2024-10-02T23:29:51.755Z
+date: 2025-01-19T17:54:16.199Z
+updated: 2025-01-23T16:40:48.067Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 4. **[Update your graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Fallout 3](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Play in Windowed mode
 
  Sometimes, game freezing issue can be easily solved by changing the game’s display options. Play the game in Windowed mode when you meet freezes. This method can let you play without freezes for hours.
@@ -36,8 +40,17 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. Launch the game and click**Option** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option.jpg)
 3. Tick the **Windowed** box under Mode.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If using dual monitors, disable your second one from your**Windows display settings** .  
  Ensure that the resolution of the game matches that of your display monitors.
@@ -53,36 +66,19 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
@@ -92,6 +88,11 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the LOCAL FILES tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
 
@@ -100,16 +101,13 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Run Fallout 3 to check whether the game is running properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Update your graphics card drivers
 
@@ -140,13 +138,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
@@ -155,13 +146,6 @@ OR
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5:**Reinstall**  Fallout 3
 
@@ -188,24 +172,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-shade-portraits-with-orbital-illumination-technique-cs/"><u>[New] Shade Portraits with Orbital Illumination Technique CS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-into-tomorrow-latest-apps-and-gaming-on-windows-10/"><u>[Updated] Step Into Tomorrow Latest Apps & Gaming on Windows 10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-no-pocket-money-needed-heres-a-free-solution-to-coffee-stains-in-images/"><u>2024 Approved No Pocket Money Needed? Here’s a FREE Solution to Coffee Stains in Images</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premiere-selection-of-virtual-gaming-essentials/"><u>2024 Approved Premiere Selection of Virtual Gaming Essentials</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-top-5-ultra-hd-capture-gear/"><u>2024 Approved Premium Top 5 Ultra HD Capture Gear</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-simplify-your-story-instagram-collage-techniques/"><u>2024 Approved Simplify Your Story Instagram Collage Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-speech-clarity-achieved-by-googles-advanced-conversion/"><u>2024 Approved Speech Clarity Achieved by Google's Advanced Conversion</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-user-choice-top-free-streaming-sites-for-sports/"><u>2024 Approved User Choice Top Free Streaming Sites for Sports</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-economical-choice-high-performance-asmr-mic-picks/"><u>Best Economical Choice High-Performance ASMR Mic Picks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cortana-failures-diagnosing-the-issue-and-finding-a-solution/"><u>Cortana Failures: Diagnosing the Issue and Finding a Solution</u></a></li>
-<li><a href="https://media-tips.techidaily.com/download-and-enjoy-ultra-high-definition-with-vlc-media-player-stream-your-favorite-mkv-uhd-and-4k-video-files/"><u>Download and Enjoy Ultra-High Definition with VLC Media Player: Stream Your Favorite MKV, UHD, & 4K Video Files</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ced-engagement-with-effective-youtube-video-outros-strategies/"><u>Enhanced Engagement with Effective YouTube Video Outros Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-resolving-corsair-hs35-microphone-problems-in-windows-environments/"><u>Expert Advice for Resolving Corsair HS35 Microphone Problems in Windows Environments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c65-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C65 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-is-it-wise-to-keep-off-facebook-activity-displayed-insights/"><u>In 2024, Is It Wise to Keep Off-Facebook Activity Displayed? Insights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-chances-to-engage-premier-filmmakers/"><u>In 2024, Maximizing Chances to Engage Premier Filmmakers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-play-music-10-best-apps-phones/"><u>In 2024, Quick Play Music 10 Best Apps, Phones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-skullduggery-scribbler/"><u>In 2024, Skullduggery Scribbler</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-insiders-pathway-to-effective-auditory-notes/"><u>The Insider’s Pathway to Effective Auditory Notes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hoosing-free-video-editing-software-on-iphone-and-ipad/"><u>[New] Choosing Free Video Editing Software on iPhone & iPad</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-get-your-video-dimensions-spot-on-for-instagram-sharing-for-2024/"><u>[New] Get Your Video Dimensions Spot-On for Instagram Sharing for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instant-ig-glory-high-quality-covers-on-apple-and-android-devices/"><u>[New] Instant IG Glory High-Quality Covers on Apple and Android Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lighting-setup-tips-to-make-great-videos/"><u>[New] Lighting Setup Tips to Make Great Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-metaverse-madness-top-tips-for-crafting-hitsome-memes/"><u>[New] Metaverse Madness Top Tips for Crafting Hitsome Memes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-preeminent-sites-to-amplify-youtube-traffic/"><u>[New] Preeminent Sites to Amplify YouTube Traffic</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionary-drone-editing-for-visual-storytellers/"><u>[New] Revolutionary Drone Editing for Visual Storytellers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-uav-technology-unveiled-the-yuneec-4k-journey/"><u>[New] UAV Technology Unveiled The Yuneec 4K Journey</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-balancing-professional-and-personal-profiles/"><u>[Updated] Balancing Professional and Personal Profiles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>[Updated] Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-videos-top-windows-phones-video-apps/"><u>[Updated] Mastering Videos Top Windows Phones Video Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pro-graphic-rigs-mastering-4k-titles/"><u>[Updated] Pro Graphic Rigs Mastering 4K Titles</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/funf-kostenfreie-videokonvertierungstools-die-sie-im-jahr-2024-nicht-verpassen-sollten-richtiges-ranking-fur-seo/"><u>Fünf Kostenfreie Videokonvertierungstools, Die Sie Im Jahr 2024 Nicht Verpassen Sollten – Richtiges Ranking Für SEO</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inverting-image-hues-in-photoshop/"><u>In 2024, Inverting Image Hues in Photoshop</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-perfectpicturefree-ultimate-erase-for-clean-bgs/"><u>In 2024, PerfectPictureFree Ultimate Erase for Clean BGs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-english-spelling-the-top-100-mistakes-to-avoid/"><u>Mastering English Spelling: The Top 100 Mistakes to Avoid</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simple-win-steps-for-fishy-sounds-alteration-for-2024/"><u>Simple Win Steps for Fishy Sounds Alteration for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-recommended-navigation-apps-for-your-iphone/"><u>Top 5 Recommended Navigation Apps for Your iPhone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-discounted-tribit-audio-gear-savvy-shoppers-guide-to-prime-day-offers/"><u>Top Discounted Tribit Audio Gear: Savvy Shoppers' Guide to Prime Day Offers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sky-High Insights  Comprehensive Phantom 4 Breakdown\""
-date: 2024-07-30T04:45:43.501Z
-updated: 2024-07-31T04:45:43.501Z
+date: 2025-01-19T16:30:46.211Z
+updated: 2025-01-23T17:27:53.669Z
 tags: 
   - screen-recording
   - ai video
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1
 
 # DJI Phantom 4 Complete Review
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -34,16 +30,212 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 **You may also like:** [Top 11 Best DJI Phantom 4 Accessories to Buy >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![dji phantom 4](https://images.wondershare.com/filmora/article-images/dji-phandom-4.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
 
+## Complete Review for DJI Phantom 4
+
+#### **Pros of DJI Phantom 4**
+
+* Obstacle sensing system
+* Two cameras for distance recognition
+* Artificial intelligence
+* Connects to GPS and GLONASS
+* New gimbal for sturdier videos and ease of maneuvering
+* Lighter frame
+* 30 fps videos and 120 fps capabilities
+* Improved lens
+* Travels up to 45 mph
+* Easy to fly
+
+#### **Cons of DJI Phantom 4**
+
+* Set up time
+* Missing set up guidelines making it harder for novice operators
+* Small branch recognition
+* Batter lasts 28 minutes up to 5km
+* $169 for extra battery power
+
+#### Feature and specs
+
+* Weight : (Battery & Propellers Included) 1388 g
+* Max Ascent Speed: S-mode: 6 m/s - P-mode: 5 m/s
+* Max Flight Time : 30 minutes approximately
+* Obstacle Sensory Range: 0.6 - 23 feet (0.2 - 7 m)
+* Vision System: Forward Vision System, Backward Vision System, Downward Vision System
+* Battery Type: LiPo 4S
+* Max Video Bitrate 100 Mbps
+* Supported File Systems :FAT32 (≤32 GB); exFAT (>32 GB)
+* Photo: JPEG, DNG (RAW), JPEG + DNG
+* Video: MP4/MOV (AVC/; /)
+* Supported SD Cards: Micro SD
+* Max Capacity: 128GB
+* Write speed ≥15MB/s, Class 10 or UHS-1 rating required
+
+#### Design
+
+![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-design.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The Phantom 4 is similar to the previous version in terms of looks. It is white in color and plastic with sturdy legs to rest on. Two sensors are located on the front and back of the drone and more underneath and to the sides. The camera begins to record on takeoff allowing the drone to find a homing position when ready to return home. The camera hangs below the drone with gimbals that keep it sturdy whatever conditions it is flown in. The arms each have lights so that you can find it easily when in flight.
+
+#### Battery life
+
+ Underneath the shell of the Phantom 4 is the battery which is high density at 5,870Ah. This allows it to be flown for up to half an hour.
+
+#### Sensor - obstacle avoidance sensors
+
+ The Phantom 4 has a high performance system to avoid objects. The front, back and sides all have sensors which are able to detect potential hazards from around 98 feet with or not they are in front of the drone or behind it. An example of where this would be useful is flying it through a doorway indoors as it is able to go through the doorway without being in danger of crashing into the door frame. Even at 31 miles an hour the avoidance system still works. They do switch off however when you switch to sports mode with increased speed capabilities of 40 miles an hour.
+
+#### Flight performance
+
+ One of the great features enjoyed by Phantom 4 owners is 'draw'. This allows users to draw a line on their screen for their drone to follow at the same altitude. You can keep the camera in a forward position or leave it free to move such as in follow mode. The sensors in flight not only detect people in the way but also other objects including cars, bikes and trees. The camera locks to its subject continually while the drone fly's as set out by the user. The TapFly function allows you to get the drone to go in the direction of where you tapped, by using the TapFly backwards you can make it fly in the opposite direction all while the avoidance system works (except in sports mode). Return to home allows you to get the drone to return to its setting off point easily as it records the route and even chooses the one that is best for the conditions it is being flown in to avoid damage.
+
+#### Control range
+
+ The Phantom 4 plus comes with a built in screen which has a display screen of 5.5 inches and 1080p. The remote is able to connect to the drone from up to 4.3 miles away and can stream full HD to the display screen. The remote battery can last for up to 5 hours before it needs to be charged.
+
+#### Camera
+
+![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-camera.jpg)
+
+ The Phantom 4 has been upgraded to include a 20 megapixel sensor which has 12 dynamic range stops which allows for more detailed shots even in intense light. This improves the performance from its predecessor significantly. The mechanical shutter stops the distortion and makes for smoother footage. The 4K video at 60 fps capabilities increase the quality overall giving users better results.
+
+#### Conclusion
+
+ The Phantom 4 literally does everything you could need it to. It flies well in all kinds of conditions, reaches great speeds to capture sports play and even avoids objects that would otherwise give users and their drones quite an unhappy ending. As the Phantom 4 is so easy to fly it means that users can concentrate on their footage. With the follow me mode users can literally go hands free and still get great results.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Drones have become a huge part of the life of many modern people. Even those that have not had the chance to fly one have seen the great work on the internet and aerial shots for the advertisements, TV programs and films they watch on a regular basis. New technologies are constantly making drones better than anyone could have ever imagined and the DJI Phantom 4 is a great example of where this next level of technology has taken us. This new release has a better design, additional flight options and a special system to avoid objects should they get in the way of your drones flight path.
+
+**You may also like:** [Top 11 Best DJI Phantom 4 Accessories to Buy >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![dji phantom 4](https://images.wondershare.com/filmora/article-images/dji-phandom-4.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
+
+## Complete Review for DJI Phantom 4
+
+#### **Pros of DJI Phantom 4**
+
+* Obstacle sensing system
+* Two cameras for distance recognition
+* Artificial intelligence
+* Connects to GPS and GLONASS
+* New gimbal for sturdier videos and ease of maneuvering
+* Lighter frame
+* 30 fps videos and 120 fps capabilities
+* Improved lens
+* Travels up to 45 mph
+* Easy to fly
+
+#### **Cons of DJI Phantom 4**
+
+* Set up time
+* Missing set up guidelines making it harder for novice operators
+* Small branch recognition
+* Batter lasts 28 minutes up to 5km
+* $169 for extra battery power
+
+#### Feature and specs
+
+* Weight : (Battery & Propellers Included) 1388 g
+* Max Ascent Speed: S-mode: 6 m/s - P-mode: 5 m/s
+* Max Flight Time : 30 minutes approximately
+* Obstacle Sensory Range: 0.6 - 23 feet (0.2 - 7 m)
+* Vision System: Forward Vision System, Backward Vision System, Downward Vision System
+* Battery Type: LiPo 4S
+* Max Video Bitrate 100 Mbps
+* Supported File Systems :FAT32 (≤32 GB); exFAT (>32 GB)
+* Photo: JPEG, DNG (RAW), JPEG + DNG
+* Video: MP4/MOV (AVC/; /)
+* Supported SD Cards: Micro SD
+* Max Capacity: 128GB
+* Write speed ≥15MB/s, Class 10 or UHS-1 rating required
+
+#### Design
+
+![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-design.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ The Phantom 4 is similar to the previous version in terms of looks. It is white in color and plastic with sturdy legs to rest on. Two sensors are located on the front and back of the drone and more underneath and to the sides. The camera begins to record on takeoff allowing the drone to find a homing position when ready to return home. The camera hangs below the drone with gimbals that keep it sturdy whatever conditions it is flown in. The arms each have lights so that you can find it easily when in flight.
+
+#### Battery life
+
+ Underneath the shell of the Phantom 4 is the battery which is high density at 5,870Ah. This allows it to be flown for up to half an hour.
+
+#### Sensor - obstacle avoidance sensors
+
+ The Phantom 4 has a high performance system to avoid objects. The front, back and sides all have sensors which are able to detect potential hazards from around 98 feet with or not they are in front of the drone or behind it. An example of where this would be useful is flying it through a doorway indoors as it is able to go through the doorway without being in danger of crashing into the door frame. Even at 31 miles an hour the avoidance system still works. They do switch off however when you switch to sports mode with increased speed capabilities of 40 miles an hour.
+
+#### Flight performance
+
+ One of the great features enjoyed by Phantom 4 owners is 'draw'. This allows users to draw a line on their screen for their drone to follow at the same altitude. You can keep the camera in a forward position or leave it free to move such as in follow mode. The sensors in flight not only detect people in the way but also other objects including cars, bikes and trees. The camera locks to its subject continually while the drone fly's as set out by the user. The TapFly function allows you to get the drone to go in the direction of where you tapped, by using the TapFly backwards you can make it fly in the opposite direction all while the avoidance system works (except in sports mode). Return to home allows you to get the drone to return to its setting off point easily as it records the route and even chooses the one that is best for the conditions it is being flown in to avoid damage.
+
+#### Control range
+
+ The Phantom 4 plus comes with a built in screen which has a display screen of 5.5 inches and 1080p. The remote is able to connect to the drone from up to 4.3 miles away and can stream full HD to the display screen. The remote battery can last for up to 5 hours before it needs to be charged.
+
+#### Camera
+
+![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-camera.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ The Phantom 4 has been upgraded to include a 20 megapixel sensor which has 12 dynamic range stops which allows for more detailed shots even in intense light. This improves the performance from its predecessor significantly. The mechanical shutter stops the distortion and makes for smoother footage. The 4K video at 60 fps capabilities increase the quality overall giving users better results.
+
+#### Conclusion
+
+ The Phantom 4 literally does everything you could need it to. It flies well in all kinds of conditions, reaches great speeds to capture sports play and even avoids objects that would otherwise give users and their drones quite an unhappy ending. As the Phantom 4 is so easy to fly it means that users can concentrate on their footage. With the follow me mode users can literally go hands free and still get great results.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Drones have become a huge part of the life of many modern people. Even those that have not had the chance to fly one have seen the great work on the internet and aerial shots for the advertisements, TV programs and films they watch on a regular basis. New technologies are constantly making drones better than anyone could have ever imagined and the DJI Phantom 4 is a great example of where this next level of technology has taken us. This new release has a better design, additional flight options and a special system to avoid objects should they get in the way of your drones flight path.
+
+**You may also like:** [Top 11 Best DJI Phantom 4 Accessories to Buy >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![dji phantom 4](https://images.wondershare.com/filmora/article-images/dji-phandom-4.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
+
 ## Complete Review for DJI Phantom 4
 
 #### **Pros of DJI Phantom 4**
@@ -117,105 +309,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Drones have become a huge part of the life of many modern people. Even those that have not had the chance to fly one have seen the great work on the internet and aerial shots for the advertisements, TV programs and films they watch on a regular basis. New technologies are constantly making drones better than anyone could have ever imagined and the DJI Phantom 4 is a great example of where this next level of technology has taken us. This new release has a better design, additional flight options and a special system to avoid objects should they get in the way of your drones flight path.
-
-**You may also like:** [Top 11 Best DJI Phantom 4 Accessories to Buy >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![dji phantom 4](https://images.wondershare.com/filmora/article-images/dji-phandom-4.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Complete Review for DJI Phantom 4
-
-#### **Pros of DJI Phantom 4**
-
-* Obstacle sensing system
-* Two cameras for distance recognition
-* Artificial intelligence
-* Connects to GPS and GLONASS
-* New gimbal for sturdier videos and ease of maneuvering
-* Lighter frame
-* 30 fps videos and 120 fps capabilities
-* Improved lens
-* Travels up to 45 mph
-* Easy to fly
-
-#### **Cons of DJI Phantom 4**
-
-* Set up time
-* Missing set up guidelines making it harder for novice operators
-* Small branch recognition
-* Batter lasts 28 minutes up to 5km
-* $169 for extra battery power
-
-#### Feature and specs
-
-* Weight : (Battery & Propellers Included) 1388 g
-* Max Ascent Speed: S-mode: 6 m/s - P-mode: 5 m/s
-* Max Flight Time : 30 minutes approximately
-* Obstacle Sensory Range: 0.6 - 23 feet (0.2 - 7 m)
-* Vision System: Forward Vision System, Backward Vision System, Downward Vision System
-* Battery Type: LiPo 4S
-* Max Video Bitrate 100 Mbps
-* Supported File Systems :FAT32 (≤32 GB); exFAT (>32 GB)
-* Photo: JPEG, DNG (RAW), JPEG + DNG
-* Video: MP4/MOV (AVC/; /)
-* Supported SD Cards: Micro SD
-* Max Capacity: 128GB
-* Write speed ≥15MB/s, Class 10 or UHS-1 rating required
-
-#### Design
-
-![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-design.jpg)
-
- The Phantom 4 is similar to the previous version in terms of looks. It is white in color and plastic with sturdy legs to rest on. Two sensors are located on the front and back of the drone and more underneath and to the sides. The camera begins to record on takeoff allowing the drone to find a homing position when ready to return home. The camera hangs below the drone with gimbals that keep it sturdy whatever conditions it is flown in. The arms each have lights so that you can find it easily when in flight.
-
-#### Battery life
-
- Underneath the shell of the Phantom 4 is the battery which is high density at 5,870Ah. This allows it to be flown for up to half an hour.
-
-#### Sensor - obstacle avoidance sensors
-
- The Phantom 4 has a high performance system to avoid objects. The front, back and sides all have sensors which are able to detect potential hazards from around 98 feet with or not they are in front of the drone or behind it. An example of where this would be useful is flying it through a doorway indoors as it is able to go through the doorway without being in danger of crashing into the door frame. Even at 31 miles an hour the avoidance system still works. They do switch off however when you switch to sports mode with increased speed capabilities of 40 miles an hour.
-
-#### Flight performance
-
- One of the great features enjoyed by Phantom 4 owners is 'draw'. This allows users to draw a line on their screen for their drone to follow at the same altitude. You can keep the camera in a forward position or leave it free to move such as in follow mode. The sensors in flight not only detect people in the way but also other objects including cars, bikes and trees. The camera locks to its subject continually while the drone fly's as set out by the user. The TapFly function allows you to get the drone to go in the direction of where you tapped, by using the TapFly backwards you can make it fly in the opposite direction all while the avoidance system works (except in sports mode). Return to home allows you to get the drone to return to its setting off point easily as it records the route and even chooses the one that is best for the conditions it is being flown in to avoid damage.
-
-#### Control range
-
- The Phantom 4 plus comes with a built in screen which has a display screen of 5.5 inches and 1080p. The remote is able to connect to the drone from up to 4.3 miles away and can stream full HD to the display screen. The remote battery can last for up to 5 hours before it needs to be charged.
-
-#### Camera
-
-![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-camera.jpg)
-
- The Phantom 4 has been upgraded to include a 20 megapixel sensor which has 12 dynamic range stops which allows for more detailed shots even in intense light. This improves the performance from its predecessor significantly. The mechanical shutter stops the distortion and makes for smoother footage. The 4K video at 60 fps capabilities increase the quality overall giving users better results.
-
-#### Conclusion
-
- The Phantom 4 literally does everything you could need it to. It flies well in all kinds of conditions, reaches great speeds to capture sports play and even avoids objects that would otherwise give users and their drones quite an unhappy ending. As the Phantom 4 is so easy to fly it means that users can concentrate on their footage. With the follow me mode users can literally go hands free and still get great results.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
 
@@ -276,114 +372,11 @@ Follow @Max Wales
 
 #### Design
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-design.jpg)
 
- The Phantom 4 is similar to the previous version in terms of looks. It is white in color and plastic with sturdy legs to rest on. Two sensors are located on the front and back of the drone and more underneath and to the sides. The camera begins to record on takeoff allowing the drone to find a homing position when ready to return home. The camera hangs below the drone with gimbals that keep it sturdy whatever conditions it is flown in. The arms each have lights so that you can find it easily when in flight.
-
-#### Battery life
-
- Underneath the shell of the Phantom 4 is the battery which is high density at 5,870Ah. This allows it to be flown for up to half an hour.
-
-#### Sensor - obstacle avoidance sensors
-
- The Phantom 4 has a high performance system to avoid objects. The front, back and sides all have sensors which are able to detect potential hazards from around 98 feet with or not they are in front of the drone or behind it. An example of where this would be useful is flying it through a doorway indoors as it is able to go through the doorway without being in danger of crashing into the door frame. Even at 31 miles an hour the avoidance system still works. They do switch off however when you switch to sports mode with increased speed capabilities of 40 miles an hour.
-
-#### Flight performance
-
- One of the great features enjoyed by Phantom 4 owners is 'draw'. This allows users to draw a line on their screen for their drone to follow at the same altitude. You can keep the camera in a forward position or leave it free to move such as in follow mode. The sensors in flight not only detect people in the way but also other objects including cars, bikes and trees. The camera locks to its subject continually while the drone fly's as set out by the user. The TapFly function allows you to get the drone to go in the direction of where you tapped, by using the TapFly backwards you can make it fly in the opposite direction all while the avoidance system works (except in sports mode). Return to home allows you to get the drone to return to its setting off point easily as it records the route and even chooses the one that is best for the conditions it is being flown in to avoid damage.
-
-#### Control range
-
- The Phantom 4 plus comes with a built in screen which has a display screen of 5.5 inches and 1080p. The remote is able to connect to the drone from up to 4.3 miles away and can stream full HD to the display screen. The remote battery can last for up to 5 hours before it needs to be charged.
-
-#### Camera
-
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-camera.jpg)
-
- The Phantom 4 has been upgraded to include a 20 megapixel sensor which has 12 dynamic range stops which allows for more detailed shots even in intense light. This improves the performance from its predecessor significantly. The mechanical shutter stops the distortion and makes for smoother footage. The 4K video at 60 fps capabilities increase the quality overall giving users better results.
-
-#### Conclusion
-
- The Phantom 4 literally does everything you could need it to. It flies well in all kinds of conditions, reaches great speeds to capture sports play and even avoids objects that would otherwise give users and their drones quite an unhappy ending. As the Phantom 4 is so easy to fly it means that users can concentrate on their footage. With the follow me mode users can literally go hands free and still get great results.
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Drones have become a huge part of the life of many modern people. Even those that have not had the chance to fly one have seen the great work on the internet and aerial shots for the advertisements, TV programs and films they watch on a regular basis. New technologies are constantly making drones better than anyone could have ever imagined and the DJI Phantom 4 is a great example of where this next level of technology has taken us. This new release has a better design, additional flight options and a special system to avoid objects should they get in the way of your drones flight path.
-
-**You may also like:** [Top 11 Best DJI Phantom 4 Accessories to Buy >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![dji phantom 4](https://images.wondershare.com/filmora/article-images/dji-phandom-4.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01CFXQZD0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CFXQZD0&linkId=edcac98fb2e38b9359b8299650e268df)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
-## Complete Review for DJI Phantom 4
-
-#### **Pros of DJI Phantom 4**
-
-* Obstacle sensing system
-* Two cameras for distance recognition
-* Artificial intelligence
-* Connects to GPS and GLONASS
-* New gimbal for sturdier videos and ease of maneuvering
-* Lighter frame
-* 30 fps videos and 120 fps capabilities
-* Improved lens
-* Travels up to 45 mph
-* Easy to fly
-
-#### **Cons of DJI Phantom 4**
-
-* Set up time
-* Missing set up guidelines making it harder for novice operators
-* Small branch recognition
-* Batter lasts 28 minutes up to 5km
-* $169 for extra battery power
-
-#### Feature and specs
-
-* Weight : (Battery & Propellers Included) 1388 g
-* Max Ascent Speed: S-mode: 6 m/s - P-mode: 5 m/s
-* Max Flight Time : 30 minutes approximately
-* Obstacle Sensory Range: 0.6 - 23 feet (0.2 - 7 m)
-* Vision System: Forward Vision System, Backward Vision System, Downward Vision System
-* Battery Type: LiPo 4S
-* Max Video Bitrate 100 Mbps
-* Supported File Systems :FAT32 (≤32 GB); exFAT (>32 GB)
-* Photo: JPEG, DNG (RAW), JPEG + DNG
-* Video: MP4/MOV (AVC/; /)
-* Supported SD Cards: Micro SD
-* Max Capacity: 128GB
-* Write speed ≥15MB/s, Class 10 or UHS-1 rating required
-
-#### Design
-
-![dji phantom 4 review](https://images.wondershare.com/filmora/article-images/dji-phantom-4-design.jpg)
 
  The Phantom 4 is similar to the previous version in terms of looks. It is white in color and plastic with sturdy legs to rest on. Two sensors are located on the front and back of the drone and more underneath and to the sides. The camera begins to record on takeoff allowing the drone to find a homing position when ready to return home. The camera hangs below the drone with gimbals that keep it sturdy whatever conditions it is flown in. The arms each have lights so that you can find it easily when in flight.
 
@@ -443,5 +436,20 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-lg-monitor-in-depth-analysis-and-user-feedback/"><u>[New] LG Monitor In-Depth Analysis and User Feedback</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-minute-drama-framework-plan/"><u>[New] Minute Drama Framework Plan</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photo-perfection-on-iphones-and-androids-blurring-basics/"><u>[New] Photo Perfection on iPhones & Androids Blurring Basics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sketch-like-a-pro-top-10-drawing-apps-for-android-artists/"><u>[New] Sketch Like a Pro Top 10 Drawing Apps for Android Artists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultrawide-vs-uhd-4k-monitors-the-experts-advice/"><u>[New] UltraWide VS UHD 4K Monitors The Expert's Advice</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-investment-worthy-asmr-sound-for-every-fan/"><u>2024 Approved Investment-Worthy ASMR Sound for Every Fan</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-case-for-high-dynamic-range-in-modern-videography/"><u>2024 Approved The Case for High Dynamic Range in Modern Videography</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-all-iphones-compatible-with-apples-latest-artificial-intelligence-enhancements-and-revamped-siri-techspot/"><u>Comprehensive Guide: All iPhones Compatible with Apple's Latest Artificial Intelligence Enhancements & Revamped Siri | TechSpot</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/exploring-the-economic-value-of-a-million-youtube-followers/"><u>Exploring the Economic Value of a Million YouTube Followers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-driver-installation-how-to-secure-your-amd-ati-radeon-hd-4200-software-update/"><u>Hassle-Free Driver Installation: How to Secure Your AMD ATI Radeon HD 4200 Software Update</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-and-vividness-with-the-benq-sw320-4k-monitor/"><u>In 2024, Precision & Vividness with the BenQ SW320 4K Monitor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-record-your-playstation-4-video-games/"><u>Step-by-Step Tutorial: How to Record Your PlayStation 4 Video Games</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-quest-for-the-ultimate-virtual-world-starts-here-htc-vive/"><u>The Quest for the Ultimate Virtual World Starts Here HTC Vive</u></a></li>
+</ul></div>
 

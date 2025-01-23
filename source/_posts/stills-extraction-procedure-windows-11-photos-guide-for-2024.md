@@ -1,7 +1,7 @@
 ---
 title: "\"Stills Extraction Procedure  Windows 11 Photos Guide for 2024\""
-date: 2025-01-14T10:08:05.936Z
-updated: 2025-01-17T06:13:54.462Z
+date: 2025-01-16T16:51:09.498Z
+updated: 2025-01-23T17:18:54.046Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,10 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -56,15 +60,7 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Why I can’t save photo from video
 
@@ -73,7 +69,7 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 We are explaining the solutions here –
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Check the update
@@ -83,10 +79,6 @@ Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Upd
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
 
@@ -100,8 +92,16 @@ Here comes the guide –
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -110,7 +110,7 @@ We provided you some knowledge on how to save a photo from video Windows 10 Phot
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -128,22 +128,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-optimize-space-compelling-selection-of-20-top-free-cloud-storages-up-to-1tb/"><u>[New] Optimize Space Compelling Selection of 20 Top FREE Cloud Storages (Up To 1TB)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-fixing-non-operational-srt-exports/"><u>[New] Step-by-Step Guide Fixing Non-Operational SRT Exports</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-facebook-vault-convert-videos-to-mp4-in-seconds-for-2024/"><u>[Updated] Facebook Vault Convert Videos to MP4 in Seconds for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-master-windows-11-a-treasure-trove-of-undisclosed-features/"><u>[Updated] In 2024, Master Windows 11 A Treasure Trove of Undisclosed Features</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-overcoming-uneven-sound-in-fb-video-playback/"><u>[Updated] In 2024, Overcoming Uneven Sound in FB Video Playback</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-inverting-screen-time-with-android-videos/"><u>[Updated] Inverting Screen Time with Android Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-securing-youtube-srt-files-a-threefold-procedure/"><u>[Updated] Securing YouTube SRT Files A Threefold Procedure</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-showcase-spectacatives-the-best-ice-artistry-22/"><u>[Updated] Showcase Spectacatives The Best Ice Artistry '22</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-professional-stabilizers-roundup-securing-smooth-cinematography/"><u>2024 Approved Professional Stabilizers Roundup Securing Smooth Cinematography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-record-a-podcast-on-iphone-or-ipad-best-for-interviews-and-travel/"><u>In 2024, How To Record a Podcast on iPhone or iPad (Best for Interviews & Travel)</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 6s</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quick-peek-at-windows-files-heres-how-for-2024/"><u>Quick Peek at Windows Files, Here's How for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sideways-vids-phenomenon-anomaly-or-feature-on-instagram-for-2024/"><u>Sideways Vids Phenomenon Anomaly or Feature on Instagram for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/top-10-ios-videos-premier-iphone-and-ipad-players-for-2024/"><u>Top 10 iOS Videos Premier iPhone & iPad Players for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/top-steadicam-models-compatible-with-dslr-cameras/"><u>Top Steadicam Models Compatible with DSLR Cameras</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/topo-das-5-criadoras-de-letreiros-mais-influentes-do-youtube-acesse-online/"><u>Topo Das 5 Criadoras De Letreiros Mais Influentes Do YouTube: Acesse Online</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-a05s-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy A05s Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-get-top-quality-gifs-on-your-mac-instantly/"><u>[New] 2024 Approved Get Top-Quality GIFs on Your Mac Instantly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-grasping-youtube-seo-a-guide-to-keyword-discovery/"><u>[New] 2024 Approved Grasping YouTube SEO A Guide to Keyword Discovery</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-stream-quality-which-is-superior-obs-or-fraps/"><u>[New] In 2024, Stream Quality Which Is Superior, OBS or Fraps?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-brightening-images-post-capture/"><u>[New] Step-by-Step Guide to Brightening Images Post-Capture</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-momentum-meets-mass-audience/"><u>[Updated] In 2024, Momentum Meets Mass Audience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-through-complete-circles-on-screen/"><u>2024 Approved Navigating Through Complete Circles on Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sky-high-quality-zoom-our-favorite-6-webcams/"><u>2024 Approved Sky-High Quality Zoom Our Favorite #6 Webcams</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/el-dominance-plan-studio-protocol-vs-beta-update/"><u>Channel Dominance Plan Studio Protocol Vs. Beta Update</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-picart-background-cleanse-method/"><u>In 2024, Step-by-Step PicArt Background Cleanse Method</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superheroes-clash-black-vs-silver/"><u>In 2024, Superheroes Clash BLACK vs SILVER</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unlocking-vidmas-secrets-to-superior-screen-recording/"><u>In 2024, Unlocking Vidma’s Secrets to Superior Screen Recording</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-smartphones-shining-in-high-definition-video-for-2024/"><u>Premium Smartphones Shining in High Definition Video for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/stop-windows-from-restarting-on-its-own-with-simple-tips-yl-software-tech-advice/"><u>Stop Windows From Restarting on Its Own with Simple Tips - YL Software Tech Advice</u></a></li>
 </ul></div>
 

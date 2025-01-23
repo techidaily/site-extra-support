@@ -1,7 +1,7 @@
 ---
 title: Revive Your Battlefield Soundscape - Quick Troubleshooting for BF4 No Audio Faults
-date: 2025-01-02T16:40:41.616Z
-updated: 2025-01-04T20:51:18.250Z
+date: 2025-01-22T17:00:19.542Z
+updated: 2025-01-23T17:25:29.621Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
  Enjoy this game but find no sound at all in Battlefield 4? If everything works fine and this happens only to BF4 (or other games from the EA Origin client), you’re in the right place. In this post, you will learn every possible fix to the ‘Battlefield 4 no sound’ issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6 Fixes for Battlefield 4 No Sound Issues
 
  We know how frustrating it can be when you can’t hear anything in a game. Below you will find fixes to get your audio work again in Battlefield 4\. Before you head to the following fixes, make sure you check the connections of your headset/speakers.
@@ -35,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 6. **[Rule out other interference](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1\. Update your audio drivers
@@ -56,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
 ![update sound card driver](https://images.drivereasy.com/wp-content/uploads/2021/09/update-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer and check whether your problem is solved.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -73,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/09/playback-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Set the right device as the default playback device. There will be a green tick and a signal icon on this device if it’s set as default.
 
 ![set the right default device](https://images.drivereasy.com/wp-content/uploads/2021/09/speaker.jpg)
@@ -81,17 +77,9 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
 ![set another device as default](https://images.drivereasy.com/wp-content/uploads/2021/09/set-as-default.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click your default device and select**Properties** . Go to the Advanced tab, and select a format**no more than 24 bit, 96000 Hz** .
 
 ![choose a correct sample format](https://images.drivereasy.com/wp-content/uploads/2021/09/quality.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click**Apply** to save the changes.
 
@@ -106,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 ![open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/09/open-volume-mixer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Make sure that Battlefield 4 is not muted in Volume Mixer.
@@ -114,20 +102,20 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 ![check battlefield 4 sound not working](https://images.drivereasy.com/wp-content/uploads/2021/09/mixer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Now you’ll need to go to the**Advanced Sound settings** . Press the**Windows logo** key +**I** at the same time, and select**System** .
 
 ![open system](https://images.drivereasy.com/wp-content/uploads/2021/09/system-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Select**Sound** from the left pane, and click**App volume and device preferences** under**Advanced sound options** .
 
 ![open advanced sound settings](https://images.drivereasy.com/wp-content/uploads/2021/09/soundsettings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Make sure you set the Output of Battlefield 4 to the system default device instead of “Game”.
 
@@ -141,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
 ![open firewall settings](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Click the active network.
 
 ![click domain network](https://images.drivereasy.com/wp-content/uploads/2021/09/domain.jpg)
@@ -148,6 +140,10 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
  2) Under**Microsoft Defender Firewall** , swap it to**Off** .
 
 ![toggle firewall to off](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch your Battlefield 4 and check if the sound is working now.
 
@@ -166,6 +162,10 @@ Launch your Battlefield 4 and check if the sound is working now.
 ![run origin as admin](https://images.drivereasy.com/wp-content/uploads/2019/08/run-origin-as-sdministrator.png)
 
  Play Battlefield 4 and test the sound issue. If the Battlefield 4 sound not working issue persists, it’s very likely caused by interference by your devices or other apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6\. Rule out other interference
 
@@ -206,24 +206,22 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-gopro-hero5-black-vs-sjcam-sj7-star/"><u>[New] GoPro Hero5 Black Vs SJCAM SJ7 Star</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-insightful-reviews-from-vllo-users/"><u>[New] Insightful Reviews From VLLO Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-masterclass-building-hype-with-solo-podcasts/"><u>[New] Masterclass Building Hype with Solo Podcasts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-free-srt-translator-showdown-the-best-eight-in-ranking/"><u>[Updated] 2024 Approved Free SRT Translator Showdown The Best Eight in Ranking</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-launchpad-to-success-the-youtube-entrepreneurs-guide/"><u>[Updated] 2024 Approved Launchpad to Success The YouTube Entrepreneur's Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-journey-beyond-boundaries-secure-this-top-7-metavue-tech/"><u>[Updated] Journey Beyond Boundaries - Secure This Top 7 Metavue Tech</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leveraging-azures-voice-recognition-for-advanced-solutions/"><u>[Updated] Leveraging Azure's Voice Recognition for Advanced Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-maximizing-spotify-ad-reach/"><u>[Updated] Step-by-Step Guide Maximizing Spotify Ad Reach</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/asus-z370-e-motherboard-download-latest-drivers-now/"><u>ASUS Z370-E Motherboard: Download Latest Drivers Now</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/augmented-longevity-in-ubuntu-linux-latest-lts-versions-feature-doubled-security-updates-duration/"><u>Augmented Longevity in Ubuntu Linux: Latest LTS Versions Feature Doubled Security Updates Duration</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-youtube-premium-what-makes-it-worth-the-price/"><u>Choosing YouTube Premium What Makes It Worth the Price?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-latest-zebra-printer-drivers-on-your-windows-pc/"><u>Download & Install Latest Zebra Printer Drivers on Your Windows PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-next-gen-escapades-upcoming-best-playstation-vr-games-to-try/"><u>In 2024, Next-Gen Escapades Upcoming Best PlayStation VR Games to Try</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-media-importer-strategies-in-windows-10-for-2024/"><u>Mastering Media Importer Strategies in Windows 10 for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-applications-for-visual-storytelling-for-2024/"><u>Premier Applications for Visual Storytelling for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-solutions-stop-chrome-crashing-on-windows-11-with-these-simple-fixes/"><u>Quick Solutions: Stop Chrome Crashing on Windows 11 with These Simple Fixes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/songsync-guide-tamil-ringtones-from-download-to-customize-for-2024/"><u>SongSync Guide Tamil Ringtones From Download to Customize for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unmasking-the-vanished-youtube-recommendations-on-facebook/"><u>Unmasking the Vanished YouTube Recommendations on Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-how-to-create-podcast-rss-feeds/"><u>[New] How To Create Podcast RSS Feeds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-iphone-2024-voice-memo-capturer/"><u>[New] IPhone 2024 Voice Memo Capturer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-mobile-recorders-to-capture-snapchat-moments-for-2024/"><u>[New] Navigating Mobile Recorders to Capture Snapchat Moments for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pushing-creative-boundaries-the-power-of-magix-vpx/"><u>[New] Pushing Creative Boundaries The Power of Magix VPX</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-spectacular-scrutiny-and-different-directions-for-2024/"><u>[New] Spectacular Scrutiny & Different Directions for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-record-setting-stories-a-list-of-the-most-popular-reddit-threads/"><u>[Updated] Record-Setting Stories A List of the Most Popular Reddit Threads</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-superior-5-sites-matching-twitters-features-for-2024/"><u>[Updated] Superior 5 Sites Matching Twitter's Features for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tranquil-tracks-easy-volume-diminution-via-garageband/"><u>[Updated] Tranquil Tracks Easy Volume Diminution via Garageband</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-find-and-buy-premium-youtube-ringtone-videos-easily/"><u>2024 Approved Find & Buy Premium YouTube Ringtone Videos Easily</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leaders-of-head-worn-digital-realms/"><u>2024 Approved Leaders of Head-Worn Digital Realms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-omniimageai-holistic-editing-experience/"><u>2024 Approved OmniImageAI Holistic Editing Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pixel-problems-non-existent-videos-on-a6400/"><u>In 2024, Pixel Problems Non-Existent Videos on A6400</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-spectacular-screenwriting-revealed/"><u>In 2024, Spectacular Screenwriting Revealed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximize-your-youtube-income-with-effective-mobile-device-strategies-for-2024/"><u>Maximize Your YouTube Income with Effective Mobile Device Strategies for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proven-methods-to-supercharge-your-spotify-ad-results-for-2024/"><u>Proven Methods to Supercharge Your Spotify Ad Results for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-restoring-default-sound-controls-on-your-pc-with-windows-tips-from-zdnet/"><u>Step-by-Step Guide: Restoring Default Sound Controls on Your PC with Windows - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-6-expert-tips-to-boost-your-job-application-success/"><u>Utilizing ChatGPT: 6 Expert Tips to Boost Your Job Application Success</u></a></li>
 </ul></div>
 

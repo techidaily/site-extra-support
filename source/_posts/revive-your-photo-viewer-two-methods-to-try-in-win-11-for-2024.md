@@ -1,7 +1,7 @@
 ---
 title: "\"Revive Your Photo Viewer  Two Methods to Try in Win 11 for 2024\""
-date: 2025-01-16T11:50:53.601Z
-updated: 2025-01-17T06:35:24.885Z
+date: 2025-01-19T16:32:28.475Z
+updated: 2025-01-23T17:21:53.662Z
 tags: 
   - screen-recording
   - ai video
@@ -37,7 +37,7 @@ Stay tuned to learn more!
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why you prefer Windows Photo Viewer
@@ -69,13 +69,13 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -92,7 +92,7 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
@@ -100,11 +100,7 @@ Here is the detailed guide –
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -112,6 +108,10 @@ Here is the detailed guide –
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -130,20 +130,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-prime-camcorder-selections-in-depth-insights/"><u>[New] In 2024, Prime Camcorder Selections – In-Depth Insights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pioneering-filmmakers-top-7-color-grading-hacks/"><u>[New] Pioneering Filmmakers' Top 7 Color Grading Hacks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-breakdown-of-popular-elements-in-youtube-shorts/"><u>[Updated] Breakdown of Popular Elements in YouTube Shorts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-volume-transitions-in-lumafusion/"><u>[Updated] Mastering Volume Transitions in Lumafusion</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speedy-streams-ios-media-on-your-pc/"><u>[Updated] Speedy Streams IOS Media on Your PC</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-master-the-art-of-social-media-success-with-these-10-facebook-tips/"><u>2024 Approved Master the Art of Social Media Success with These 10 Facebook Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-culinary-cinematography-essential-food-film-techniques/"><u>2024 Approved Mastering Culinary Cinematography Essential Food Film Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-and-easy-iphone-burst-techniques/"><u>2024 Approved Quick and Easy iPhone Burst Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-shutter-speed-supreme-the-ultimate-camera-guide-for-slow-videos/"><u>2024 Approved Shutter Speed Supreme The Ultimate Camera Guide for Slow Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photographs-dancing-to-musical-rhythms/"><u>In 2024, Photographs Dancing to Musical Rhythms</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-roadmap-to-powerful-instagram-partnerships-and-campaigns/"><u>In 2024, The Roadmap to Powerful Instagram Partnerships & Campaigns</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/retrieve-accidentally-erased-data-top-4-solutions-for-windows-and-macos-users/"><u>Retrieve Accidentally Erased Data: Top 4 Solutions for Windows & macOS Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-melody-meets-discovering-crossfade-magic/"><u>The Melody Meets Discovering Crossfade Magic</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-checklist-when-investing-in-a-new-projector/"><u>The Ultimate Checklist When Investing in a New Projector</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-if-your-nier-re-release-wont-start/"><u>Troubleshooting Steps if Your NieR Re-Release Won't Start</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unmasking-invisible-audiences-interactions/"><u>[New] 2024 Approved Unmasking Invisible Audiences' Interactions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-effortless-online-audio-accessibility-ideal-tools-for-iphone-and-youtube-for-2024/"><u>[New] Effortless Online Audio Accessibility Ideal Tools for iPhone & YouTube for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-insta-pros-guide-accelerate-your-path-to-social-media-stardom/"><u>[New] Insta Pro's Guide Accelerate Your Path to Social Media Stardom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instagrams-algorithm-unlocked-optimizing-your-reels/"><u>[New] Instagram’s Algorithm Unlocked Optimizing Your Reels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-integrating-custom-luts-into-your-post-production-workflow/"><u>[New] Integrating Custom LUTs Into Your Post-Production Workflow</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-laughter-in-every-note-essential-ringtones/"><u>[New] Laughter in Every Note Essential Ringtones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-tweeters-choice-youtube-to-twitter/"><u>[New] Leading Tweeters' Choice YouTube to Twitter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-the-power-of-windows-11s-auto-hdr-enhancement/"><u>[New] Leveraging the Power of Windows 11'S Auto HDR Enhancement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perspectives-perfected-top-11-bridging-camera-reviews/"><u>[New] Perspectives Perfected Top 11 Bridging Camera Reviews</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-youtubes-economy-a-guide-to-video-revenue-generation/"><u>[Updated] 2024 Approved Navigating YouTube's Economy A Guide to Video Revenue Generation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-interactive-lessons-expert-video-editing-for-classroom/"><u>[Updated] Interactive Lessons Expert Video Editing for Classroom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-iphone-the-ringtone-alteration-process/"><u>[Updated] Navigating iPhone The Ringtone Alteration Process</u></a></li>
+<li><a href="https://techtrends.techidaily.com/como-convertir-archivos-de-formato-tta-a-pdf-online-sin-coste-guia-eficaz-con-movavi/"><u>Cómo Convertir Archivos De Formato TTA a PDF Online Sin Coste: Guía Eficaz Con Movavi</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cookiebot-enabled-boost-your-sites-visibility-with-advanced-tracking-technology/"><u>Cookiebot-Enabled: Boost Your Site's Visibility with Advanced Tracking Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-ultimate-guide-to-the-scarlett-solo-driver-for-windows-users/"><u>Download & Install: The Ultimate Guide to the Scarlett Solo Driver for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-the-facts-on-samsung-galaxy-ring-find-out-pricing-release-schedule-and-product-details-today/"><u>Get the Facts on Samsung Galaxy Ring – Find Out Pricing, Release Schedule, and Product Details Today!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-action-cam-audio-winners-in-a-nutshell/"><u>In 2024, Action Cam Audio Winners in a Nutshell</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-play-40c-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor Play 40C Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-12-mini-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 12 mini Properly</u></a></li>
 </ul></div>
 

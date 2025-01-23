@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] One Man's Quest with 3D Tech  '3DR' Analysis\""
-date: 2024-12-31T22:38:47.364Z
-updated: 2025-01-04T19:39:31.148Z
+date: 2025-01-18T16:22:29.298Z
+updated: 2025-01-23T16:38:51.293Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
  The 3DR solo is one of the best examples of the excellent industrial product; it can record footage with amazing results in the air. It possesses so many simple yet powerful controls and users whether they are [professionals](https://tools.techidaily.com/wondershare/filmora/download/) or [beginners](https://tools.techidaily.com/wondershare/filmora/download/) can take full advantage of its incredible features. 3DR solo is one of the best product for [cinematographers](https://tools.techidaily.com/wondershare/filmora/download/) as it can work on aerial shoot with breathtaking clarity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and Cons of 3DR Solo
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Complete Review
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -132,18 +132,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-zenitherase-leading-edge-background-removal-tech-for-2024/"><u>[New] ZenithErase Leading-Edge Background Removal Tech for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-secrets-of-effective-screen-capture-with-dell-devices/"><u>[Updated] 2024 Approved Secrets of Effective Screen Capture with Dell Devices</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-crafting-standout-content-on-reddit-strategic-guide-available-for-2024/"><u>[Updated] Crafting Standout Content on Reddit - Strategic Guide Available for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-personalizing-your-android-a-step-by-step-guide-to-ringtone-and-sound-settings/"><u>[Updated] Personalizing Your Android A Step-by-Step Guide to Ringtone & Sound Settings</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-augmented-eyes-seeing-the-unseen-enhanced-way/"><u>2024 Approved Augmented Eyes Seeing the Unseen Enhanced Way</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-investigating-unmodified-audio-from-ffmpeg-output/"><u>2024 Approved Investigating Unmodified Audio From FFmpeg Output</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-monitors-ranked-for-ps5-gameplay/"><u>2024 Approved Prime Monitors Ranked for PS5 Gameplay</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-old-school-techniques-elevating-edits/"><u>2024 Approved Prime Old-School Techniques Elevating Edits</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722984700354-destiny-2-compatible-with-pc-how-to-fix-the-launch-error-quickly/"><u>Destiny 2 Compatible with PC? How to Fix the Launch Error Quickly</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-overcome-no-image-problem-in-youtube-shorts/"><u>How To Overcome No Image Problem in YouTube Shorts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-how-to-capture-motion-blur-photos-with-iphone/"><u>In 2024, How to Capture Motion Blur Photos with iPhone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-8-converters-seamless-sub-and-srt-transition-for-2024/"><u>Prime 8 Converters Seamless Sub and SRT Transition for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/scribes-summit-selection-top-8-for-2024/"><u>Scribe's Summit Selection - Top 8 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-17-best-digital-erasers-for-image-layer-cleaning/"><u>[Updated] 17 Best Digital Erasers for Image Layer Cleaning</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-discover-the-top-8-instagram-management-tools-for-iphone-and-android/"><u>[Updated] In 2024, Discover the Top 8 Instagram Management Tools for iPhone and Android</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-innovative-10-solutions-for-seamless-video-background-swapping-for-2024/"><u>[Updated] Innovative 10 Solutions for Seamless Video Background Swapping for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-off-facebook-activity-expose-is-it-worth-the-scrutiny/"><u>[Updated] Off-Facebook Activity Exposé - Is It Worth The Scrutiny?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-slow-motion-revolution-comprehensive-look-at-2024-version/"><u>[Updated] Slow Motion Revolution Comprehensive Look at 2024 Version</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-virtual-reality-players-arsenal/"><u>2024 Approved Premier Virtual Reality Player's Arsenal</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-android-podcast-options/"><u>2024 Approved Premium Android Podcast Options</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-top-game-download-websites/"><u>Discover the Best Top Game Download Websites</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-ineffectiveness-to-influence-with-smm-mastery/"><u>From Ineffectiveness to Influence with SMM Mastery</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-m6-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco M6 Pro 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-m1-pro-vs-m1-max-delving-into-the-details-of-apples-latest-cpus/"><u>In 2024, M1 Pro Vs. M1 Max Delving Into the Details of Apple's Latest CPUs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-making-shapes-pop-with-photoshop-tips/"><u>In 2024, Making Shapes Pop with Photoshop Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lightning-fast-windowed-gallery-viewer-alert-for-2024/"><u>Lightning-Fast Windowed Gallery Viewer Alert for 2024</u></a></li>
+<li><a href="https://techidaily.com/reviving-old-phones-as-fun-safe-entertainment-hubs-for-childrens-music-and-podcasts/"><u>Reviving Old Phones as Fun, Safe Entertainment Hubs for Children's Music and Podcasts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-downloading-and-updating-rndis-usb-network-adapter-for-windows-now-resolved/"><u>Ultimate Guide to Downloading and Updating RNDIS USB Network Adapter for Windows - Now Resolved</u></a></li>
 </ul></div>
 
