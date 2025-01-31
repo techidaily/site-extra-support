@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare PC Troubleshooting Guide: Ensuring Smooth Gameplay"
-date: 2025-01-17T16:40:37.490Z
-updated: 2025-01-23T16:16:37.528Z
+date: 2025-01-28T17:06:45.358Z
+updated: 2025-01-31T01:56:41.373Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedented global conflict. Without a doubt, you being one of them would expect to deploy alongside your friends in a truly immersive experience. However, different kinds of issues that ruin your gaming experience occur, one of them being the game not launching. Actually, this is plaguing lots of players. So, don’t fret! In this guide, we’ll outline several methods for you to fix it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -35,7 +35,7 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Allow your game through Windows Firewall
@@ -47,18 +47,10 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
@@ -94,6 +86,10 @@ If this doesn’t do the trick, try the next fix below.
 
  When you’re done, launch your game. If your problem persists, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Repair corrupted game files
 
  From time to time, your game files can get corrupted. When that happens, a wide variety of problems would occur, ranging from minor game glitches to critical issues such as game crashing and failures to load. To check if that’s your case, you can utilize the repair tool. Depending on your gaming platform, the steps you take will vary.
@@ -118,20 +114,20 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
  Once the verification process is complete, close the window and check if it solves your problem. If your game still fails to launch properly, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Update your graphics driver
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to update your graphics driver
 
@@ -172,12 +168,16 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Run a full system scan
@@ -213,22 +213,18 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-maximizing-lenovo-experience-through-effective-recording/"><u>[New] 2024 Approved Maximizing Lenovo Experience Through Effective Recording</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-ultimate-guide-to-youtube-openers-aandb-methods/"><u>[New] 2024 Approved The Ultimate Guide to YouTube Openers A&B Methods</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-video-url-minification-the-best-tools-for-youtubers-convenience/"><u>[New] 2024 Approved Video URL Minification The Best Tools for Youtubers' Convenience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-zip-to-srt-transform-subtitled-content-swiftly/"><u>[New] Mastering Zip-to-Srt Transform Subtitled Content Swiftly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-azure-speech-recognition-efficiently/"><u>[New] Navigating Azure Speech Recognition Efficiently</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premium-selection-excellent-webcam-platforms/"><u>[New] Premium Selection Excellent Webcam Platforms</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-totv-multimedia-player-wmp-alternative-for-2024/"><u>[New] TOTV Multimedia Player WMP Alternative for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-precision-gameplay-savings-made-easy-with-fbx-filming/"><u>[Updated] 2024 Approved Precision Gameplay Savings Made Easy with FBX Filming</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-logic-pros-strategy-for-muffled-sound-tracks/"><u>[Updated] Logic Pro's Strategy for Muffled Sound Tracks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-night-photography-perfection-with-iphones/"><u>[Updated] Night Photography Perfection with iPhones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-popular-imagery-origins-decoded/"><u>[Updated] Popular Imagery Origins Decoded</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-tecno-spark-10c-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Tecno Spark 10C Phone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-how-to-create-a-video-slideshow-with-final-cut-pro/"><u>New In 2024, How to Create a Video Slideshow with Final Cut Pro</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/paint-your-paradigm-the-8-essential-drawing-apps-for-iphone-users/"><u>Paint Your Paradigm The 8 Essential Drawing Apps for iPhone Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/ranked-alternatives-to-sporting-events-in-firstrow-views-for-2024/"><u>Ranked Alternatives to Sporting Events in Firstrow Views for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scam-or-solution-delving-into-truthgpt-token/"><u>Scam or Solution? Delving Into TruthGPT Token</u></a></li>
-<li><a href="https://extra-support.techidaily.com/simplifying-your-system-switch-from-sierra-to-os-x-1010-for-2024/"><u>Simplifying Your System Switch From Sierra to OS X 10.10 for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-narratives-through-captioning-for-2024/"><u>[New] Mastering Instagram Narratives Through Captioning for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-mastering-ffpm-a-guide-to-firefoxs-pip-feature/"><u>[Updated] 2024 Approved Mastering FFPM A Guide to Firefox's PIP Feature</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-ultimate-tutorial-for-musical-harmony-in-your-facebook-feed/"><u>[Updated] 2024 Approved The Ultimate Tutorial for Musical Harmony in Your Facebook Feed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-jovial-jamboree-accessing-comic-crafts-for-free/"><u>[Updated] Jovial Jamboree Accessing Comic Crafts for Free</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-key-features-of-mozillas-innovative-popup-window/"><u>2024 Approved Key Features of Mozilla's Innovative Popup Window</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-top-ten-capture-hardware-rankings-for-professional-streamers/"><u>2024 Approved Top Ten Capture Hardware Rankings for Professional Streamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-costs-with-smart-cloud-storage-choices/"><u>Cutting Costs with Smart Cloud Storage Choices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-longevity-of-airpods-pro-is-apples-latest-earbud-release-worth-your-investment/"><u>Exploring the Longevity of AirPods Pro: Is Apple's Latest Earbud Release Worth Your Investment ?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-elevating-engagement-best-video-ideas-for-channels/"><u>In 2024, Elevating Engagement Best Video Ideas for Channels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-payment-structure-behind-item-assessment-videos/"><u>In 2024, Payment Structure Behind Item Assessment Videos?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-podcast-intros-a-guide-with-illustrations/"><u>In 2024, Perfecting Podcast Intros A Guide with Illustrations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snapchat-tricks-unleashing-yourself-with-a-cartoon-lens/"><u>In 2024, Snapchat Tricks Unleashing Yourself with a Cartoon Lens</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-and-fixing-the-missing-x3daudiodll-error-on-your-pc/"><u>Understanding and Fixing the Missing x3daudio.dll Error on Your PC</u></a></li>
 </ul></div>
 

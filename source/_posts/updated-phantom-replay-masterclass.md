@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Phantom Replay Masterclass"
-date: 2025-01-22T17:43:59.216Z
-updated: 2025-01-23T17:54:50.994Z
+date: 2025-01-28T20:58:56.511Z
+updated: 2025-01-30T16:41:15.186Z
 tags: 
   - screen-recording
   - ai video
@@ -47,14 +47,6 @@ The camera will then capture the movement in slow motion, allowing you to see th
 
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Why do we need a phantom slow-motion camera?
 
 There are many reasons why someone might want or need to use a phantom slow-motion camera. For example, law enforcement officials can use them to capture footage of high-speed car chases or accidents. Scientists can use them to study fast-moving objects or phenomena. And sports enthusiasts can use them to study the movements of athletes and improve their performance.
@@ -75,6 +67,10 @@ A phantom slow-motion camera is a special type of camera that can be used to cre
 Once you have all of the necessary equipment, you will need to set up your camera on the tripod and position it in the desired location. Then, you will need to set the camera to record in slow motion. Once the camera is recording, you will need to use the remote shutter release to take a picture every few seconds.
 
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to edit time-lapse video on a computer
 
@@ -118,10 +114,6 @@ Drag and drop your videos on the timeline to start the editing. Once you placed 
 
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4 Add titles, effects, and transitions to your video
 
 Filmora provides several titles, effects, and transitions. You can add them according to your needs. If you want to make a time-lapse video then you can copy your video and paste it on the end of the first video, so that you can make a time-lapse video. But if you add the dissolve transition between them then your video will become so smooth.
@@ -129,7 +121,7 @@ Filmora provides several titles, effects, and transitions. You can add them acco
 ![add title and effects to video filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-title-and-effects-to-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step5 Export to your desktop
@@ -139,7 +131,11 @@ When you want to save your video or share it on social media just click on the e
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -178,6 +174,10 @@ Phantom cameras are the newest type of camera on the market that can capture slo
 
 One of the most popular ways to use a phantom slow-motion camera is to capture beautiful slow-motion footage of nature. This can be done by setting up the camera in a location where there is a lot of natural movement. The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to create a time-lapse video on a phantom slow-motion camera
 
 A phantom slow-motion camera is a special type of camera that can be used to create time-lapse videos. Time-lapse videos are created by taking a series of photos or videos over a while and then playing them back at a faster speed. This gives the appearance of time moving faster or slower than it is. To create a time-lapse video using a phantom slow-motion camera, you will need the following:
@@ -221,11 +221,19 @@ You can easily install Filmora for free, after installing click on it three opti
 
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2 Add some media to edit
 
 After creating a new project, there is an option to add media you can your the video which you want to edit.
 
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3 Drop the media to timeline
 
@@ -239,19 +247,11 @@ Filmora provides several titles, effects, and transitions. You can add them acco
 
 ![add title and effects to video filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-title-and-effects-to-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step5 Export to your desktop
 
 When you want to save your video or share it on social media just click on the export button. It will provide you with different features like you can export your video on a desktop or where ever you want. You can export it in HD form.
 
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -287,15 +287,21 @@ As filmmakers and video lovers, we have come up with some solid examples of time
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-refine-your-remote-sessions-zoom-in-effectively/"><u>[New] Refine Your Remote Sessions Zoom in Effectively</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigating-the-art-of-facebook-video-distribution/"><u>[Updated] 2024 Approved Navigating the Art of Facebook Video Distribution</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-cams-for-clay-character-creation/"><u>[Updated] Master Cams for Clay Character Creation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-nba-live-action-your-guide-to-15-effective-livestream-tips/"><u>[Updated] NBA Live Action Your Guide to 15 Effective Livestream Tips</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-urban-oasis-best-6-modern-mc-living-spaces/"><u>2024 Approved Urban Oasis Best 6 Modern MC Living Spaces</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficient-frame-by-frame-gaming-archives/"><u>Efficient Frame-by-Frame Gaming Archives</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/from-zero-to-viral-video-top-10-user-friendly-youtube-concepts/"><u>From Zero to Viral Video Top 10 User-Friendly YouTube Concepts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/propel-innovative-expression-ultimate-guide-to-best-android-drawing-tools-for-2024/"><u>Propel Innovative Expression Ultimate Guide to Best Android Drawing Tools for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/transform-your-workspace-with-the-acer-aspire-c27-high-quality-low-profile-computing/"><u>Transform Your Workspace with the Acer Aspire C27: High Quality, Low Profile Computing</u></a></li>
-<li><a href="https://facebook.techidaily.com/trump-challenges-big-tech-on-free-speech-grounds/"><u>Trump Challenges Big Tech on Free Speech Grounds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-amplify-detail-top-tips-for-shooting-up-closer-with-videoleap/"><u>[New] Amplify Detail Top Tips for Shooting Up Closer with VideoLeap</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-integrating-zoom-with-your-android-gadget-for-2024/"><u>[New] Integrating Zoom with Your Android Gadget for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mosaicmaker-elite-designing-with-digital-threads/"><u>[New] MosaicMaker Elite Designing with Digital Threads</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-beyond-samsung-gear-360-top-alternative-cameras-of-2023/"><u>[Updated] 2024 Approved Beyond Samsung Gear 360 Top Alternative Cameras of 2023</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-lightning-labs-loading-slides-in-ppt/"><u>[Updated] 2024 Approved Lightning Labs Loading Slides in PPT</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-illustrate-images-select-caption-apps-for-your-photos-iosandroid-for-2024/"><u>[Updated] Illustrate Images Select Caption Apps for Your Photos (iOS/Android) for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterclass-building-hype-with-solo-podcasts/"><u>[Updated] Masterclass Building Hype with Solo Podcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snapseed-studio-reviewing-affordable-editors/"><u>[Updated] Snapseed Studio Reviewing Affordable Editors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-live-broadcasting-uncovered-master-platform-selection/"><u>2024 Approved Live Broadcasting Uncovered Master Platform Selection</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-11-pro-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 11 Pro Smoothly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-reflections-a-pioneering-collection-of-thoughts/"><u>In 2024, Metaverse Reflections A Pioneering Collection of Thoughts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-recording-revelry-capturing-the-thrill-of-sports-games/"><u>In 2024, Recording Revelry Capturing the Thrill of Sports Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revamp-your-photos-is-pickup-a-game-changer-for-android-users-in-2024/"><u>Revamp Your Photos Is PickUp a Game-Changer for Android Users, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simple-method-for-great-insta-posts-for-2024/"><u>Simple Method for Great Insta Posts for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-guide-crafting-images-for-vmware-and-hyper-v-virtual-environments/"><u>Step-by-Step Guide: Crafting Images for VMware & Hyper-V Virtual Environments</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 7 Plus | Dr.fone</u></a></li>
 </ul></div>
 

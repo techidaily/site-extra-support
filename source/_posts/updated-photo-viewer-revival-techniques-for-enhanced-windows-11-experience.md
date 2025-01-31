@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photo Viewer Revival Techniques for Enhanced Windows 11 Experience"
-date: 2025-01-16T16:14:31.421Z
-updated: 2025-01-23T17:02:46.753Z
+date: 2025-01-28T04:46:46.806Z
+updated: 2025-01-31T00:11:05.743Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -62,7 +58,7 @@ Here is why they want to restore Windows Photo Viewer –
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
@@ -74,7 +70,7 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
@@ -95,12 +91,16 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -112,7 +112,7 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -130,24 +130,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-free-online-video-communication-tools-rated-best/"><u>[New] 2024 Approved Free Online Video Communication Tools Rated Best</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-game-enhancing-screens-top-5-for-ps5-and-xbox-gamers/"><u>[New] Game-Enhancing Screens Top 5 for PS5 & Xbox Gamers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-through-youtube-settings-to-mute-snapshots/"><u>[New] Navigating Through YouTube Settings to Mute Snapshots</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-select-15-professional-luts-to-boost-gopro-cinematography/"><u>[New] Select 15 Professional LUTs to Boost GoPro Cinematography</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-starting-point-auditions-approach-to-soft-volume-increase/"><u>[New] Starting Point Audition's Approach to Soft Volume Increase</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-customizing-characters-the-ae-font-guide-for-2024/"><u>[Updated] Customizing Characters The AE Font Guide for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-lifetime-favorites-reddits-highly-endorsed-top-10/"><u>[Updated] Lifetime Favorites Reddit's Highly-Endorsed Top 10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-selecting-the-ultimate-gear-for-stellar-4k-production/"><u>[Updated] Selecting the Ultimate Gear for Stellar 4K Production</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-top-10-lightroom-alternatives-free-and-paid-filmora/"><u>[Updated] Top 10 Lightroom Alternatives [Free & Paid] | Filmora</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-video-flexibility-unleashed-5-powerful-online-methods-to-edit-videos-on-vimeo/"><u>2024 Approved Video Flexibility Unleashed 5 Powerful Online Methods to Edit Videos on Vimeo</u></a></li>
-<li><a href="https://program-issues.techidaily.com/biomutant-for-pc-expert-strategies-to-avoid-crashes-and-enhance-performance/"><u>Biomutant for PC: Expert Strategies to Avoid Crashes and Enhance Performance</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/establish-visual-identity-on-facebook/"><u>Establish Visual Identity on Facebook</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intuitive-software-integration-with-lenovos-u310/"><u>Intuitive Software Integration with Lenovo's U310</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-photography-these-are-your-cams-in-24-for-2024/"><u>New Photography? These Are Your Cams in '24 for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-online-spots-for-availing-text-enhancement-files-for-2024/"><u>Prime Online Spots for Availing Text Enhancement Files for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quantum-megadesk-pure-4k-multi-touch-for-2024/"><u>Quantum MegaDesk Pure 4K Multi-Touch for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-quintessence-of-productivity-win-11s-top-7-widgets/"><u>The Quintessence of Productivity: Win 11’S Top 7 Widgets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-interactivemix-for-all-systems/"><u>[New] InteractiveMix for All Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-obs-optimization-for-seamless-fb-broadcasting/"><u>[Updated] In 2024, OBS Optimization for Seamless FB Broadcasting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterpieces-in-3d-graphics-and-golden-displaytexts-online/"><u>[Updated] Masterpieces in 3D Graphics and Golden DisplayTexts Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-polishing-zoom-picture-quality-simple-solutions/"><u>[Updated] Polishing Zoom Picture Quality Simple Solutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sprint-through-slow-androids-premier-video-fixes/"><u>[Updated] Sprint Through Slow Android's Premier Video Fixes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leveraging-video-conferencing-a-guide-to-zipping-up-zoom-and-gmail-integration/"><u>2024 Approved Leveraging Video Conferencing A Guide to Zipping Up Zoom and Gmail Integration</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shape-players-guide-to-distortion-and-more/"><u>2024 Approved Shape Players' Guide to Distortion and More</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/compatible-drivers-for-epson-xp-245-printers-on-various-windows-platforms-windows-7-8-and-10/"><u>Compatible Drivers for Epson XP 245 Printers on Various Windows Platforms (Windows 7, 8 & 10)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-asus-rog-phone-8-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Asus ROG Phone 8 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-tecno-phantom-v-flip-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Tecno Phantom V Flip PC | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-windows-quick-skim-a-step-by-step-guide/"><u>In 2024, Fast Windows Quick Skim A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-omni-directional-vision-and-its-distinctive-features/"><u>In 2024, Omni-Directional Vision and Its Distinctive Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-slendersky-stash-affordable-capacious-clouds/"><u>In 2024, SlenderSky Stash Affordable, Capacious Clouds</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-star-wars-squadrons-a-deep-dive-into-its-exhilarating-space-battles/"><u>In-Depth Analysis of Star Wars: Squadrons - A Deep Dive Into Its Exhilarating Space Battles</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mavericks-mp4-video-editor-a-comprehensive-guide/"><u>New In 2024, Mavericks MP4 Video Editor A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-dll-problems-tips-for-when-you-cant-locate-msvcr70dll/"><u>Overcoming DLL Problems: Tips for When You Can’t Locate MSVCR70.DLL</u></a></li>
+<li><a href="https://extra-support.techidaily.com/smilesphere-endless-possibrancies-in-meme-land-for-2024/"><u>SmileSphere Endless Possibrancies in Meme Land for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-12-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 12 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-premium-mac-screens-and-monitors/"><u>Ultimate Selection: Premium Mac Screens and Monitors</u></a></li>
 </ul></div>
 

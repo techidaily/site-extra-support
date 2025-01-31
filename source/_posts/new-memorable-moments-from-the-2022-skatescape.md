@@ -1,7 +1,7 @@
 ---
 title: "[New] Memorable Moments From the 2022 Skatescape"
-date: 2025-01-18T16:40:21.582Z
-updated: 2025-01-23T17:30:08.934Z
+date: 2025-01-23T23:55:30.744Z
+updated: 2025-01-30T16:37:46.542Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
@@ -35,7 +35,7 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
@@ -50,10 +50,6 @@ Shoma Uno of Japan won the bronze medal with a combined score of 293 points and 
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
@@ -62,15 +58,19 @@ Even though Nathan Chen finished first for men's short program of the team event
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
-Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -99,7 +99,7 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
@@ -121,22 +121,16 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-the-editors-edge-insider-strategies-to-supercharge-your-photos/"><u>[New] The Editor's Edge Insider Strategies to Supercharge Your Photos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-easy-techniques-for-using-screencastify-app/"><u>[Updated] Easy Techniques for Using Screencastify App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-filmmakers-checklist-on-the-go-gear-guide/"><u>[Updated] Filmmaker's Checklist On-the-Go Gear Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-best-camera-lenses-of-2024/"><u>[Updated] Top 10 Best Camera Lenses Of 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-invent-comical-content/"><u>2024 Approved Invent Comical Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-visual-storytelling-the-top-cinematic-secrets/"><u>2024 Approved Mastering Visual Storytelling The Top Cinematic Secrets</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-s3700-sony-bd-play-new-insights/"><u>2024 Approved S3700 Sony BD PLAY New Insights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-up-your-image-game-the-best-free-online-editors/"><u>2024 Approved Step Up Your Image Game The Best Free Online Editors</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-the-red-x-signal-in-file-explorer/"><u>Dissecting the Red “X” Signal in File Explorer</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/icket-video-countdown-of-the-hour-for-2024/"><u>Hot Ticket Video Countdown of the Hour for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revamp-photos-essential-color-correction-steps/"><u>In 2024, Revamp Photos Essential Color Correction Steps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-clearing-background-artifacts-in-figma/"><u>In 2024, Step-by-Step Clearing Background Artifacts in Figma</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-virtual-masterclass-for-aspiring-filmmakers-on-youtube/"><u>In 2024, Virtual Masterclass for Aspiring Filmmakers on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/interior-illumination-through-natural-sun-exposure-for-2024/"><u>Interior Illumination Through Natural Sun Exposure for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-the-art-of-pace-control-for-instas-live-videos-for-2024/"><u>Master the Art of Pace Control for Insta's Live Videos for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-grab-speech-file-and-review-for-2024/"><u>[New] Grab Speech File & Review for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-outsmarting-the-obtrusive-fb-video-ads-for-2024/"><u>[New] Outsmarting the Obtrusive FB Video Ads for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-outstanding-20-free-no-right-pubg-montages/"><u>[Updated] Outstanding 20 Free, No-Right PUBG Montages</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-laughter-in-the-clouds-iphone/"><u>2024 Approved Laughter in the Clouds (iPhone)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-file-sync-pc-content-to-iphone-compatibility/"><u>2024 Approved Quick File Sync PC Content to iPhone Compatibility</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smartphone-viewing-at-its-peak-top-10-free-video-streamers/"><u>2024 Approved Smartphone Viewing at Its Peak Top 10 Free Video Streamers</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/acquista-gratis-winx-mediatrans-online-con-offerta-esclusiva/"><u>Acquista Gratis WinX MediaTrans Online Con Offerta Esclusiva</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-the-dollars-and-cents-of-podcasting/"><u>Decoding the Dollars and Cents of Podcasting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instant-guide-obtaining-safe-free-vlc-media-player-on-a-mac/"><u>Instant Guide Obtaining Safe, Free VLC Media Player on a Mac</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/interactive-illumination-the-future-of-memory-presentation/"><u>Interactive Illumination: The Future of Memory Presentation</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-save-money-stay-legal-free-filmora-options-you-can-trust/"><u>Updated In 2024, Save Money, Stay Legal Free Filmora Options You Can Trust</u></a></li>
 </ul></div>
 

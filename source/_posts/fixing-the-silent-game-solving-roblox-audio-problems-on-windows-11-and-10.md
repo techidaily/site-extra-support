@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Silent Game: Solving Roblox Audio Problems on Windows 11 and 10"
-date: 2025-01-19T17:54:16.199Z
-updated: 2025-01-23T16:40:48.067Z
+date: 2025-01-26T23:43:27.738Z
+updated: 2025-01-30T21:06:05.730Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 Fallout 3 is an old but classic game. Although Fallout 3 can be installed and played on Windows 10 (read[this article](https://tools.techidaily.com/drivereasy/download/) to learn how), you may meet the freezing problem now and then at any random moment.  
  Here are a few methods that can help you get rid of this freezing issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  There’re 5 fixes that have helped many gamers solve their freezing problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -28,10 +32,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 4. **[Update your graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Fallout 3](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Play in Windowed mode
 
  Sometimes, game freezing issue can be easily solved by changing the game’s display options. Play the game in Windowed mode when you meet freezes. This method can let you play without freezes for hours.
@@ -41,16 +41,8 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option.jpg)
 3. Tick the **Windowed** box under Mode.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : If using dual monitors, disable your second one from your**Windows display settings** .  
  Ensure that the resolution of the game matches that of your display monitors.
@@ -68,6 +60,11 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
 
@@ -75,10 +72,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 6. Relaunch the game and check whether it solves the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
@@ -90,24 +83,28 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 3. Right-click on Fallout 3.exe and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Run Fallout 3 to check whether the game is running properly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Update your graphics card drivers
 
@@ -142,6 +139,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -172,24 +173,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/hoosing-free-video-editing-software-on-iphone-and-ipad/"><u>[New] Choosing Free Video Editing Software on iPhone & iPad</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-get-your-video-dimensions-spot-on-for-instagram-sharing-for-2024/"><u>[New] Get Your Video Dimensions Spot-On for Instagram Sharing for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instant-ig-glory-high-quality-covers-on-apple-and-android-devices/"><u>[New] Instant IG Glory High-Quality Covers on Apple and Android Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-lighting-setup-tips-to-make-great-videos/"><u>[New] Lighting Setup Tips to Make Great Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-metaverse-madness-top-tips-for-crafting-hitsome-memes/"><u>[New] Metaverse Madness Top Tips for Crafting Hitsome Memes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-preeminent-sites-to-amplify-youtube-traffic/"><u>[New] Preeminent Sites to Amplify YouTube Traffic</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-revolutionary-drone-editing-for-visual-storytellers/"><u>[New] Revolutionary Drone Editing for Visual Storytellers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-uav-technology-unveiled-the-yuneec-4k-journey/"><u>[New] UAV Technology Unveiled The Yuneec 4K Journey</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-balancing-professional-and-personal-profiles/"><u>[Updated] Balancing Professional and Personal Profiles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>[Updated] Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-videos-top-windows-phones-video-apps/"><u>[Updated] Mastering Videos Top Windows Phones Video Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pro-graphic-rigs-mastering-4k-titles/"><u>[Updated] Pro Graphic Rigs Mastering 4K Titles</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/funf-kostenfreie-videokonvertierungstools-die-sie-im-jahr-2024-nicht-verpassen-sollten-richtiges-ranking-fur-seo/"><u>Fünf Kostenfreie Videokonvertierungstools, Die Sie Im Jahr 2024 Nicht Verpassen Sollten – Richtiges Ranking Für SEO</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-inverting-image-hues-in-photoshop/"><u>In 2024, Inverting Image Hues in Photoshop</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-perfectpicturefree-ultimate-erase-for-clean-bgs/"><u>In 2024, PerfectPictureFree Ultimate Erase for Clean BGs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-english-spelling-the-top-100-mistakes-to-avoid/"><u>Mastering English Spelling: The Top 100 Mistakes to Avoid</u></a></li>
-<li><a href="https://extra-support.techidaily.com/simple-win-steps-for-fishy-sounds-alteration-for-2024/"><u>Simple Win Steps for Fishy Sounds Alteration for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-recommended-navigation-apps-for-your-iphone/"><u>Top 5 Recommended Navigation Apps for Your iPhone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-discounted-tribit-audio-gear-savvy-shoppers-guide-to-prime-day-offers/"><u>Top Discounted Tribit Audio Gear: Savvy Shoppers' Guide to Prime Day Offers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-achieving-perfect-synchronization-google-upload/"><u>[Updated] 2024 Approved Achieving Perfect Synchronization Google Upload</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-video-timing-what-you-need-to-know/"><u>[Updated] Instagram Video Timing What You Need To Know</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-samba-seed-eaters/"><u>[Updated] Samba Seed Eaters</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-guide-to-xbox-live-streaming/"><u>2024 Approved The Ultimate Guide to Xbox Live Streaming</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-realme-c33-2023-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme C33 2023 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-12-free-video-trimming-apps-for-android-users/"><u>In 2024, Leading 12 Free Video Trimming Apps for Android Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photoshop-guide-realistic-3d-text-creation-steps/"><u>In 2024, Photoshop Guide Realistic 3D Text Creation Steps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-refine-image-quality-on-canon-devices-using-free-plus-payable-lut-tools/"><u>In 2024, Refine Image Quality on Canon Devices Using Free + Payable LUT Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/making-the-most-of-windows-11-a-desktop-widget-walkthrough/"><u>Making the Most of Windows 11: A Desktop Widget Walkthrough</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/visionary-designs-for-future-mojave-dwellings-for-2024/"><u>Visionary Designs for Future Mojave Dwellings for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/cost-expertise-in-analyzing-youtube-videos-frame-by-frame/"><u>Zero-Cost Expertise in Analyzing YouTube Videos Frame by Frame</u></a></li>
 </ul></div>
 

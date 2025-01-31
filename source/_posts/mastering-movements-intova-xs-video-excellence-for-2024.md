@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Movements  Intova X's Video Excellence for 2024\""
-date: 2024-07-30T04:37:46.160Z
-updated: 2024-07-31T04:37:46.160Z
+date: 2025-01-27T17:05:54.159Z
+updated: 2025-01-31T02:11:17.479Z
 tags: 
   - screen-recording
   - ai video
@@ -74,9 +74,198 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
 
  Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+## Features and performance
+
+#### **1. Battery and Storage:**
+
+ Before you start recording with your Edge X camera, ensure that you have charged its battery full. For storing your videos and photos you also need to buy an SD card. The sad part is that camera does not have powerful internal memory; it can just store few photographs or a video of maximum 5 seconds only. While buying a new SD card for your camera, it is good to pick class 10 version otherwise your camera will not support storage. Such cards assists in fast read and write operations.
+
+#### **2. Video and Image Quality:**
+
+ The best thing to know about this advanced action cam is that it supports motion detection. That means recording gets automatically started whenever this device detects any motion around. The wide angle lenses follow automatic fish eye correction and whenever camera is mounted upside down then video easily rotates unto 180 degrees. Users can record with video time lapse mode and can also record lower resolution videos perfectly with dual stream selection. This camera does not have any internal image stabilization facility but it supports filters that can enhance colour information in videos.
+
+ Want to know more action cameras with waterproof capacity?[Check Top 7 Best Waterproof Action Camera For 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### **3. Resistant Capacity:**
+
+ The durable and rugged design of Intova Edge X is waterproof also so it can be used to record videos or stills under water. The UV protected housing make it waterproof up to 330 feet or 100 meters whereas the glass lens port automatically reduces reflection and increases scratch resistance.
+
+#### **4. Self Capture and Burst Modes:**
+
+ If you are a crazy about selfies then your Intova Edge X can assist you better with its burst mode. It assists in shooting stills at 3, 5 and 10 seconds without adding any blur effect to stills.
+
+#### **5. Smartphone Application:**
+
+ It is much easier to connect Intova Edge X with iOS and Android application so that remote access can be enabled. The app works via a password protected quick start guide and can provide you live view of camera. It is also much easier to transfer files between various devices and you can have a preview over content to edit it as per need before sharing.
+
+## Conclusion
+
+ After having a clear detail about every feature of this camera we can say that it is a great option within $143\. You can shoot underwater, edit or share content easily and the buttons as well as remote control feature both are impressive. If you can think for a while by keeping GoPro out of your mind then you will definitely find Intova Edge X best action cam in market.
+
+ Want to know more about action cameras with low budget?[Check Top 7 Action and Sports Cameras Under $200](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+ When people start planning about an action camera, they first think of [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) because it's a leader in market from many years. This is the big challenge that Intova in facing right now. If we compare both these brands then Intova Edge X has incredible features and it is far better than GoPro action camera series. Somehow if people come out of GoPro thoughts then could realise the real power of quality offered by Intova with its latest launch.
+
+ Intova Edge X is the best camera for sports lovers with its [full HD](https://tools.techidaily.com/wondershare/filmora/download/) recording ability and compact design. It has so many cool features like ability to record 1080p resolution at 60fps frame rate, built in LCD screen, Wi-Fi connectivity, [waterproof](https://tools.techidaily.com/wondershare/filmora/download/) body and many more. With better features, impressive quality and intuitive controls one more this that proves it best action cam is its affordable price range. You just need to pay $143US to get this camera.
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Complete Review
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01IWIVM08/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IWIVM08&linkId=0f5967b8cc54bdf2561762c14d39a61e
+)
+
+#### **Design and Usability:**
+
+ It can be called as all in one package because all useful features are embedded perfectly to this device. The perfect protective housing provides direct access to its removable battery, USB port, SD Card slot and High Definition TV output. It is waterproof up to depth of 200' whereas the large buttons on the body provides full control to camera settings. You will be glad to know that Intova Edge X can act like play back monitor as well as like a viewfinder. With the help of Wi-Fi control you can easily switch to remote control and the file transfer process can be also initiated with ease. In order to maintain the waterproofing quality, this device possess a silicon grease, USB cable, lens cap, anti glare type protection for LCD screen and float strap.
+
+#### **Specifications**
+
+| **Parameters Price:** | **Details**                                                                                                                                                     | **Parameters**       | **Details**                                                                                                                                                                           |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Review Price**      | $143.04                                                                                                                                                         | **Batter**y          | Rechargeable/Removable Li-ion battery                                                                                                                                                 |
+| **Display**           | 1.5” TFT                                                                                                                                                        | **Connectivity**     | WiFi Micro HDMI Micro USB APP                                                                                                                                                         |
+| **Image sensor**      | 1/2.3"CMOS                                                                                                                                                      | **Lens**             | 160 Super-wide-angle                                                                                                                                                                  |
+| **Waterproof**        | 100m                                                                                                                                                            | **Modes**            | Diving Mode  Self-capture mode  Motion Detection Mode  Time Lapse mode  time lapse mode  Burst Mode (3, 5, 10, 20 and 30 photos)                                                      |
+| **Weight**            | 209g                                                                                                                                                            | **Dimension**        | 84 x 70 x 60mm                                                                                                                                                                        |
+| **Digital Zoom**      | 60x, 16x, 10x or 4x                                                                                                                                             | **Memory**           | Micro SD Card up to 64GB                                                                                                                                                              |
+| **Frame Rates**       | 1080p@60fps, 1080p@48fps, 1080p@30fps, 1080p@24fps 960p@60fps, 960p@48fps, 960p@30fps, 960p@24fps, 720p@120fps, 720p@60fps, 720p@48fps, 720p@30fps, 720p@24fps, | **Image Resolution** | 12MP, 10MP, 8MP and 5MP                                                                                                                                                               |
+| **Format**            | MP4/ JPEG                                                                                                                                                       | **Features**         |   Video Rotation Mode 180 degree (for when camera is mounted upside down)  Picture in Video  Motion Detection Stream recording  Exclusive Video Wide Angle Lens (fisheye) Correction |
+
+| **Pros**                                                                    | **Cons**                                          |
+| --------------------------------------------------------------------------- | ------------------------------------------------- |
+| Waterproof, durable                                                         | Buttons are very rigid and uncomfortable to press |
+| Interface is easy to navigate and provides plenty of options to tinker with | \-                                                |
+| Removable battery and micro SD card                                         | \-                                                |
+| Easy to mount in a variety of ways                                          | \-                                                |
+
+#### **Accessories in the Box:**
+
+ The time when you open your camera package, following things will come out:
+
+* Optional accessory brochure
+* Quick start guide
+* Silicone Grease
+* Anti-Glare hood
+* Float Strap
+* Mini USB Cable
+* Lithium Ion Battery
+* User's manual mini LCD
+
+ Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Features and performance
+
+#### **1. Battery and Storage:**
+
+ Before you start recording with your Edge X camera, ensure that you have charged its battery full. For storing your videos and photos you also need to buy an SD card. The sad part is that camera does not have powerful internal memory; it can just store few photographs or a video of maximum 5 seconds only. While buying a new SD card for your camera, it is good to pick class 10 version otherwise your camera will not support storage. Such cards assists in fast read and write operations.
+
+#### **2. Video and Image Quality:**
+
+ The best thing to know about this advanced action cam is that it supports motion detection. That means recording gets automatically started whenever this device detects any motion around. The wide angle lenses follow automatic fish eye correction and whenever camera is mounted upside down then video easily rotates unto 180 degrees. Users can record with video time lapse mode and can also record lower resolution videos perfectly with dual stream selection. This camera does not have any internal image stabilization facility but it supports filters that can enhance colour information in videos.
+
+ Want to know more action cameras with waterproof capacity?[Check Top 7 Best Waterproof Action Camera For 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### **3. Resistant Capacity:**
+
+ The durable and rugged design of Intova Edge X is waterproof also so it can be used to record videos or stills under water. The UV protected housing make it waterproof up to 330 feet or 100 meters whereas the glass lens port automatically reduces reflection and increases scratch resistance.
+
+#### **4. Self Capture and Burst Modes:**
+
+ If you are a crazy about selfies then your Intova Edge X can assist you better with its burst mode. It assists in shooting stills at 3, 5 and 10 seconds without adding any blur effect to stills.
+
+#### **5. Smartphone Application:**
+
+ It is much easier to connect Intova Edge X with iOS and Android application so that remote access can be enabled. The app works via a password protected quick start guide and can provide you live view of camera. It is also much easier to transfer files between various devices and you can have a preview over content to edit it as per need before sharing.
+
+## Conclusion
+
+ After having a clear detail about every feature of this camera we can say that it is a great option within $143\. You can shoot underwater, edit or share content easily and the buttons as well as remote control feature both are impressive. If you can think for a while by keeping GoPro out of your mind then you will definitely find Intova Edge X best action cam in market.
+
+ Want to know more about action cameras with low budget?[Check Top 7 Action and Sports Cameras Under $200](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+ When people start planning about an action camera, they first think of [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) because it's a leader in market from many years. This is the big challenge that Intova in facing right now. If we compare both these brands then Intova Edge X has incredible features and it is far better than GoPro action camera series. Somehow if people come out of GoPro thoughts then could realise the real power of quality offered by Intova with its latest launch.
+
+ Intova Edge X is the best camera for sports lovers with its [full HD](https://tools.techidaily.com/wondershare/filmora/download/) recording ability and compact design. It has so many cool features like ability to record 1080p resolution at 60fps frame rate, built in LCD screen, Wi-Fi connectivity, [waterproof](https://tools.techidaily.com/wondershare/filmora/download/) body and many more. With better features, impressive quality and intuitive controls one more this that proves it best action cam is its affordable price range. You just need to pay $143US to get this camera.
+
+## Complete Review
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01IWIVM08/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IWIVM08&linkId=0f5967b8cc54bdf2561762c14d39a61e
+)
+
+#### **Design and Usability:**
+
+ It can be called as all in one package because all useful features are embedded perfectly to this device. The perfect protective housing provides direct access to its removable battery, USB port, SD Card slot and High Definition TV output. It is waterproof up to depth of 200' whereas the large buttons on the body provides full control to camera settings. You will be glad to know that Intova Edge X can act like play back monitor as well as like a viewfinder. With the help of Wi-Fi control you can easily switch to remote control and the file transfer process can be also initiated with ease. In order to maintain the waterproofing quality, this device possess a silicon grease, USB cable, lens cap, anti glare type protection for LCD screen and float strap.
+
+#### **Specifications**
+
+| **Parameters Price:** | **Details**                                                                                                                                                     | **Parameters**       | **Details**                                                                                                                                                                           |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Review Price**      | $143.04                                                                                                                                                         | **Batter**y          | Rechargeable/Removable Li-ion battery                                                                                                                                                 |
+| **Display**           | 1.5” TFT                                                                                                                                                        | **Connectivity**     | WiFi Micro HDMI Micro USB APP                                                                                                                                                         |
+| **Image sensor**      | 1/2.3"CMOS                                                                                                                                                      | **Lens**             | 160 Super-wide-angle                                                                                                                                                                  |
+| **Waterproof**        | 100m                                                                                                                                                            | **Modes**            | Diving Mode  Self-capture mode  Motion Detection Mode  Time Lapse mode  time lapse mode  Burst Mode (3, 5, 10, 20 and 30 photos)                                                      |
+| **Weight**            | 209g                                                                                                                                                            | **Dimension**        | 84 x 70 x 60mm                                                                                                                                                                        |
+| **Digital Zoom**      | 60x, 16x, 10x or 4x                                                                                                                                             | **Memory**           | Micro SD Card up to 64GB                                                                                                                                                              |
+| **Frame Rates**       | 1080p@60fps, 1080p@48fps, 1080p@30fps, 1080p@24fps 960p@60fps, 960p@48fps, 960p@30fps, 960p@24fps, 720p@120fps, 720p@60fps, 720p@48fps, 720p@30fps, 720p@24fps, | **Image Resolution** | 12MP, 10MP, 8MP and 5MP                                                                                                                                                               |
+| **Format**            | MP4/ JPEG                                                                                                                                                       | **Features**         |   Video Rotation Mode 180 degree (for when camera is mounted upside down)  Picture in Video  Motion Detection Stream recording  Exclusive Video Wide Angle Lens (fisheye) Correction |
+
+| **Pros**                                                                    | **Cons**                                          |
+| --------------------------------------------------------------------------- | ------------------------------------------------- |
+| Waterproof, durable                                                         | Buttons are very rigid and uncomfortable to press |
+| Interface is easy to navigate and provides plenty of options to tinker with | \-                                                |
+| Removable battery and micro SD card                                         | \-                                                |
+| Easy to mount in a variety of ways                                          | \-                                                |
+
+#### **Accessories in the Box:**
+
+ The time when you open your camera package, following things will come out:
+
+* Optional accessory brochure
+* Quick start guide
+* Silicone Grease
+* Anti-Glare hood
+* Float Strap
+* Mini USB Cable
+* Lithium Ion Battery
+* User's manual mini LCD
+
+ Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
+
 ## Features and performance
 
 #### **1. Battery and Storage:**
@@ -102,18 +291,20 @@ thumbnail: https://thmb.techidaily.com/78fc2ce8486dc3d6564f3f5f4f837891a8fa189d0
  It is much easier to connect Intova Edge X with iOS and Android application so that remote access can be enabled. The app works via a password protected quick start guide and can provide you live view of camera. It is also much easier to transfer files between various devices and you can have a preview over content to edit it as per need before sharing.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  After having a clear detail about every feature of this camera we can say that it is a great option within $143\. You can shoot underwater, edit or share content easily and the buttons as well as remote control feature both are impressive. If you can think for a while by keeping GoPro out of your mind then you will definitely find Intova Edge X best action cam in market.
 
  Want to know more about action cameras with low budget?[Check Top 7 Action and Sports Cameras Under $200](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -129,13 +320,6 @@ Follow @Liza Brown
 
  Intova Edge X is the best camera for sports lovers with its [full HD](https://tools.techidaily.com/wondershare/filmora/download/) recording ability and compact design. It has so many cool features like ability to record 1080p resolution at 60fps frame rate, built in LCD screen, Wi-Fi connectivity, [waterproof](https://tools.techidaily.com/wondershare/filmora/download/) body and many more. With better features, impressive quality and intuitive controls one more this that proves it best action cam is its affordable price range. You just need to pay $143US to get this camera.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Complete Review
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01IWIVM08/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IWIVM08&linkId=0f5967b8cc54bdf2561762c14d39a61e
@@ -204,200 +388,9 @@ No advertising on the website.
 
  It is much easier to connect Intova Edge X with iOS and Android application so that remote access can be enabled. The app works via a password protected quick start guide and can provide you live view of camera. It is also much easier to transfer files between various devices and you can have a preview over content to edit it as per need before sharing.
 
-## Conclusion
-
- After having a clear detail about every feature of this camera we can say that it is a great option within $143\. You can shoot underwater, edit or share content easily and the buttons as well as remote control feature both are impressive. If you can think for a while by keeping GoPro out of your mind then you will definitely find Intova Edge X best action cam in market.
-
- Want to know more about action cameras with low budget?[Check Top 7 Action and Sports Cameras Under $200](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
- When people start planning about an action camera, they first think of [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) because it's a leader in market from many years. This is the big challenge that Intova in facing right now. If we compare both these brands then Intova Edge X has incredible features and it is far better than GoPro action camera series. Somehow if people come out of GoPro thoughts then could realise the real power of quality offered by Intova with its latest launch.
-
- Intova Edge X is the best camera for sports lovers with its [full HD](https://tools.techidaily.com/wondershare/filmora/download/) recording ability and compact design. It has so many cool features like ability to record 1080p resolution at 60fps frame rate, built in LCD screen, Wi-Fi connectivity, [waterproof](https://tools.techidaily.com/wondershare/filmora/download/) body and many more. With better features, impressive quality and intuitive controls one more this that proves it best action cam is its affordable price range. You just need to pay $143US to get this camera.
-
-## Complete Review
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01IWIVM08/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IWIVM08&linkId=0f5967b8cc54bdf2561762c14d39a61e
-)
-
-#### **Design and Usability:**
-
- It can be called as all in one package because all useful features are embedded perfectly to this device. The perfect protective housing provides direct access to its removable battery, USB port, SD Card slot and High Definition TV output. It is waterproof up to depth of 200' whereas the large buttons on the body provides full control to camera settings. You will be glad to know that Intova Edge X can act like play back monitor as well as like a viewfinder. With the help of Wi-Fi control you can easily switch to remote control and the file transfer process can be also initiated with ease. In order to maintain the waterproofing quality, this device possess a silicon grease, USB cable, lens cap, anti glare type protection for LCD screen and float strap.
-
-#### **Specifications**
-
-| **Parameters Price:** | **Details**                                                                                                                                                     | **Parameters**       | **Details**                                                                                                                                                                           |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Review Price**      | $143.04                                                                                                                                                         | **Batter**y          | Rechargeable/Removable Li-ion battery                                                                                                                                                 |
-| **Display**           | 1.5” TFT                                                                                                                                                        | **Connectivity**     | WiFi Micro HDMI Micro USB APP                                                                                                                                                         |
-| **Image sensor**      | 1/2.3"CMOS                                                                                                                                                      | **Lens**             | 160 Super-wide-angle                                                                                                                                                                  |
-| **Waterproof**        | 100m                                                                                                                                                            | **Modes**            | Diving Mode  Self-capture mode  Motion Detection Mode  Time Lapse mode  time lapse mode  Burst Mode (3, 5, 10, 20 and 30 photos)                                                      |
-| **Weight**            | 209g                                                                                                                                                            | **Dimension**        | 84 x 70 x 60mm                                                                                                                                                                        |
-| **Digital Zoom**      | 60x, 16x, 10x or 4x                                                                                                                                             | **Memory**           | Micro SD Card up to 64GB                                                                                                                                                              |
-| **Frame Rates**       | 1080p@60fps, 1080p@48fps, 1080p@30fps, 1080p@24fps 960p@60fps, 960p@48fps, 960p@30fps, 960p@24fps, 720p@120fps, 720p@60fps, 720p@48fps, 720p@30fps, 720p@24fps, | **Image Resolution** | 12MP, 10MP, 8MP and 5MP                                                                                                                                                               |
-| **Format**            | MP4/ JPEG                                                                                                                                                       | **Features**         |   Video Rotation Mode 180 degree (for when camera is mounted upside down)  Picture in Video  Motion Detection Stream recording  Exclusive Video Wide Angle Lens (fisheye) Correction |
-
-| **Pros**                                                                    | **Cons**                                          |
-| --------------------------------------------------------------------------- | ------------------------------------------------- |
-| Waterproof, durable                                                         | Buttons are very rigid and uncomfortable to press |
-| Interface is easy to navigate and provides plenty of options to tinker with | \-                                                |
-| Removable battery and micro SD card                                         | \-                                                |
-| Easy to mount in a variety of ways                                          | \-                                                |
-
-#### **Accessories in the Box:**
-
- The time when you open your camera package, following things will come out:
-
-* Optional accessory brochure
-* Quick start guide
-* Silicone Grease
-* Anti-Glare hood
-* Float Strap
-* Mini USB Cable
-* Lithium Ion Battery
-* User's manual mini LCD
-
- Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## Features and performance
-
-#### **1. Battery and Storage:**
-
- Before you start recording with your Edge X camera, ensure that you have charged its battery full. For storing your videos and photos you also need to buy an SD card. The sad part is that camera does not have powerful internal memory; it can just store few photographs or a video of maximum 5 seconds only. While buying a new SD card for your camera, it is good to pick class 10 version otherwise your camera will not support storage. Such cards assists in fast read and write operations.
-
-#### **2. Video and Image Quality:**
-
- The best thing to know about this advanced action cam is that it supports motion detection. That means recording gets automatically started whenever this device detects any motion around. The wide angle lenses follow automatic fish eye correction and whenever camera is mounted upside down then video easily rotates unto 180 degrees. Users can record with video time lapse mode and can also record lower resolution videos perfectly with dual stream selection. This camera does not have any internal image stabilization facility but it supports filters that can enhance colour information in videos.
-
- Want to know more action cameras with waterproof capacity?[Check Top 7 Best Waterproof Action Camera For 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### **3. Resistant Capacity:**
-
- The durable and rugged design of Intova Edge X is waterproof also so it can be used to record videos or stills under water. The UV protected housing make it waterproof up to 330 feet or 100 meters whereas the glass lens port automatically reduces reflection and increases scratch resistance.
-
-#### **4. Self Capture and Burst Modes:**
-
- If you are a crazy about selfies then your Intova Edge X can assist you better with its burst mode. It assists in shooting stills at 3, 5 and 10 seconds without adding any blur effect to stills.
-
-#### **5. Smartphone Application:**
-
- It is much easier to connect Intova Edge X with iOS and Android application so that remote access can be enabled. The app works via a password protected quick start guide and can provide you live view of camera. It is also much easier to transfer files between various devices and you can have a preview over content to edit it as per need before sharing.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
-## Conclusion
-
- After having a clear detail about every feature of this camera we can say that it is a great option within $143\. You can shoot underwater, edit or share content easily and the buttons as well as remote control feature both are impressive. If you can think for a while by keeping GoPro out of your mind then you will definitely find Intova Edge X best action cam in market.
-
- Want to know more about action cameras with low budget?[Check Top 7 Action and Sports Cameras Under $200](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
- When people start planning about an action camera, they first think of [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) because it's a leader in market from many years. This is the big challenge that Intova in facing right now. If we compare both these brands then Intova Edge X has incredible features and it is far better than GoPro action camera series. Somehow if people come out of GoPro thoughts then could realise the real power of quality offered by Intova with its latest launch.
-
- Intova Edge X is the best camera for sports lovers with its [full HD](https://tools.techidaily.com/wondershare/filmora/download/) recording ability and compact design. It has so many cool features like ability to record 1080p resolution at 60fps frame rate, built in LCD screen, Wi-Fi connectivity, [waterproof](https://tools.techidaily.com/wondershare/filmora/download/) body and many more. With better features, impressive quality and intuitive controls one more this that proves it best action cam is its affordable price range. You just need to pay $143US to get this camera.
-
-## Complete Review
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01IWIVM08/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IWIVM08&linkId=0f5967b8cc54bdf2561762c14d39a61e
-)
-
-#### **Design and Usability:**
-
- It can be called as all in one package because all useful features are embedded perfectly to this device. The perfect protective housing provides direct access to its removable battery, USB port, SD Card slot and High Definition TV output. It is waterproof up to depth of 200' whereas the large buttons on the body provides full control to camera settings. You will be glad to know that Intova Edge X can act like play back monitor as well as like a viewfinder. With the help of Wi-Fi control you can easily switch to remote control and the file transfer process can be also initiated with ease. In order to maintain the waterproofing quality, this device possess a silicon grease, USB cable, lens cap, anti glare type protection for LCD screen and float strap.
-
-#### **Specifications**
-
-| **Parameters Price:** | **Details**                                                                                                                                                     | **Parameters**       | **Details**                                                                                                                                                                           |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Review Price**      | $143.04                                                                                                                                                         | **Batter**y          | Rechargeable/Removable Li-ion battery                                                                                                                                                 |
-| **Display**           | 1.5” TFT                                                                                                                                                        | **Connectivity**     | WiFi Micro HDMI Micro USB APP                                                                                                                                                         |
-| **Image sensor**      | 1/2.3"CMOS                                                                                                                                                      | **Lens**             | 160 Super-wide-angle                                                                                                                                                                  |
-| **Waterproof**        | 100m                                                                                                                                                            | **Modes**            | Diving Mode  Self-capture mode  Motion Detection Mode  Time Lapse mode  time lapse mode  Burst Mode (3, 5, 10, 20 and 30 photos)                                                      |
-| **Weight**            | 209g                                                                                                                                                            | **Dimension**        | 84 x 70 x 60mm                                                                                                                                                                        |
-| **Digital Zoom**      | 60x, 16x, 10x or 4x                                                                                                                                             | **Memory**           | Micro SD Card up to 64GB                                                                                                                                                              |
-| **Frame Rates**       | 1080p@60fps, 1080p@48fps, 1080p@30fps, 1080p@24fps 960p@60fps, 960p@48fps, 960p@30fps, 960p@24fps, 720p@120fps, 720p@60fps, 720p@48fps, 720p@30fps, 720p@24fps, | **Image Resolution** | 12MP, 10MP, 8MP and 5MP                                                                                                                                                               |
-| **Format**            | MP4/ JPEG                                                                                                                                                       | **Features**         |   Video Rotation Mode 180 degree (for when camera is mounted upside down)  Picture in Video  Motion Detection Stream recording  Exclusive Video Wide Angle Lens (fisheye) Correction |
-
-| **Pros**                                                                    | **Cons**                                          |
-| --------------------------------------------------------------------------- | ------------------------------------------------- |
-| Waterproof, durable                                                         | Buttons are very rigid and uncomfortable to press |
-| Interface is easy to navigate and provides plenty of options to tinker with | \-                                                |
-| Removable battery and micro SD card                                         | \-                                                |
-| Easy to mount in a variety of ways                                          | \-                                                |
-
-#### **Accessories in the Box:**
-
- The time when you open your camera package, following things will come out:
-
-* Optional accessory brochure
-* Quick start guide
-* Silicone Grease
-* Anti-Glare hood
-* Float Strap
-* Mini USB Cable
-* Lithium Ion Battery
-* User's manual mini LCD
-
- Need more information about accessories?[Check Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
-## Features and performance
-
-#### **1. Battery and Storage:**
-
- Before you start recording with your Edge X camera, ensure that you have charged its battery full. For storing your videos and photos you also need to buy an SD card. The sad part is that camera does not have powerful internal memory; it can just store few photographs or a video of maximum 5 seconds only. While buying a new SD card for your camera, it is good to pick class 10 version otherwise your camera will not support storage. Such cards assists in fast read and write operations.
-
-#### **2. Video and Image Quality:**
-
- The best thing to know about this advanced action cam is that it supports motion detection. That means recording gets automatically started whenever this device detects any motion around. The wide angle lenses follow automatic fish eye correction and whenever camera is mounted upside down then video easily rotates unto 180 degrees. Users can record with video time lapse mode and can also record lower resolution videos perfectly with dual stream selection. This camera does not have any internal image stabilization facility but it supports filters that can enhance colour information in videos.
-
- Want to know more action cameras with waterproof capacity?[Check Top 7 Best Waterproof Action Camera For 2017](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### **3. Resistant Capacity:**
-
- The durable and rugged design of Intova Edge X is waterproof also so it can be used to record videos or stills under water. The UV protected housing make it waterproof up to 330 feet or 100 meters whereas the glass lens port automatically reduces reflection and increases scratch resistance.
-
-#### **4. Self Capture and Burst Modes:**
-
- If you are a crazy about selfies then your Intova Edge X can assist you better with its burst mode. It assists in shooting stills at 3, 5 and 10 seconds without adding any blur effect to stills.
-
-#### **5. Smartphone Application:**
-
- It is much easier to connect Intova Edge X with iOS and Android application so that remote access can be enabled. The app works via a password protected quick start guide and can provide you live view of camera. It is also much easier to transfer files between various devices and you can have a preview over content to edit it as per need before sharing.
 
 ## Conclusion
 
@@ -405,9 +398,6 @@ Follow @Liza Brown
 
  Want to know more about action cameras with low budget?[Check Top 7 Action and Sports Cameras Under $200](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -438,5 +428,24 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-audio-accentuation-tunes-for-visual-projects/"><u>[New] Audio Accentuation Tunes for Visual Projects</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-elevate-podcast-quality-with-advanced-garageband-editing-methods/"><u>[New] Elevate Podcast Quality with Advanced GarageBand Editing Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-fast-techniques-to-recover-deleted-reddit-posts/"><u>[New] In 2024, Fast Techniques to Recover Deleted Reddit Posts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-picture-driven-journey-maker/"><u>[New] Premier Picture-Driven Journey Maker</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-soundwave-statements-on-whatsapp-snapshots/"><u>[New] Soundwave Statements on WhatsApp Snapshots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-becoming-a-color-connoisseur-top-techniques/"><u>[Updated] In 2024, Becoming a Color Connoisseur Top Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-no-cost-screen-capture-the-best-windows-applications-reviewed/"><u>[Updated] No-Cost Screen Capture The Best Windows Applications Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-installation-walkthrough-for-moviemaker-6-users/"><u>2024 Approved Installation Walkthrough for Moviemaker 6 Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-fee-audio-understanding-tool/"><u>2024 Approved No-Fee Audio Understanding Tool</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevate-your-social-media-presence-top-25-hashtags-for-instagram-mastery-for-2024/"><u>Elevate Your Social Media Presence Top 25 Hashtags for Instagram Mastery for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oppo-f23-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Oppo F23 5G Phones with/without a PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-vr-contemporary-insights-and-upcoming-struggles/"><u>In 2024, Inside VR Contemporary Insights & Upcoming Struggles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-list-the-best-10-apps-for-live-racing-and-rugby-streaming/"><u>In 2024, Leading List The Best 10 Apps for Live Racing & Rugby Streaming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-significant-20-public-domain-pubg-snapshot-packs/"><u>In 2024, Significant 20 Public Domain PUBG Snapshot Packs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-wont-play-on-my-motorola-razr-40-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Motorola Razr 40</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/spark-conversation-with-personalized-instagram-story-queries-for-2024/"><u>Spark Conversation with Personalized Instagram Story Queries for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/traversing-through-windows-movie-makers-version-landscape-for-2024/"><u>Traversing Through Windows Movie Maker's Version Landscape for 2024</u></a></li>
+</ul></div>
 

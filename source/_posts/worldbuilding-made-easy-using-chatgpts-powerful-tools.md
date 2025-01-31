@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2025-01-16T16:46:36.057Z
-updated: 2025-01-23T17:39:06.394Z
+date: 2025-01-28T22:27:50.852Z
+updated: 2025-01-31T04:38:21.911Z
 tags:
   - chatgpt
   - open-ai
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ## Bard Versus ChatGPT versus Alpaca: Ranking the Leading Large Language Models
 
  Large language models (LLMs) come in all shapes and sizes, and will assist you in any way you see fit. But which is best? We put the dominant AIs from Alphabet, OpenAI, and Meta to the test.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What You Need to Know About AI Chatbots
 
@@ -41,12 +45,16 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
@@ -64,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -95,17 +103,9 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 You read it here first, folks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
@@ -154,20 +154,24 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-video-engagement-top-7-free-thumbnail-design-tools/"><u>[Updated] 2024 Approved Elevate Video Engagement Top 7 Free Thumbnail Design Tools</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-relaxation-playlist-20-sweetest-country-tunes-on-tiktok/"><u>[Updated] 2024 Approved Relaxation Playlist 20 Sweetest Country Tunes on TikTok</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-samsung-camera-toolkit-review-2023-edition/"><u>[Updated] Samsung Camera Toolkit Review – 2023 Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-instant-gratification-boosting-fb-video-times/"><u>2024 Approved Instant Gratification Boosting FB Video Times</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-introducing-the-ultimate-intro-edits-app-of-2023/"><u>2024 Approved Introducing the Ultimate Intro Edits App of 2023</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-naming-excellence-the-top-10-ai-powered-title-makers/"><u>2024 Approved Naming Excellence The Top 10 AI-Powered Title Makers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-premier-converters-top-8-streamline-your-subtitles-to-srt/"><u>2024 Approved Premier Converters Top 8 Streamline Your Subtitles to SRT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/compact-computers-on-the-go-minisforum-s10ns-poe-and-networking-capabilities-featuring-alder-lake-cpus/"><u>Compact Computers on the Go: Minisforum S10n's PoE and Networking Capabilities Featuring Alder Lake CPUs</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-the-past-iphone-games-with-legendary-titles/"><u>Embrace the Past: IPhone Games with Legendary Titles</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-google-pixel-7a-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Google Pixel 7a using Video Repair Utility?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-instagram-collage-hacks-unveiled/"><u>In 2024, Instagram Collage Hacks Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-iphone-hdr-quality-with-post-production-tricks-in-premiere-pro/"><u>In 2024, Maximizing iPhone HDR Quality with Post-Production Tricks in Premiere Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-speed-kings-and-queens-key-moments-from-the-short-track-games/"><u>In 2024, Speed Kings and Queens Key Moments From the Short Track Games</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-podcast-editing-with-garageband-a-step-by-step-guide-for-2024/"><u>Mastering Podcast Editing with GarageBand A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bmp-png-online/"><u>무료 BMP-PNG 변환기: Online 통합 - 모바이비</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-viewpoint-visionaries-capturing-the-essence-with-3-viewpoint-strategies-in-reactions/"><u>[New] In 2024, Viewpoint Visionaries Capturing the Essence with 3 Viewpoint Strategies in Reactions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-score-big-with-these-8-no-cost-3d-videos-apps-for-windows-and-mac-os/"><u>[New] Score Big with These 8 No-Cost 3D Videos Apps for Windows & Mac OS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-podcast-streaming-trick-quick-play-upgrade-for-2024/"><u>[New] Top Podcast Streaming Trick - Quick Play Upgrade for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-2-ways-to-increase-your-youtube-audience-fast/"><u>[Updated] In 2024, 2 Ways to Increase Your YouTube Audience Fast</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simplifying-image-editing-with-picsarts-background-tool/"><u>[Updated] Simplifying Image Editing with Picsart's Background Tool</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-jokes-and-gag-collection/"><u>2024 Approved IPhone Jokes & Gag Collection</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smoothly-blending-scenes-with-premieres-transitions/"><u>2024 Approved Smoothly Blending Scenes with Premiere's Transitions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-poco-m6-pro-4g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Poco M6 Pro 4G Unlock Without Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guard-against-unwanted-access-how-pc-repair-specialists-may-compromise-your-files-and-images-study-shows-zdnet/"><u>Guard Against Unwanted Access: How PC Repair Specialists May Compromise Your Files & Images, Study Shows | ZDnet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-12-mini-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 12 mini Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-magic-5-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Magic 5</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y100i Phone Without Password?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-melodic-motion-in-imovie-editing-mastery/"><u>In 2024, Melodic Motion in iMovie Editing Mastery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinterest-video-downloader-guide-the-leading-no-cost-alternatives/"><u>In 2024, Pinterest Video Downloader Guide The Leading No-Cost Alternatives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-for-winning-anime-projects-via-movie-maker/"><u>In 2024, Step-by-Step for Winning Anime Projects via Movie Maker</u></a></li>
+<li><a href="https://extra-support.techidaily.com/observers-lens-reportage-for-2024/"><u>Observer's Lens Reportage for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/scouting-for-subtle-sophisticated-and-spare-tiktok-screenshots-for-2024/"><u>Scouting for Subtle, Sophisticated, and Spare TikTok Screenshots for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-eero-pro-mesh-router-ensuring-seamless-internet-across-your-home/"><u>The Ultimate Guide to Eero Pro Mesh Router: Ensuring Seamless Internet Across Your Home</u></a></li>
 </ul></div>
 
