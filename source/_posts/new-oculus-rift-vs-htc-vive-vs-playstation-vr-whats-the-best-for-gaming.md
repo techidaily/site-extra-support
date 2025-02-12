@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Oculus Rift vs HTC Vive vs PlayStation VR  What’s the Best for Gaming?\""
-date: 2024-07-30T04:22:23.827Z
-updated: 2024-07-31T04:22:23.827Z
+date: 2025-02-08T16:31:53.044Z
+updated: 2025-02-12T17:32:20.979Z
 tags: 
   - screen-recording
   - ai video
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## VR Headsets review and comparison
 
 ### Oculus Rift
@@ -69,8 +70,9 @@ Oculus Rift has the most solid lineup of games putting it on the advantage. It h
 Although the Rift demands a hardcore gaming desktop, its price is still at a medium range. It also gives the ability to perform in a small room which is an excellent feature. But the drawback is that it only works on head movement and it has some heat up problems. There are no motion controllers at the moment.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### PlayStation VR
 
 The PlayStation VR is yet to be revealed but its unveiled price shows that it is the best priced VR Headset i.e. $399 excluding a $60 PS Camera which is a requirement. The PS VR will be launching on 13th October 2016.
@@ -101,9 +103,6 @@ The drawback of PlayStation VR is that it is only designed for PS4\. Good news i
 
 In terms of price, conform, sensors and their amazing VR effect and its extreme refresh rate, this VR Headset comes on top; what lags it behind is its heavy duty weight, low resolution and its inability to perform with PCs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### HTC Vive
 
 [Vive VR](https://tools.techidaily.com/wondershare/filmora/download/) is the priciest VR Headset; $799\. It was released on 5th April 2016.
@@ -137,6 +136,10 @@ Vive VR and the Rift have the same resolution, giving a 1080 x 1200 image for ea
 In terms of games, the Vive VR kind of ties with Sony since HTC has not provided many games from other platforms; only PC games can be played.
 
 The reason for such a costly hardware is the superior Incomparable VR experience, room-scale tracking, and intuitive interface.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Comparison of these three VR headsets
 
@@ -157,14 +160,15 @@ The reason for such a costly hardware is the superior Incomparable VR experience
 | Pros                     | All PS4 games supported, cheap                                                            | Very lightweight, great feel of depth                                                                                                      | Incomparable experience, Room-scale tracking, Intuitive interface, Comfortable                                                                                     |
 | Cons                     | Underperforms in image sharpness and audio; only supports PS4                             | Too many wires, overheats, sometimes grease stains are found on lens                                                                       | Price, Bulky cable, Potential tripping hazard, Hard on neck and back                                                                                               |
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Verdict
 
 The HTC Vive is very costly yet it does not provide sufficient features with such a great price. Hence the Vive has been lagging behind and discussed less in websites. However, the competition is more challenging between Sony and The Rift; Sony gives superior feel and comfort as well as an unmatched tracking and refresh rate. But the Rift has a bigger hand in image quality and weight. Right now it would be fair to put The Vive on top since the PlayStation VR is yet to be released and has not been tested and rated by users yet.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -177,167 +181,11 @@ Follow @Liza Brown
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## VR Headsets review and comparison
 
-### Oculus Rift
-
-This comes under a medium price range but superior feel. The Rift had it’s unveiling on 28th March 2016\. Its price is currently $599 and comes with an Xbox controller.
-
-The requirements for The Rift are:
-
-* NVIDIA GTX 970 equivalent or greater
-* AMD 290 equivalent or greater
-* Intel i5-4590 equivalent or greater
-* 8GB+ DDR3 RAM
-* HDMI 1.3 video output
-* 2 USB 3.0 ports
-
-Accessories:
-
-* Remote
-* Xbox One Controller
-
-Specs:
-
-* 1080 × 1200 per eye and two screen resolution 2160 × 1200 pixels
-* 100-110 degree field of view
-* 3D Audio
-* Gyroscope Magnetometer Tracking Sensor Array
-* Weight 470 g (1.03 lbs.)
-* USB, HDMI
-
-The Rift allows players to feel virtual reality from the ease of a chair. Oculus Touch controllers will ultimately take VR to another dimension. The Rift is enclosed in a black fabric that gives off a premium feel and gives it a distinction from other VR Headsets. It is lightweight and its straps are designed so that they adjust easily. All the cords are boarded on one side. For glasses-wearers, this is going to be a difficult fit and will take some tricks before it fits.
-
-Rift's screen resolution is 2160 x 1200 and OLED display has been used, these are a lot of pixels per eye; this means you’ll be getting a ultra-quality view to the eyes with a 90 Hz refresh rate.
-
-The Rift has to render objects in the stereotypical way, which means it has to keep track of the pictures, the head movements and head’s positions at various times in the physical space.
-
-Oculus Rift has the most solid lineup of games putting it on the advantage. It has access to both Steam VR and Oculus Store giving the users a surplus amount of games already.
-
-Although the Rift demands a hardcore gaming desktop, its price is still at a medium range. It also gives the ability to perform in a small room which is an excellent feature. But the drawback is that it only works on head movement and it has some heat up problems. There are no motion controllers at the moment.
-
-### PlayStation VR
-
-The PlayStation VR is yet to be revealed but its unveiled price shows that it is the best priced VR Headset i.e. $399 excluding a $60 PS Camera which is a requirement. The PS VR will be launching on 13th October 2016.
-
-As far as the requirements are concerned, this VR Headset only requires a Sony PlayStation 4.
-
-Accessories:
-
-* PS Move
-* DualShock
-
-Specs:
-
-* 1920 × 1080 single screen, 960 × 1080 per eye
-* 100 degree field of view
-* 120 Hz refresh Rate
-* 3D Audio
-* Gyroscope Magnetometer, PS Eye Tracking, Accelerometer
-* Weight 610 g (1.34 lbs.)
-
-Sony has taken a completely diverse approach to the design of its headset. It resembles a Sci-Fi kind of technology like that in Star Trek. It has a helmet like portion above its goggles with can be adjusted to fit on different sized heads. This means that you won’t feel you’re wearing some funny goggles; instead, you get the feel of a super-cool helmet. The weight is balanced such that your eyes and nose do not feel the entire weight of the thing.
-
-PlayStation VR consists of a 1920 x 1080 display (5.7-inch). An OLED display split delivers a resolution of 960 x 1080 the user’s respective eyes vertically. Sony was found to underperform in picture sharpness but this headset has got its advantage in the stunning 120 Hz refresh rate, which takes it to the top in this matter.
-
-The tracking mechanism is similar to that of Rift’s but PS VR has got its advantage because of its powerful AMD processor and a lot of sensors which track every movement and put the amazing feeling in the virtual reality with matchless synchronization.
-
-The drawback of PlayStation VR is that it is only designed for PS4\. Good news is, each and every game of PS4 is supported. But this puts The Rift one step ahead.
-
-In terms of price, conform, sensors and their amazing VR effect and its extreme refresh rate, this VR Headset comes on top; what lags it behind is its heavy duty weight, low resolution and its inability to perform with PCs.
-
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### HTC Vive
-
-[Vive VR](https://tools.techidaily.com/wondershare/filmora/download/) is the priciest VR Headset; $799\. It was released on 5th April 2016.
-
-System Requirements:
-
-* NVIDIA GTX 970 equivalent or greater
-* AMD 290 equivalent or greater
-* Intel i5-4590 equivalent or greater
-* AMD FZ 8350 equivalent or greater
-* 8GB+ DDR3 RAM
-* HDMI 1.4 video output
-* 1 USB 2.0 port or greater
-
-Accessories:
-
-* 2 wireless controllers
-
-Specs:
-
-* 1080 × 1200 per eye; two screen resolution of 2160 × 1200
-* 110 degree field of view
-* 90Hz refresh rate
-* Front facing Gyroscope Camera, laser sensor
-* Weight 555 g (1.22 lbs.)
-
-As far as design is concerned, you will not look cool wearing these huge amusing goggles on your face. The Vive gives a dimpled look and has an elastic to support it on your head. Very discomforting indeed. But it comes with a perk, that is, HTC added an external camera on the front so that the user is able to look on the other side.
-
-Vive VR and the Rift have the same resolution, giving a 1080 x 1200 image for each eye that combines to become a 2160 x 1200 resolution. Both have a refresh rate of 90 Hz and a 110-degree field of view. This puts the Rift ahead since it’s much cheaper.
-
-In terms of games, the Vive VR kind of ties with Sony since HTC has not provided many games from other platforms; only PC games can be played.
-
-The reason for such a costly hardware is the superior Incomparable VR experience, room-scale tracking, and intuitive interface.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
-### Comparison of these three VR headsets
-
-| |  PlayStation VR        | Oculus Rift                                                                               | HTV Vive                                                                                                                                   |                                                                                                                                                                    |
-| ------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Current iteration        | PlayStation VR                                                                            | Rift                                                                                                                                       | Vive VR                                                                                                                                                            |
-| Cost (Excluding console) | $399 + $60(for PlayStation Camera)                                                        | $599(Xbox controller included)                                                                                                             | $799(2 controllers included)                                                                                                                                       |
-| Resolution               | 960 × 1080 per eye 1920 × 1080 single screen                                              | 1080 × 1200 per eye2160 × 1200 two screens                                                                                                 | 1080 × 1200 per eye2160 × 1200 two screens                                                                                                                         |
-| Field of view            | 100 degrees approx.                                                                       | 100-110 degrees approx                                                                                                                     | 110 degree approx.                                                                                                                                                 |
-| Max Refresh Rate         | 90 Hz, 120 Hz                                                                             | 90 Hz                                                                                                                                      | 90 Hz                                                                                                                                                              |
-| System Requirements      | Sony PlayStation 4                                                                        | AMD 290 or NVIDIA GTX 970 equivalent or greater Intel i5-4590 equivalent or greater, 8GB+ DDR3 RAM, HDMI 1.3 video output, 2 USB 3.0 ports | AMD 290 or NVIDIA GTX 970 equivalent or greater Intel i5-4590 orAMD FZ 8350 equivalent or greater, 8GB+ DDR3 RAM, HDMI 1.4 video output, 1 USB 2.0 port or greater |
-| Audio                    | 3D audio                                                                                  | 3D audio                                                                                                                                   | None                                                                                                                                                               |
-| Connections              | VR Headset: HDMI, Stereo Headphone, AUX Jack/Processor unit: HDMI PS4, HDMI TV, AUX, HDMI | USB, HDMI                                                                                                                                  | 3-in-1 connector to interface box including USB, HDMI, and power                                                                                                   |
-| Weight                   | 610 g (1.34 lbs.)                                                                         | 470 g (1.03 lbs.)                                                                                                                          | 555 g (1.22 lbs.)                                                                                                                                                  |
-| Sensors                  | Gyroscope Magnetometer, PS Eye Tracking, Accelerometer                                    | Gyroscope Magnetometer Tracking Sensor Array                                                                                               | Front facing Gyroscope Camera, laser sensor                                                                                                                        |
-| Release date             | Oct-16                                                                                    | Mar-16                                                                                                                                     | Apr 16                                                                                                                                                             |
-| Controllers              | PS Move, DualShock                                                                        | Remote, Xbox One Controller                                                                                                                | 2 wireless controllers                                                                                                                                             |
-| Pros                     | All PS4 games supported, cheap                                                            | Very lightweight, great feel of depth                                                                                                      | Incomparable experience, Room-scale tracking, Intuitive interface, Comfortable                                                                                     |
-| Cons                     | Underperforms in image sharpness and audio; only supports PS4                             | Too many wires, overheats, sometimes grease stains are found on lens                                                                       | Price, Bulky cable, Potential tripping hazard, Hard on neck and back                                                                                               |
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Verdict
-
-The HTC Vive is very costly yet it does not provide sufficient features with such a great price. Hence the Vive has been lagging behind and discussed less in websites. However, the competition is more challenging between Sony and The Rift; Sony gives superior feel and comfort as well as an unmatched tracking and refresh rate. But the Rift has a bigger hand in image quality and weight. Right now it would be fair to put The Vive on top since the PlayStation VR is yet to be released and has not been tested and rated by users yet.
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-Liza Brown
-
-Liza Brown is a writer and a lover of all things video.
-
-Follow @Liza Brown
-
-##### Liza Brown
-
- Mar 27, 2024• Proven solutions
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
-## VR Headsets review and comparison
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Oculus Rift
 
 This comes under a medium price range but superior feel. The Rift had it’s unveiling on 28th March 2016\. Its price is currently $599 and comes with an Xbox controller.
@@ -439,9 +287,6 @@ In terms of games, the Vive VR kind of ties with Sony since HTC has not provided
 
 The reason for such a costly hardware is the superior Incomparable VR experience, room-scale tracking, and intuitive interface.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Comparison of these three VR headsets
 
 | |  PlayStation VR        | Oculus Rift                                                                               | HTV Vive                                                                                                                                   |                                                                                                                                                                    |
@@ -477,9 +322,6 @@ Follow @Liza Brown
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## VR Headsets review and comparison
 
 ### Oculus Rift
@@ -602,13 +444,164 @@ The reason for such a costly hardware is the superior Incomparable VR experience
 | Pros                     | All PS4 games supported, cheap                                                            | Very lightweight, great feel of depth                                                                                                      | Incomparable experience, Room-scale tracking, Intuitive interface, Comfortable                                                                                     |
 | Cons                     | Underperforms in image sharpness and audio; only supports PS4                             | Too many wires, overheats, sometimes grease stains are found on lens                                                                       | Price, Bulky cable, Potential tripping hazard, Hard on neck and back                                                                                               |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Verdict
 
 The HTC Vive is very costly yet it does not provide sufficient features with such a great price. Hence the Vive has been lagging behind and discussed less in websites. However, the competition is more challenging between Sony and The Rift; Sony gives superior feel and comfort as well as an unmatched tracking and refresh rate. But the Rift has a bigger hand in image quality and weight. Right now it would be fair to put The Vive on top since the PlayStation VR is yet to be released and has not been tested and rated by users yet.
 
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+## VR Headsets review and comparison
+
+### Oculus Rift
+
+This comes under a medium price range but superior feel. The Rift had it’s unveiling on 28th March 2016\. Its price is currently $599 and comes with an Xbox controller.
+
+The requirements for The Rift are:
+
+* NVIDIA GTX 970 equivalent or greater
+* AMD 290 equivalent or greater
+* Intel i5-4590 equivalent or greater
+* 8GB+ DDR3 RAM
+* HDMI 1.3 video output
+* 2 USB 3.0 ports
+
+Accessories:
+
+* Remote
+* Xbox One Controller
+
+Specs:
+
+* 1080 × 1200 per eye and two screen resolution 2160 × 1200 pixels
+* 100-110 degree field of view
+* 3D Audio
+* Gyroscope Magnetometer Tracking Sensor Array
+* Weight 470 g (1.03 lbs.)
+* USB, HDMI
+
+The Rift allows players to feel virtual reality from the ease of a chair. Oculus Touch controllers will ultimately take VR to another dimension. The Rift is enclosed in a black fabric that gives off a premium feel and gives it a distinction from other VR Headsets. It is lightweight and its straps are designed so that they adjust easily. All the cords are boarded on one side. For glasses-wearers, this is going to be a difficult fit and will take some tricks before it fits.
+
+Rift's screen resolution is 2160 x 1200 and OLED display has been used, these are a lot of pixels per eye; this means you’ll be getting a ultra-quality view to the eyes with a 90 Hz refresh rate.
+
+The Rift has to render objects in the stereotypical way, which means it has to keep track of the pictures, the head movements and head’s positions at various times in the physical space.
+
+Oculus Rift has the most solid lineup of games putting it on the advantage. It has access to both Steam VR and Oculus Store giving the users a surplus amount of games already.
+
+Although the Rift demands a hardcore gaming desktop, its price is still at a medium range. It also gives the ability to perform in a small room which is an excellent feature. But the drawback is that it only works on head movement and it has some heat up problems. There are no motion controllers at the moment.
+
+### PlayStation VR
+
+The PlayStation VR is yet to be revealed but its unveiled price shows that it is the best priced VR Headset i.e. $399 excluding a $60 PS Camera which is a requirement. The PS VR will be launching on 13th October 2016.
+
+As far as the requirements are concerned, this VR Headset only requires a Sony PlayStation 4.
+
+Accessories:
+
+* PS Move
+* DualShock
+
+Specs:
+
+* 1920 × 1080 single screen, 960 × 1080 per eye
+* 100 degree field of view
+* 120 Hz refresh Rate
+* 3D Audio
+* Gyroscope Magnetometer, PS Eye Tracking, Accelerometer
+* Weight 610 g (1.34 lbs.)
+
+Sony has taken a completely diverse approach to the design of its headset. It resembles a Sci-Fi kind of technology like that in Star Trek. It has a helmet like portion above its goggles with can be adjusted to fit on different sized heads. This means that you won’t feel you’re wearing some funny goggles; instead, you get the feel of a super-cool helmet. The weight is balanced such that your eyes and nose do not feel the entire weight of the thing.
+
+PlayStation VR consists of a 1920 x 1080 display (5.7-inch). An OLED display split delivers a resolution of 960 x 1080 the user’s respective eyes vertically. Sony was found to underperform in picture sharpness but this headset has got its advantage in the stunning 120 Hz refresh rate, which takes it to the top in this matter.
+
+The tracking mechanism is similar to that of Rift’s but PS VR has got its advantage because of its powerful AMD processor and a lot of sensors which track every movement and put the amazing feeling in the virtual reality with matchless synchronization.
+
+The drawback of PlayStation VR is that it is only designed for PS4\. Good news is, each and every game of PS4 is supported. But this puts The Rift one step ahead.
+
+In terms of price, conform, sensors and their amazing VR effect and its extreme refresh rate, this VR Headset comes on top; what lags it behind is its heavy duty weight, low resolution and its inability to perform with PCs.
+
+### HTC Vive
+
+[Vive VR](https://tools.techidaily.com/wondershare/filmora/download/) is the priciest VR Headset; $799\. It was released on 5th April 2016.
+
+System Requirements:
+
+* NVIDIA GTX 970 equivalent or greater
+* AMD 290 equivalent or greater
+* Intel i5-4590 equivalent or greater
+* AMD FZ 8350 equivalent or greater
+* 8GB+ DDR3 RAM
+* HDMI 1.4 video output
+* 1 USB 2.0 port or greater
+
+Accessories:
+
+* 2 wireless controllers
+
+Specs:
+
+* 1080 × 1200 per eye; two screen resolution of 2160 × 1200
+* 110 degree field of view
+* 90Hz refresh rate
+* Front facing Gyroscope Camera, laser sensor
+* Weight 555 g (1.22 lbs.)
+
+As far as design is concerned, you will not look cool wearing these huge amusing goggles on your face. The Vive gives a dimpled look and has an elastic to support it on your head. Very discomforting indeed. But it comes with a perk, that is, HTC added an external camera on the front so that the user is able to look on the other side.
+
+Vive VR and the Rift have the same resolution, giving a 1080 x 1200 image for each eye that combines to become a 2160 x 1200 resolution. Both have a refresh rate of 90 Hz and a 110-degree field of view. This puts the Rift ahead since it’s much cheaper.
+
+In terms of games, the Vive VR kind of ties with Sony since HTC has not provided many games from other platforms; only PC games can be played.
+
+The reason for such a costly hardware is the superior Incomparable VR experience, room-scale tracking, and intuitive interface.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Comparison of these three VR headsets
+
+| |  PlayStation VR        | Oculus Rift                                                                               | HTV Vive                                                                                                                                   |                                                                                                                                                                    |
+| ------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Current iteration        | PlayStation VR                                                                            | Rift                                                                                                                                       | Vive VR                                                                                                                                                            |
+| Cost (Excluding console) | $399 + $60(for PlayStation Camera)                                                        | $599(Xbox controller included)                                                                                                             | $799(2 controllers included)                                                                                                                                       |
+| Resolution               | 960 × 1080 per eye 1920 × 1080 single screen                                              | 1080 × 1200 per eye2160 × 1200 two screens                                                                                                 | 1080 × 1200 per eye2160 × 1200 two screens                                                                                                                         |
+| Field of view            | 100 degrees approx.                                                                       | 100-110 degrees approx                                                                                                                     | 110 degree approx.                                                                                                                                                 |
+| Max Refresh Rate         | 90 Hz, 120 Hz                                                                             | 90 Hz                                                                                                                                      | 90 Hz                                                                                                                                                              |
+| System Requirements      | Sony PlayStation 4                                                                        | AMD 290 or NVIDIA GTX 970 equivalent or greater Intel i5-4590 equivalent or greater, 8GB+ DDR3 RAM, HDMI 1.3 video output, 2 USB 3.0 ports | AMD 290 or NVIDIA GTX 970 equivalent or greater Intel i5-4590 orAMD FZ 8350 equivalent or greater, 8GB+ DDR3 RAM, HDMI 1.4 video output, 1 USB 2.0 port or greater |
+| Audio                    | 3D audio                                                                                  | 3D audio                                                                                                                                   | None                                                                                                                                                               |
+| Connections              | VR Headset: HDMI, Stereo Headphone, AUX Jack/Processor unit: HDMI PS4, HDMI TV, AUX, HDMI | USB, HDMI                                                                                                                                  | 3-in-1 connector to interface box including USB, HDMI, and power                                                                                                   |
+| Weight                   | 610 g (1.34 lbs.)                                                                         | 470 g (1.03 lbs.)                                                                                                                          | 555 g (1.22 lbs.)                                                                                                                                                  |
+| Sensors                  | Gyroscope Magnetometer, PS Eye Tracking, Accelerometer                                    | Gyroscope Magnetometer Tracking Sensor Array                                                                                               | Front facing Gyroscope Camera, laser sensor                                                                                                                        |
+| Release date             | Oct-16                                                                                    | Mar-16                                                                                                                                     | Apr 16                                                                                                                                                             |
+| Controllers              | PS Move, DualShock                                                                        | Remote, Xbox One Controller                                                                                                                | 2 wireless controllers                                                                                                                                             |
+| Pros                     | All PS4 games supported, cheap                                                            | Very lightweight, great feel of depth                                                                                                      | Incomparable experience, Room-scale tracking, Intuitive interface, Comfortable                                                                                     |
+| Cons                     | Underperforms in image sharpness and audio; only supports PS4                             | Too many wires, overheats, sometimes grease stains are found on lens                                                                       | Price, Bulky cable, Potential tripping hazard, Hard on neck and back                                                                                               |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Verdict
+
+The HTC Vive is very costly yet it does not provide sufficient features with such a great price. Hence the Vive has been lagging behind and discussed less in websites. However, the competition is more challenging between Sony and The Rift; Sony gives superior feel and comfort as well as an unmatched tracking and refresh rate. But the Rift has a bigger hand in image quality and weight. Right now it would be fair to put The Vive on top since the PlayStation VR is yet to be released and has not been tested and rated by users yet.
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -639,5 +632,20 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-pushing-boundaries-of-editing-how-to-erase-image-borders-on-canva/"><u>[New] 2024 Approved Pushing Boundaries of Editing How to Erase Image Borders on Canva</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pushing-boundaries-with-lightrooms-hdr-merging-capability/"><u>[New] Pushing Boundaries with Lightroom’s HDR Merging Capability</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sj4000-owners-guide-to-stylish-and-practical-gear/"><u>[Updated] SJ4000 Owners' Guide to Stylish & Practical Gear</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-editing-savvy-streamlining-your-youtube-video-lengths/"><u>2024 Approved Editing Savvy Streamlining Your YouTube Video Lengths</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-linguistic-linkers-the-premier-list-for-offline-recognition-devices/"><u>2024 Approved Linguistic Linkers The Premier List for Offline Recognition Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-mastermind-mind-games-trivia-channel-hunt-for-24/"><u>2024 Approved Mastermind Mind Games - Trivia Channel Hunt for '24</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-solutions-for-players-facing-issues-with-the-elder-scrolls-online-startup/"><u>Common Solutions for Players Facing Issues with The Elder Scrolls Online Startup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-missing-audio-files-dlls-in-a-flash/"><u>Fixing Missing Audio Files' DLLs in a Flash</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-accelerating-profile-lookups-on-facebook/"><u>In 2024, Accelerating Profile Lookups on Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphone-lens-mastery-essential-photography-hacks-for-2024/"><u>IPhone Lens Mastery Essential Photography Hacks for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pioneers-in-stop-motion-top-15-must-watch-films-for-2024/"><u>Pioneers in Stop Motion Top 15 Must-Watch Films for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-nokia-c02-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Nokia C02 Black and White | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-10-elite-1080p-gaming-displays/"><u>Top 10 Elite 1080P Gaming Displays</u></a></li>
+</ul></div>
 

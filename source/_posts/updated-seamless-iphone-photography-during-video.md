@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Seamless iPhone Photography During Video"
-date: 2025-01-23T20:18:13.199Z
-updated: 2025-01-30T23:10:12.818Z
+date: 2025-02-06T17:40:35.386Z
+updated: 2025-02-12T16:54:57.306Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
  Video or picture capturing these days are plainly one of the frequently done tasks at various instants be it for recording a birthday party or a dance performance. And often times, you might have experienced the urge to take a picture out of the video recording so that the precious moment can be captured. But, switching to photo mode again for this will break the flow and the desired moment will be missed in the next second. And considering this situation, we have brought this article where you will learn to take photos and videos simultaneously.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to shoot a still photo and record a video simultaneously on your iPhone
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 ![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image resource: igeeksblog.com
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The drawbacks of taking photos and videos simultaneously
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Extract frames from video
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1f
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -110,14 +110,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-perfect-pixels-a-guide-to-the-11-best-edits-for-color-balance/"><u>[New] 2024 Approved Perfect Pixels A Guide to the 11 Best Edits for Color Balance</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-discovering-the-latest-in-hdtv-with-samsungs-ubd-k850u-update-for-2024/"><u>[New] Discovering the Latest in HDTV with Samsung's UBD-K850U Update for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-elevating-your-video-content-youtube-to-igtv-transition/"><u>[Updated] In 2024, Elevating Your Video Content YouTube to IGTV Transition</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-motorola-moto-g14-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Motorola Moto G14 to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photography-pro-key-positions-and-perspectives-on-your-iphone/"><u>In 2024, Photography Pro Key Positions and Perspectives on Your iPhone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pro-tips-transforming-mundane-footage-into-epic-gopro-time-lapses/"><u>In 2024, Pro Tips Transforming Mundane Footage Into Epic GoPro Time-Lapses</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-and-easy-steps-for-photos-in-your-instagram-gallery/"><u>In 2024, Quick and Easy Steps for Photos in Your Instagram Gallery</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sharing-the-spotlight-involving-viewers-in-your-journey-for-2024/"><u>Sharing the Spotlight Involving Viewers in Your Journey for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boost-engagement-with-creative-video-titling-and-tagging-techniques/"><u>[Updated] 2024 Approved Boost Engagement with Creative Video Titling and Tagging Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-navigate-youtube-success-a-compreehensive-guide-to-analytics/"><u>[Updated] 2024 Approved Navigate YouTube Success A Compreehensive Guide to Analytics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-narrative-flow-expert-tips-on-using-jump-cuts/"><u>[Updated] In 2024, Elevate Narrative Flow Expert Tips on Using Jump Cuts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unveiling-your-design-how-to-eliminate-backgrounds-in-figma/"><u>[Updated] In 2024, Unveiling Your Design How To Eliminate Backgrounds in Figma</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-picture-perfect-pairings-expert-comparison-of-top-8k-televisions/"><u>[Updated] Picture Perfect Pairings Expert Comparison of Top 8K Televisions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pigments-and-palettes-the-artists-guidebook/"><u>[Updated] Pigments & Palettes The Artist's Guidebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/basics-of-correcting-hardware-drivers-dm/"><u>Basics of Correcting Hardware Drivers (DM)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-frustratingly-slow-wi-fi-on-phones-explore-these/"><u>How to Fix Frustratingly Slow Wi-Fi on Phones? Explore These</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-becoming-a-master-of-instagram-auditory-aesthetics/"><u>In 2024, Becoming a Master of Instagram Auditory Aesthetics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-making-the-right-vr-purchase-on-the-go-vs-tethered-tech/"><u>In 2024, Making the Right VR Purchase On-the-Go Vs. Tethered Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-video-subtitle-enhancement-essential-online-tools-explored-for-2024/"><u>Mastering Video Subtitle Enhancement Essential Online Tools Explored for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-steam-game-installation-errors-a-step-by-step-guide/"><u>Overcoming Steam Game Installation Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-srt-addition-to-mp4s-for-next-level-audio-for-2024/"><u>Step-by-Step SRT Addition to MP4s for Next-Level Audio for 2024</u></a></li>
 </ul></div>
 

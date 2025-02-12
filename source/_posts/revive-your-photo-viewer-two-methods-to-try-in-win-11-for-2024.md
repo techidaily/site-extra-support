@@ -1,7 +1,7 @@
 ---
 title: "\"Revive Your Photo Viewer  Two Methods to Try in Win 11 for 2024\""
-date: 2025-01-24T21:15:53.620Z
-updated: 2025-01-31T05:42:22.124Z
+date: 2025-02-08T18:02:30.155Z
+updated: 2025-02-12T16:24:50.599Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -59,11 +55,11 @@ Here is why they want to restore Windows Photo Viewer –
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 ## Method 1 to restore Windows Photo Viewer
 
@@ -76,10 +72,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -95,16 +87,16 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -113,7 +105,15 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -130,16 +130,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-sharing-photos-and-videos-between-android-and-iphone/"><u>[New] Sharing Photos & Videos Between Android & iPhone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-best-online-stock-market-channels-reviewed/"><u>[Updated] Best Online Stock Market Channels Reviewed</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-enrich-your-video-narratives-with-background-melodies-on-fb/"><u>[Updated] Enrich Your Video Narratives with Background Melodies on FB</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-crafting-compelling-instagram-videos-that-stand-out/"><u>[Updated] In 2024, Crafting Compelling Instagram Videos That Stand Out</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-simplified-conversion-strategies-for-xml-ssa-and-ttml-into-srt/"><u>[Updated] Simplified Conversion Strategies for XML, SSA & TTML Into SRT</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unseen-glimpse-of-fb-stories-for-2024/"><u>[Updated] Unseen Glimpse of FB Stories for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-novices-blueprint-for-easy-stressless-nft-making/"><u>2024 Approved Novice's Blueprint for Easy, Stressless NFT Making</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-trailer-audio-a-step-by-step-approach/"><u>2024 Approved Perfecting Trailer Audio A Step-by-Step Approach</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-voicechanger-your-guide-to-tailoring-communication-on-skype-platforms-for-2024/"><u>New VoiceChanger Your Guide to Tailoring Communication on Skype Platforms for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolving-mfc42dll-file-could-not-be-located-a-step-by-step-guide/"><u>Resolving 'Mfc42.dll' File Could Not Be Located: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/water-resistance-level-of-iphone-15-how-much-protection-does-it-offer/"><u>Water-Resistance Level of iPhone 15: How Much Protection Does It Offer?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/estoring-your-online-presence-post-strike/"><u>[New] Restoring Your Online Presence Post-Strike</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unbeatable-candidates-the-very-best-phones-at-video-recording-for-2024/"><u>[New] Unbeatable Candidates The Very Best Phones at Video Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-extract-and-play-fb-soundtracks-for-2024/"><u>[Updated] Extract and Play FB Soundtracks for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-movement-advanced-transition-techniques-with-kinemaster/"><u>[Updated] Mastering Movement Advanced Transition Techniques with Kinemaster</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stack-videos-in-your-youtube-queue/"><u>[Updated] Stack Videos in Your YouTube Queue</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-toolwiz-in-a-world-of-mobile-photography-apps/"><u>2024 Approved Evaluating Toolwiz in a World of Mobile Photography Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-volume-reduction-for-apple-and-microsoft-systems/"><u>2024 Approved Seamless Volume Reduction for Apple and Microsoft Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-speedy-upgrade-leading-android-video-tuners/"><u>2024 Approved Speedy Upgrade Leading Android Video Tuners</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/arcade-affordability-index/"><u>ARCADE AFFORDABILITY INDEX</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/beaming-brilliance-for-android-video-creation-for-2024/"><u>Beaming Brilliance for Android Video Creation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-revolutionary-ai-bard-enters-the-ai-arena/"><u>Google's Revolutionary AI, 'Bard', Enters the AI Arena</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-11-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme 11 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-instant-video-mastery-editing-made-effortless-in-windows-11/"><u>In 2024, Instant Video Mastery Editing Made Effortless in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-affordable-data-storage-cloud/"><u>In 2024, Mastering the Art of Affordable Data Storage (Cloud)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-windows-11s-in-built-auto-hdr-feature-for-2024/"><u>Mastering Windows 11'S In-Built Auto HDR Feature for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/smartphones-meet-virtual-worlds-top-10-headsets-for-2024/"><u>Smartphones Meet Virtual Worlds - Top 10 Headsets for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creative-potential-with-these-top-explainer-video-tools-for-2024/"><u>Updated Unleash Your Creative Potential with These Top Explainer Video Tools for 2024</u></a></li>
 </ul></div>
 

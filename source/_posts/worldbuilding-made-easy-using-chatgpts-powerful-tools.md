@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2025-01-28T22:27:50.852Z
-updated: 2025-01-31T04:38:21.911Z
+date: 2025-02-05T16:48:39.615Z
+updated: 2025-02-12T17:12:34.813Z
 tags:
   - chatgpt
   - open-ai
@@ -17,13 +17,13 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  Large language models (LLMs) come in all shapes and sizes, and will assist you in any way you see fit. But which is best? We put the dominant AIs from Alphabet, OpenAI, and Meta to the test.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
@@ -45,17 +45,9 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -72,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -91,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -103,9 +99,17 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
@@ -126,10 +130,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
 You read it here first, folks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -154,24 +154,14 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-viewpoint-visionaries-capturing-the-essence-with-3-viewpoint-strategies-in-reactions/"><u>[New] In 2024, Viewpoint Visionaries Capturing the Essence with 3 Viewpoint Strategies in Reactions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-score-big-with-these-8-no-cost-3d-videos-apps-for-windows-and-mac-os/"><u>[New] Score Big with These 8 No-Cost 3D Videos Apps for Windows & Mac OS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-top-podcast-streaming-trick-quick-play-upgrade-for-2024/"><u>[New] Top Podcast Streaming Trick - Quick Play Upgrade for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-2-ways-to-increase-your-youtube-audience-fast/"><u>[Updated] In 2024, 2 Ways to Increase Your YouTube Audience Fast</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-simplifying-image-editing-with-picsarts-background-tool/"><u>[Updated] Simplifying Image Editing with Picsart's Background Tool</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-jokes-and-gag-collection/"><u>2024 Approved IPhone Jokes & Gag Collection</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smoothly-blending-scenes-with-premieres-transitions/"><u>2024 Approved Smoothly Blending Scenes with Premiere's Transitions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-poco-m6-pro-4g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Poco M6 Pro 4G Unlock Without Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guard-against-unwanted-access-how-pc-repair-specialists-may-compromise-your-files-and-images-study-shows-zdnet/"><u>Guard Against Unwanted Access: How PC Repair Specialists May Compromise Your Files & Images, Study Shows | ZDnet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-12-mini-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 12 mini Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-magic-5-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Magic 5</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y100i Phone Without Password?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-melodic-motion-in-imovie-editing-mastery/"><u>In 2024, Melodic Motion in iMovie Editing Mastery</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pinterest-video-downloader-guide-the-leading-no-cost-alternatives/"><u>In 2024, Pinterest Video Downloader Guide The Leading No-Cost Alternatives</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-for-winning-anime-projects-via-movie-maker/"><u>In 2024, Step-by-Step for Winning Anime Projects via Movie Maker</u></a></li>
-<li><a href="https://extra-support.techidaily.com/observers-lens-reportage-for-2024/"><u>Observer's Lens Reportage for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/scouting-for-subtle-sophisticated-and-spare-tiktok-screenshots-for-2024/"><u>Scouting for Subtle, Sophisticated, and Spare TikTok Screenshots for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-eero-pro-mesh-router-ensuring-seamless-internet-across-your-home/"><u>The Ultimate Guide to Eero Pro Mesh Router: Ensuring Seamless Internet Across Your Home</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-youtubes-financial-frontier-maximizing-your-content-revenue/"><u>[New] In 2024, YouTube's Financial Frontier Maximizing Your Content Revenue</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mint-memes-of-merriment/"><u>[Updated] Mint Memes of Merriment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-lineup-best-8-devices-for-superior-uhd-viewing/"><u>[Updated] Premium Lineup Best 8 Devices for Superior UHD Viewing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-steps-to-acquire-fcp-for-zero-dollars/"><u>[Updated] Steps to Acquire FCP for Zero Dollars</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-the-best-in-android-gaming-kinemaster-edition/"><u>2024 Approved Discovering the Best in Android Gaming KineMaster Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-x5-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco X5 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bright-and-bold-easy-techniques-to-lighten-up-iphone-videos/"><u>In 2024, Bright & Bold Easy Techniques To Lighten Up iPhone Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-into-tomorrow-secure-these-7-devices-for-metaverse-life/"><u>In 2024, Step Into Tomorrow Secure These 7 Devices for Metaverse Life</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-x50i-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor X50i Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

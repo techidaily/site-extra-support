@@ -1,7 +1,7 @@
 ---
 title: "[New] Smartphone Lighting Kits for Improved Footage"
-date: 2025-01-26T23:39:54.022Z
-updated: 2025-01-30T20:59:41.038Z
+date: 2025-02-05T18:06:14.745Z
+updated: 2025-02-12T17:03:14.686Z
 tags: 
   - screen-recording
   - ai video
@@ -30,10 +30,6 @@ A smartphone with a great camera is all you need to record great videos, but you
 
 The best smartphone accessories are lightweight and require as little setup as possible. One of the best things about making videos on your phone is that it allows you to be spontaneous and record life as it happens. A great smartphone accessory will not make it any more complicated to record on the go.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Smartphone Accessories for Making Videos
 
 Here are four of the best accessories for shooting videos on your smartphone:
@@ -41,6 +37,10 @@ Here are four of the best accessories for shooting videos on your smartphone:
 #### 1\. Clip-On Lenses
 
 ![tips on lenses](https://images.wondershare.com/filmora/article-images/accessories-clip-on-lenses.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When you use a DSLR you generally have a lot more control over your images than when you record using other kinds of cameras. Part of this is due to the variety of lenses that are available for DSLRs. Most cameras only have the one built-in lens, but DSLRs have detachable lenses you can change to create different effects. Using Clip-On Lenses you can adjust the built-in lens of your smartphone camera to create these same kinds of effects.
 
@@ -51,7 +51,7 @@ Clip-On Lenses are tiny, which makes them convenient for carrying around. Using 
 ![pistol grip](https://images.wondershare.com/filmora/article-images/accessories-pistol-grip.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It will not matter how clear and sharp your videos are if they are shaky. To avoid the stereotypically shaky ‘cellphone vid’ look you will need to stabilize your phone while you record, and there are a lot of ways you can do that. Mounting your phone on a Pistol Grip is one of them.
@@ -63,7 +63,7 @@ Smartphones mounted on Pistol Grips will record more stable footage while you wa
 ![selfiestick](https://images.wondershare.com/filmora/article-images/accessories-selfiestick.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Selfie Sticks are great for more than just taking selfies; using a selfie stick also helps you record more stable videos. Besides holding a selfie stick the way you normally do, with your hand on the grip, you can use your selfie stick a lot like you would a monopod. Simply place the handle on the floor, extend your selfie stick to the height you want to record at, and hold it still while you film. Your footage will be from one stable height.
@@ -75,7 +75,7 @@ Selfie Sticks make it possible for you to record from a wider variety of angles,
 ![lav mic](https://images.wondershare.com/filmora/article-images/accessories-lav-mic.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 One of the biggest obstacles when shooting smartphone videos is capturing adequate audio. Not all videos need audio – sometimes you just want to use music – but if there is any speaking in your video then your audio becomes just as important as your visual recording. As great as most smartphone cameras are, the microphones that come with them usually lack that same quality. You can improve the quality of your audio recordings using a free program called Audacity, or you can get an external microphone.
@@ -85,7 +85,7 @@ LAV Mics, also called lavalier or lapel mics, are a popular choice because they 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -103,21 +103,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-empowering-healing-with-vr-technology-for-2024/"><u>[New] Empowering Healing with VR Technology for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-cutting-edge-tech-in-daily-life/"><u>[New] In 2024, Cutting-Edge Tech in Daily Life</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-class-adding-podcasts-to-instagram-features/"><u>[Updated] Master Class Adding Podcasts to Instagram Features</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-potential-in-your-podcasts-xml-structure/"><u>[Updated] Unlocking the Potential in Your Podcast's XML Structure</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-experts-take-on-vivacut-full-video-editing-review-24/"><u>2024 Approved Expert's Take on VivaCut Full Video Editing Review '24</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-and-paid-iphone-photo-experience-top-app-lineup/"><u>2024 Approved Free & Paid iPhone Photo Experience - Top App Lineup</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-reviving-brands-through-customer-video-appeals/"><u>2024 Approved Reviving Brands Through Customer Video Appeals</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-speed-racers-remarkable-22-run/"><u>2024 Approved Speed Racers' Remarkable '22 Run</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beat-obs-frame-skipping-effective-solutions-and-advice/"><u>Beat OBS Frame Skipping: Effective Solutions and Advice</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>From Recording to Broadcast Masterful Podcast Editing with GarageBand</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-launching-videos-efficiently-with-free-intros/"><u>In 2024, Launching Videos Efficiently with FREE Intros</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-magical-jargon-uncover-the-best-marketing-phrases/"><u>In 2024, Magical Jargon Uncover the Best Marketing Phrases</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-music-import-into-premiere-pro-workflows/"><u>In 2024, Seamless Music Import Into Premiere Pro Workflows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-v27e-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo V27e to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/most-advanced-drone-technology-aligned-with-gopros-for-2024/"><u>Most Advanced Drone Technology Aligned with GoPros for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/supercharge-your-online-sales-strategy-with-the-best-15-social-media-insight-apps/"><u>Supercharge Your Online Sales Strategy with the Best 15 Social Media Insight Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-9-android-apps-minimize-videos-effortlessly-and-costlessly/"><u>[New] Best 9 Android Apps Minimize Videos Effortlessly and Costlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimal-iphone-image-management-ordered-album-setups-and-icloud-integration/"><u>[New] Optimal iPhone Image Management Ordered Album Setups & iCloud Integration</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-snapchats-star-highlight-utilization-guide/"><u>[New] Snapchat's Star Highlight Utilization Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-seamless-webm-creation-from-youtube-videos-for-2024/"><u>[Updated] Seamless WebM Creation From YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-photo-text-edits-online-and-app-guide/"><u>2024 Approved Mastering Photo Text Edits Online & App Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-hype-booster-maker/"><u>2024 Approved Premier Hype Booster Maker</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-mobile-podcast-sources/"><u>2024 Approved Premium Mobile Podcast Sources</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-redefining-schooling-with-virtual-reality/"><u>2024 Approved Redefining Schooling with Virtual Reality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/elevate-your-digital-presence-discover-manycam-for-advanced-live-broadcasting-and-virtual-background-features/"><u>Elevate Your Digital Presence: Discover ManyCam for Advanced Live Broadcasting and Virtual Background Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-integrating-comfort-with-efficiency-modern-approaches-to-office-design/"><u>In 2024, Integrating Comfort with Efficiency Modern Approaches to Office Design</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-motorola-moto-g13-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Motorola Moto G13 FRP Without Computer</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/secure-and-simple-photovideo-sharing-with-ios-for-2024/"><u>Secure and Simple Photo/Video Sharing with IOS for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/streamlined-subtitling-processes-for-instagrams-dynamic-media/"><u>Streamlined Subtitling Processes for Instagram's Dynamic Media</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-hello-compatible-cameras-analysis/"><u>Windows Hello Compatible Cameras Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-videos-making-a-statement-on-instagram-for-2024/"><u>YouTube Videos Making a Statement on Instagram for 2024</u></a></li>
 </ul></div>
 

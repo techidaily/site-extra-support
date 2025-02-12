@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Spotlight Synthesis  Blending Lights for Video Excellence\""
-date: 2024-07-30T04:22:58.169Z
-updated: 2024-07-31T04:22:58.169Z
+date: 2025-02-05T17:43:13.970Z
+updated: 2025-02-12T17:39:01.838Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -51,20 +48,29 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
@@ -72,10 +78,11 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
@@ -89,27 +96,21 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -143,5 +144,26 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-revolutionize-your-media-creation-hero5-black-mastery-skills/"><u>[New] Revolutionize Your Media Creation Hero5 Black Mastery Skills</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-detectives-playbook-for-scouring-secret-youtube-content/"><u>[Updated] 2024 Approved The Detective's Playbook for Scouring Secret YouTube Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-10-audio-playback-accelerators-for-phones/"><u>[Updated] In 2024, Top 10 Audio Playback Accelerators for Phones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-list-of-premier-game-broadcasting-apps/"><u>[Updated] Master List of Premier Game Broadcasting Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-ai-transcribers-for-speech/"><u>2024 Approved Pinnacle AI Transcribers for Speech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-acquiring-top-notch-clip-art-without-a-price-tag/"><u>2024 Approved Step-by-Step Acquiring Top-Notch Clip Art Without a Price Tag</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/anticipated-release-date-new-ipad-models-expected-in-late-spring-of-2024-insights/"><u>Anticipated Release Date: New iPad Models Expected in Late Spring of 2024 - Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-eliminate-discord-echo-issues-on-your-windows-computer/"><u>Effective Techniques to Eliminate Discord Echo Issues on Your Windows Computer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/expert-tips-the-finest-7-wet-proof-recorders-for-2024/"><u>Expert Tips The Finest 7 Wet-Proof Recorders for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-sata-driver-version-for-windows-quick-and-easy-instructions/"><u>Get the Latest SATA Driver Version for Windows - Quick & Easy Instructions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nubia-red-magic-9-proplus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nubia Red Magic 9 Pro+ Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-pairings-adding-songs-to-windows-11-videos-with-ease/"><u>In 2024, Perfect Pairings Adding Songs to Windows 11 Videos with Ease</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-top-24-hours-watchers-youtubes-most-popular-videos-1-10/"><u>In 2024, Top 24 Hours Watchers YouTube’s Most Popular Videos #1-#10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-timelapse-using-gopro-hero5-black-for-2024/"><u>Mastering Timelapse Using GoPro Hero5 Black for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/outlining-expenditures-the-price-tag-of-video-capturing-tunes-for-2024/"><u>Outlining Expenditures The Price Tag of Video Capturing Tunes for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/packing-list-film-your-excursions-for-2024/"><u>Packing List Film Your Excursions for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/scaling-your-channel-a-guide-to-increased-viewership-and-followers-for-2024/"><u>Scaling Your Channel A Guide to Increased Viewership and Followers for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrading-your-razer-blade-17-driver-guides-for-windows-11-10-8-and-7/"><u>Upgrading Your Razer Blade 17: Driver Guides for Windows 11, 10, 8 & 7</u></a></li>
+</ul></div>
 

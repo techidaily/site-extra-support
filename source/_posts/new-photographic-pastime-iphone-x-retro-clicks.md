@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photographic Pastime  IPhone X Retro Clicks\""
-date: 2025-01-30T00:51:31.635Z
-updated: 2025-01-31T01:18:51.896Z
+date: 2025-02-08T17:29:11.657Z
+updated: 2025-02-12T17:54:40.855Z
 tags: 
   - screen-recording
   - ai video
@@ -31,13 +31,17 @@ Until recently, iPhone cameras didn't have lenses that enabled its users to prod
 In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips for iPhone portrait photos
 
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
 
@@ -60,7 +64,7 @@ The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image resource: imore
@@ -68,10 +72,6 @@ Image resource: imore
 Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera's Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
 
@@ -93,6 +93,10 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
 #### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
@@ -104,7 +108,7 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
@@ -116,10 +120,6 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 **Compatible with:** iOS 8.0 or later
 
 ![my-watermarks-a-personal-logo-signature-maker](https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
@@ -140,17 +140,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-a-deep-dive-into-freenocam-software-features-for-2024/"><u>[New] A Deep Dive Into FreenoCam Software Features for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-reverse-action-flipping-your-iphone-video-footage/"><u>[New] Reverse Action Flipping Your iPhone Video Footage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sleek-60-second-fades/"><u>[New] Sleek 60-Second Fades</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-tips-for-flv-file-fusion-on-youtube/"><u>2024 Approved Essential Tips for FLV File Fusion on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-restoring-smooth-youtube-visual-experience/"><u>2024 Approved Restoring Smooth YouTube Visual Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-score-big-with-these-8-low-cost-3d-video-apps-for-pcmac/"><u>2024 Approved Score Big with These 8 Low-Cost 3D Video Apps for PC/Mac</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-rollback-nvidia-drivers-in-windows-10/"><u>How to Rollback Nvidia Drivers in Windows 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-z-flip-5-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy Z Flip 5 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-key-understanding-of-online-narration-art/"><u>In 2024, Key Understanding of Online Narration Art</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-master-the-art-of-pc-game-memories-with-these-6-steps/"><u>In 2024, Master the Art of PC Game Memories with These 6 Steps</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1964083-9781782797722-number-woman/"><u>Number Woman | Free Book</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/psychoacoustic-enhancement-for-playstation-titles/"><u>Psychoacoustic Enhancement for PlayStation Titles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-professional-streaming-boost-unveiling-best-9-live-stream-filters/"><u>[New] 2024 Approved Professional Streaming Boost Unveiling Best 9 Live-Stream Filters</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-separate-visual-elements-videos-to-pics-via-windows-10-photos/"><u>[New] Separate Visual Elements Videos to Pics via Windows 10 Photos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-apex-capture-vs-lumen-hub-for-2024/"><u>[Updated] Apex Capture VS Lumen Hub for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-find-your-next-vector-the-best-10-pics-sites/"><u>[Updated] Find Your Next Vector The Best 10 Pics Sites</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-craft-your-vision-best-cameras-for-video-creators/"><u>[Updated] In 2024, Craft Your Vision Best Cameras for Video Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-masterclass-in-making-memories-expert-tips-for-snapchat-edits/"><u>[Updated] In 2024, Masterclass in Making Memories Expert Tips for Snapchat Edits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-desktop-image-blending-techniques/"><u>[Updated] Mastering Desktop Image Blending Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-laptop-perfection-10-coolest-downloadable-desktop-photos/"><u>2024 Approved Laptop Perfection 10 Coolest Downloadable Desktop Photos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-your-screen-essential-wins11-apps-and-games/"><u>2024 Approved Master Your Screen Essential Wins11 Apps & Games</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-a60-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel A60 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/instant-fixes-for-when-fortnite-wont-load-easy-strategies-inside/"><u>Instant Fixes for When Fortnite Won’t Load - Easy Strategies Inside!</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/streamline-your-mixing-with-bpm-supremes-curated-dj-bundles-expert-tips-to-enhance-efficiency/"><u>Streamline Your Mixing with BPM Supreme's Curated DJ Bundles: Expert Tips to Enhance Efficiency!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/turn-the-screws-right-youtube-video-rotation-for-all-angles-for-2024/"><u>Turn the Screws Right YouTube Video Rotation for All Angles for 2024</u></a></li>
 </ul></div>
 

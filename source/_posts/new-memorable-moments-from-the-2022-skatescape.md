@@ -1,7 +1,7 @@
 ---
 title: "[New] Memorable Moments From the 2022 Skatescape"
-date: 2025-01-23T23:55:30.744Z
-updated: 2025-01-30T16:37:46.542Z
+date: 2025-02-11T16:45:09.177Z
+updated: 2025-02-12T18:07:16.469Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
@@ -35,7 +31,7 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
@@ -58,19 +54,19 @@ Even though Nathan Chen finished first for men's short program of the team event
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -92,21 +88,25 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -121,16 +121,21 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-grab-speech-file-and-review-for-2024/"><u>[New] Grab Speech File & Review for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-outsmarting-the-obtrusive-fb-video-ads-for-2024/"><u>[New] Outsmarting the Obtrusive FB Video Ads for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-outstanding-20-free-no-right-pubg-montages/"><u>[Updated] Outstanding 20 Free, No-Right PUBG Montages</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-laughter-in-the-clouds-iphone/"><u>2024 Approved Laughter in the Clouds (iPhone)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-file-sync-pc-content-to-iphone-compatibility/"><u>2024 Approved Quick File Sync PC Content to iPhone Compatibility</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smartphone-viewing-at-its-peak-top-10-free-video-streamers/"><u>2024 Approved Smartphone Viewing at Its Peak Top 10 Free Video Streamers</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/acquista-gratis-winx-mediatrans-online-con-offerta-esclusiva/"><u>Acquista Gratis WinX MediaTrans Online Con Offerta Esclusiva</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/decoding-the-dollars-and-cents-of-podcasting/"><u>Decoding the Dollars and Cents of Podcasting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/instant-guide-obtaining-safe-free-vlc-media-player-on-a-mac/"><u>Instant Guide Obtaining Safe, Free VLC Media Player on a Mac</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/interactive-illumination-the-future-of-memory-presentation/"><u>Interactive Illumination: The Future of Memory Presentation</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-save-money-stay-legal-free-filmora-options-you-can-trust/"><u>Updated In 2024, Save Money, Stay Legal Free Filmora Options You Can Trust</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-selecting-peak-pace-for-slow-video-capture/"><u>[New] Mastering the Art of Selecting Peak Pace for Slow Video Capture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-paint-picture-humor/"><u>[New] Paint Picture Humor</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionizing-receiving-a-new-paradigm-in-openings/"><u>[New] Revolutionizing Receiving A New Paradigm in Openings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-religious-ringtones-for-daily-devotion-and-driving/"><u>2024 Approved Religious Ringtones for Daily Devotion and Driving</u></a></li>
+<li><a href="https://extra-information.techidaily.com/balancing-frameworks-for-engaging-visual-media/"><u>Balancing Frameworks for Engaging Visual Media</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-oneplus-open-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on OnePlus Open</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-nord-n30-se-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Nord N30 SE</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/deconstructing-the-fisheye-effect-in-your-gopro-videos-for-2024/"><u>Deconstructing the Fisheye Effect in Your GoPro Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-magix-acid-pros-successors-in-vector-editing/"><u>In 2024, Magix ACID Pro's Successors in Vector Editing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-adding-films-to-your-windows-11-portfolio/"><u>In 2024, Step-by-Step Guide Adding Films to Your Windows 11 Portfolio</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oneplus-ace-2-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on OnePlus Ace 2 Pro Phones</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unlock-the-potential-of-close-up-videos-using-videoleap/"><u>In 2024, Unlock the Potential of Close-Up Videos Using Videoleap</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-online-galleries-of-premium-vectors-for-2024/"><u>Premier Online Galleries of Premium Vectors for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rescue-your-waterlogged-device-expert-tips-on-restoring-a-wet-iphoneipod/"><u>Rescue Your Waterlogged Device: Expert Tips on Restoring a Wet iPhone/iPod</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-stutter-and-lag-in-your-bluetooth-sound-on-windows-11/"><u>Troubleshoot Stutter and Lag in Your Bluetooth Sound on Windows 11</u></a></li>
 </ul></div>
 

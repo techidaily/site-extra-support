@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Frenzy  Stories of Popularity for 2024\""
-date: 2025-01-26T16:45:21.859Z
-updated: 2025-01-30T16:58:32.639Z
+date: 2025-02-05T17:23:58.805Z
+updated: 2025-02-12T18:02:15.630Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
 * The stock photo meme guy conducted a TEDx talk in his native Ukraine in September 2018\. During the talk, Mr. Andras Arato, a 73-year-old retired electrical engineer, speaks on his fame as a meme-personality and his profession. Currently, the video has nearly 7.87 million views on TEDx's official YouTube channel.
 * Finally, you can view all Hide the Pain Harold memes from its dedicated website.
@@ -40,6 +44,10 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 According to Andras, Hide the Pain Harold results from his vacation in Turkey. A professional photographer contacted him to do stock image modeling. During the shoot, the photographer kept telling him to smile, resulting in some photos of Andras appearing to force a smile. This expression led to netizens using his image to express situations where the forced smile is masking your true feelings.
 
 ![do stock image modeling](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
@@ -52,10 +60,6 @@ Another popular stock image meme is Distracted Boyfriend. It features the stock 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
 
 ![original photo](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 According to Meme Documentation, the first version of the Distracted boyfriend theme dates back to January 2017\. Prog Snob, a Turkish progressive rock group on Facebook, posted the meme on their page to reference Phil Collin's distraction from progressive rock by pop music. However, it was the August 2017 Twitter version referencing the youth's feelings towards capitalism and socialism that went viral.
 
@@ -70,14 +74,10 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 ![latest version](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part3: I Bet He's Thinking About Other Women
@@ -96,6 +96,10 @@ A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In
 
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
 
 * The meme also appears in a 2017 tweet by @NFLRT, an NFL fan account, where the man questions when Colin Kaepernick will be signed.
@@ -105,10 +109,6 @@ According to sources, the stock photo meme was first featured on Twitter in Dece
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part4: Bonjour Bear
 
@@ -122,10 +122,6 @@ Since then, internet users have continued to use the Bonjour Bear meme to refere
 
 ![using hand sanitizer](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In addition, the post received over 91,700 points, with 95% of upvotes, within a day on Reddit.
 
 * Others use the meme as a reaction to when your relatives visit. The captions indicate your parent informing you that your uncle and aunt are visiting and they have brought presents.
@@ -133,10 +129,14 @@ In addition, the post received over 91,700 points, with 95% of upvotes, within a
 
 The photo is available on most stock photo websites, such as Adobe and Tumblr. Furthermore, you will find other hilarious versions of Bonjour Bear under the subreddits r/dankmemes and r/memes on Reddit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part5: FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Can you use stock photos for memes?
@@ -150,7 +150,7 @@ This is because not all stock photo providers offer their images with a creative
 Yes, all memes are under copyright law, which means you have the authority to govern their use. Although identifying the meme owner can be challenging, posting or sharing a meme through your social media accounts without consent violates copyright law. Therefore, only use stock image memes from verified stock content providers like Shutterstock, where the license provisions are clear.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Can you use watermarked stock photos to create memes?
@@ -189,24 +189,18 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-visual-output-integrating-luts-into-ae-projects/"><u>[New] Perfecting Visual Output Integrating LUTs Into AE Projects</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-quantum-hdr-principles/"><u>[Updated] Mastering Quantum HDR Principles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pro-shooters-guide-the-best-4k-camcorders-ranked/"><u>[Updated] Pro Shooters' Guide The Best 4K Camcorders Ranked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-upgrading-your-apple-studio-display-a-step-by-step-guide-to-the-latest-firmware/"><u>1. Upgrading Your Apple Studio Display: A Step-by-Step Guide to the Latest Firmware</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-revitalize-your-virtual-team-sessions-with-google-hangouts/"><u>2024 Approved Revitalize Your Virtual Team Sessions with Google Hangouts</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/handling-non-compatible-media-coding-methods/"><u>Handling Non-Compatible Media Coding Methods</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-often-should-you-upload-videos-to-youtube-to-get-more-views/"><u>In 2024, How Often Should You Upload Videos to YouTube to Get More Views</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-laughing-moments-crafting-with-adobe/"><u>In 2024, Laughing Moments Crafting with Adobe</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-3d-text-illustration-in-adobe-illustrator/"><u>In 2024, Mastering 3D Text Illustration in Adobe Illustrator</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfect-zoom-optimizing-kinemasters-viewer-engagement/"><u>In 2024, Perfect Zoom Optimizing Kinemaster's Viewer Engagement</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pixel-perfect-resizer-for-windows-and-mac/"><u>In 2024, Pixel Perfect Resizer for Windows & Mac</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-platforms-for-virtual-shows/"><u>In 2024, Premium Platforms for Virtual Shows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mobile-vr-experience-best-10-headsets-list-for-2024/"><u>Mobile VR Experience Best 10 Headsets List for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-0x800700e1-windows-errors/"><u>Overcoming 0X800700E1 Windows Errors</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/quick-and-easy-how-to-record-your-iphone-7-display-for-2024/"><u>Quick & Easy How to Record Your iPhone 7 Display for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/tricks-for-enhanced-video-quality-via-nvidia-for-2024/"><u>Tricks for Enhanced Video Quality via NVIDIA for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-x9b-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor X9b Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-essential-guide-fetching-twitter-videos-directly-from-mobile/"><u>[New] In 2024, Essential Guide Fetching Twitter Videos Directly From Mobile</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-easy-steps-to-record-with-your-macbooks-camera/"><u>[Updated] 2024 Approved Easy Steps to Record with Your MacBook's Camera</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-telling-stories-on-linkedin-with-professional-videos/"><u>[Updated] 2024 Approved Telling Stories on LinkedIn with Professional Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-50plus-trending-tiktok-hashtags-to-get-more-views-and-likes/"><u>[Updated] 50+ Trending TikTok Hashtags to Get More Views and Likes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-phantom-pitches-is-this-magical-talker-an-illusion-or-reality-explore-more-options/"><u>[Updated] Phantom Pitches Is This Magical Talker an Illusion or Reality? Explore More Options</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-underdeveloped-world-of-vr-experiences/"><u>[Updated] The Underdeveloped World of VR Experiences</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-numeric-precision-the-art-of-editing-tiktok-counts/"><u>2024 Approved Numeric Precision The Art of Editing TikTok Counts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-ch340g-usb-serial-device-drivers-in-windows-11/"><u>How to Get the Latest CH340G USB Serial Device Drivers in Windows 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-high-tech-vr-handhelds-our-top-10-list/"><u>In 2024, High-Tech VR Handhelds Our Top 10 List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speech-tuning-made-simple-on-sony-playstation-consoles/"><u>In 2024, Speech Tuning Made Simple on Sony PlayStation Consoles</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/inexpensive-sky-explorers-the-least-expensive-drones/"><u>Inexpensive Sky Explorers The Least Expensive Drones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/learning-the-ropes-of-lunapics-user-interface-for-2024/"><u>Learning the Ropes of LunaPic's User Interface for 2024</u></a></li>
 </ul></div>
 
