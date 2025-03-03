@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photographic Pastime  IPhone X Retro Clicks\""
-date: 2025-02-08T17:29:11.657Z
-updated: 2025-02-12T17:54:40.855Z
+date: 2025-02-28T04:12:03.584Z
+updated: 2025-03-03T07:12:49.238Z
 tags: 
   - screen-recording
   - ai video
@@ -30,18 +30,10 @@ Until recently, iPhone cameras didn't have lenses that enabled its users to prod
 
 In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tips for iPhone portrait photos
 
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
 
@@ -62,10 +54,6 @@ Portrait mode enables you to set the timer, turn off the flash or apply photo fi
 The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn't have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.
 
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image resource: imore
 
@@ -93,10 +81,6 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
 
 #### [Bokeh Lens](https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8)
@@ -106,10 +90,6 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 **Compatible with:** iOS 8.0 or later
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
@@ -140,18 +120,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-professional-streaming-boost-unveiling-best-9-live-stream-filters/"><u>[New] 2024 Approved Professional Streaming Boost Unveiling Best 9 Live-Stream Filters</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-separate-visual-elements-videos-to-pics-via-windows-10-photos/"><u>[New] Separate Visual Elements Videos to Pics via Windows 10 Photos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-apex-capture-vs-lumen-hub-for-2024/"><u>[Updated] Apex Capture VS Lumen Hub for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-find-your-next-vector-the-best-10-pics-sites/"><u>[Updated] Find Your Next Vector The Best 10 Pics Sites</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-craft-your-vision-best-cameras-for-video-creators/"><u>[Updated] In 2024, Craft Your Vision Best Cameras for Video Creators</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-masterclass-in-making-memories-expert-tips-for-snapchat-edits/"><u>[Updated] In 2024, Masterclass in Making Memories Expert Tips for Snapchat Edits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-desktop-image-blending-techniques/"><u>[Updated] Mastering Desktop Image Blending Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-laptop-perfection-10-coolest-downloadable-desktop-photos/"><u>2024 Approved Laptop Perfection 10 Coolest Downloadable Desktop Photos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-master-your-screen-essential-wins11-apps-and-games/"><u>2024 Approved Master Your Screen Essential Wins11 Apps & Games</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-a60-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel A60 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/instant-fixes-for-when-fortnite-wont-load-easy-strategies-inside/"><u>Instant Fixes for When Fortnite Won’t Load - Easy Strategies Inside!</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/streamline-your-mixing-with-bpm-supremes-curated-dj-bundles-expert-tips-to-enhance-efficiency/"><u>Streamline Your Mixing with BPM Supreme's Curated DJ Bundles: Expert Tips to Enhance Efficiency!</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/turn-the-screws-right-youtube-video-rotation-for-all-angles-for-2024/"><u>Turn the Screws Right YouTube Video Rotation for All Angles for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-mastering-s2t-integration-with-powerpoint/"><u>[New] 2024 Approved Mastering S2T Integration with PowerPoint</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-easy-instagram-posting-for-gif-lovers-4-essential-tips/"><u>[New] Easy Instagram Posting for GIF Lovers 4 Essential Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mac-tricks-for-dynamic-instagram-video-size-adjustment-for-2024/"><u>[Updated] Mac Tricks for Dynamic Instagram Video Size Adjustment for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-selecting-from-dji-action-gopro-max-360-insta360-x3/"><u>[Updated] Selecting From DJI Action, GoPro Max 360, Insta360 X3</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-viewer-discussions-on-youtube/"><u>2024 Approved Mastering Viewer Discussions on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamlessly-integrate-pip-on-microsoft-edge/"><u>2024 Approved Seamlessly Integrate PIP on Microsoft Edge</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/best-practices-for-securely-pushing-ios-photos-to-snapchat/"><u>Best Practices for Securely Pushing iOS Photos to Snapchat</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-solve-non-detected-proxy-settings-on-windows-os/"><u>Guide to Solve Non-Detected Proxy Settings on Windows OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y100 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-magix-vision-enhancement-a-detailed-review/"><u>In 2024, MAGIX Vision Enhancement A Detailed Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-clearer-internet-video-views/"><u>In 2024, Mastering Clearer Internet Video Views</u></a></li>
+<li><a href="https://extra-support.techidaily.com/ipads-drawing-dynasty-top-8-sketch-apps-for-2024/"><u>IPad's Drawing Dynasty Top 8 Sketch Apps for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-the-collaborative-language-learning-experience-approved-by-google/"><u>Mondly: The Collaborative Language Learning Experience, Approved by Google</u></a></li>
+<li><a href="https://extra-support.techidaily.com/real-world-examples-for-2024/"><u>Real-World Examples for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionizing-youtube-success-through-smart-title-strategy-for-2024/"><u>Revolutionizing YouTube Success Through Smart Title Strategy for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/room-prep-101-ensuring-your-system-is-ready-for-oculus-rift-for-2024/"><u>Room Prep 101 Ensuring Your System Is Ready for Oculus Rift for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snickerscribble-program/"><u>SnickerScribble Program</u></a></li>
 </ul></div>
 

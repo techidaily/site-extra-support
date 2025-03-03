@@ -1,7 +1,7 @@
 ---
 title: Revive Your Battlefield Soundscape - Quick Troubleshooting for BF4 No Audio Faults
-date: 2025-01-26T16:48:24.718Z
-updated: 2025-01-31T01:49:52.666Z
+date: 2025-02-25T07:25:26.691Z
+updated: 2025-03-03T03:36:30.472Z
 tags:
   - win11
   - win10
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2\. Check your default playback device
 
  The issue occurs when you set the wrong default output device. It’s possible that other games or apps are working great but Battlefield 4 is acting up.
@@ -77,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
 ![choose a correct sample format](https://images.drivereasy.com/wp-content/uploads/2021/09/quality.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click**Apply** to save the changes.
 
  Now launch your Battlefield 4 to check if the sound is coming back. If unfortunately not, don’t worry since we have a few more fixes for you to try.
@@ -93,25 +85,13 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
 ![open volume mixer](https://images.drivereasy.com/wp-content/uploads/2021/09/open-volume-mixer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Make sure that Battlefield 4 is not muted in Volume Mixer.
 
 ![check battlefield 4 sound not working](https://images.drivereasy.com/wp-content/uploads/2021/09/mixer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Now you’ll need to go to the**Advanced Sound settings** . Press the**Windows logo** key +**I** at the same time, and select**System** .
 
 ![open system](https://images.drivereasy.com/wp-content/uploads/2021/09/system-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Select**Sound** from the left pane, and click**App volume and device preferences** under**Advanced sound options** .
 
@@ -120,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
  5) Make sure you set the Output of Battlefield 4 to the system default device instead of “Game”.
 
  Does this method do the trick for you? If not, move to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4\. Disable Windows Defender
 
@@ -137,17 +113,9 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
 ![click domain network](https://images.drivereasy.com/wp-content/uploads/2021/09/domain.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under**Microsoft Defender Firewall** , swap it to**Off** .
 
 ![toggle firewall to off](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall-off.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Launch your Battlefield 4 and check if the sound is working now.
 
@@ -206,19 +174,22 @@ Launch your Battlefield 4 and check if the sound is working now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-mastering-facebook-vids-the-top-20-marketing-hacks/"><u>[New] 2024 Approved Mastering Facebook Vids The Top 20 Marketing Hacks</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/igital-deck-of-cards-youtubes-milestone-challenges/"><u>[New] Digital Deck of Cards YouTube's Milestone Challenges</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-voice-transformation-on-the-move-best-audio-modification-tools-for-smartphones/"><u>[New] In 2024, Voice Transformation on the Move Best Audio Modification Tools for Smartphones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-masterful-mixers-free-lut-compendium/"><u>[New] Masterful Mixers' Free LUT Compendium</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-revamped-interviews-attracting-podcast-fans/"><u>[Updated] Revamped Interviews Attracting Podcast Fans</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-shoppers-insight-making-an-informed-choice-on-your-next-360camera/"><u>[Updated] Shopper's Insight Making an Informed Choice on Your Next 360Camera</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-video-playback-speed-on-facebook/"><u>2024 Approved Maximizing Video Playback Speed on Facebook</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-on-professionals-the-cutting-edge-soundtracked-photovideo-artists/"><u>2024 Approved Spotlight on Professionals The Cutting-Edge, Soundtracked Photo/Video Artists</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/for-newcomers-discover-these-essential-gopro-upgrades-for-2024/"><u>For Newcomers, Discover These Essential GoPro Upgrades for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-nokia-c02-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Nokia C02 FRP</u></a></li>
-<li><a href="https://win-docs.techidaily.com/mastering-the-art-of-seo-understanding-search-intent-and-effective-techniques-via-seo-powersuite-expertise/"><u>Mastering the Art of SEO: Understanding Search Intent and Effective Techniques via SEO PowerSuite Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/titans-of-tech-talk-blending-blizzards-magic-with-microsofts-machine-intelligence-interview/"><u>Titans of Tech Talk: Blending Blizzard's Magic with Microsoft's Machine Intelligence [Interview]</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-video-velocity-10-free-apps-to-control-video-speed-on-your-mobile-for-2024/"><u>Updated Video Velocity 10 Free Apps to Control Video Speed on Your Mobile for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-nord-3-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus Nord 3 5G Device</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-8-ultimate-windows-10-video-grabber-apps-you-must-try/"><u>[New] In 2024, 8 Ultimate Windows 10 Video Grabber Apps You Must Try</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-transforming-brand-stories-with-client-produced-testimonials/"><u>[New] In 2024, Transforming Brand Stories with Client-Produced Testimonials</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-visual-storytelling-with-online-wallpaper-swap/"><u>[New] Mastering Visual Storytelling with Online Wallpaper Swap</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mememakerpro-visual-laughter-factory/"><u>[New] MemeMakerPro Visual Laughter Factory</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-overcoming-the-windows-11-photo-app-hurdles/"><u>[New] Overcoming the Windows 11 Photo App Hurdles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-equipment-for-cutting-edge-livestreams/"><u>[New] Premier Equipment for Cutting-Edge Livestreams</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-superior-mp4-streamer-to-fb/"><u>[Updated] 2024 Approved Superior MP4 Streamer to FB</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-masterclass-creating-alluring-vlogging-storylines/"><u>[Updated] Masterclass Creating Alluring Vlogging Storylines</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-gadgets-in-auto-traffic-camera-tech/"><u>[Updated] Premier Gadgets in Auto Traffic Camera Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-collage-insights-for-instagram-success/"><u>[Updated] Quick Collage Insights for Instagram Success</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-reviewing-the-newest-2023-samsung-bd-j5900-model/"><u>2024 Approved Reviewing the Newest 2023 Samsung BD-J5900 Model</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/begin-the-conversation-chatgpt-awaits/"><u>Begin the Conversation: ChatGPT Awaits</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-infinix-smart-7-hd-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Infinix Smart 7 HD FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-70-lite-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor 70 Lite 5G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inshots-playlist-prowess-adding-external-music/"><u>In 2024, InShot's Playlist Prowess Adding External Music</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photo-perfection-highest-rated-phone-tripods/"><u>Photo Perfection Highest Rated Phone Tripods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premiere-sneak-peeks-cinema-edition-for-2024/"><u>Premiere Sneak Peeks - Cinema Edition for 2024</u></a></li>
 </ul></div>
 

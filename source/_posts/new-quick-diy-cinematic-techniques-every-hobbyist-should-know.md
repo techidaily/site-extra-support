@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick DIY Cinematic Techniques Every Hobbyist Should Know"
-date: 2025-01-20T16:44:14.966Z
-updated: 2025-01-23T16:06:24.229Z
+date: 2025-03-01T03:41:33.820Z
+updated: 2025-03-03T04:11:40.685Z
 tags: 
   - screen-recording
   - ai video
@@ -20,29 +20,17 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 
 Have you ever wanted to film from home but missing some filming gear? You still haven't acted because of a limited budget. Well, in this article, we will share 5 tips and tricks to help you film at home. So let's dive into it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Hack. DIY A Flag for Lighting Control
 
 When we set up the light near the subject, the light might be leaked onto the background. So, we may need to shape it to block the light from hitting the background.
 
 On film sets and studios, the professionals use flags to absorb and make shapes of light. A flag is a thick black fabric that does not reflect light. To make your flag at home, you can try cardboard and a black t-shirt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. A Cardboard
 
 You can buy it from a nearby stationery store. Ensure the cardboard is not too big to fit the t-shirt around the board.
 
 ![cardboard used for diy flag](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. A Black T-shirt
 
@@ -62,23 +50,11 @@ After filming the video, see the precise results before using the flag, when the
 
 ![results after using diy flag for lighting control](https://images.wondershare.com/filmora/article-images/2023/01/filming-diy-hacks-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. Hack. DIY Black Wrap or Cinewrap
 
 The black wrap is used in professional studios and set up to block and shape light. You can block light by directly giving shape to LED lightbulbs. The black wrap is made mainly of aluminum, so it's easy to provide forms for different lights.
 
 The aluminum foils used in households have the same characteristics as a black wrap, so that you can use it as an alternative. Look at the following requirement to make it! To make a black wrap, you need two household tools. There is no need to get pricey things from the market. For this, follow the below outlines of the tools!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. A Light Bulb
 
@@ -99,10 +75,6 @@ Step1 First, carefully wrap the bulb with the foil paper to shape the light.
 Step2 Then, you need to install the bulb on the lamp.
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** During wrapping, you don't have to allow the foil to touch the bottom part of the bulb.
 
@@ -139,24 +111,22 @@ When applied to flat surfaces, the foil has a reflective surface. It makes it th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-chuckle-chasers-your-ultimate-list-of-funny-tools/"><u>[New] Chuckle Chasers Your Ultimate List of Funny Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-flying-brain-games-top-11-knowledge-channels/"><u>[New] High-Flying Brain Games Top 11 Knowledge Channels</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-the-path-to-prominence-9-proven-strategies-for-instagram-stars/"><u>[New] Navigating the Path to Prominence 9 Proven Strategies for Instagram Stars</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage/"><u>[New] Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-smartphone-security-iphone-xs-face-id-versus-galaxy-recognition/"><u>[New] Smartphone Security IPhone X’s Face ID Versus Galaxy Recognition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-why-cant-i-see-video-on-sony-a6400/"><u>[New] Why Can’t I See Video on Sony A6400?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-reimagining-your-message-innovative-video-concepts-for-2024/"><u>[Updated] Reimagining Your Message Innovative Video Concepts for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-seamless-transitions-elevating-your-drone-footage/"><u>[Updated] Seamless Transitions Elevating Your Drone Footage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-securely-installing-apple-podcasts-episodes/"><u>[Updated] Securely Installing Apple Podcasts Episodes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-audio-modification-solutions-magically-effective/"><u>2024 Approved Premium Audio Modification Solutions Magically Effective</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-top-10-gratis-live-streamers-on-iosandroid-devices/"><u>2024 Approved Top 10 Gratis Live Streamers on iOS/Android Devices</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-itel-a70-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-poco-x6-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Poco X6 Pro Through Google Earth?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-your-adventures-with-top-6-head-mounted-cameras-by-gopro/"><u>In 2024, Mastering Your Adventures with Top 6 Head-Mounted Cameras by GoPro</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-shifting-paradigms-non-youtube-video-hosts/"><u>In 2024, Shifting Paradigms Non-Youtube Video Hosts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-simplified-avi-to-graphic-style-gif-transformation-using-the-power-of-filmora/"><u>In 2024, Simplified AVI to Graphic-Style GIF Transformation Using the Power of Filmora</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-index-of-digital-imagery-collections-for-2024/"><u>Premier Index of Digital Imagery Collections for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/professional-grade-winxdvd-suite-superior-dvd-ripping-cutting-edge-ai-video-enhancement-and-universal-format-conversion/"><u>Professional-Grade WinXDVD Suite: Superior DVD Ripping, Cutting-Edge AI Video Enhancement & Universal Format Conversion</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-forcing-termination-of-unresponsive-applications-in-windows-10/"><u>Step-by-Step Guide: Forcing Termination of Unresponsive Applications in Windows 10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-creating-spiritual-ringtone-options-free-downloads-explained/"><u>[New] In 2024, Creating Spiritual Ringtone Options Free Downloads Explained</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-iphoneandroid-edition-find-the-best-8-multimedia-editing-tools/"><u>[New] IPhone/Android Edition Find the Best 8 Multimedia Editing Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-magixs-image-ordering-an-assessment/"><u>[New] MAGIX's Image Ordering An Assessment</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-zooming-into-aesthetics-a-visual-effects-handbook-for-meetings/"><u>[New] Zooming Into Aesthetics A Visual Effects Handbook for Meetings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-jumpstart-your-marketing-game-with-these-top-reddit-insights/"><u>2024 Approved Jumpstart Your Marketing Game with These Top Reddit Insights</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-12-pro-max-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 12 Pro Max Safe and Legal</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-world-of-subtitle-uploads-social-media-edition/"><u>In 2024, Navigating the World of Subtitle Uploads Social Media Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-peculiar-pratfalls-memes-tailored-for-the-perfect-moment/"><u>In 2024, Peculiar Pratfalls Memes Tailored for the Perfect Moment</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-voice-customization-made-simple-with-these-top-apps/"><u>In 2024, Voice Customization Made Simple with These Top Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-tablet-picks-in-depth-analysis-and-comparisons-zdnet/"><u>Leading Tablet Picks : In-Depth Analysis & Comparisons | ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-pip-google-chrome-across-devices-for-2024/"><u>Mastering PIP Google Chrome Across Devices for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavijpeg-raw/"><u>Movaviを使用したJPEG RAWフォーマットへの自由な変換サービス – インターネット上で手軽に</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pinnacle-lineup-of-flexible-fonts-for-2024/"><u>Pinnacle Lineup of Flexible Fonts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-tips-ensuring-correct-date-on-pictures-for-2024/"><u>Professional Tips Ensuring Correct Date on Pictures for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-reconnecting-your-fallout-76-game-on-pc/"><u>Troubleshooting Steps: Reconnecting Your Fallout 76 Game on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003037437-warzone-disc-reading-troubles-heres-how-to-solve-it-for-versions-50-and-31/"><u>Warzone Disc Reading Troubles? Here's How to Solve It for Versions 5.0 & 3.1!</u></a></li>
 </ul></div>
 

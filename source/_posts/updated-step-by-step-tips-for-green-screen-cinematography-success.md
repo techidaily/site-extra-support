@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Tips for Green Screen Cinematography Success\""
-date: 2025-02-09T16:27:25.007Z
-updated: 2025-02-12T16:57:02.579Z
+date: 2025-02-23T16:35:35.917Z
+updated: 2025-03-02T17:02:13.792Z
 tags: 
   - screen-recording
   - ai video
@@ -38,19 +38,11 @@ If you are wondering how to compositing the shot green screen video with your ma
 
 **Related:**[Resources for green screen effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 Tips for shooting better green screen video
 
 We’ve figured out some useful green screen tricks, have fun and hope you’ll be more creative with the help of Filmora green screen video compositing software.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In the following section, we will share with you five tips when you shooting a video for compositing a green screen video, which covering the lighting tips, the camera tips, the clothing tips, the tips for using green screen sheet, and the tips for resolving motion blur in shooting videos.
 
@@ -68,10 +60,6 @@ Check out our picks of [the best lighting equipment for shooting videos](https:/
 
 ![Camera tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When lighting your key surface, make sure the bounce light is not directed at the camera (as shown in the image above). For example, if your camera faces the key surface directly, set your lights at 45 degree angles to the key surface. This will ensure that the bounce light bounces toward the other light and not at the camera.
 
 Also choose carefully the camera as some cameras are better to shoot green screen video, especially if you are shooting something with a bit of movement. Then shoot your video as HD quality video (720p or higher) and save in a format your green screen software can import.
@@ -83,10 +71,6 @@ Looking for some best cameras for shooting green screen video? Check our picks o
 #### 3Clothing tips in shooting a Green Screen Video
 
 ![Clothing tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 There are some mistakes that you can avoid to help your green screen video look more professional and more realistic. Perhaps one of the simplest mistakes that many people make with green screen video shooting is actually wearing green clothing. If you are wearing clothing or clothing that has buttons or accents that are a similar color green as your selected background green, the image that you project onto the green screen in post-editing will also get picked up by these accents on your clothing or by the clothing itself. This is great if you want to cut off part of an actor's body, but not so professional if you are trying to make an actor appear in a realistic scene.
 
@@ -110,10 +94,6 @@ Besides compositing chroma keying videos in Filmora, you can also[stabilize your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -131,21 +111,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-definitive-window-on-game-recording-in-windows-11/"><u>[New] 2024 Approved The Definitive Window on Game Recording in Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-maximizing-color-correction-advanced-techniques-for-lut-applications/"><u>[New] In 2024, Maximizing Color Correction Advanced Techniques for LUT Applications</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-reviving-shadows-and-highlights-in-iphone-hdr-footage-with-premiere-pro/"><u>[New] Reviving Shadows and Highlights in iPhone HDR Footage with Premiere Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-how-to-listen-to-podcasts-on-your-iphone/"><u>[Updated] How To Listen to Podcasts on Your iPhone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-zoom-organization-101-the-ultimate-setup-guide/"><u>[Updated] In 2024, Zoom Organization 101 The Ultimate Setup Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-level-up-in-valorant-with-a-costless-cutting-edge-voice-modification-solution/"><u>[Updated] Level Up in Valorant with a Costless, Cutting-Edge Voice Modification Solution</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sierras-complete-access-to-cloud-documentationdrive/"><u>[Updated] Sierra's Complete Access to Cloud Documentation/Drive</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sparkling-vibrancy-the-android-video-brightening-guide/"><u>[Updated] Sparkling Vibrancy The Android Video Brightening Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-100-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor 100 Pro</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-distinctions-of-srgb-and-rgb-for-2024/"><u>Exploring the Distinctions of Srgb and Rgb for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-building-an-engaging-listenership-through-rss-crafting/"><u>In 2024, Building an Engaging Listenership Through RSS Crafting</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-unfolding-wonders-your-practical-guide-to-travel-vlogging/"><u>In 2024, Unfolding Wonders Your Practical Guide to Travel Vlogging</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-video-capturing-with-the-top-3-smartphone-titans-for-2024/"><u>Master Video Capturing with the Top 3 Smartphone Titans for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pondering-the-value-of-intensified-luminosity-in-hdr-for-2024/"><u>Pondering the Value of Intensified Luminosity in HDR for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/shaky-video-tamer-for-handheld-cams-for-2024/"><u>Shaky Video Tamer for Handheld Cams for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-blueprint-for-impressive-photographic-mosaics-for-2024/"><u>Step-by-Step Blueprint for Impressive Photographic Mosaics for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-mobile-photography-with-androids-lightroom/"><u>[New] Mastering Mobile Photography with Android’s Lightroom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seamless-gif-converters-online-5-rated-highly/"><u>[New] Seamless GIF Converters Online, 5 Rated Highly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-magical-apps-for-vocal-alteration-top-list-unveiled/"><u>[Updated] Magical Apps for Vocal Alteration Top List Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-world-of-cost-free-graphic-designs/"><u>2024 Approved Navigating the World of Cost-Free Graphic Designs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-skys-finest-cameras-clash-dji-air-2-vs-gopro-hero9-k4/"><u>2024 Approved Sky's Finest Cameras Clash DJi Air 2 VS GoPro HERO9 K4</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-razer-man-o-war-microphone-problems-and-their-fixes/"><u>Common Razer Man O' War Microphone Problems and Their Fixes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-collection-of-downloads-hp-drivers-for-various-windows-versions-win10win8win7/"><u>Comprehensive Collection of Downloads - HP Drivers for Various Windows Versions (Win10/Win8/Win7)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-film-crafting-from-script-to-screen/"><u>In 2024, Film Crafting From Script to Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lowering-audio-amplitude-progressively-using-lumafusion/"><u>In 2024, Lowering Audio Amplitude Progressively Using Lumafusion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-of-the-trade-perfecting-sticker-removal-in-tiktoks/"><u>In 2024, Secrets of the Trade Perfecting Sticker Removal in TikToks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplifying-complexity-essential-gs-tutorials-kinemaster/"><u>In 2024, Simplifying Complexity Essential GS Tutorials (KineMaster)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-smart-home-on-budget-with-the-amazing-30-echo-dot-offer-insights-from-zdnet/"><u>Revolutionize Your Smart Home on Budget with the Amazing $30 Echo Dot Offer: Insights From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oneplus-nord-n30-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on OnePlus Nord N30 5G Device</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/ultimate-guide-to-professional-video-editing-tools-for-enhancing-youtube-videos/"><u>Ultimate Guide to Professional Video Editing Tools for Enhancing YouTube Videos</u></a></li>
+<li><a href="https://win-news.techidaily.com/updating-your-scanner-drivers-made-easy-a-step-by-step-guide-with-yl-computing/"><u>Updating Your Scanner Drivers Made Easy: A Step-by-Step Guide with YL Computing</u></a></li>
 </ul></div>
 

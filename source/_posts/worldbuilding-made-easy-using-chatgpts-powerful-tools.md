@@ -1,7 +1,7 @@
 ---
 title: Worldbuilding Made Easy Using ChatGPT's Powerful Tools
-date: 2025-02-05T16:48:39.615Z
-updated: 2025-02-12T17:12:34.813Z
+date: 2025-03-01T13:03:19.788Z
+updated: 2025-03-03T09:36:03.562Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
@@ -63,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -83,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -99,17 +87,9 @@ thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5d
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
@@ -154,14 +134,24 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-youtubes-financial-frontier-maximizing-your-content-revenue/"><u>[New] In 2024, YouTube's Financial Frontier Maximizing Your Content Revenue</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mint-memes-of-merriment/"><u>[Updated] Mint Memes of Merriment</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-lineup-best-8-devices-for-superior-uhd-viewing/"><u>[Updated] Premium Lineup Best 8 Devices for Superior UHD Viewing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-steps-to-acquire-fcp-for-zero-dollars/"><u>[Updated] Steps to Acquire FCP for Zero Dollars</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-the-best-in-android-gaming-kinemaster-edition/"><u>2024 Approved Discovering the Best in Android Gaming KineMaster Edition</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-x5-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco X5 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-bright-and-bold-easy-techniques-to-lighten-up-iphone-videos/"><u>In 2024, Bright & Bold Easy Techniques To Lighten Up iPhone Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-into-tomorrow-secure-these-7-devices-for-metaverse-life/"><u>In 2024, Step Into Tomorrow Secure These 7 Devices for Metaverse Life</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-x50i-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor X50i Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mastering-live-game-replays-with-fraps-for-2024/"><u>[New] Mastering Live Game Replays with Fraps for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-black-gopro-battery-units-with-official-chargers/"><u>[New] Premium Black GoPro Battery Units with Official Chargers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-windows-11-audio-recording-techniques-for-2024/"><u>[New] Windows 11 Audio Recording Techniques for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-becoming-a-top-youtuber-with-gaming-livestreams/"><u>[Updated] 2024 Approved Becoming a Top YouTuber with Gaming Livestreams</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-speedy-glimpse-through-windows-files/"><u>[Updated] 2024 Approved Speedy Glimpse Through Windows Files</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigate-improved-output-with-mobile-lut-adjustments/"><u>[Updated] Navigate Improved Output with Mobile LUT Adjustments</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-secure-and-convenient-content-with-funimate-tools/"><u>[Updated] Secure and Convenient Content with Funimate Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-deep-dive-into-inshots-editing-proficiency/"><u>2024 Approved A Deep Dive Into InShot's Editing Proficiency</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-inside-window-11s-power-saving-secrets/"><u>2024 Approved Inside Window 11'S Power-Saving Secrets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-path-of-extensive-video-transfers-iphone-mac-interface/"><u>2024 Approved Navigating the Path of Extensive Video Transfers IPhone-Mac Interface</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pro-user-guide-to-mastering-the-latest-windows-10/"><u>2024 Approved Pro User Guide to Mastering the Latest WINDOWS 10</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-the-perfect-schedule-for-jobs-and-youtube/"><u>Crafting the Perfect Schedule for Jobs & YouTube</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-reset-methods-no-itunes-required/"><u>DIY iPhone Reset Methods - No iTunes Required</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-reno-11-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Oppo Reno 11 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-how-to-render-and-upload-youtube-videos-faster/"><u>In 2024, How to Render and Upload YouTube Videos Faster?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-interactivemix-for-all-systems/"><u>In 2024, InteractiveMix for All Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-install-and-utilize-ifunny-memes/"><u>In 2024, Step-by-Step Install & Utilize iFunny Memes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-sound-and-filter-integration-in-windows-10-photos-app-for-2024/"><u>Mastering Sound & Filter Integration in Windows 10 Photos App for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-non-display-in-teammers-sessions/"><u>Solving Non-Display in Teammers' Sessions</u></a></li>
 </ul></div>
 

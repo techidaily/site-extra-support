@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Shadowplay: Fixing the No-Recording Issue on PC"
-date: 2025-02-05T17:15:16.770Z
-updated: 2025-02-12T17:00:27.090Z
+date: 2025-02-24T05:04:59.631Z
+updated: 2025-03-02T21:31:58.038Z
 tags:
   - win11
   - win10
@@ -49,10 +49,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -66,10 +62,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
  If your computer meets the minimum requirements, read on and check the fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2:**Restart your computer**
 
@@ -92,10 +84,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Restart Oxygen Not Included from Steam.
 
@@ -121,27 +109,15 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-280.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Click the list box below to select**Windows 8** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Relaunch your game to check if your issue had been resolved.
 
  If you still get the error code in Windows 8 mode, repeat **steps 1 – 3**  and select **Windows 7**  from the drop-down list.
 
  If running your game in compatibility mode didn’t work for you, move on and try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5:**Change branches in Oxygen Not Included**
 
@@ -156,10 +132,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **3)** Right-click**Oxygen Not Included** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-284.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click the**BETAS tab** .
 
@@ -178,10 +150,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **7)** Relaunch and play Oxygen Not Included.
 
 If the game crashing issue persists, check the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6:**Install** Microsoft Visual C++ 2015 Runtime
 
@@ -238,10 +206,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 8:**Check for Windows updates**
 
  Windows Updates can also address bugs related to both hardware and software. So make sure you’ve installed all the new Windows Updates to keep Oxygen Not Included from crashing. Here is how to do it:
@@ -253,10 +217,6 @@ OR
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Restart your computer.
 
@@ -307,19 +267,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-fueling-audience-interaction-crafting-intriguing-fb-giving-announcements/"><u>[New] Fueling Audience Interaction Crafting Intriguing FB Giving Announcements</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-elevate-photography-crafting-exceptional-time-lapses-with-black-hero5/"><u>[Updated] 2024 Approved Elevate Photography Crafting Exceptional Time-Lapses with Black Hero5</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-personalized-audio-endings-without-the-price-tag/"><u>2024 Approved Personalized Audio Endings Without the Price Tag</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-speech-to-text-applications/"><u>2024 Approved Pinnacle Speech-to-Text Applications</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-start-off-right-top-gear-for-aspiring-gopro-users/"><u>2024 Approved Start Off Right Top Gear for Aspiring GoPro Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-choice-of-efficient-mat-systems/"><u>Best Choice of Efficient Mat Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211817073-error-0x8024200d-windows-update-failure-solved/"><u>Error 0X8024200d - Windows Update Failure [SOLVED]</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-honor-magic-v2-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Honor Magic V2 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-s23-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy S23 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leveraging-windows-8-movie-maker-for-dynamic-videos/"><u>In 2024, Leveraging Windows 8 Movie Maker for Dynamic Videos</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-iphone-images-with-pro-level-tech-for-2024/"><u>Master iPhone Images with Pro-Level Tech for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/motorola-moto-g-stylus-5g-2023-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Motorola Moto G Stylus 5G (2023) ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/setting-up-a-professional-grade-stream-setup-for-2024/"><u>Setting Up a Professional-Grade Stream Setup for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-effortless-youtube-income-computations/"><u>[New] In 2024, Effortless YouTube Income Computations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instant-best-picture-viewer-pro/"><u>[New] Instant Best Picture Viewer Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revamped-interviews-attracting-podcast-fans/"><u>[New] Revamped Interviews Attracting Podcast Fans</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-add-youtube-end-screen-and-cards-effectively/"><u>[Updated] In 2024, How to Add YouTube End Screen and Cards Effectively</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laughter-lab-steps-to-simple-sharp-memes/"><u>[Updated] Laughter Lab Steps to Simple, Sharp Memes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-obs-broadcasting-directly-on-instagram/"><u>2024 Approved OBS Broadcasting Directly on Instagram</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elite-selection-of-6-most-effective-ios-antivirus-programs/"><u>Elite Selection of 6 Most Effective iOS Antivirus Programs</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-a56s-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo A56s 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-must-have-gaming-keyboards/"><u>Identifying Must-Have Gaming Keyboards</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-start-guide-to-schedule-and-start-zoom-calls-on-android/"><u>In 2024, Quick-Start Guide to Schedule & Start Zoom Calls on Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplifying-connection-combining-linkedin-profile-with-your-tiktok-bio/"><u>In 2024, Simplifying Connection Combining LinkedIn Profile with Your TikTok Bio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-spotify-turning-off-automatic-podcast-recommendations/"><u>In 2024, Spotify Turning Off Automatic Podcast Recommendations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211388909-9781088179420-journeying-through-wiccan-mysticism-the-sacred-dance/"><u>Journeying through Wiccan Mysticism: The Sacred Dance | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-the-presence-of-hxtrexe-in-your-windows-10-system/"><u>Troubleshooting Guide: Resolving the Presence of hxtr.exe in Your Windows 10 System</u></a></li>
 </ul></div>
 

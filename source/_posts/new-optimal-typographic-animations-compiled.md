@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal Typographic Animations Compiled"
-date: 2025-02-09T17:55:19.533Z
-updated: 2025-02-12T17:56:05.420Z
+date: 2025-03-01T00:26:11.149Z
+updated: 2025-03-03T13:07:41.537Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Adobe After Effects is an extremely popular video editor and its popularity is m
 
 After Effects have a wide range of text presets to make the texts and titles in your video look attractive with effects as well as animations. Apart from the pre-loaded presets, you can import external text animation presets and apply them to the texts. Here are the top 8 best text presets for animation composer that you can use on After Effects.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Glitch Text Effect Toolkit
 
 Glitch text effect is a trendy effect that gets the viewers’ attention immediately. In this pack, you get 30 glitch text effects that you can apply to the text in your video to make them stand out. These effects are highly adjustable and you can time them in and out of your text as per your preference. Along with glitch text effects, you get glitch sound effects to make the animation impactful. You can experiment with Random seed as well as Glitch maps you get in the pack.
@@ -37,10 +33,6 @@ Glitch text effect is a trendy effect that gets the viewers’ attention immedia
 You get 110 animated elements that you can apply to the text in your video. The effects are perfectly suitable for videos where comedy is the main theme. The liquid text effect looks organic and natural, and the colors are eye-catching to grab everyone’s attention. There are 8 text scenes and one text preset present, along with 110 animated presets. The effects are HD in resolution, and they are modular and adjustable. It is time to download and use them to make your video dynamic.
 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Dynamic Text Animations
 
@@ -54,19 +46,11 @@ If you want to add texts and titles in your video that looks like the games mean
 
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. CounterPro Preset
 
 In this pack, you will find unique text effects, and you can animate text with keyframe. You can animate numbers as well as characters, and it is mostly used to animate numbers to show counting. You can change different parameters of the animations and effects as per your preference. Furthermore, you can use it as a timer on your video to countdown. There are different styles available to apply to your texts and numbers.
 
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Text Library
 
@@ -80,19 +64,11 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Text Animation Lower Third
 
 You get eleven styles of elements in the pack, and you can customize the designs to get into any size as per your requirements. You get the elements in HD and Full HD resolution, and you can use them in the intro or outro of the video to show text and title credits. You can also use them to show quotes or keywords. Most of them have highlighted background, and technically, they are referred to as lower thirds.
 
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -128,18 +104,24 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-arctic-acrobatics-2022s-olympians/"><u>[New] 2024 Approved Arctic Acrobatics 2022'S Olympians</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quick-and-easy-the-top-ten-for-youtube-mpeg-transformation/"><u>[New] Quick and Easy The Top Ten for YouTube MPEG Transformation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leap-forward-in-editing-embrace-xp-movie-maker/"><u>[Updated] Leap Forward in Editing Embrace XP Movie Maker</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-laugh-hard-best-meme-app-for-you/"><u>2024 Approved Laugh Hard Best Meme App for You</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/downloading-with-diligence-how-to-securely-save-imagesvideos-on-iphone-for-2024/"><u>Downloading with Diligence How to Securely Save Images/Videos on iPhone for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-new-horizons-mobile-videography-beyond-periscope-for-2024/"><u>Explore New Horizons Mobile Videography Beyond Periscope for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-picture-in-picture-features-in-firefox/"><u>In 2024, Navigating Picture-in-Picture Features in Firefox</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-renewed-set-of-interview-starters-for-attractive-listenership/"><u>In 2024, Renewed Set of Interview Starters for Attractive Listenership</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-context-menu-quick-uninstall-in-win-1110/"><u>Mastering Context Menu: Quick Uninstall in Win 11/10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/portable-battery-packs-to-keep-recording-longer-for-2024/"><u>Portable Battery Packs to Keep Recording Longer for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/portable-moko-compact-bluetooth-keyboard-the-ultimate-folding-solution/"><u>Portable MoKo Compact Bluetooth Keyboard: The Ultimate Folding Solution</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209800563-9781609251161-stepping-stones/"><u>Stepping Stones | Free Book</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-8-best-video-converter-on-iphonedesktop/"><u>Top 8 Best Video Converter on iPhone/Desktop</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/kplus-followers-in-a-flash-the-youtube-ultimate-playbook/"><u>[New] 1K+ Followers in a Flash The YouTube Ultimate Playbook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-from-front-to-back-and-back-again-the-insta-rotation-ritual-for-success-for-2024/"><u>[New] From Front to Back, and Back Again The Insta Rotation Ritual for Success for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-immersion-station-youtubes-10-best-virtual-reality-films/"><u>[New] Immersion Station YouTube's 10 Best Virtual Reality Films</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-keep-your-linkedin-videos-at-the-fingertips-top-6-professional-downloader-apps/"><u>[New] Keep Your LinkedIn Videos at the Fingertips Top 6 Professional Downloader Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-learn-to-convert-youtube-videos-on-twitter-downloads/"><u>[Updated] Learn to Convert YouTube Videos on Twitter Downloads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-find-joy-one-anime-at-a-time-youtubes-best-channels-list/"><u>2024 Approved Find Joy, One Anime at a Time YouTube's Best Channels (List)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instantaneous-windows-document-reviewing/"><u>2024 Approved Instantaneous Windows Document Reviewing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-infinix-smart-8-hd-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Infinix Smart 8 HD FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-data.techidaily.com/fully-restore-hard-disk-and-partition-data-loss-solutions-reliable-fix-by-myrecover/"><u>Fully Restore Hard Disk & Partition Data Loss Solutions – Reliable Fix by MyRecover</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-14-pro-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-persistent-white-display-on-your-laptop/"><u>How to Repair a Persistent White Display on Your Laptop</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-win11-performance-boosters-revealed/"><u>In 2024, Maximizing Win11 Performance Boosters Revealed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-level-tiktok-edits-techniques-that-increase-viewership/"><u>In 2024, Pro-Level TikTok Edits Techniques That Increase Viewership</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-top-10-photo-grid-apps-to-make-your-pictures-stand-out/"><u>In 2024, Top 10 Photo Grid Apps to Make Your Pictures Stand Out</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-look-how-does-vr-headgear-work-for-2024/"><u>Inside Look How Does VR Headgear Work for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-your-pictures-focus-with-gaussian-blur-for-2024/"><u>Perfect Your Picture's Focus with Gaussian Blur for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-collage-creation-a-step-by-step-guide-for-google-images-for-2024/"><u>Quick Collage Creation A Step-by-Step Guide for Google Images for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplifying-itunes-add-and-listen-to-your-choice-of-podcasts-for-2024/"><u>Simplifying iTunes Add and Listen to Your Choice of Podcasts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212437749-troubleshoot-nonfunctional-updown-arrows-on-your-keyboard-here/"><u>Troubleshoot Nonfunctional Up/Down Arrows on Your Keyboard Here!</u></a></li>
 </ul></div>
 

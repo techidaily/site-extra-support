@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating and Utilizing Preview for Mac Efficiently"
-date: 2025-02-07T17:59:28.175Z
-updated: 2025-02-12T16:11:01.589Z
+date: 2025-02-27T10:00:24.128Z
+updated: 2025-03-03T07:30:27.135Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -54,10 +50,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -71,10 +63,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -120,10 +108,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -139,10 +123,6 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -221,18 +201,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-crafting-silent-scenes-audio-fade-techniques-in-adobe-premiere-pro/"><u>[New] 2024 Approved Crafting Silent Scenes Audio Fade Techniques in Adobe Premiere Pro</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-creating-immersive-video-games-experiences-on-steam/"><u>[New] 2024 Approved Creating Immersive Video Games Experiences on Steam</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-accelerate-mac-youtube-video-matching-aspect-ratio/"><u>[Updated] Accelerate Mac Youtube Video Matching Aspect Ratio</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-seamlessly-add-snap-camera-to-microsoft-chats/"><u>[Updated] How To Seamlessly Add Snap Camera to Microsoft Chats</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mixing-masterclass-elevate-drone-audio-with-20-complimentary-luts/"><u>[Updated] Mixing Masterclass - Elevate Drone Audio with 20 Complimentary LUTs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-fiscal-football-freedom-capturing-contests-without-cash/"><u>2024 Approved Fiscal Football Freedom Capturing Contests Without Cash</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-pace-champions-2022-edition/"><u>2024 Approved Quick Pace Champions 2022 Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-on-distinguished-videographer-reputations/"><u>2024 Approved Spotlight on Distinguished Videographer Reputations</u></a></li>
-<li><a href="https://facebook.techidaily.com/alternative-methods-for-reacquiring-facebook-log-in-access/"><u>Alternative Methods for Reacquiring Facebook Log In Access</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fix-hp-beats-audio-driver-problems-on-pcs-with-windows-10-8-and/"><u>Fix HP Beats Audio Driver Problems on PCs with Windows 10, 8 & ^</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-iphone-se-2020-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-iphone-camera-mastery-x8-series-essential-tools/"><u>In 2024, IPhone Camera Mastery X/8 Series Essential Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-masterful-viewing-for-artists-best-monitor-guide/"><u>In 2024, Masterful Viewing for Artists – Best Monitor Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macdvdand-dvd/"><u>[公式] 一覧 - Mac専用DVDコピー&リッピングソフトウェア - DVD作成・動画編集・ファイル管理ツール</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-delving-into-instagrams-videography-restriction/"><u>[New] In 2024, Delving Into Instagram's Videography Restriction</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lights-play-our-picks-for-the-top-10-photographic-lenses/"><u>[New] Light's Play Our Picks for The Top 10 Photographic Lenses</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-boost-engagement-with-effortless-youtube-thumbnail-tips/"><u>[Updated] Boost Engagement with Effortless Youtube Thumbnail Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fiendish-film-pause-techniques/"><u>[Updated] Fiendish Film Pause Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-hues-a-collection-of-the-best-11-video-tutorials/"><u>[Updated] Mastering Hues A Collection of the Best 11 Video Tutorials</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-method-stop-spotify-from-suggesting-podcasts/"><u>[Updated] Quick Method Stop Spotify From Suggesting Podcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-simplifying-the-process-of-mp3-download-from-pinterest/"><u>[Updated] Simplifying the Process of MP3 Download From Pinterest</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-graphics-tech-for-uhd-videography/"><u>In 2024, Leading Graphics Tech for UHD Videography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-methods-to-source-stock-photography-and-visuals/"><u>In 2024, Optimal Methods to Source Stock Photography and Visuals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-silent-swings-managing-volume-effortlessly-in-garageband/"><u>In 2024, Silent Swings Managing Volume Effortlessly in Garageband</u></a></li>
+<li><a href="https://extra-support.techidaily.com/journey-into-virtual-realms-best-8-metaverse-visors-and-goggles-for-2024/"><u>Journey Into Virtual Realms Best 8 Metaverse Visors & Goggles for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-internet-searches-for-personal-phone-numbers/"><u>Mastering Internet Searches for Personal Phone Numbers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proper-techniques-to-snag-free-secure-vlc-on-a-mac-device-for-2024/"><u>Proper Techniques to Snag Free, Secure VLC on a Mac Device for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-solo-broadcasters-playbook-for-optimal-live-streams/"><u>The Solo Broadcaster's Playbook for Optimal Live Streams</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ultimate-guide-to-properly-cleaning-your-monitor-tips-and-techniques-from-yl-computing/"><u>Ultimate Guide to Properly Cleaning Your Monitor - Tips and Techniques From YL Computing</u></a></li>
 </ul></div>
 

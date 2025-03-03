@@ -1,7 +1,7 @@
 ---
 title: "\"Stills Extraction Procedure  Windows 11 Photos Guide for 2024\""
-date: 2025-02-05T16:38:34.504Z
-updated: 2025-02-12T16:21:03.743Z
+date: 2025-02-24T17:14:47.023Z
+updated: 2025-03-02T16:29:32.291Z
 tags: 
   - screen-recording
   - ai video
@@ -56,15 +56,7 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Why I can’t save photo from video
 
@@ -72,17 +64,9 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 
 We are explaining the solutions here –
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Sign in a different account in Microsoft Store
 
@@ -99,10 +83,6 @@ Here comes the guide –
 * See your mouse cursor appear like a blue crosshair. Hold down the mouse and drag to select the parts of the video you wish to shoot. While moving the mouse, you can see that the application window is covered with a blue border. You can capture the window by clicking there.
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
@@ -128,21 +108,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-quadcopter-power-5-premium-engine-choices/"><u>[New] Mastering Quadcopter Power 5 Premium Engine Choices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-public-domain-zen-soundscape/"><u>[New] Public Domain Zen Soundscape</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-how-to-start-join-or-schedule-a-zoom-meeting-android/"><u>[Updated] How to Start, Join, or Schedule a Zoom Meeting Android</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-ready-set-edit-top-15-fast-and-fun-tricks-to-use-in-pixlr/"><u>2024 Approved Ready, Set, Edit! Top 15 Fast and Fun Tricks to Use in Pixlr</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-steps-to-avoid-automatic-podcast-suggestions-on-spotify/"><u>2024 Approved Steps to Avoid Automatic Podcast Suggestions on Spotify</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-advice-perfected-media-import-techniques-for-windows-10/"><u>Expert Advice Perfected Media Import Techniques for Windows 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratuito-obs-italia-installazione-facile-su-windowsmaclinux/"><u>Gratuito OBS Italia - Installazione Facile Su Windows/Mac/Linux</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-xiaomi-redmi-13c-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Xiaomi Redmi 13C 5G?</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/insider-insights-unpacking-the-dji-phantom-3-pro-features-for-2024/"><u>Insider Insights Unpacking the DJI Phantom 3 Pro Features for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/macsierras-top-picks-for-dvd-creation-software-for-2024/"><u>MacSierra’s Top Picks for Dvd Creation Software for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/make-your-time-lagged-footage-shine-with-easy-android-tricks-for-2024/"><u>Make Your Time-Lagged Footage Shine with Easy Android Tricks for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-netflixs-innovative-split-screen-tech/"><u>Mastering Netflix's Innovative Split Screen Tech</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/outperform-googlee-search-unleash-perplexity-ai/"><u>Outperform Google’e Search - Unleash Perplexity AI</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/overcoming-the-launch-hold-up-secrets-unveiled-for-getting-football-manager-2022-today/"><u>Overcoming the Launch Hold-Up: Secrets Unveiled For Getting Football Manager 2022 Today</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audiophiles-guide-selecting-the-best-soundtracks-that-complement-visual-storytelling/"><u>Updated In 2024, Audiophiles Guide Selecting the Best Soundtracks that Complement Visual Storytelling</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-5-ways-to-remove-stickers-from-a-tiktok-video/"><u>[New] 5 Ways to Remove Stickers From a TikTok Video</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-metaverse-visibility-your-step-by-step-avatar-design/"><u>[Updated] Metaverse Visibility Your Step-by-Step Avatar Design</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-portable-balance-enhancer-for-shooting-blurs/"><u>[Updated] Portable Balance Enhancer for Shooting Blurs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speedy-viewing-manipulating-stories-frame-rate-on-instagram/"><u>[Updated] Speedy Viewing Manipulating Stories' Frame Rate on Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-to-a-tailored-facebook-memory-reel/"><u>[Updated] Step-by-Step to a Tailored Facebook Memory Reel</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-expert-recommended-5-top-drones-on-market/"><u>2024 Approved Expert-Recommended 5 Top Drones on Market</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-updated-hp-scanjet-drivers-for-windows-11-8-and-7-improved-functionality-and-support/"><u>Easy Download: Updated HP Scanjet Drivers for Windows 11, 8 & 7 - Improved Functionality and Support</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-process-for-efficient-use-of-macs-preview-app/"><u>In 2024, Step-by-Step Process for Efficient Use of Mac's Preview App</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/integrating-media-files-for-direct-transfer-to-iphone/"><u>Integrating Media Files for Direct Transfer to iPhone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-safe-listing-a-step-by-step-guide-to-adding-your-email/"><u>Mastering the Art of Safe Listing: A Step-by-Step Guide to Adding Your Email</u></a></li>
+<li><a href="https://extra-support.techidaily.com/play-nba-anytime-anywhere-with-these-15-livestream-tips-for-2024/"><u>Play NBA Anytime, Anywhere with These 15 Livestream Tips for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/stabilizing-your-motion-sensitive-cameras-a-step-by-step-guide-for-2024/"><u>Stabilizing Your Motion-Sensitive Cameras A Step by Step Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/triggering-dormant-pane-windows-6-tips-for-win11-users/"><u>Triggering Dormant Pane Windows: 6 Tips for Win11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-successfully-enabled-hosted-wi-fi-on-your-windows-11-pc/"><u>Troubleshooting Successfully Enabled Hosted Wi-Fi on Your Windows 11 PC</u></a></li>
 </ul></div>
 

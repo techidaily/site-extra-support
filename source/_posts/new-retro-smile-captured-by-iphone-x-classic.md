@@ -1,7 +1,7 @@
 ---
 title: "[New] Retro Smile Captured by iPhone X Classic"
-date: 2025-02-09T18:13:24.460Z
-updated: 2025-02-12T18:03:57.768Z
+date: 2025-02-27T03:07:30.450Z
+updated: 2025-03-03T10:46:13.093Z
 tags: 
   - screen-recording
   - ai video
@@ -30,18 +30,10 @@ Until recently, iPhone cameras didn't have lenses that enabled its users to prod
 
 In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tips for iPhone portrait photos
 
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For iPhone 7 Plus/8 Plus/X users
 
@@ -68,10 +60,6 @@ Image resource: imore
 Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera's Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
 
@@ -103,10 +91,6 @@ Advertised as the best depth-of-field app for iPhones on the market today, Tadaa
 
 ![signature-photo-annotator](https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.
 
 #### [Defocus](https://itunes.apple.com/us/app/defocus/id1048310180?mt=8)
@@ -120,10 +104,6 @@ The term Bokeh comes from the Japanese language and it represents the aesthetic 
 The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app's users while uploading a photo from the iPhone's camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -140,20 +120,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-smart-setup-for-your-windows-11-journey/"><u>[New] Smart Setup for Your Windows 11 Journey</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-windows-11-photo-and-video-import-magic/"><u>[Updated] Mastering Windows 11 Photo & Video Import Magic</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-gourmet-guide-producing-culinary-content/"><u>2024 Approved Gourmet Guide Producing Culinary Content</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/enhance-your-website-with-cookiebots-advanced-tracking-solutions/"><u>Enhance Your Website with Cookiebot's Advanced Tracking Solutions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-the-combination-of-design-and-strength-in-our-in-depth-apple-imac-215-4k-screen-test/"><u>Experience the Combination of Design and Strength in Our In-Depth Apple iMac 21.5 4K Screen Test</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-14-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 14 Without Passcode Now</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-motorola-moto-g13-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Motorola Moto G13 PC | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pros-finest-10-iconic-movies/"><u>In 2024, Final Cut Pros Finest 10 Iconic Movies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-integrated-sound-and-vision-workspace/"><u>In 2024, Integrated Sound & Vision Workspace</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-mac-snapshot-strategies-revealed-the-top-5-innovative-approaches/"><u>In 2024, Mac Snapshot Strategies Revealed The Top 5 Innovative Approaches</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-reality-beyond-exploring-vrs-contemporary-state-and-implications/"><u>In 2024, Reality Beyond Exploring VR's Contemporary State and Implications</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-mastery-your-phone-as-a-personalized-vr-headset/"><u>In 2024, Step-by-Step Mastery Your Phone as a Personalized VR Headset</u></a></li>
-<li><a href="https://extra-support.techidaily.com/key-steps-for-an-optimal-chromebook-zooming-experience-for-2024/"><u>Key Steps for an Optimal Chromebook Zooming Experience for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/realize-your-vision-a-comprehensible-list-of-3d-animation-software-for-2024/"><u>Realize Your Vision A Comprehensible List of 3D Animation Software for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-your-shopping-experience-fixing-error-0x80072f30/"><u>Streamlining Your Shopping Experience: Fixing Error 0X80072F30</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-dji-mavic-pro-vs-gopro-karma/"><u>[New] In 2024, DJI Mavic Pro Vs GoPro Karma</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rich-resource-repository-prime-sites-for-free-high-quality-vector-art/"><u>[New] Rich Resource Repository Prime Sites for Free High-Quality Vector Art</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-converting-pinterest-vids-to-mp3-audio/"><u>[New] Step-by-Step Converting Pinterest Vids to MP3 Audio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-microsofts-hololens-demo-the-next-leap-in-tech-experience/"><u>[Updated] Microsoft’s HoloLens Demo The Next Leap in Tech Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instant-identity-protection-blur-image-edges/"><u>2024 Approved Instant Identity Protection Blur Image Edges</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-step-by-step-approach-to-zooming-success-for-2024/"><u>A Step-by-Step Approach to Zooming Success for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-canon-color-laser-printer-mx921-drivers-for-windows-computers-downloads-here/"><u>Easy Installation: Canon Color Laser Printer MX921 Drivers for Windows Computers - Downloads Here!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhanced-illumination-two-easy-methods-for-iphone-media-radiance/"><u>Enhanced Illumination Two Easy Methods for iPhone Media Radiance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-7-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 7 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-edge-slow-motion-capture-software-phones-iosandroid/"><u>In 2024, Leading Edge Slow Motion Capture Software, Phones iOS/Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-share-smiles-and-photos-iphones/"><u>In 2024, Share Smiles & Photos (iPhones)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/innovative-strategies-for-resolving-windows-11-bluetooth-malfunctions/"><u>Innovative Strategies for Resolving Windows 11 Bluetooth Malfunctions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-comfortable-virtual-realities-for-2024/"><u>Mastering Comfortable Virtual Realities for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-video-conferencing-a-complete-guide-to-zoom-on-android-for-2024/"><u>Mastering Video Conferencing A Complete Guide to Zoom on Android for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/meme-maniacs-your-comprerans-quick-start-guide-for-9gag-for-2024/"><u>Meme Maniacs Your Compreran's Quick-Start Guide for 9GAG for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigate-simply-and-economically-with-bouncie-trakka-an-in-depth-product-analysis/"><u>Navigate Simply and Economically with Bouncie Trakka: An In-Depth Product Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/peering-into-your-core-how-to-launch-windows-undisclosed-identity-analyzer/"><u>Peering Into Your Core: How to Launch Windows' Undisclosed Identity Analyzer</u></a></li>
+<li><a href="https://win11.techidaily.com/protecting-pc-integrity-managing-removable-storage-risks/"><u>Protecting PC Integrity: Managing Removable Storage Risks</u></a></li>
 </ul></div>
 

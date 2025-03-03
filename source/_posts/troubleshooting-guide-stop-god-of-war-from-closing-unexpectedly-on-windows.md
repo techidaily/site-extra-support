@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Stop God of War From Closing Unexpectedly On Windows"
-date: 2025-02-09T17:04:40.348Z
-updated: 2025-02-12T16:19:36.839Z
+date: 2025-03-02T12:56:36.081Z
+updated: 2025-03-03T02:57:21.689Z
 tags:
   - win11
   - win10
@@ -22,31 +22,15 @@ If you have GeForce Experience installed, and you find that you can’t record y
 3. **[Upgrade GeForce Experience](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Enable desktop capture](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1: Restart NVIDIA Streamer service
 
 In some cases, the culprit is NVIDA Streamer service, especially when it’s off. You can restart this service: 1)On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9799cbbba.png) and **R**  at the same time.  Type   **services.msc**  and press  **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b3de585a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Right-click **NVIDIA Streamer Service**  and click **Restart**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2314a11508.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
 
@@ -65,10 +49,6 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c236ca3feba.jpg)
 
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4: Enable desktop capture
 
@@ -95,20 +75,22 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-10-innovative-video-call-platforms-azoom-not-necessary/"><u>[New] 2024 Approved 10 Innovative Video Call Platforms Azoom Not Necessary?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-framing-the-future-expert-tips-for-picture-perfection/"><u>[New] 2024 Approved Framing the Future Expert Tips for Picture Perfection</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-iphone-burst-photography/"><u>[New] Mastering iPhone Burst Photography</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-avoid-story-filler-how-to-use-multiple-images-wisely-on-insta/"><u>[Updated] Avoid Story Filler How to Use Multiple Images Wisely on Insta</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-impactful-journey-with-gopro-hero5/"><u>[Updated] The Impactful Journey with GoPro Hero5</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-lut-revolution-no-cost-for-your-favorite-dji-minis-and-air-2-beats/"><u>2024 Approved LUT Revolution – No Cost for Your Favorite DJI Minis & Air 2 Beats</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-silent-strategies-learning-without-edge-videos/"><u>2024 Approved Silent Strategies Learning Without EDGE Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-linksys-wusb6300-driver-and-easy-installation-steps/"><u>How to Get the Latest Linksys WUSB6300 Driver & Easy Installation Steps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-metaverses-versus-omniverse-unveiled/"><u>In 2024, Metaverses Versus Omniverse Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-professional-pathway-setting-up-wm6/"><u>In 2024, Professional Pathway Setting Up WM6</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-artisans-blueprint-achieving-3d-text-mastery/"><u>In 2024, The Artisan's Blueprint Achieving 3D Text Mastery</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-a23-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy A23 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/refining-screen-enlargement-for-clear-views-for-2024/"><u>Refining Screen Enlargement for Clear Views for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-rated-mobile-devices-for-pocket-sized-gaming-for-2024/"><u>Top-Rated Mobile Devices for Pocket-Sized Gaming for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-hand-drawn-whiteboard-video-creation-the-top-5-software-options-for-2024/"><u>Updated Hand-Drawn Whiteboard Video Creation The Top 5 Software Options for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-high-fidelity-streaming-archiving-a-practical-approach/"><u>[New] High-Fidelity Streaming Archiving A Practical Approach</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-podcast-entrances-eye-catching-scripts/"><u>[New] Mastering Podcast Entrances Eye-Catching Scripts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximize-gameplay-efficiency-with-top-monitor-extensions/"><u>[New] Maximize Gameplay Efficiency With Top Monitor Extensions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-avoid-video-ads-strategies-to-keep-ads-at-bay/"><u>[Updated] Avoid Video Ads Strategies to Keep Ads at Bay</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-transition-turning-mac-videos-into-discs/"><u>[Updated] Seamless Transition Turning Mac Videos Into Discs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snapcutxp-review-complete-evaluation-of-video-editing-software/"><u>[Updated] SnapCutXp Review – Complete Evaluation of Video Editing Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ffmpeg-and-its-role-in-preserving-natural-auditory-formats/"><u>2024 Approved FFmpeg and Its Role in Preserving Natural Auditory Formats</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-instructions-windows-movie-maker-version-6-installation/"><u>2024 Approved Instructions Windows Movie Maker Version 6 Installation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionizing-your-visuals-with-expert-color-techniques/"><u>2024 Approved Revolutionizing Your Visuals with Expert Color Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-simplified-steps-for-backdrop-elimination-in-photoshop-like-affinity-photo/"><u>2024 Approved Simplified Steps for Backdrop Elimination in Photoshop-Like Affinity Photo</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/comment-ignorer-les-fichiers-specifiques-lors-de-lutilisation-de-xcopy/"><u>Comment Ignorer Les Fichiers Spécifiques Lors De L'utilisation De Xcopy?</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-tecno-phantom-v-flip-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Phantom V Flip phone? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/introduction-to-adding-new-fonts-in-ae-for-2024/"><u>Introduction to Adding New Fonts in AE for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/rendering-reawakening-amds-radeon-for-2024/"><u>Rendering Reawakening AMD's Radeon for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-honor-x8b-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Honor X8b Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 

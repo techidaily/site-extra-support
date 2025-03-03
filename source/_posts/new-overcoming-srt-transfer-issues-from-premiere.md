@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming SRT Transfer Issues From Premiere"
-date: 2025-01-26T00:27:11.862Z
-updated: 2025-01-30T16:28:01.363Z
+date: 2025-03-01T00:54:54.909Z
+updated: 2025-03-02T21:33:18.541Z
 tags: 
   - screen-recording
   - ai video
@@ -86,10 +86,6 @@ Step2 Up next, click File -> Export -> Captions. Once you complete that, you’l
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** for this to work, the video must be on one video layer.
 
 ## Part 3: Easiest & Actionable Fix: Edit and Export SRT Files Only with Wondershare Filmora
@@ -112,17 +108,9 @@ Step2 Up next, upload the SRT file you want to edit to the Filmora interface usi
 
 ![click on import button](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Move the uploaded SRT file to the Timeline by dragging and dropping it there, then right-click on it from the Timeline and choose “Advance Edit” from the pop-up list.
 
 ![choose advanced edit](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 Start editing your SRT file. You can edit the text, time code, speed, text color, etc.
 
@@ -131,10 +119,6 @@ Step4 Start editing your SRT file. You can edit the text, time code, speed, text
 Step5 Once you’re done with the editing, right-click on the SRT file from the Timeline again and this time, select “Export Subtitle File” from the pop-up list and save it to your computer storage.
 
 ![select export subtitle file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -166,10 +150,6 @@ Step1 Firstly, right-click on the SRT file from the Premiere pro software projec
 
 ![select export media](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Once you click on “Export Media” you’ll notice different options. Ignore the video export options (or tick off 'video' if you like), then navigate down to the “Captions tab”.
 
 Step3 Click on “Create Sidecar File” under 'Export Options.
@@ -188,10 +168,6 @@ Step1 Click on the “SRT File” from the Premiere Pro interface.
 
 Step2 Navigate to “File” and select Exports, then choose “Captions”. By doing so, you'll be able to export the SRT file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Export SRT File with Timestamps
 
 The previously mentioned methods will allow you to export SRT either with video or as a sidecar file. But if you’re looking to export SRT file with timestamps, this method will work for you. The process is straightforward as the prior discussed methods.
@@ -204,15 +180,7 @@ Step2 Up next, click File -> Export -> Captions. Once you complete that, you’l
 
 ![open export settings](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** for this to work, the video must be on one video layer.
 
@@ -236,10 +204,6 @@ Step2 Up next, upload the SRT file you want to edit to the Filmora interface usi
 
 ![click on import button](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Move the uploaded SRT file to the Timeline by dragging and dropping it there, then right-click on it from the Timeline and choose “Advance Edit” from the pop-up list.
 
 ![choose advanced edit](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-2.jpg)
@@ -251,10 +215,6 @@ Step4 Start editing your SRT file. You can edit the text, time code, speed, text
 Step5 Once you’re done with the editing, right-click on the SRT file from the Timeline again and this time, select “Export Subtitle File” from the pop-up list and save it to your computer storage.
 
 ![select export subtitle file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -286,19 +246,22 @@ That being said, if you want to save yourself from unwanted errors during the ex
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-masterful-instagram-storytelling-with-templates-and-hacks/"><u>[New] In 2024, Masterful Instagram Storytelling with Templates & Hacks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-iphone-x-animoji-use-with-expert-tips/"><u>[New] Perfecting iPhone X Animoji Use with Expert Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-social-space-gamers-the-ultimate-top-10-list/"><u>[New] Social Space Gamers The Ultimate Top 10 List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-integrating-creative-filters-in-zoom-calls/"><u>[Updated] Integrating Creative Filters in Zoom Calls</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-13-mini-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 13 mini With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/how-to-install-and-activate-a-wireless-adapter-for-windows/"><u>How to Install and Activate a Wireless Adapter for Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-7-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 7 Plus without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-air-and-pro-on-m1-compare-contrast-and-choose-wisely/"><u>In 2024, Air & Pro on M1 Compare, Contrast, and Choose Wisely</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-investigating-alternatives-to-popular-video-broadcaster/"><u>In 2024, Investigating Alternatives to Popular Video Broadcaster</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-new-light-on-the-sony-s3700-blu-ray-reader-review/"><u>In 2024, New Light on the Sony S3700 Blu-Ray Reader Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revolutionize-your-experience-with-latest-windows-10-apps-and-gaming/"><u>In 2024, Revolutionize Your Experience with Latest Windows 10 Apps & Gaming</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-energy-efficiency-unlocked-mastering-the-art-of-battery-calibration-in-six-moves/"><u>IPhone Energy Efficiency Unlocked: Mastering the Art of Battery Calibration in Six Moves</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-top-10-4k-screens-for-2024/"><u>The Ultimate Guide to #Top 10 4K Screens for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-linksys-wrt32x-pro-router-a-masterclass-in-intelligent-network-management-for-modern-homes/"><u>Unveiling the Linksys WRT32X Pro Router: A Masterclass in Intelligent Network Management for Modern Homes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-techniques-for-captivating-visual-fb-ads/"><u>[New] 2024 Approved Techniques for Captivating Visual FB Ads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-from-live-to-recorded-using-obs-for-games-for-2024/"><u>[New] From Live to Recorded Using OBS for Games for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spectrum-sync-master/"><u>[New] Spectrum Sync Master</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastery-through-art-the-ultimate-list-of-free-mac-drawing-apps/"><u>[Updated] Mastery Through Art The Ultimate List of FREE Mac Drawing Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-optimize-your-films-a-mac-approach-to-instagram-shortening/"><u>[Updated] Optimize Your Films A Mac Approach to Instagram Shortening</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pinnacle-performance-discover-the-top-8-webcams-today/"><u>[Updated] Pinnacle Performance Discover the Top 8 Webcams Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snickerspace-build-memes-that-make-people-smile/"><u>[Updated] SnickerSpace Build Memes That Make People Smile</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-securing-your-digital-quest-with-savvy-screenshots/"><u>2024 Approved Securing Your Digital Quest with Savvy Screenshots</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-x50-gt-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor X50 GT to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-experience-and-space-with-extra-large-front-ends/"><u>Enhance Experience & Space With Extra-Large Front Ends</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-stability-in-uav-photography-an-introduction-to-drones-balance-devices/"><u>In 2024, Mastering Stability in UAV Photography An Introduction to Drones' Balance Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-tips-effective-inshot-for-pclaptop-videos/"><u>In 2024, Quick Tips Effective Inshot for PC/Laptop Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-skycam-conflict-dji-phantom-vs-gopro-hero5-black/"><u>In 2024, SkyCam Conflict DJI Phantom Vs GoPro HERO5 Black</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-steps-to-prevent-windows-11-photos-app-failures/"><u>In 2024, Steps to Prevent Windows 11 Photos App Failures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mod-format-transformation-seamless-online-conversion-tools/"><u>MOD Format Transformation: Seamless Online Conversion Tools</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/recognizing-critical-alerts-how-to-identify-warnings-in-bioscmos-setup-expert-insights-from-yl-computing/"><u>Recognizing Critical Alerts: How to Identify Warnings in BIOS/CMOS Setup - Expert Insights From YL Computing</u></a></li>
 </ul></div>
 

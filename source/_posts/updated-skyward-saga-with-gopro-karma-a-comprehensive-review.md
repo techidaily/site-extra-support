@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Skyward Saga with GoPro Karma  A Comprehensive Review\""
-date: 2025-02-11T16:04:09.480Z
-updated: 2025-02-12T17:33:14.519Z
+date: 2025-02-24T07:18:56.829Z
+updated: 2025-03-03T07:19:53.511Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 **Verdict**
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Detailed review for GoPro Karma
 
@@ -95,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
 
 #### Conclusion
@@ -106,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -126,15 +110,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>[New] Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-cut-video-for-instagram-on-mac/"><u>[New] How To Cut Video For Instagram On Mac</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-navigating-the-dynamics-of-instagram-highlight-categories/"><u>[New] In 2024, Navigating the Dynamics of Instagram Highlight Categories</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-gloves-transforming-vr-playtime/"><u>[New] Leading Gloves Transforming VR Playtime</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-audiovisual-alchemy-transforming-powerpoint-into-engagement/"><u>[Updated] In 2024, Audiovisual Alchemy Transforming PowerPoint Into Engagement</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-professional-techniques-for-getting-rid-of-backgrounds-in-figma/"><u>[Updated] Professional Techniques for Getting Rid of Backgrounds in Figma</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-ranking-cellular-wonders-for-media-makers/"><u>[Updated] Ranking Cellular Wonders for Media Makers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-seamless-transitions-shooting-smooth-time-lapse-with-hero5/"><u>[Updated] Seamless Transitions Shooting Smooth Time-Lapse with Hero5</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-dissecting-youtubes-activities-post-uploading-videos/"><u>2024 Approved Dissecting YouTube's Activities Post-Uploading Videos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-mohu-blades-capabilities-exceptional-interior-signal-quality-and-original-look/"><u>Exploring the Mohu Blade's Capabilities - Exceptional Interior Signal Quality and Original Look</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-live-production-pros-dilemma-pmix-vs-castpro/"><u>[New] Live Production Pros' Dilemma PMix Vs. CastPro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-illuminated-imagery-photographic-collages-that-shine/"><u>[Updated] Illuminated Imagery Photographic Collages That Shine</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-charting-a-course-through-youtubes-copyright-maze/"><u>[Updated] In 2024, Charting a Course Through YouTube's Copyright Maze</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-compilation-best-gopro-cases-for-action-seekers/"><u>2024 Approved Ultimate Compilation Best GoPro Cases for Action Seekers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/detailed-analysis-of-mpeg-2-versus-mpeg-4-video-codecs/"><u>Detailed Analysis of MPEG-2 versus MPEG-4 Video Codecs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-deskjet-2652-driver-installation-compatible-with-windows-11windows-10windows-8windows-7/"><u>HP DeskJet 2652 Driver Installation - Compatible with Windows 11/Windows 10/Windows 8/Windows 7</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-transcription-tools-for-silent-input/"><u>In 2024, Premier Transcription Tools for Silent Input</u></a></li>
+<li><a href="https://extra-support.techidaily.com/iphones-ultimate-podcast-downloading-manual-for-2024/"><u>IPhone's Ultimate Podcast Downloading Manual for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/is-it-possible-to-optimally-present-a-flipbook-at-full-screen-size-on-flipbuildercom/"><u>Is It Possible to Optimally Present a FlipBook at Full Screen Size on FlipBuilder.com?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-sharp-4k-top-10-mirrorless-cameras-for-2024/"><u>Mastering Sharp 4K Top 10 Mirrorless Cameras for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/realigning-captions-from-srt-to-subcap-for-2024/"><u>Realigning Captions From SRT to SUBCAP for 2024</u></a></li>
 </ul></div>
 

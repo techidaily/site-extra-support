@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Reintroducing Classic Windows Photo Viewer - W10 Edition\""
-date: 2025-02-08T16:54:29.865Z
-updated: 2025-02-12T18:12:45.858Z
+date: 2025-02-27T02:38:38.158Z
+updated: 2025-03-03T09:28:29.254Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -69,10 +65,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
@@ -95,23 +87,11 @@ Here is the detailed guide –
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -130,17 +110,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-mastering-the-art-of-tiktok-top-7-essential-emojis/"><u>[New] 2024 Approved Mastering the Art of TikTok Top 7 Essential Emojis</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ro-tips-for-utilizing-green-screen-effects-professionally-for-2024/"><u>[New] Pro Tips for Utilizing Green Screen Effects Professionally for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-visual-content-management-for-ig-users/"><u>[Updated] 2024 Approved Visual Content Management for IG Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-boost-your-content-with-top-notch-tiktok-video-edit-tricks/"><u>[Updated] Boost Your Content with Top-Notch TikTok Video Edit Tricks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-net-selections-personalized-alarm-rhythm-files/"><u>[Updated] Prime Net Selections Personalized Alarm Rhythm Files</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-complexities-of-spotifys-ad-ecosystem/"><u>2024 Approved Navigating the Complexities of Spotify's Ad Ecosystem</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-exclusive-leaderboard-luminary-youtube-videographers-guide/"><u>In 2024, Exclusive Leaderboard Luminary YouTube Videographer's Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-masterclass-designing-your-own-hilarious-digital-memeography/"><u>In 2024, Metaverse Masterclass Designing Your Own Hilarious Digital Memeography</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pixel-playbook-transform-your-images/"><u>In 2024, Pixel Playbook Transform Your Images</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-harmonic-voyages-adding-profound-echoes-to-your-audio-creations-on-a-pc-with-windows-os/"><u>New In 2024, Harmonic Voyages Adding Profound Echoes to Your Audio Creations on a PC with Windows OS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-gopro-editing-software-for-iosandroid-users-for-2024/"><u>Prime GoPro Editing Software for iOS/Android Users for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-240hz-displays-the-ultimate-game-setup/"><u>Top 240Hz Displays: The Ultimate Game Setup</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-keeping-your-tiktok-age-up-to-date-a-quick-guide/"><u>[New] Keeping Your TikTok Age Up-to-Date A Quick Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-melody-management-and-legalities-on-social-media/"><u>[New] Melody Management and Legalities on Social Media</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unlocking-tiktok-potential-how-to-upload-from-pcmac/"><u>[Updated] In 2024, Unlocking TikTok Potential How to Upload From PC/Mac</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-precision-in-portability-the-ultimate-list-of-35-free-android-video-compressors-for-2024/"><u>[Updated] Precision in Portability The Ultimate List of 35 Free Android Video Compressors for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-samsung-galaxy-fit-perfect-companion-for-an-energized-life/"><u>Comprehensive Guide to the Samsung Galaxy Fit - Perfect Companion for an Energized Life</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-z-fold-5-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy Z Fold 5 FRP Locks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-edge-apps-the-ultimate-10-for-real-time-gymnastics-and-hockey-games/"><u>In 2024, Leading Edge Apps The Ultimate 10 for Real-Time Gymnastics and Hockey Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photoshop-for-beginners-essential-snapseed-techniques/"><u>In 2024, Photoshop for Beginners Essential Snapseed Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-ultimate-checklist-for-twitter-video-posts/"><u>In 2024, The Ultimate Checklist for Twitter Video Posts</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/mastering-crypto-trade-tactics-insights-from-yl-computings-expertise/"><u>Mastering Crypto Trade Tactics: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-ipadiphone-soundscape-adding-apple-podcasts-for-2024/"><u>Navigating the iPad/iPhone Soundscape Adding Apple Podcasts for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-recent-updates-and-enhancements-in-movavi-video-suite-software/"><u>Unveiling Recent Updates and Enhancements in Movavi Video Suite Software</u></a></li>
 </ul></div>
 

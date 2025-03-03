@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Intro to Drone Flying? Check Out the Syma X5C Review"
-date: 2025-01-22T16:38:42.661Z
-updated: 2025-01-23T17:04:57.517Z
+date: 2025-03-02T10:59:43.049Z
+updated: 2025-03-03T12:07:05.510Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
 
 **You may also like:** [Drone racing: Things You need to Know and Top 5 best FPV racing drones >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Pros and Cons of Syma X5C
 
 **Pros:**
@@ -63,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
 **Verdict:**
 
  There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Complete Review for Syma X5C
 
@@ -99,19 +91,11 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
 
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
 
 #### 6\.  Camera
 
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
 
@@ -120,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa
  Syma's X5C can be included in the list of must buy product for beginners due to its all incredible features. If you are a beginner and are just going to learn about flight basics then this advanced camera unit can serve you best with all impressive controls. Its sleek design along with feature rich platform offers lots of things to explore in air. You will definitely love to enjoy its regular and expert mode settings with unique flight experiences.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -140,16 +120,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-understanding-periscope-features-pricing-and-how-to-join/"><u>[New] Understanding Periscope Features, Pricing & How To Join</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ink-your-photos-leading-apps-for-captioning-iosandroid/"><u>[Updated] 2024 Approved Ink Your Photos Leading Apps for Captioning (iOS/Android)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-14-ways-to-make-irresistible-gourmet-vids/"><u>[Updated] In 2024, 14 Ways to Make Irresistible Gourmet Vids</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-record-with-chrome-os-native-screen-recorder/"><u>[Updated] In 2024, Record with Chrome OS Native Screen Recorder</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-yield-assessment-predicting-youtube-money/"><u>[Updated] In 2024, Yield Assessment Predicting YouTube Money</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-edge-photography-the-best-4k-mirrorless-cameras/"><u>[Updated] Leading Edge Photography The Best 4K Mirrorless Cameras</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-snapedit-overview-in-depth-editor-review/"><u>[Updated] SnapEdit Overview – In-Depth Editor Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-motorolas-genius-in-depth-review-of-z2-play/"><u>In 2024, Motorola's Genius In-Depth Review of Z2 Play</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revolutionize-your-videos-with-top-10-free-srt-converters/"><u>In 2024, Revolutionize Your Videos with Top 10 Free SRT Converters</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-pickers-best-websites-to-secure-snapalert-music-for-2024/"><u>Premium Pickers Best Websites to Secure SnapAlert Music for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-guide-to-mac-green-screen-software-solutions/"><u>Updated In 2024, The Ultimate Guide to Mac Green Screen Software Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-dissecting-the-features-of-inshots-editing-software/"><u>[New] Dissecting the Features of InShot's Editing Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-select-the-superior-a-guide-to-8-outstanding-free-android-mp3-downloaders/"><u>[New] Select the Superior A Guide to 8 Outstanding Free Android MP3 Downloaders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snapcutmaster-insights-full-video-editor-evaluation/"><u>[Updated] SnapCutMaster Insights – Full Video Editor Evaluation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-vlc-key-mac-functions-explained/"><u>2024 Approved Mastering VLC Key Mac Functions Explained</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-photos-on-iphone-illumination-secrets/"><u>2024 Approved Perfect Photos on IPhone Illumination Secrets</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-14-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi 14 Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-blur-the-borders-enhancing-your-videos-appeal-on-yt/"><u>In 2024, Blur the Borders Enhancing Your Video's Appeal on YT</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-expert-psd-text-framing/"><u>In 2024, Expert PSD Text Framing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-zooming-on-social-media-platform-snapchat/"><u>In 2024, Mastering the Art of Zooming on Social Media Platform, Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-photo-placement-on-windows-machines-for-2024/"><u>Perfect Photo Placement on Windows Machines for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-digital-hubs-seamless-ringtones-acquisition-for-2024/"><u>Premier Digital Hubs Seamless Ringtones Acquisition for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/uma-guia-definitiva-para-criar-efeitos-impactantes-na-sobreposicao-de-fotos-usando-a-ferramenta-editor-da-movavi/"><u>Uma Guia Definitiva Para Criar Efeitos Impactantes Na Sobreposição De Fotos Usando a Ferramenta Editor Da Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/uncover-the-ultimate-tablet-steals-of-2024-prime-day-exclusive-live-deals/"><u>Uncover the Ultimate Tablet Steals of 2024 Prime Day - Exclusive Live Deals</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secrets-disable-windows-11-tpm-effortlessly/"><u>Unlocking Secrets: Disable Windows 11 TPM Effortlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-windows-pcs-bluetooth-dongle-software-with-easy-step-by-step-instructions/"><u>Update Your Windows PC's Bluetooth Dongle Software with Easy Step-by-Step Instructions</u></a></li>
 </ul></div>
 

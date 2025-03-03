@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare PC Troubleshooting Guide: Ensuring Smooth Gameplay"
-date: 2025-02-05T16:40:02.635Z
-updated: 2025-02-12T17:11:27.365Z
+date: 2025-02-24T16:14:14.081Z
+updated: 2025-03-03T05:50:24.704Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Allow your game through Windows Firewall
 
  When a program fails to load properly, chances are your firewall is blocking it, even though the program you’re starting is legitimate and doesn’t do harm to your system. To ensure your game has access to your connection, take the steps as follows.
@@ -45,10 +41,6 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 
@@ -84,15 +76,7 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you’re done, launch your game. If your problem persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Repair corrupted game files
 
@@ -124,10 +108,6 @@ If this doesn’t do the trick, try the next fix below.
 ## 5\. Update your graphics driver
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to update your graphics driver
 
@@ -168,17 +148,9 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Run a full system scan
 
@@ -213,21 +185,20 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-professional-photoshop-guide-to-crafting-hdr-images/"><u>[New] 2024 Approved Professional Photoshop Guide to Crafting HDR Images</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-boost-your-videos-best-editing-apps-for-android-pc-users-for-2024/"><u>[New] Boost Your Videos Best Editing Apps for Android, PC Users for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-synchronizing-soundscapes-a-guide-to-multi-service-moves/"><u>[New] Synchronizing Soundscapes A Guide to Multi-Service Moves</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-digital-image-perfection-how-to-remove-picture-backdrops-swiftly/"><u>[Updated] Digital Image Perfection How To Remove Picture Backdrops Swiftly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-mobile-videography-the-10-best-phones/"><u>[Updated] Mastering Mobile Videography - The 10 Best Phones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-stepwise-training-for-effective-transcription-with-gdoc/"><u>[Updated] Stepwise Training for Effective Transcription with GDoc</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-enhancing-facebook-audience-via-tiktok-sharing/"><u>2024 Approved Enhancing Facebook Audience via TikTok Sharing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-livestreaming-hacks-every-broadcaster-should-know/"><u>2024 Approved Livestreaming Hacks Every Broadcaster Should Know</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-steps-to-convert-video-tweets-to-mp3-soundtracks/"><u>2024 Approved Steps to Convert Video Tweets to MP3 Soundtracks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-luminous-transformations-for-android-videos-step-by-step/"><u>In 2024, Luminous Transformations for Android Videos Step by Step</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-instagrams-pathway-to-picture-posting-for-2024/"><u>Navigating Instagram's Pathway to Picture Posting for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-selection-of-moving-typefaces-for-2024/"><u>Premier Selection of Moving Typefaces for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-choices-of-drones-up-for-grabs-for-2024/"><u>Prime Choices of Drones Up for Grabs for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/swift-solutions-for-iphone-photography-misfocus/"><u>Swift Solutions for iPhone Photography Misfocus</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-da-vinci-resolve-for-seamless-mxf-file-management-and-editing/"><u>Troubleshooting DA VINCI Resolve for Seamless MXF File Management and Editing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-snapchat-pins-a-complete-guide/"><u>[New] Mastering Snapchat Pins A Complete Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionary-drone-motors-the-quintessential-guide-to-flight-excellence/"><u>[New] Revolutionary Drone Motors The Quintessential Guide to Flight Excellence</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-secure-and-save-periscope-videos-with-these-tips/"><u>[New] Secure & Save Periscope Videos with These Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-zoom-interface-for-effective-fb-lives/"><u>[Updated] Navigating the Zoom Interface for Effective FB Lives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-key-tactics-for-testimonial-videos/"><u>2024 Approved Key Tactics for Testimonial Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pewdiepie-financial-overview-monetary-metrics/"><u>2024 Approved PewDiePie Financial Overview – Monetary Metrics</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-prime-iosandroid-apps-for-stunning-image-edits-list-of-top-10/"><u>In 2024, Prime iOS/Android Apps for Stunning Image Edits - List of Top 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-samsung-galaxy-s23plus-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Samsung Galaxy S23+ to Gmail | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/integrating-luts-into-professional-movie-post-processing-for-2024/"><u>Integrating Luts Into Professional Movie Post-Processing for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterful-sound-note-taking-a-roadmap-to-excellence-for-2024/"><u>Masterful Sound Note-Taking A Roadmap to Excellence for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-make-every-frame-count-best-1080p-video-editing-software-for-film-quality-results/"><u>New Make Every Frame Count Best 1080P Video Editing Software for Film-Quality Results</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-new-microsoft-surface-pro-7-assessment-reliable-functions-and-slight-modifications-analyzed/"><u>The New Microsoft Surface Pro 7 Assessment: Reliable Functions & Slight Modifications Analyzed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-itel-p55-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Itel P55 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tutorial-completo-tecniche-per-ottenere-video-perfettamente-stabilizzati-su-sistemi-operativi-diversi-windowsmacandroidiphone/"><u>Tutorial Completo: Tecniche per Ottenere Video Perfettamente Stabilizzati Su Sistemi Operativi Diversi (Windows/Mac/Android/iPhone)</u></a></li>
 </ul></div>
 

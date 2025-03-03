@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Performance Issues with Football Manager 2022 on Your PC
-date: 2025-02-10T17:54:49.161Z
-updated: 2025-02-12T17:54:29.574Z
+date: 2025-02-28T08:11:29.069Z
+updated: 2025-03-03T06:16:21.665Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ## Troubleshooting Steps for Football Manager 2021 PC Game Crashes - Solved
 
 Football Manager 2021 is by far one of the most popular management simulator games. However, many players still reported the game keeps crashing and constantly becomes unplayable. If you have the same problem, don’t worry. We’ve put together a full list of solutions for Football Manager 2021 crashing on PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -49,10 +45,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -66,20 +58,12 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -116,16 +100,8 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
@@ -159,16 +135,20 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-how-to-shoot-a-green-screen-video/"><u>[New] How to Shoot a Green Screen Video</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-fast-forward-altering-instagram-stories-tempo/"><u>[New] In 2024, Fast-Forward Altering Instagram Stories' Tempo</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-quintessential-stop-motion-gems-for-cinephiles-for-2024/"><u>[New] Quintessential Stop-Motion Gems for Cinephiles for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-in-purchasing-pristine-stock-images/"><u>2024 Approved Mastery in Purchasing Pristine Stock Images</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-radio-dramaturgys-finest-works/"><u>2024 Approved Radio Dramaturgy's Finest Works</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-tecno-spark-20-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Tecno Spark 20 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-color-changes-11-essential-tips/"><u>In 2024, Mastering Color Changes 11 Essential Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-k11-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo K11 5G</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-photo-uploads-a-comprehensive-youtube-strategy-for-2024/"><u>Mastering Photo Uploads A Comprehensive YouTube Strategy for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/migracion-de-datos-desde-samsung-mbr-a-gpt-tecnica-eficaz-para-duplicar-el-sistema/"><u>Migración De Datos Desde Samsung MBR a GPT: Técnica Eficaz Para Duplicar El Sistema</u></a></li>
-<li><a href="https://extra-support.techidaily.com/parrots-advanced-ar-drone-assessment-report-for-2024/"><u>Parrot's Advanced AR Drone - Assessment Report for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-laugh-loom-robotic-deadlines/"><u>[New] Laugh Loom Robotic Deadlines</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-observers-lens-reportage/"><u>[New] Observer's Lens Reportage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-srt-from-basics-to-cutting-edge-techniques/"><u>[New] SRT From Basics to Cutting-Edge Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-editing-srt-files-made-easy-for-mac-users/"><u>2024 Approved Editing SRT Files Made Easy for Mac Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-twitch-broadcast-excellence-the-ultimate-5-guide/"><u>2024 Approved Twitch Broadcast Excellence The Ultimate 5 Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gopro-hero4-session-vs-hero5-session-for-2024/"><u>GoPro Hero4 Session Vs Hero5 Session for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-games-from-crashing-on-your-computer/"><u>How to Stop Games From Crashing on Your Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-start-small-livestreaming-on-youtube-with-fewer-than-1k-followers/"><u>In 2024, Start Small Livestreaming on YouTube with Fewer Than 1K Followers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-99-google-tv-streamer-the-long-awaited-chromecast-upgrade-you-need/"><u>Introducing the New $99 Google TV Streamer: The Long-Awaited Chromecast Upgrade You Need</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-gopro-selection-a-comparative-review-for-2024/"><u>Mastering Gopro Selection A Comparative Review for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-photo-background-removal-techniques-for-2024/"><u>Mastering Photo Background Removal Techniques for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/premier-selection-the-best-11-soundstreamer-devices/"><u>Premier Selection The Best 11 Soundstreamer Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/smartest-screens-top-11-general-knowledge-channels-for-2024/"><u>Smartest Screens Top 11 General Knowledge Channels for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforme-seus-amvs-em-mp4-gratuitamente-online-com-o-conversor-do-movavi/"><u>Transforme Seus AMVs Em MP4 Gratuitamente Online Com O Conversor Do Movavi</u></a></li>
 </ul></div>
 

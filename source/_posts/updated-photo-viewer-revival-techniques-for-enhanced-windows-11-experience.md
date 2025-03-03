@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photo Viewer Revival Techniques for Enhanced Windows 11 Experience"
-date: 2025-02-07T16:59:19.540Z
-updated: 2025-02-12T17:02:57.852Z
+date: 2025-02-27T12:50:52.043Z
+updated: 2025-03-03T06:10:35.069Z
 tags: 
   - screen-recording
   - ai video
@@ -65,10 +65,6 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
@@ -87,21 +83,9 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -110,10 +94,6 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -130,20 +110,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-nextgencams-investigation-pushing-the-envelope-further/"><u>[New] In 2024, NextGenCams Investigation Pushing the Envelope Further</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pushing-creative-boundaries-mastering-3d-lut-techniques/"><u>[New] Pushing Creative Boundaries Mastering 3D Lut Techniques</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-exclusive-servers-for-romance-and-amusement-on-discord/"><u>[Updated] Exclusive Servers for Romance and Amusement on Discord</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-perfect-your-stories-top-6-apps-for-android-and-iphone-snap-editing/"><u>[Updated] In 2024, Perfect Your Stories Top 6 Apps for Android and iPhone Snap Editing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-shareable-podcast-episodes-on-instagram-platforms/"><u>[Updated] Shareable Podcast Episodes on Instagram Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speed-up-filmmaking-skills-at-home-with-top-5-hacks/"><u>[Updated] Speed Up Filmmaking Skills at Home with Top 5 Hacks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-pro-grade-gopro-videography/"><u>2024 Approved Mastering the Art of Pro-Grade Gopro Videography</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pro-level-strategies-for-mass-downloading-tiktok-content/"><u>2024 Approved Pro-Level Strategies for Mass Downloading TikTok Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-ios-an-unstoppable-combo/"><u>ChatGPT and iOS: An Unstoppable Combo</u></a></li>
-<li><a href="https://win-blog.techidaily.com/embracing-eternity-a-story-of-unyielding-survival-in-black-reincarnation-loop/"><u>Embracing Eternity: A Story of Unyielding Survival in 'Black Reincarnation Loop'</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-redmi-k70-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Redmi K70 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sculpted-smiles-and-eyes-introducing-facial-movement-with-motion-blur-in-picsart/"><u>In 2024, Sculpted Smiles and Eyes Introducing Facial Movement with Motion Blur in Picsart</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unveiling-youtubes-shorts-investment-plan-for-2024/"><u>Unveiling YouTube's Shorts Investment Plan for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-visual-vibes-mastering-trendy-video-effects-for-2024/"><u>Updated Visual Vibes Mastering Trendy Video Effects for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-twitch-broadcast-excellence-the-ultimate-5-guide/"><u>[New] 2024 Approved Twitch Broadcast Excellence The Ultimate 5 Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplified-live-mastery-one-channel-broadcast-strategies/"><u>[New] Simplified LIVE Mastery One-Channel Broadcast Strategies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-communication-top-free-mac-text-to-speech-software-rankings/"><u>[New] Transform Communication Top Free Mac Text-to-Speech Software Rankings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-chronological-tagging-adding-times-to-youtube-vids-for-2024/"><u>[Updated] Chronological Tagging Adding Times to YouTube Vids for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-highest-quality-gag-editor/"><u>[Updated] Highest Quality Gag Editor</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-audio-mastery-techniques-for-windows-users/"><u>[Updated] In 2024, Audio Mastery Techniques for Windows Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-exploration-inside-xcreative-media-suite/"><u>2024 Approved The Ultimate Exploration Inside XCreative Media Suite</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nix-youtube-snippet-playback-on-all-devices/"><u>In 2024, Nix YouTube Snippet Playback on All Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-overcoming-common-airdrop-failures-on-ios-and-macos-systems/"><u>In 2024, Overcoming Common Airdrop Failures on iOS and macOS Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photography-on-instagram-adding-images-made-simple/"><u>In 2024, Photography on Instagram Adding Images Made Simple</u></a></li>
+<li><a href="https://extra-support.techidaily.com/integrating-subtitles-into-your-online-social-videography-efforts-for-2024/"><u>Integrating Subtitles Into Your Online Social Videography Efforts for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Honor X8b | Dr.fone</u></a></li>
 </ul></div>
 
